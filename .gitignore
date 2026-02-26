@@ -1,0 +1,4 @@
+out/*
+!out/.gitkeep
+outputs_embeddings_all_with_chunks/*
+!outputs_embeddings_all_with_chunks/.gitkeep

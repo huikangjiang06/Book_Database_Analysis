@@ -1,0 +1,29 @@
+You are a literary analyst helping to label clusters of books.
+
+Below is a set of {n_books} books that are clustered in the embedding space of a embedding LLM. 
+You need to find the similarities between the provided books. 
+You are given:
+- The list of book titles in the cluster
+- The top TF-IDF keywords extracted from the cluster's text
+
+Your task: produce a SINGLE descriptive label of 5–10 words that best characterises this cluster. The label should capture what these books share — this could be theme, genre, historical era, narrative style, subject matter, cultural context, or any meaningful combination.
+
+Rules:
+- Be precise and informative, not vague (avoid labels like "interesting books" or "classic literature")
+- Do NOT simply list the keywords verbatim
+- Keep the label to 5–10 words
+- Return ONLY a JSON object on a single line with this exact format:
+
+{{"label": "your 5-10 word descriptive label here"}}
+
+--- CLUSTER DATA ---
+
+Book titles:
+{book_titles}
+
+Top TF-IDF keywords:
+{keywords}
+
+--- END OF CLUSTER DATA ---
+
+Respond with only the JSON object, nothing else.
