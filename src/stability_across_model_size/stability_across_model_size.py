@@ -187,55 +187,67 @@ def compute_all(family: str, k: int) -> dict:
                 embs[s] = emb[order]
     print(f"[load] Embeddings loaded. N={len(titles_ref)} books.")
 
-    pairs = [(size_dirs[i], size_dirs[i + 1]) for i in range(len(size_dirs) - 1)]
-    pair_results = []
+    # Pre-compute cosine similarity matrices for every size (cached)
+    print(f"\n[sim] Pre-computing similarity matrices for all {len(size_dirs)} sizes...")
+    sims = {s: cosine_sim_matrix(embs[s]) for s in size_dirs}
 
-    for sa, sb in pairs:
+    # All unique ordered pairs (i < j) — superset of adjacent pairs
+    adjacent_set = {(size_dirs[i], size_dirs[i + 1]) for i in range(len(size_dirs) - 1)}
+    all_combos   = [(size_dirs[i], size_dirs[j])
+                    for i in range(len(size_dirs))
+                    for j in range(i + 1, len(size_dirs))]
+
+    all_pair_results = []
+
+    for sa, sb in all_combos:
         pair_label = f"{sa} → {sb}"
-        print(f"\n[pair] {pair_label}")
-
-        print(f"  Computing similarity matrices...")
-        sim_a = cosine_sim_matrix(embs[sa])
-        sim_b = cosine_sim_matrix(embs[sb])
+        is_adjacent = (sa, sb) in adjacent_set
+        print(f"\n[pair] {pair_label}{'  (adjacent)' if is_adjacent else ''}")
 
         print(f"  Computing rank correlation (Spearman ρ) ...")
-        ranks_a = rank_matrix(sim_a)
-        ranks_b = rank_matrix(sim_b)
+        ranks_a = rank_matrix(sims[sa])
+        ranks_b = rank_matrix(sims[sb])
         rhos = spearman_per_book(ranks_a, ranks_b)
 
         print(f"  Computing Jaccard (k={k}) ...")
-        jaccards = jaccard_per_book(sim_a, sim_b, k)
+        jaccards = jaccard_per_book(sims[sa], sims[sb], k)
 
-        pair_results.append({
-            "size_a":          sa,
-            "size_b":          sb,
-            "label":           pair_label,
+        entry = {
+            "size_a":      sa,
+            "size_b":      sb,
+            "label":       pair_label,
+            "is_adjacent": is_adjacent,
             "spearman": {
-                "per_book":    rhos.tolist(),
-                "mean":        float(np.mean(rhos)),
-                "std":         float(np.std(rhos, ddof=0)),
-                "median":      float(np.median(rhos)),
+                "per_book": rhos.tolist(),
+                "mean":     float(np.mean(rhos)),
+                "std":      float(np.std(rhos, ddof=0)),
+                "median":   float(np.median(rhos)),
             },
             "jaccard": {
-                "per_book":    jaccards.tolist(),
-                "mean":        float(np.mean(jaccards)),
-                "std":         float(np.std(jaccards, ddof=0)),
-                "median":      float(np.median(jaccards)),
+                "per_book": jaccards.tolist(),
+                "mean":     float(np.mean(jaccards)),
+                "std":      float(np.std(jaccards, ddof=0)),
+                "median":   float(np.median(jaccards)),
             },
-        })
+        }
+        all_pair_results.append(entry)
 
-        print(f"  Spearman ρ:  mean={pair_results[-1]['spearman']['mean']:.4f}  "
-              f"std={pair_results[-1]['spearman']['std']:.4f}")
-        print(f"  Jaccard(k={k}): mean={pair_results[-1]['jaccard']['mean']:.4f}  "
-              f"std={pair_results[-1]['jaccard']['std']:.4f}")
+        print(f"  Spearman ρ:    mean={entry['spearman']['mean']:.4f}  "
+              f"std={entry['spearman']['std']:.4f}")
+        print(f"  Jaccard(k={k}): mean={entry['jaccard']['mean']:.4f}  "
+              f"std={entry['jaccard']['std']:.4f}")
+
+    # Adjacent-only subset (used by bar chart / print_summary)
+    pair_results = [p for p in all_pair_results if p["is_adjacent"]]
 
     return {
-        "family":   family,
-        "k":        k,
-        "n_books":  len(titles_ref),
-        "sizes":    size_dirs,
-        "pairs":    pair_results,
-        "titles":   titles_ref,
+        "family":    family,
+        "k":         k,
+        "n_books":   len(titles_ref),
+        "sizes":     size_dirs,
+        "pairs":     pair_results,      # adjacent only — for bar chart
+        "all_pairs": all_pair_results,  # every (i,j) pair — for heatmap
+        "titles":    titles_ref,
     }
 
 
@@ -299,6 +311,73 @@ def plot_results(results: dict, out_path: str) -> None:
     print(f"[plot] Saved → {out_path}")
 
 
+# ─── Heatmap (all pairs) ─────────────────────────────────────────────────────
+
+def plot_heatmap(results: dict, out_path: str) -> None:
+    """
+    Draw two N×N heatmaps (Spearman ρ and Jaccard) where each cell (i, j)
+    shows the mean score between model size i and model size j.
+    Diagonal = 1.0 (perfect self-similarity).  Matrix is symmetric.
+    """
+    try:
+        import seaborn as sns
+    except ImportError:
+        print("[warn] seaborn not installed — skipping heatmap. pip install seaborn")
+        return
+
+    sizes   = results["sizes"]
+    n       = len(sizes)
+    idx     = {s: i for i, s in enumerate(sizes)}
+
+    sp_mat  = np.full((n, n), np.nan)
+    jac_mat = np.full((n, n), np.nan)
+    np.fill_diagonal(sp_mat,  1.0)
+    np.fill_diagonal(jac_mat, 1.0)
+
+    for p in results["all_pairs"]:
+        i, j = idx[p["size_a"]], idx[p["size_b"]]
+        sp_mat[i, j]  = sp_mat[j, i]  = p["spearman"]["mean"]
+        jac_mat[i, j] = jac_mat[j, i] = p["jaccard"]["mean"]
+
+    fig, axes = plt.subplots(1, 2, figsize=(max(8, n * 1.6) * 2, max(6, n * 1.4)))
+    fig.suptitle(
+        f"{results['family']} — Pairwise Stability Between All Model Sizes\n"
+        f"(k={results['k']}, N={results['n_books']} books)",
+        fontsize=13,
+    )
+
+    for ax, matrix, title in [
+        (axes[0], sp_mat,  "Mean Spearman ρ"),
+        (axes[1], jac_mat, f"Mean Jaccard (k={results['k']})"),
+    ]:
+        sns.heatmap(
+            matrix,
+            ax=ax,
+            annot=True,
+            fmt=".3f",
+            xticklabels=sizes,
+            yticklabels=sizes,
+            cmap="YlOrRd",
+            vmin=0.0,
+            vmax=1.0,
+            linewidths=0.4,
+            linecolor="white",
+            square=True,
+            cbar_kws={"shrink": 0.8},
+        )
+        ax.set_title(title, fontsize=11)
+        ax.set_xlabel("Model Size")
+        ax.set_ylabel("Model Size")
+        ax.tick_params(axis="x", rotation=45)
+        ax.tick_params(axis="y", rotation=0)
+
+    plt.tight_layout()
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    plt.savefig(out_path, dpi=150, bbox_inches="tight")
+    plt.close()
+    print(f"[plot] Saved → {out_path}")
+
+
 # ─── Summary table ────────────────────────────────────────────────────────────
 
 def print_summary(results: dict) -> None:
@@ -328,37 +407,42 @@ def main() -> None:
                         help="Number of nearest neighbours for Jaccard (default: 10)")
     args = parser.parse_args()
 
-    out_dir  = os.path.join(BASE_OUT, args.model_family)
-    json_out = os.path.join(out_dir, "results.json")
-    plot_out = os.path.join(out_dir, "stability.png")
+    out_dir      = os.path.join(BASE_OUT, args.model_family)
+    json_out     = os.path.join(out_dir, "results.json")
+    plot_out     = os.path.join(out_dir, "stability.png")
+    heatmap_out  = os.path.join(out_dir, "heatmap.png")
 
     results = compute_all(args.model_family, args.k)
 
     print_summary(results)
 
-    # Save JSON (drop per_book arrays to keep it readable, but keep them in memory for plot)
+    # Save JSON (drop per_book arrays to keep it compact)
     os.makedirs(out_dir, exist_ok=True)
+
+    def _strip_per_book(p: dict) -> dict:
+        return {
+            "size_a":      p["size_a"],
+            "size_b":      p["size_b"],
+            "label":       p["label"],
+            "is_adjacent": p["is_adjacent"],
+            "spearman":    {k2: v for k2, v in p["spearman"].items() if k2 != "per_book"},
+            "jaccard":     {k2: v for k2, v in p["jaccard"].items()  if k2 != "per_book"},
+        }
+
     save = {
-        "family":  results["family"],
-        "k":       results["k"],
-        "n_books": results["n_books"],
-        "sizes":   results["sizes"],
-        "pairs": [
-            {
-                "size_a": p["size_a"],
-                "size_b": p["size_b"],
-                "label":  p["label"],
-                "spearman": {k2: v for k2, v in p["spearman"].items() if k2 != "per_book"},
-                "jaccard":  {k2: v for k2, v in p["jaccard"].items()  if k2 != "per_book"},
-            }
-            for p in results["pairs"]
-        ],
+        "family":    results["family"],
+        "k":         results["k"],
+        "n_books":   results["n_books"],
+        "sizes":     results["sizes"],
+        "pairs":     [_strip_per_book(p) for p in results["pairs"]],
+        "all_pairs": [_strip_per_book(p) for p in results["all_pairs"]],
     }
     with open(json_out, "w") as f:
         json.dump(save, f, indent=2)
     print(f"[save] Summary → {json_out}")
 
     plot_results(results, plot_out)
+    plot_heatmap(results, heatmap_out)
 
 
 if __name__ == "__main__":
