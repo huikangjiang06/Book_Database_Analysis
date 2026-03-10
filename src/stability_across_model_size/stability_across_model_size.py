@@ -42,6 +42,9 @@ import matplotlib.pyplot as plt
 import numpy as np
 from scipy.stats import spearmanr
 
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "main_components_removal"))
+from ABTT import abtt as apply_abtt
+
 # ─── Paths ────────────────────────────────────────────────────────────────────
 ROOT     = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 EMB_DIR  = os.path.join(ROOT, "outputs_embeddings_all_with_chunks")
@@ -154,7 +157,7 @@ def jaccard_per_book(sim_a: np.ndarray, sim_b: np.ndarray, k: int) -> np.ndarray
 
 # ─── Load + compute ───────────────────────────────────────────────────────────
 
-def compute_all(family: str, k: int) -> dict:
+def compute_all(family: str, k: int, abtt_n: int = 0) -> dict:
     """
     Load all model sizes for the family, compute pairwise metrics for every
     adjacent pair, return a results dict.
@@ -175,17 +178,23 @@ def compute_all(family: str, k: int) -> dict:
     embs, titles_ref = {}, None
     for s in size_dirs:
         emb, titles = load_model_data(family, s)
-        embs[s] = emb
         if titles_ref is None:
             titles_ref = titles
         else:
             if titles != titles_ref:
                 print("[warn] Book order differs between model sizes — aligning by title.")
-                # Build mapping: title → index in the reference order
                 ref_idx = {t: i for i, t in enumerate(titles_ref)}
                 order   = [ref_idx[t] for t in titles]
-                embs[s] = emb[order]
-    print(f"[load] Embeddings loaded. N={len(titles_ref)} books.")
+                emb = emb[order]
+        if abtt_n > 0:
+            emb = apply_abtt(family, s, emb, abtt_n).astype(np.float32)
+            # re-normalise so cosine similarity is still dot-product
+            norms = np.linalg.norm(emb, axis=1, keepdims=True)
+            norms[norms == 0] = 1.0
+            emb = emb / norms
+        embs[s] = emb
+    print(f"[load] Embeddings loaded. N={len(titles_ref)} books." +
+          (f"  (ABTT n={abtt_n})" if abtt_n > 0 else ""))
 
     # Pre-compute cosine similarity matrices for every size (cached)
     print(f"\n[sim] Pre-computing similarity matrices for all {len(size_dirs)} sizes...")
@@ -405,14 +414,17 @@ def main() -> None:
                         help="e.g. Qwen3-Embedding")
     parser.add_argument("--k", type=int, default=10,
                         help="Number of nearest neighbours for Jaccard (default: 10)")
+    parser.add_argument("--abtt", type=int, default=0, metavar="N",
+                        help="Apply ABTT: remove top-N principal directions (0 = disabled)")
     args = parser.parse_args()
 
-    out_dir      = os.path.join(BASE_OUT, args.model_family)
+    suffix       = f"_abtt" if args.abtt > 0 else ""
+    out_dir      = os.path.join(BASE_OUT, args.model_family + suffix)
     json_out     = os.path.join(out_dir, "results.json")
     plot_out     = os.path.join(out_dir, "stability.png")
     heatmap_out  = os.path.join(out_dir, "heatmap.png")
 
-    results = compute_all(args.model_family, args.k)
+    results = compute_all(args.model_family, args.k, abtt_n=args.abtt)
 
     print_summary(results)
 

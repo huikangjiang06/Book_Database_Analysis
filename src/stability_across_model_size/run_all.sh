@@ -3,5 +3,5 @@ k=20
 
 for faily in "${families[@]}"; do 
     echo "Running for $faily"
-    python src/stability_across_model_size/stability_across_model_size.py --model_family $faily --k $k
+    python src/stability_across_model_size/stability_across_model_size.py --model_family $faily --k $k --abtt 2
 done

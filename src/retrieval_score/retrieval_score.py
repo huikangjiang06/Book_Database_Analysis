@@ -34,12 +34,16 @@ import os
 import pickle
 import random
 import re
+import sys
 import unicodedata
 
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
+
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "main_components_removal"))
+from ABTT import abtt as apply_abtt
 
 # ─── Paths ────────────────────────────────────────────────────────────────────
 ROOT      = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -114,11 +118,13 @@ def load_book_names_with_genre(family: str, size: str) -> list[tuple[str, str]]:
     return out
 
 
-def load_embeddings(family: str, size: str) -> dict[str, np.ndarray]:
-    """book_name (NFC) → L2-normalised embedding."""
+def load_embeddings(family: str, size: str, abtt_n: int = 0) -> dict[str, np.ndarray]:
+    """book_name (NFC) → L2-normalised embedding (with optional ABTT postprocessing)."""
     base  = os.path.join(EMB_DIR, family, size)
     paths = sorted(glob.glob(os.path.join(base, "**", "*.pkl"), recursive=True))
     embs: dict[str, np.ndarray] = {}
+    book_names: list[str] = []
+    raw: list[np.ndarray] = []
     for path in paths:
         with open(path, "rb") as f:
             d = pickle.load(f)
@@ -132,6 +138,20 @@ def load_embeddings(family: str, size: str) -> dict[str, np.ndarray]:
         if norm > 0:
             emb /= norm
         bn = nfc(os.path.splitext(os.path.basename(path))[0])
+        book_names.append(bn)
+        raw.append(emb)
+
+    if not raw:
+        return embs
+
+    X = np.stack(raw)   # (N, D)
+    if abtt_n > 0:
+        X = apply_abtt(family, size, X, abtt_n)
+        norms = np.linalg.norm(X, axis=1, keepdims=True)
+        norms[norms == 0] = 1.0
+        X = X / norms
+
+    for bn, emb in zip(book_names, X):
         embs[bn] = emb
     return embs
 
@@ -257,10 +277,13 @@ def main():
     parser.add_argument("--num_candidates", type=int, default=49,
                         help="Number of distractor books (pool size = num_candidates + 1)")
     parser.add_argument("--seed",           type=int, default=42)
+    parser.add_argument("--abtt",           type=int, default=0, metavar="N",
+                        help="Apply ABTT: remove top-N principal directions (0 = disabled)")
     args = parser.parse_args()
 
     family  = args.model_family
-    out_dir = os.path.join(BASE_OUT, family)
+    suffix  = f"_abtt" if args.abtt > 0 else ""
+    out_dir = os.path.join(BASE_OUT, family + suffix)
     os.makedirs(out_dir, exist_ok=True)
 
     sizes = get_sizes(family)
@@ -300,7 +323,7 @@ def main():
 
     for size in sizes:
         print(f"  loading {family}/{size} …", end="", flush=True)
-        embs = load_embeddings(family, size)
+        embs = load_embeddings(family, size, abtt_n=args.abtt)
         print(f"  {len(embs)} embs")
         row = f"{size:>{col_w}}"
         for g in GROUPINGS:
