@@ -1,4 +1,5 @@
 out/*
 !out/.gitkeep
+!out/gutenberg_meta
 outputs_embeddings_all_with_chunks/*
 !outputs_embeddings_all_with_chunks/.gitkeep
