@@ -1,4 +1,8 @@
 out/main_component_removal/*
+!out/main_component_removal/avg_cos_sim.json
+!out/main_component_removal/eigenvalues_top_20.json
+!out/main_component_removal/eigenvalues.json
+
 out/Book_Topics
 out/Cerebras-GPT/*
 out/OpenAI/*
