@@ -1,5 +1,9 @@
-out/*
-!out/.gitkeep
-!out/gutenberg_meta
+out/main_component_removal/*
+out/Book_Topics
+out/Cerebras-GPT/*
+out/OpenAI/*
+out/Pythia/*
+out/Qwen2.5/*
+out/Qwen3-Embedding/*
 outputs_embeddings_all_with_chunks/*
 !outputs_embeddings_all_with_chunks/.gitkeep

@@ -1,0 +1,45 @@
+{
+  "family": "OpenAI",
+  "k": 20,
+  "n_books": 500,
+  "sizes": [
+    "text-embedding-3-large",
+    "text-embedding-3-small"
+  ],
+  "pairs": [
+    {
+      "size_a": "text-embedding-3-large",
+      "size_b": "text-embedding-3-small",
+      "label": "text-embedding-3-large \u2192 text-embedding-3-small",
+      "is_adjacent": true,
+      "spearman": {
+        "mean": 0.8472323546369848,
+        "std": 0.056337245257449,
+        "median": 0.861090711543569
+      },
+      "jaccard": {
+        "mean": 0.5537366449460106,
+        "std": 0.14613075681846951,
+        "median": 0.5384615384615384
+      }
+    }
+  ],
+  "all_pairs": [
+    {
+      "size_a": "text-embedding-3-large",
+      "size_b": "text-embedding-3-small",
+      "label": "text-embedding-3-large \u2192 text-embedding-3-small",
+      "is_adjacent": true,
+      "spearman": {
+        "mean": 0.8472323546369848,
+        "std": 0.056337245257449,
+        "median": 0.861090711543569
+      },
+      "jaccard": {
+        "mean": 0.5537366449460106,
+        "std": 0.14613075681846951,
+        "median": 0.5384615384615384
+      }
+    }
+  ]
+}

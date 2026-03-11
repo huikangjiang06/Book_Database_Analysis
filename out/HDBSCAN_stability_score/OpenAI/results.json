@@ -1,0 +1,30 @@
+{
+  "family": "OpenAI",
+  "n_sizes": 2,
+  "sizes": [
+    "text-embedding-3-large",
+    "text-embedding-3-small"
+  ],
+  "per_size": [
+    {
+      "size": "text-embedding-3-large",
+      "n_clusters": 32,
+      "n_noise": 103,
+      "mean": 0.17266818750000001,
+      "std": 0.17930944953965713,
+      "median": 0.12946449999999998,
+      "min": 0.0,
+      "max": 0.937511
+    },
+    {
+      "size": "text-embedding-3-small",
+      "n_clusters": 35,
+      "n_noise": 121,
+      "mean": 0.13995762857142857,
+      "std": 0.16076633064137094,
+      "median": 0.098959,
+      "min": 0.0,
+      "max": 0.74929
+    }
+  ]
+}

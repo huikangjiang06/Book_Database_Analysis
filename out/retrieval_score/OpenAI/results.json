@@ -1,0 +1,20 @@
+{
+  "family": "OpenAI",
+  "num_instances": 350,
+  "num_candidates": 49,
+  "seed": 42,
+  "results": {
+    "genre": {
+      "text-embedding-3-large": 0.28285714285714286,
+      "text-embedding-3-small": 0.26
+    },
+    "bookshelf": {
+      "text-embedding-3-large": 0.16857142857142857,
+      "text-embedding-3-small": 0.1742857142857143
+    },
+    "subject": {
+      "text-embedding-3-large": 0.32857142857142857,
+      "text-embedding-3-small": 0.32571428571428573
+    }
+  }
+}
