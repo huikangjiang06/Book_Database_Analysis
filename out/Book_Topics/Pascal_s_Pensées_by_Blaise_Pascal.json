@@ -1,0 +1,87 @@
+{
+  "book_title": "Pascal's Pens\u00e9es by Blaise Pascal",
+  "genre": "Metaphysics and Epistemology",
+  "pkl_stem": "Pascal_s_Pense\u0301es_by_Blaise_Pascal",
+  "top_keywords": [
+    {
+      "word": "essais",
+      "score": 0.073224
+    },
+    {
+      "word": "montaigne",
+      "score": 0.056941
+    },
+    {
+      "word": "pascal",
+      "score": 0.056019
+    },
+    {
+      "word": "messiah",
+      "score": 0.055602
+    },
+    {
+      "word": "deut",
+      "score": 0.051985
+    },
+    {
+      "word": "esdras",
+      "score": 0.051584
+    },
+    {
+      "word": "jansenism",
+      "score": 0.050819
+    },
+    {
+      "word": "jer",
+      "score": 0.049448
+    },
+    {
+      "word": "hosea",
+      "score": 0.048721
+    },
+    {
+      "word": "jansenius",
+      "score": 0.047889
+    },
+    {
+      "word": "antichrist",
+      "score": 0.046097
+    },
+    {
+      "word": "cor",
+      "score": 0.045517
+    },
+    {
+      "word": "facere",
+      "score": 0.045254
+    },
+    {
+      "word": "gentiles",
+      "score": 0.044986
+    },
+    {
+      "word": "vulgate",
+      "score": 0.044559
+    },
+    {
+      "word": "jesus",
+      "score": 0.044162
+    },
+    {
+      "word": "dogmatists",
+      "score": 0.044059
+    },
+    {
+      "word": "jacqueline",
+      "score": 0.043416
+    },
+    {
+      "word": "signa",
+      "score": 0.043293
+    },
+    {
+      "word": "athanasius",
+      "score": 0.042805
+    }
+  ]
+}

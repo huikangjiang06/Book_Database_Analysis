@@ -1,0 +1,87 @@
+{
+  "book_title": "The Green Mummy by Fergus Hume",
+  "genre": "Detective and Mystery Stories",
+  "pkl_stem": "The_Green_Mummy_by_Fergus_Hume",
+  "top_keywords": [
+    {
+      "word": "braddock",
+      "score": 0.109072
+    },
+    {
+      "word": "archie",
+      "score": 0.108655
+    },
+    {
+      "word": "inez",
+      "score": 0.097011
+    },
+    {
+      "word": "hervey",
+      "score": 0.096303
+    },
+    {
+      "word": "bolton",
+      "score": 0.090982
+    },
+    {
+      "word": "kendal",
+      "score": 0.087455
+    },
+    {
+      "word": "cockatoo",
+      "score": 0.085334
+    },
+    {
+      "word": "vasa",
+      "score": 0.082109
+    },
+    {
+      "word": "inca",
+      "score": 0.079308
+    },
+    {
+      "word": "lucy",
+      "score": 0.076484
+    },
+    {
+      "word": "kanaka",
+      "score": 0.074293
+    },
+    {
+      "word": "pedro",
+      "score": 0.074283
+    },
+    {
+      "word": "mummy",
+      "score": 0.068404
+    },
+    {
+      "word": "peruvian",
+      "score": 0.06452
+    },
+    {
+      "word": "lima",
+      "score": 0.06184
+    },
+    {
+      "word": "donna",
+      "score": 0.061258
+    },
+    {
+      "word": "sidney",
+      "score": 0.061098
+    },
+    {
+      "word": "jetty",
+      "score": 0.056925
+    },
+    {
+      "word": "emeralds",
+      "score": 0.056431
+    },
+    {
+      "word": "sid",
+      "score": 0.05494
+    }
+  ]
+}

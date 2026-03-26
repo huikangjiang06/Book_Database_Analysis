@@ -1,0 +1,87 @@
+{
+  "book_title": "An Account of the Conquest of Peru by Pedro Sancho",
+  "genre": "History",
+  "pkl_stem": "An_Account_of_the_Conquest_of_Peru_by_Pedro_Sancho",
+  "top_keywords": [
+    {
+      "word": "xauxa",
+      "score": 0.147809
+    },
+    {
+      "word": "cuzco",
+      "score": 0.133669
+    },
+    {
+      "word": "cacique",
+      "score": 0.12599
+    },
+    {
+      "word": "quito",
+      "score": 0.116887
+    },
+    {
+      "word": "caciques",
+      "score": 0.110912
+    },
+    {
+      "word": "icazbalceta",
+      "score": 0.110507
+    },
+    {
+      "word": "inca",
+      "score": 0.109688
+    },
+    {
+      "word": "quizquiz",
+      "score": 0.108759
+    },
+    {
+      "word": "manco",
+      "score": 0.106863
+    },
+    {
+      "word": "pachacamac",
+      "score": 0.100465
+    },
+    {
+      "word": "garcilasso",
+      "score": 0.095202
+    },
+    {
+      "word": "cieza",
+      "score": 0.093351
+    },
+    {
+      "word": "collao",
+      "score": 0.092172
+    },
+    {
+      "word": "almagro",
+      "score": 0.087838
+    },
+    {
+      "word": "miguel",
+      "score": 0.085669
+    },
+    {
+      "word": "viracocha",
+      "score": 0.084602
+    },
+    {
+      "word": "markham",
+      "score": 0.084318
+    },
+    {
+      "word": "pombo",
+      "score": 0.080483
+    },
+    {
+      "word": "yupanqui",
+      "score": 0.080483
+    },
+    {
+      "word": "pizarro",
+      "score": 0.080438
+    }
+  ]
+}

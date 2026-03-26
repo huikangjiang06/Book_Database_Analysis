@@ -1,0 +1,87 @@
+{
+  "book_title": "The Book of Nonsense by Edward Lear",
+  "genre": "Comedy, humourous novels",
+  "pkl_stem": "The_Book_of_Nonsense_by_Edward_Lear",
+  "top_keywords": [
+    {
+      "word": "derry",
+      "score": 0.142905
+    },
+    {
+      "word": "philae",
+      "score": 0.115076
+    },
+    {
+      "word": "prague",
+      "score": 0.112344
+    },
+    {
+      "word": "weedon",
+      "score": 0.110672
+    },
+    {
+      "word": "bangor",
+      "score": 0.110672
+    },
+    {
+      "word": "chertsey",
+      "score": 0.110672
+    },
+    {
+      "word": "melrose",
+      "score": 0.107073
+    },
+    {
+      "word": "ewell",
+      "score": 0.107073
+    },
+    {
+      "word": "abruzzi",
+      "score": 0.107073
+    },
+    {
+      "word": "gretna",
+      "score": 0.104031
+    },
+    {
+      "word": "buda",
+      "score": 0.101395
+    },
+    {
+      "word": "cromer",
+      "score": 0.101395
+    },
+    {
+      "word": "kilkenny",
+      "score": 0.101395
+    },
+    {
+      "word": "sate",
+      "score": 0.100302
+    },
+    {
+      "word": "jigs",
+      "score": 0.09907
+    },
+    {
+      "word": "bute",
+      "score": 0.096991
+    },
+    {
+      "word": "dorking",
+      "score": 0.096991
+    },
+    {
+      "word": "apulia",
+      "score": 0.096991
+    },
+    {
+      "word": "dundee",
+      "score": 0.096991
+    },
+    {
+      "word": "moldavia",
+      "score": 0.096991
+    }
+  ]
+}

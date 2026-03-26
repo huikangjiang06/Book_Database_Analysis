@@ -1,0 +1,87 @@
+{
+  "book_title": "Kim by Rudyard Kipling",
+  "genre": "Adventure",
+  "pkl_stem": "Kim_by_Rudyard_Kipling",
+  "top_keywords": [
+    {
+      "word": "kim",
+      "score": 0.107634
+    },
+    {
+      "word": "sahibs",
+      "score": 0.082251
+    },
+    {
+      "word": "chela",
+      "score": 0.080187
+    },
+    {
+      "word": "sahib",
+      "score": 0.077767
+    },
+    {
+      "word": "babu",
+      "score": 0.076612
+    },
+    {
+      "word": "creighton",
+      "score": 0.074664
+    },
+    {
+      "word": "lama",
+      "score": 0.071246
+    },
+    {
+      "word": "bazar",
+      "score": 0.061281
+    },
+    {
+      "word": "simla",
+      "score": 0.061192
+    },
+    {
+      "word": "hakim",
+      "score": 0.060359
+    },
+    {
+      "word": "lahore",
+      "score": 0.060249
+    },
+    {
+      "word": "verree",
+      "score": 0.057804
+    },
+    {
+      "word": "benares",
+      "score": 0.057412
+    },
+    {
+      "word": "saddhu",
+      "score": 0.05689
+    },
+    {
+      "word": "jat",
+      "score": 0.056685
+    },
+    {
+      "word": "faquir",
+      "score": 0.055917
+    },
+    {
+      "word": "rupees",
+      "score": 0.055631
+    },
+    {
+      "word": "lucknow",
+      "score": 0.054856
+    },
+    {
+      "word": "pathan",
+      "score": 0.053287
+    },
+    {
+      "word": "mahratta",
+      "score": 0.052742
+    }
+  ]
+}

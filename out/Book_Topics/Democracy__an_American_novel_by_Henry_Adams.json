@@ -1,0 +1,87 @@
+{
+  "book_title": "Democracy, an American novel by Henry Adams",
+  "genre": "Satirical fiction",
+  "pkl_stem": "Democracy__an_American_novel_by_Henry_Adams",
+  "top_keywords": [
+    {
+      "word": "ratcliffe",
+      "score": 0.133673
+    },
+    {
+      "word": "carrington",
+      "score": 0.116982
+    },
+    {
+      "word": "sybil",
+      "score": 0.108545
+    },
+    {
+      "word": "dunbeg",
+      "score": 0.104935
+    },
+    {
+      "word": "madeleine",
+      "score": 0.093032
+    },
+    {
+      "word": "jacobi",
+      "score": 0.081001
+    },
+    {
+      "word": "skye",
+      "score": 0.079121
+    },
+    {
+      "word": "krebs",
+      "score": 0.072589
+    },
+    {
+      "word": "popoff",
+      "score": 0.067235
+    },
+    {
+      "word": "orsini",
+      "score": 0.060293
+    },
+    {
+      "word": "clinton",
+      "score": 0.058812
+    },
+    {
+      "word": "lee",
+      "score": 0.055594
+    },
+    {
+      "word": "senator",
+      "score": 0.055577
+    },
+    {
+      "word": "senatorial",
+      "score": 0.05318
+    },
+    {
+      "word": "grimes",
+      "score": 0.052839
+    },
+    {
+      "word": "gore",
+      "score": 0.052686
+    },
+    {
+      "word": "quarryman",
+      "score": 0.05138
+    },
+    {
+      "word": "legation",
+      "score": 0.051254
+    },
+    {
+      "word": "maude",
+      "score": 0.051104
+    },
+    {
+      "word": "vernon",
+      "score": 0.04817
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "The murder of Roger Ackroyd by Agatha Christie",
+  "genre": "Detective and Mystery Stories",
+  "pkl_stem": "The_murder_of_Roger_Ackroyd_by_Agatha_Christie",
+  "top_keywords": [
+    {
+      "word": "poirot",
+      "score": 0.150342
+    },
+    {
+      "word": "paton",
+      "score": 0.114097
+    },
+    {
+      "word": "raglan",
+      "score": 0.104608
+    },
+    {
+      "word": "ferrars",
+      "score": 0.10247
+    },
+    {
+      "word": "sheppard",
+      "score": 0.098563
+    },
+    {
+      "word": "dictaphone",
+      "score": 0.089963
+    },
+    {
+      "word": "ursula",
+      "score": 0.089809
+    },
+    {
+      "word": "parlormaid",
+      "score": 0.087449
+    },
+    {
+      "word": "melrose",
+      "score": 0.078549
+    },
+    {
+      "word": "caroline",
+      "score": 0.078433
+    },
+    {
+      "word": "raymond",
+      "score": 0.077887
+    },
+    {
+      "word": "hercule",
+      "score": 0.076158
+    },
+    {
+      "word": "ralph",
+      "score": 0.075823
+    },
+    {
+      "word": "parker",
+      "score": 0.075486
+    },
+    {
+      "word": "flora",
+      "score": 0.073112
+    },
+    {
+      "word": "mah",
+      "score": 0.067744
+    },
+    {
+      "word": "fingerprints",
+      "score": 0.066797
+    },
+    {
+      "word": "hammond",
+      "score": 0.064245
+    },
+    {
+      "word": "larches",
+      "score": 0.063255
+    },
+    {
+      "word": "bourne",
+      "score": 0.063134
+    }
+  ]
+}

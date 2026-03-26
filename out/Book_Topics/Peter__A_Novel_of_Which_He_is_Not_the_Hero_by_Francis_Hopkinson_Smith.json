@@ -1,0 +1,87 @@
+{
+  "book_title": "Peter: A Novel of Which He is Not the Hero by Francis Hopkinson Smith",
+  "genre": "NY-as-character",
+  "pkl_stem": "Peter__A_Novel_of_Which_He_is_Not_the_Hero_by_Francis_Hopkinson_Smith",
+  "top_keywords": [
+    {
+      "word": "garry",
+      "score": 0.098569
+    },
+    {
+      "word": "felicia",
+      "score": 0.095134
+    },
+    {
+      "word": "macfarlane",
+      "score": 0.087901
+    },
+    {
+      "word": "corinne",
+      "score": 0.082263
+    },
+    {
+      "word": "mcgowan",
+      "score": 0.081615
+    },
+    {
+      "word": "grayson",
+      "score": 0.077926
+    },
+    {
+      "word": "parkins",
+      "score": 0.074395
+    },
+    {
+      "word": "ruth",
+      "score": 0.065354
+    },
+    {
+      "word": "cohen",
+      "score": 0.064114
+    },
+    {
+      "word": "mcguffey",
+      "score": 0.058665
+    },
+    {
+      "word": "geneseo",
+      "score": 0.056865
+    },
+    {
+      "word": "guthrie",
+      "score": 0.054183
+    },
+    {
+      "word": "bolton",
+      "score": 0.052892
+    },
+    {
+      "word": "cory",
+      "score": 0.052171
+    },
+    {
+      "word": "hodges",
+      "score": 0.051981
+    },
+    {
+      "word": "portman",
+      "score": 0.050806
+    },
+    {
+      "word": "morris",
+      "score": 0.049862
+    },
+    {
+      "word": "culvert",
+      "score": 0.048717
+    },
+    {
+      "word": "hicks",
+      "score": 0.045523
+    },
+    {
+      "word": "lode",
+      "score": 0.045271
+    }
+  ]
+}

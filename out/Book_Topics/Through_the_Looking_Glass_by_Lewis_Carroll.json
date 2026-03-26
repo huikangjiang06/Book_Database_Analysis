@@ -1,0 +1,87 @@
+{
+  "book_title": "Through the Looking-Glass by Lewis Carroll",
+  "genre": "Fairy Tales and Children's Literature",
+  "pkl_stem": "Through_the_Looking_Glass_by_Lewis_Carroll",
+  "top_keywords": [
+    {
+      "word": "dumpty",
+      "score": 0.174177
+    },
+    {
+      "word": "humpty",
+      "score": 0.174177
+    },
+    {
+      "word": "alice",
+      "score": 0.132433
+    },
+    {
+      "word": "unicorn",
+      "score": 0.107748
+    },
+    {
+      "word": "kitty",
+      "score": 0.100383
+    },
+    {
+      "word": "gnat",
+      "score": 0.096136
+    },
+    {
+      "word": "dinah",
+      "score": 0.094961
+    },
+    {
+      "word": "walrus",
+      "score": 0.089932
+    },
+    {
+      "word": "kitten",
+      "score": 0.077403
+    },
+    {
+      "word": "nohow",
+      "score": 0.071681
+    },
+    {
+      "word": "knight",
+      "score": 0.067015
+    },
+    {
+      "word": "ahoy",
+      "score": 0.066503
+    },
+    {
+      "word": "contrariwise",
+      "score": 0.065141
+    },
+    {
+      "word": "pudding",
+      "score": 0.062786
+    },
+    {
+      "word": "pawns",
+      "score": 0.062509
+    },
+    {
+      "word": "chessmen",
+      "score": 0.062509
+    },
+    {
+      "word": "oysters",
+      "score": 0.061184
+    },
+    {
+      "word": "lily",
+      "score": 0.060948
+    },
+    {
+      "word": "queens",
+      "score": 0.060615
+    },
+    {
+      "word": "dee",
+      "score": 0.060501
+    }
+  ]
+}

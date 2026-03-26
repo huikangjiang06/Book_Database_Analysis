@@ -1,0 +1,87 @@
+{
+  "book_title": "Youth by Isaac Asimov",
+  "genre": "Science Fiction",
+  "pkl_stem": "Youth_by_Isaac_Asimov",
+  "top_keywords": [
+    {
+      "word": "industrialist",
+      "score": 0.249749
+    },
+    {
+      "word": "explorer",
+      "score": 0.127815
+    },
+    {
+      "word": "astronomer",
+      "score": 0.127732
+    },
+    {
+      "word": "dad",
+      "score": 0.113846
+    },
+    {
+      "word": "atomic",
+      "score": 0.113631
+    },
+    {
+      "word": "hydrogen",
+      "score": 0.109167
+    },
+    {
+      "word": "gravitational",
+      "score": 0.108298
+    },
+    {
+      "word": "slim",
+      "score": 0.105606
+    },
+    {
+      "word": "smokes",
+      "score": 0.092573
+    },
+    {
+      "word": "stellar",
+      "score": 0.09107
+    },
+    {
+      "word": "projector",
+      "score": 0.090017
+    },
+    {
+      "word": "circus",
+      "score": 0.088069
+    },
+    {
+      "word": "planets",
+      "score": 0.086255
+    },
+    {
+      "word": "okay",
+      "score": 0.085839
+    },
+    {
+      "word": "galaxy",
+      "score": 0.084595
+    },
+    {
+      "word": "solvent",
+      "score": 0.08381
+    },
+    {
+      "word": "ammonia",
+      "score": 0.081064
+    },
+    {
+      "word": "planetary",
+      "score": 0.079621
+    },
+    {
+      "word": "mom",
+      "score": 0.078644
+    },
+    {
+      "word": "youngsters",
+      "score": 0.077183
+    }
+  ]
+}

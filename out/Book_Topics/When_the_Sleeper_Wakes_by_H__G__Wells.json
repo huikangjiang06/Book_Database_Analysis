@@ -1,0 +1,87 @@
+{
+  "book_title": "When the Sleeper Wakes by H. G. Wells",
+  "genre": "Science Fiction",
+  "pkl_stem": "When_the_Sleeper_Wakes_by_H__G__Wells",
+  "top_keywords": [
+    {
+      "word": "asano",
+      "score": 0.088509
+    },
+    {
+      "word": "graham",
+      "score": 0.075655
+    },
+    {
+      "word": "aeronaut",
+      "score": 0.073205
+    },
+    {
+      "word": "monoplane",
+      "score": 0.070577
+    },
+    {
+      "word": "aeroplanes",
+      "score": 0.059212
+    },
+    {
+      "word": "roehampton",
+      "score": 0.057154
+    },
+    {
+      "word": "aeronauts",
+      "score": 0.056778
+    },
+    {
+      "word": "vane",
+      "score": 0.056264
+    },
+    {
+      "word": "vanes",
+      "score": 0.053765
+    },
+    {
+      "word": "aeroplane",
+      "score": 0.05215
+    },
+    {
+      "word": "thickset",
+      "score": 0.05215
+    },
+    {
+      "word": "howard",
+      "score": 0.051332
+    },
+    {
+      "word": "wotton",
+      "score": 0.048999
+    },
+    {
+      "word": "victorian",
+      "score": 0.046767
+    },
+    {
+      "word": "ventilator",
+      "score": 0.046352
+    },
+    {
+      "word": "girders",
+      "score": 0.046225
+    },
+    {
+      "word": "lincoln",
+      "score": 0.044646
+    },
+    {
+      "word": "norwood",
+      "score": 0.043972
+    },
+    {
+      "word": "sleeper",
+      "score": 0.043578
+    },
+    {
+      "word": "streatham",
+      "score": 0.043402
+    }
+  ]
+}

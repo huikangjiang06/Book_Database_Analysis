@@ -1,0 +1,87 @@
+{
+  "book_title": "Pride and Prejudice by Jane Austen",
+  "genre": "Romance",
+  "pkl_stem": "Pride_and_Prejudice_by_Jane_Austen",
+  "top_keywords": [
+    {
+      "word": "darcy",
+      "score": 0.130459
+    },
+    {
+      "word": "bingley",
+      "score": 0.113953
+    },
+    {
+      "word": "wickham",
+      "score": 0.11078
+    },
+    {
+      "word": "bennet",
+      "score": 0.103362
+    },
+    {
+      "word": "gardiner",
+      "score": 0.086395
+    },
+    {
+      "word": "lizzy",
+      "score": 0.086395
+    },
+    {
+      "word": "fitzwilliam",
+      "score": 0.085102
+    },
+    {
+      "word": "lydia",
+      "score": 0.069822
+    },
+    {
+      "word": "collins",
+      "score": 0.069
+    },
+    {
+      "word": "hertfordshire",
+      "score": 0.067284
+    },
+    {
+      "word": "lucas",
+      "score": 0.066237
+    },
+    {
+      "word": "philips",
+      "score": 0.062507
+    },
+    {
+      "word": "hurst",
+      "score": 0.062094
+    },
+    {
+      "word": "forster",
+      "score": 0.06167
+    },
+    {
+      "word": "kitty",
+      "score": 0.061275
+    },
+    {
+      "word": "georgiana",
+      "score": 0.05896
+    },
+    {
+      "word": "austen",
+      "score": 0.05808
+    },
+    {
+      "word": "denny",
+      "score": 0.057032
+    },
+    {
+      "word": "jane",
+      "score": 0.056638
+    },
+    {
+      "word": "jenkinson",
+      "score": 0.056235
+    }
+  ]
+}

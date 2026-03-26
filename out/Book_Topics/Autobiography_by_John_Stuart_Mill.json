@@ -1,0 +1,87 @@
+{
+  "book_title": "Autobiography by John Stuart Mill",
+  "genre": "Biographies and Autobiographies",
+  "pkl_stem": "Autobiography_by_John_Stuart_Mill",
+  "top_keywords": [
+    {
+      "word": "bentham",
+      "score": 0.069285
+    },
+    {
+      "word": "bowring",
+      "score": 0.060961
+    },
+    {
+      "word": "bingham",
+      "score": 0.052889
+    },
+    {
+      "word": "roebuck",
+      "score": 0.052171
+    },
+    {
+      "word": "romilly",
+      "score": 0.050596
+    },
+    {
+      "word": "grote",
+      "score": 0.050502
+    },
+    {
+      "word": "ricardo",
+      "score": 0.04922
+    },
+    {
+      "word": "austin",
+      "score": 0.048161
+    },
+    {
+      "word": "tory",
+      "score": 0.044947
+    },
+    {
+      "word": "deductive",
+      "score": 0.043327
+    },
+    {
+      "word": "dissertations",
+      "score": 0.043258
+    },
+    {
+      "word": "liberals",
+      "score": 0.043063
+    },
+    {
+      "word": "comte",
+      "score": 0.04256
+    },
+    {
+      "word": "strutt",
+      "score": 0.042362
+    },
+    {
+      "word": "editorship",
+      "score": 0.04205
+    },
+    {
+      "word": "radicalism",
+      "score": 0.041787
+    },
+    {
+      "word": "utilitarians",
+      "score": 0.040984
+    },
+    {
+      "word": "wordsworth",
+      "score": 0.040728
+    },
+    {
+      "word": "analytic",
+      "score": 0.040675
+    },
+    {
+      "word": "hartley",
+      "score": 0.040597
+    }
+  ]
+}

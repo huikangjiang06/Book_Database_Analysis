@@ -1,0 +1,87 @@
+{
+  "book_title": "The Iliad by Homer",
+  "genre": "Mythology",
+  "pkl_stem": "The_Iliad_by_Homer",
+  "top_keywords": [
+    {
+      "word": "achaeans",
+      "score": 0.080305
+    },
+    {
+      "word": "danaans",
+      "score": 0.079836
+    },
+    {
+      "word": "idomeneus",
+      "score": 0.07138
+    },
+    {
+      "word": "atreus",
+      "score": 0.071137
+    },
+    {
+      "word": "antilochus",
+      "score": 0.070999
+    },
+    {
+      "word": "diomed",
+      "score": 0.070336
+    },
+    {
+      "word": "tydeus",
+      "score": 0.068991
+    },
+    {
+      "word": "trojans",
+      "score": 0.067704
+    },
+    {
+      "word": "patroclus",
+      "score": 0.066913
+    },
+    {
+      "word": "menelaus",
+      "score": 0.066343
+    },
+    {
+      "word": "ajaxes",
+      "score": 0.062444
+    },
+    {
+      "word": "argives",
+      "score": 0.061936
+    },
+    {
+      "word": "peleus",
+      "score": 0.061782
+    },
+    {
+      "word": "priam",
+      "score": 0.060789
+    },
+    {
+      "word": "teucer",
+      "score": 0.059091
+    },
+    {
+      "word": "sarpedon",
+      "score": 0.058929
+    },
+    {
+      "word": "menoetius",
+      "score": 0.057625
+    },
+    {
+      "word": "polydamas",
+      "score": 0.05723
+    },
+    {
+      "word": "automedon",
+      "score": 0.057205
+    },
+    {
+      "word": "ajax",
+      "score": 0.056327
+    }
+  ]
+}

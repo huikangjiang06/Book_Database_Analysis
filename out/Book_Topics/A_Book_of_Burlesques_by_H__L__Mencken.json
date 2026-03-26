@@ -1,0 +1,87 @@
+{
+  "book_title": "A Book of Burlesques by H. L. Mencken",
+  "genre": "Satirical fiction",
+  "pkl_stem": "A_Book_of_Burlesques_by_H__L__Mencken",
+  "top_keywords": [
+    {
+      "word": "kraus",
+      "score": 0.085352
+    },
+    {
+      "word": "zarathustra",
+      "score": 0.065868
+    },
+    {
+      "word": "yen",
+      "score": 0.061978
+    },
+    {
+      "word": "pfennigs",
+      "score": 0.061203
+    },
+    {
+      "word": "eugenic",
+      "score": 0.058731
+    },
+    {
+      "word": "eer",
+      "score": 0.056946
+    },
+    {
+      "word": "bassoons",
+      "score": 0.056946
+    },
+    {
+      "word": "piccolo",
+      "score": 0.056372
+    },
+    {
+      "word": "fugue",
+      "score": 0.055328
+    },
+    {
+      "word": "foy",
+      "score": 0.055188
+    },
+    {
+      "word": "pianist",
+      "score": 0.054302
+    },
+    {
+      "word": "kidneys",
+      "score": 0.054288
+    },
+    {
+      "word": "niggers",
+      "score": 0.052153
+    },
+    {
+      "word": "gewandhaus",
+      "score": 0.05165
+    },
+    {
+      "word": "prie",
+      "score": 0.051584
+    },
+    {
+      "word": "chu",
+      "score": 0.051409
+    },
+    {
+      "word": "organist",
+      "score": 0.05127
+    },
+    {
+      "word": "ushers",
+      "score": 0.050046
+    },
+    {
+      "word": "vial",
+      "score": 0.049443
+    },
+    {
+      "word": "cheyne",
+      "score": 0.049315
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "West Point by Robert C. Richardson",
+  "genre": "War and Strategy",
+  "pkl_stem": "West_Point_by_Robert_C__Richardson",
+  "top_keywords": [
+    {
+      "word": "cadets",
+      "score": 0.078103
+    },
+    {
+      "word": "classmen",
+      "score": 0.077891
+    },
+    {
+      "word": "plebe",
+      "score": 0.07161
+    },
+    {
+      "word": "cadet",
+      "score": 0.065113
+    },
+    {
+      "word": "classman",
+      "score": 0.057106
+    },
+    {
+      "word": "cullum",
+      "score": 0.053372
+    },
+    {
+      "word": "hazing",
+      "score": 0.049636
+    },
+    {
+      "word": "kosciusko",
+      "score": 0.049193
+    },
+    {
+      "word": "thayer",
+      "score": 0.046717
+    },
+    {
+      "word": "graduates",
+      "score": 0.046561
+    },
+    {
+      "word": "graduation",
+      "score": 0.045221
+    },
+    {
+      "word": "yearlings",
+      "score": 0.0435
+    },
+    {
+      "word": "benny",
+      "score": 0.043345
+    },
+    {
+      "word": "tactical",
+      "score": 0.043169
+    },
+    {
+      "word": "equitation",
+      "score": 0.04265
+    },
+    {
+      "word": "tac",
+      "score": 0.042524
+    },
+    {
+      "word": "biddle",
+      "score": 0.042412
+    },
+    {
+      "word": "barracks",
+      "score": 0.042003
+    },
+    {
+      "word": "sylvanus",
+      "score": 0.041845
+    },
+    {
+      "word": "drills",
+      "score": 0.041671
+    }
+  ]
+}

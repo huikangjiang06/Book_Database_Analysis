@@ -1,0 +1,87 @@
+{
+  "book_title": "The Middle Temple Murder by J. S. Fletcher",
+  "genre": "Detective and Mystery Stories",
+  "pkl_stem": "The_Middle_Temple_Murder_by_J__S__Fletcher",
+  "top_keywords": [
+    {
+      "word": "marbury",
+      "score": 0.138362
+    },
+    {
+      "word": "chamberlayne",
+      "score": 0.115975
+    },
+    {
+      "word": "maitland",
+      "score": 0.108
+    },
+    {
+      "word": "breton",
+      "score": 0.099168
+    },
+    {
+      "word": "ronald",
+      "score": 0.092755
+    },
+    {
+      "word": "crowfoot",
+      "score": 0.091425
+    },
+    {
+      "word": "driscoll",
+      "score": 0.088504
+    },
+    {
+      "word": "walters",
+      "score": 0.083528
+    },
+    {
+      "word": "starkey",
+      "score": 0.070955
+    },
+    {
+      "word": "jessie",
+      "score": 0.066992
+    },
+    {
+      "word": "doolittle",
+      "score": 0.064806
+    },
+    {
+      "word": "dartmoor",
+      "score": 0.063247
+    },
+    {
+      "word": "evelyn",
+      "score": 0.05897
+    },
+    {
+      "word": "ainsworth",
+      "score": 0.058967
+    },
+    {
+      "word": "barmaid",
+      "score": 0.058377
+    },
+    {
+      "word": "barrister",
+      "score": 0.058194
+    },
+    {
+      "word": "lyell",
+      "score": 0.05674
+    },
+    {
+      "word": "watchman",
+      "score": 0.055988
+    },
+    {
+      "word": "charwoman",
+      "score": 0.053625
+    },
+    {
+      "word": "mortuary",
+      "score": 0.053489
+    }
+  ]
+}

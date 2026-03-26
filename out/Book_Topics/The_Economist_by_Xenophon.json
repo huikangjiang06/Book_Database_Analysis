@@ -1,0 +1,87 @@
+{
+  "book_title": "The Economist by Xenophon",
+  "genre": "Political Economy",
+  "pkl_stem": "The_Economist_by_Xenophon",
+  "top_keywords": [
+    {
+      "word": "isch",
+      "score": 0.126623
+    },
+    {
+      "word": "critobulus",
+      "score": 0.102051
+    },
+    {
+      "word": "soc",
+      "score": 0.097843
+    },
+    {
+      "word": "crit",
+      "score": 0.095165
+    },
+    {
+      "word": "foll",
+      "score": 0.085573
+    },
+    {
+      "word": "anab",
+      "score": 0.085035
+    },
+    {
+      "word": "gutenberg",
+      "score": 0.082083
+    },
+    {
+      "word": "breit",
+      "score": 0.081432
+    },
+    {
+      "word": "aristot",
+      "score": 0.079405
+    },
+    {
+      "word": "electronic",
+      "score": 0.079063
+    },
+    {
+      "word": "cyrop",
+      "score": 0.078317
+    },
+    {
+      "word": "aristoph",
+      "score": 0.076333
+    },
+    {
+      "word": "plat",
+      "score": 0.07511
+    },
+    {
+      "word": "holden",
+      "score": 0.072868
+    },
+    {
+      "word": "trademark",
+      "score": 0.071402
+    },
+    {
+      "word": "transl",
+      "score": 0.071402
+    },
+    {
+      "word": "loc",
+      "score": 0.065958
+    },
+    {
+      "word": "virg",
+      "score": 0.06595
+    },
+    {
+      "word": "thuc",
+      "score": 0.064363
+    },
+    {
+      "word": "mem",
+      "score": 0.063158
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "Second Treatise of Government by John Locke",
+  "genre": "Political Philosophy and Ethics",
+  "pkl_stem": "Second_Treatise_of_Government_by_John_Locke",
+  "top_keywords": [
+    {
+      "word": "despotical",
+      "score": 0.081662
+    },
+    {
+      "word": "eccl",
+      "score": 0.075714
+    },
+    {
+      "word": "inconveniencies",
+      "score": 0.073898
+    },
+    {
+      "word": "conveniencies",
+      "score": 0.071495
+    },
+    {
+      "word": "sect",
+      "score": 0.07083
+    },
+    {
+      "word": "commonwealths",
+      "score": 0.067951
+    },
+    {
+      "word": "legislative",
+      "score": 0.067768
+    },
+    {
+      "word": "federative",
+      "score": 0.065875
+    },
+    {
+      "word": "chuse",
+      "score": 0.061167
+    },
+    {
+      "word": "populo",
+      "score": 0.060654
+    },
+    {
+      "word": "hooker",
+      "score": 0.059972
+    },
+    {
+      "word": "pol",
+      "score": 0.059264
+    },
+    {
+      "word": "nonage",
+      "score": 0.058351
+    },
+    {
+      "word": "commonwealth",
+      "score": 0.057908
+    },
+    {
+      "word": "regem",
+      "score": 0.057762
+    },
+    {
+      "word": "convoking",
+      "score": 0.055257
+    },
+    {
+      "word": "shew",
+      "score": 0.055044
+    },
+    {
+      "word": "thereunto",
+      "score": 0.054985
+    },
+    {
+      "word": "aggressor",
+      "score": 0.054228
+    },
+    {
+      "word": "polities",
+      "score": 0.05399
+    }
+  ]
+}

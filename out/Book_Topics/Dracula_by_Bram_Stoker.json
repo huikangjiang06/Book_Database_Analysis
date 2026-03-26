@@ -1,0 +1,87 @@
+{
+  "book_title": "Dracula by Bram Stoker",
+  "genre": "Horror Tales",
+  "pkl_stem": "Dracula_by_Bram_Stoker",
+  "top_keywords": [
+    {
+      "word": "godalming",
+      "score": 0.088753
+    },
+    {
+      "word": "mina",
+      "score": 0.078992
+    },
+    {
+      "word": "carfax",
+      "score": 0.0677
+    },
+    {
+      "word": "seward",
+      "score": 0.064674
+    },
+    {
+      "word": "whitby",
+      "score": 0.063295
+    },
+    {
+      "word": "galatz",
+      "score": 0.063038
+    },
+    {
+      "word": "quincey",
+      "score": 0.062363
+    },
+    {
+      "word": "lucy",
+      "score": 0.062351
+    },
+    {
+      "word": "jonathan",
+      "score": 0.0582
+    },
+    {
+      "word": "varna",
+      "score": 0.056846
+    },
+    {
+      "word": "czarina",
+      "score": 0.055075
+    },
+    {
+      "word": "hypnotise",
+      "score": 0.053813
+    },
+    {
+      "word": "borgo",
+      "score": 0.050461
+    },
+    {
+      "word": "bukovina",
+      "score": 0.049898
+    },
+    {
+      "word": "slovaks",
+      "score": 0.049513
+    },
+    {
+      "word": "morris",
+      "score": 0.046603
+    },
+    {
+      "word": "transylvania",
+      "score": 0.046469
+    },
+    {
+      "word": "smollet",
+      "score": 0.04549
+    },
+    {
+      "word": "vampire",
+      "score": 0.044987
+    },
+    {
+      "word": "hawkins",
+      "score": 0.04467
+    }
+  ]
+}

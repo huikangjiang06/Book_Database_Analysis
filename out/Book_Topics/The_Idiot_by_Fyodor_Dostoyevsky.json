@@ -1,0 +1,87 @@
+{
+  "book_title": "The Idiot by Fyodor Dostoyevsky",
+  "genre": "Social Criticism through Fiction",
+  "pkl_stem": "The_Idiot_by_Fyodor_Dostoyevsky",
+  "top_keywords": [
+    {
+      "word": "lebedeff",
+      "score": 0.104688
+    },
+    {
+      "word": "nastasia",
+      "score": 0.089742
+    },
+    {
+      "word": "pavlovitch",
+      "score": 0.082981
+    },
+    {
+      "word": "adelaida",
+      "score": 0.082414
+    },
+    {
+      "word": "parfen",
+      "score": 0.078003
+    },
+    {
+      "word": "hippolyte",
+      "score": 0.077881
+    },
+    {
+      "word": "alexandrovna",
+      "score": 0.075378
+    },
+    {
+      "word": "varia",
+      "score": 0.074105
+    },
+    {
+      "word": "roubles",
+      "score": 0.070699
+    },
+    {
+      "word": "fedorovitch",
+      "score": 0.069566
+    },
+    {
+      "word": "nicolaievitch",
+      "score": 0.068033
+    },
+    {
+      "word": "varvara",
+      "score": 0.067195
+    },
+    {
+      "word": "alexandra",
+      "score": 0.067065
+    },
+    {
+      "word": "ivanovna",
+      "score": 0.063312
+    },
+    {
+      "word": "keller",
+      "score": 0.062708
+    },
+    {
+      "word": "nicolai",
+      "score": 0.061446
+    },
+    {
+      "word": "nina",
+      "score": 0.059223
+    },
+    {
+      "word": "ivanovitch",
+      "score": 0.056509
+    },
+    {
+      "word": "ivan",
+      "score": 0.051218
+    },
+    {
+      "word": "lef",
+      "score": 0.050903
+    }
+  ]
+}

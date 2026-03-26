@@ -1,0 +1,87 @@
+{
+  "book_title": "The Autobiography of Goethe by Johann Wolfgang von Goethe",
+  "genre": "Biographies and Autobiographies",
+  "pkl_stem": "The_Autobiography_of_Goethe_by_Johann_Wolfgang_von_Goethe",
+  "top_keywords": [
+    {
+      "word": "frederica",
+      "score": 0.059046
+    },
+    {
+      "word": "gretchen",
+      "score": 0.05391
+    },
+    {
+      "word": "gellert",
+      "score": 0.051318
+    },
+    {
+      "word": "gottsched",
+      "score": 0.044218
+    },
+    {
+      "word": "herder",
+      "score": 0.043343
+    },
+    {
+      "word": "olivia",
+      "score": 0.043127
+    },
+    {
+      "word": "salzmann",
+      "score": 0.043114
+    },
+    {
+      "word": "hme",
+      "score": 0.043114
+    },
+    {
+      "word": "hofrath",
+      "score": 0.043106
+    },
+    {
+      "word": "mentz",
+      "score": 0.042445
+    },
+    {
+      "word": "schlosser",
+      "score": 0.042139
+    },
+    {
+      "word": "pfeil",
+      "score": 0.041904
+    },
+    {
+      "word": "hamann",
+      "score": 0.041904
+    },
+    {
+      "word": "strasburg",
+      "score": 0.041843
+    },
+    {
+      "word": "emilia",
+      "score": 0.041457
+    },
+    {
+      "word": "lucinda",
+      "score": 0.039934
+    },
+    {
+      "word": "winckelmann",
+      "score": 0.039779
+    },
+    {
+      "word": "zachari",
+      "score": 0.039073
+    },
+    {
+      "word": "klopstock",
+      "score": 0.039066
+    },
+    {
+      "word": "wieland",
+      "score": 0.03866
+    }
+  ]
+}

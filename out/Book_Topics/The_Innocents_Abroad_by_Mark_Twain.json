@@ -1,0 +1,87 @@
+{
+  "book_title": "The Innocents Abroad by Mark Twain",
+  "genre": "Comedy, humourous novels",
+  "pkl_stem": "The_Innocents_Abroad_by_Mark_Twain",
+  "top_keywords": [
+    {
+      "word": "tahoe",
+      "score": 0.043239
+    },
+    {
+      "word": "baalbec",
+      "score": 0.040709
+    },
+    {
+      "word": "fulbert",
+      "score": 0.039642
+    },
+    {
+      "word": "capernaum",
+      "score": 0.039642
+    },
+    {
+      "word": "shechem",
+      "score": 0.038112
+    },
+    {
+      "word": "tiberias",
+      "score": 0.037679
+    },
+    {
+      "word": "dragoman",
+      "score": 0.037558
+    },
+    {
+      "word": "tangier",
+      "score": 0.037506
+    },
+    {
+      "word": "bedouins",
+      "score": 0.037179
+    },
+    {
+      "word": "blucher",
+      "score": 0.036042
+    },
+    {
+      "word": "abelard",
+      "score": 0.035883
+    },
+    {
+      "word": "magdala",
+      "score": 0.035656
+    },
+    {
+      "word": "reis",
+      "score": 0.035151
+    },
+    {
+      "word": "galilee",
+      "score": 0.034671
+    },
+    {
+      "word": "coliseum",
+      "score": 0.034653
+    },
+    {
+      "word": "colombo",
+      "score": 0.034146
+    },
+    {
+      "word": "jaffa",
+      "score": 0.034123
+    },
+    {
+      "word": "heloise",
+      "score": 0.034123
+    },
+    {
+      "word": "damascus",
+      "score": 0.033579
+    },
+    {
+      "word": "excursionists",
+      "score": 0.033035
+    }
+  ]
+}

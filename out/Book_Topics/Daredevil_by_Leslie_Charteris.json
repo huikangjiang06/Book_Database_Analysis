@@ -1,0 +1,87 @@
+{
+  "book_title": "Daredevil by Leslie Charteris",
+  "genre": "Detective and Mystery Stories",
+  "pkl_stem": "Daredevil_by_Leslie_Charteris",
+  "top_keywords": [
+    {
+      "word": "teal",
+      "score": 0.085402
+    },
+    {
+      "word": "morini",
+      "score": 0.079023
+    },
+    {
+      "word": "snooper",
+      "score": 0.07505
+    },
+    {
+      "word": "arden",
+      "score": 0.069871
+    },
+    {
+      "word": "lew",
+      "score": 0.062387
+    },
+    {
+      "word": "birdie",
+      "score": 0.060157
+    },
+    {
+      "word": "mattock",
+      "score": 0.057821
+    },
+    {
+      "word": "prester",
+      "score": 0.054521
+    },
+    {
+      "word": "cardan",
+      "score": 0.052963
+    },
+    {
+      "word": "alpha",
+      "score": 0.050152
+    },
+    {
+      "word": "moraine",
+      "score": 0.04928
+    },
+    {
+      "word": "susan",
+      "score": 0.048788
+    },
+    {
+      "word": "yuh",
+      "score": 0.048241
+    },
+    {
+      "word": "terry",
+      "score": 0.047916
+    },
+    {
+      "word": "lorry",
+      "score": 0.046032
+    },
+    {
+      "word": "kennedy",
+      "score": 0.045883
+    },
+    {
+      "word": "gat",
+      "score": 0.045319
+    },
+    {
+      "word": "billingsgate",
+      "score": 0.045096
+    },
+    {
+      "word": "jimmy",
+      "score": 0.044394
+    },
+    {
+      "word": "smethurst",
+      "score": 0.044153
+    }
+  ]
+}

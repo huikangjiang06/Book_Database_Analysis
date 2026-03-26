@@ -1,0 +1,87 @@
+{
+  "book_title": "Manon Lescaut by abb\u00e9 Pr\u00e9vost",
+  "genre": "Romance",
+  "pkl_stem": "Manon_Lescaut_by_abbe\u0301_Pre\u0301vost",
+  "top_keywords": [
+    {
+      "word": "manon",
+      "score": 0.132807
+    },
+    {
+      "word": "lescaut",
+      "score": 0.109348
+    },
+    {
+      "word": "chaillot",
+      "score": 0.095767
+    },
+    {
+      "word": "chatelet",
+      "score": 0.08382
+    },
+    {
+      "word": "lazare",
+      "score": 0.07921
+    },
+    {
+      "word": "sulpice",
+      "score": 0.0667
+    },
+    {
+      "word": "marcel",
+      "score": 0.065644
+    },
+    {
+      "word": "guardsman",
+      "score": 0.064827
+    },
+    {
+      "word": "amiens",
+      "score": 0.061531
+    },
+    {
+      "word": "magdalen",
+      "score": 0.058556
+    },
+    {
+      "word": "chevalier",
+      "score": 0.055317
+    },
+    {
+      "word": "pistoles",
+      "score": 0.052888
+    },
+    {
+      "word": "passy",
+      "score": 0.051933
+    },
+    {
+      "word": "havre",
+      "score": 0.05172
+    },
+    {
+      "word": "hackney",
+      "score": 0.048533
+    },
+    {
+      "word": "cruellest",
+      "score": 0.046889
+    },
+    {
+      "word": "denis",
+      "score": 0.046773
+    },
+    {
+      "word": "enquired",
+      "score": 0.043759
+    },
+    {
+      "word": "archers",
+      "score": 0.04362
+    },
+    {
+      "word": "perfidious",
+      "score": 0.043007
+    }
+  ]
+}

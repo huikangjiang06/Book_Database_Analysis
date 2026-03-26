@@ -1,0 +1,87 @@
+{
+  "book_title": "Room 13 by Edgar Wallace",
+  "genre": "Detective and Mystery Stories",
+  "pkl_stem": "Room_13_by_Edgar_Wallace",
+  "top_keywords": [
+    {
+      "word": "legge",
+      "score": 0.134344
+    },
+    {
+      "word": "marney",
+      "score": 0.122574
+    },
+    {
+      "word": "emanuel",
+      "score": 0.111289
+    },
+    {
+      "word": "jeffrey",
+      "score": 0.108652
+    },
+    {
+      "word": "jeff",
+      "score": 0.097725
+    },
+    {
+      "word": "lila",
+      "score": 0.096844
+    },
+    {
+      "word": "kane",
+      "score": 0.094422
+    },
+    {
+      "word": "craig",
+      "score": 0.092926
+    },
+    {
+      "word": "dartmoor",
+      "score": 0.084805
+    },
+    {
+      "word": "barney",
+      "score": 0.082458
+    },
+    {
+      "word": "johnny",
+      "score": 0.081796
+    },
+    {
+      "word": "boob",
+      "score": 0.080506
+    },
+    {
+      "word": "horsham",
+      "score": 0.07601
+    },
+    {
+      "word": "floyd",
+      "score": 0.075451
+    },
+    {
+      "word": "lal",
+      "score": 0.070329
+    },
+    {
+      "word": "stevens",
+      "score": 0.069661
+    },
+    {
+      "word": "flaherty",
+      "score": 0.068461
+    },
+    {
+      "word": "charlton",
+      "score": 0.062044
+    },
+    {
+      "word": "parker",
+      "score": 0.06183
+    },
+    {
+      "word": "pietro",
+      "score": 0.061242
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "Boswell's Life of Johnson by James Boswell",
+  "genre": "Biographies and Autobiographies",
+  "pkl_stem": "Boswell_s_Life_of_Johnson_by_James_Boswell",
+  "top_keywords": [
+    {
+      "word": "thrale",
+      "score": 0.07441
+    },
+    {
+      "word": "authour",
+      "score": 0.065986
+    },
+    {
+      "word": "boswell",
+      "score": 0.06399
+    },
+    {
+      "word": "langton",
+      "score": 0.062754
+    },
+    {
+      "word": "garrick",
+      "score": 0.060002
+    },
+    {
+      "word": "lichfield",
+      "score": 0.059832
+    },
+    {
+      "word": "aetat",
+      "score": 0.056754
+    },
+    {
+      "word": "publick",
+      "score": 0.054478
+    },
+    {
+      "word": "dodsley",
+      "score": 0.050187
+    },
+    {
+      "word": "burney",
+      "score": 0.048826
+    },
+    {
+      "word": "baretti",
+      "score": 0.047745
+    },
+    {
+      "word": "dilly",
+      "score": 0.047471
+    },
+    {
+      "word": "cibber",
+      "score": 0.046478
+    },
+    {
+      "word": "davies",
+      "score": 0.045094
+    },
+    {
+      "word": "reynolds",
+      "score": 0.044826
+    },
+    {
+      "word": "authours",
+      "score": 0.044699
+    },
+    {
+      "word": "johnson",
+      "score": 0.044133
+    },
+    {
+      "word": "wilkes",
+      "score": 0.044127
+    },
+    {
+      "word": "streatham",
+      "score": 0.043854
+    },
+    {
+      "word": "knowles",
+      "score": 0.043854
+    }
+  ]
+}

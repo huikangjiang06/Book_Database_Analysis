@@ -1,0 +1,87 @@
+{
+  "book_title": "Bulfinch's Mythology by Thomas Bulfinch",
+  "genre": "Mythology",
+  "pkl_stem": "Bulfinch_s_Mythology_by_Thomas_Bulfinch",
+  "top_keywords": [
+    {
+      "word": "launcelot",
+      "score": 0.059318
+    },
+    {
+      "word": "gawain",
+      "score": 0.053385
+    },
+    {
+      "word": "perceval",
+      "score": 0.051928
+    },
+    {
+      "word": "tristram",
+      "score": 0.049972
+    },
+    {
+      "word": "guenever",
+      "score": 0.049336
+    },
+    {
+      "word": "palamedes",
+      "score": 0.047823
+    },
+    {
+      "word": "modred",
+      "score": 0.045268
+    },
+    {
+      "word": "owain",
+      "score": 0.043867
+    },
+    {
+      "word": "loki",
+      "score": 0.043771
+    },
+    {
+      "word": "sangreal",
+      "score": 0.043462
+    },
+    {
+      "word": "baldur",
+      "score": 0.041865
+    },
+    {
+      "word": "bedivere",
+      "score": 0.041419
+    },
+    {
+      "word": "kay",
+      "score": 0.041282
+    },
+    {
+      "word": "aeneas",
+      "score": 0.040673
+    },
+    {
+      "word": "merlin",
+      "score": 0.039249
+    },
+    {
+      "word": "turnus",
+      "score": 0.039046
+    },
+    {
+      "word": "shalott",
+      "score": 0.038865
+    },
+    {
+      "word": "caradoc",
+      "score": 0.038724
+    },
+    {
+      "word": "ceyx",
+      "score": 0.0382
+    },
+    {
+      "word": "camelot",
+      "score": 0.038165
+    }
+  ]
+}

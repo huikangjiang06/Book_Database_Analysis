@@ -1,0 +1,87 @@
+{
+  "book_title": "Cranford by Elizabeth Cleghorn Gaskell",
+  "genre": "Comedy, humourous novels",
+  "pkl_stem": "Cranford_by_Elizabeth_Cleghorn_Gaskell",
+  "top_keywords": [
+    {
+      "word": "matty",
+      "score": 0.150562
+    },
+    {
+      "word": "jenkyns",
+      "score": 0.128046
+    },
+    {
+      "word": "cranford",
+      "score": 0.121762
+    },
+    {
+      "word": "jamieson",
+      "score": 0.113402
+    },
+    {
+      "word": "forrester",
+      "score": 0.098581
+    },
+    {
+      "word": "deborah",
+      "score": 0.084319
+    },
+    {
+      "word": "arley",
+      "score": 0.081302
+    },
+    {
+      "word": "holbrook",
+      "score": 0.079643
+    },
+    {
+      "word": "jessie",
+      "score": 0.076912
+    },
+    {
+      "word": "matilda",
+      "score": 0.070639
+    },
+    {
+      "word": "jem",
+      "score": 0.070009
+    },
+    {
+      "word": "fitz",
+      "score": 0.068976
+    },
+    {
+      "word": "barker",
+      "score": 0.06652
+    },
+    {
+      "word": "martha",
+      "score": 0.066167
+    },
+    {
+      "word": "aga",
+      "score": 0.056529
+    },
+    {
+      "word": "signor",
+      "score": 0.055494
+    },
+    {
+      "word": "conjuror",
+      "score": 0.053648
+    },
+    {
+      "word": "betty",
+      "score": 0.052673
+    },
+    {
+      "word": "carlo",
+      "score": 0.049436
+    },
+    {
+      "word": "comfits",
+      "score": 0.04827
+    }
+  ]
+}

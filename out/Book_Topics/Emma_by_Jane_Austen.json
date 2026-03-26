@@ -1,0 +1,87 @@
+{
+  "book_title": "Emma by Jane Austen",
+  "genre": "Romance",
+  "pkl_stem": "Emma_by_Jane_Austen",
+  "top_keywords": [
+    {
+      "word": "woodhouse",
+      "score": 0.108098
+    },
+    {
+      "word": "elton",
+      "score": 0.104709
+    },
+    {
+      "word": "highbury",
+      "score": 0.097015
+    },
+    {
+      "word": "weston",
+      "score": 0.089914
+    },
+    {
+      "word": "emma",
+      "score": 0.083129
+    },
+    {
+      "word": "fairfax",
+      "score": 0.081154
+    },
+    {
+      "word": "harriet",
+      "score": 0.077366
+    },
+    {
+      "word": "goddard",
+      "score": 0.076406
+    },
+    {
+      "word": "churchill",
+      "score": 0.074706
+    },
+    {
+      "word": "bates",
+      "score": 0.069148
+    },
+    {
+      "word": "eltons",
+      "score": 0.068097
+    },
+    {
+      "word": "surprize",
+      "score": 0.067626
+    },
+    {
+      "word": "surprized",
+      "score": 0.065497
+    },
+    {
+      "word": "churchills",
+      "score": 0.064768
+    },
+    {
+      "word": "campbells",
+      "score": 0.064075
+    },
+    {
+      "word": "larkins",
+      "score": 0.062268
+    },
+    {
+      "word": "dixon",
+      "score": 0.061871
+    },
+    {
+      "word": "grandmama",
+      "score": 0.05934
+    },
+    {
+      "word": "charade",
+      "score": 0.057959
+    },
+    {
+      "word": "cole",
+      "score": 0.057761
+    }
+  ]
+}

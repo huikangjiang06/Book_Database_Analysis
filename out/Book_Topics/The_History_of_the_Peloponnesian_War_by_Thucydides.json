@@ -1,0 +1,87 @@
+{
+  "book_title": "The History of the Peloponnesian War by Thucydides",
+  "genre": "War and Strategy",
+  "pkl_stem": "The_History_of_the_Peloponnesian_War_by_Thucydides",
+  "top_keywords": [
+    {
+      "word": "peloponnese",
+      "score": 0.068537
+    },
+    {
+      "word": "peloponnesians",
+      "score": 0.065932
+    },
+    {
+      "word": "syracusans",
+      "score": 0.065257
+    },
+    {
+      "word": "lacedaemonians",
+      "score": 0.064791
+    },
+    {
+      "word": "brasidas",
+      "score": 0.062547
+    },
+    {
+      "word": "gylippus",
+      "score": 0.061224
+    },
+    {
+      "word": "nicias",
+      "score": 0.059731
+    },
+    {
+      "word": "naupactus",
+      "score": 0.059392
+    },
+    {
+      "word": "mantineans",
+      "score": 0.059239
+    },
+    {
+      "word": "mitylenians",
+      "score": 0.057572
+    },
+    {
+      "word": "boeotians",
+      "score": 0.057488
+    },
+    {
+      "word": "perdiccas",
+      "score": 0.056333
+    },
+    {
+      "word": "syracusan",
+      "score": 0.055887
+    },
+    {
+      "word": "argives",
+      "score": 0.055514
+    },
+    {
+      "word": "chalcidians",
+      "score": 0.055471
+    },
+    {
+      "word": "sicels",
+      "score": 0.055044
+    },
+    {
+      "word": "nisaea",
+      "score": 0.055044
+    },
+    {
+      "word": "lacedaemon",
+      "score": 0.054255
+    },
+    {
+      "word": "catana",
+      "score": 0.054216
+    },
+    {
+      "word": "acarnanians",
+      "score": 0.053629
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "The Monikins by James Fenimore Cooper",
+  "genre": "Satirical fiction",
+  "pkl_stem": "The_Monikins_by_James_Fenimore_Cooper",
+  "top_keywords": [
+    {
+      "word": "sealer",
+      "score": 0.05998
+    },
+    {
+      "word": "brigadier",
+      "score": 0.050671
+    },
+    {
+      "word": "tun",
+      "score": 0.049381
+    },
+    {
+      "word": "perpendiculars",
+      "score": 0.049175
+    },
+    {
+      "word": "arth",
+      "score": 0.048398
+    },
+    {
+      "word": "savoyards",
+      "score": 0.047554
+    },
+    {
+      "word": "betsey",
+      "score": 0.046495
+    },
+    {
+      "word": "horizontals",
+      "score": 0.046486
+    },
+    {
+      "word": "occultation",
+      "score": 0.045325
+    },
+    {
+      "word": "protocol",
+      "score": 0.044677
+    },
+    {
+      "word": "rotatory",
+      "score": 0.04402
+    },
+    {
+      "word": "poke",
+      "score": 0.043073
+    },
+    {
+      "word": "gyration",
+      "score": 0.041077
+    },
+    {
+      "word": "walrus",
+      "score": 0.039759
+    },
+    {
+      "word": "noah",
+      "score": 0.039053
+    },
+    {
+      "word": "anna",
+      "score": 0.038471
+    },
+    {
+      "word": "savans",
+      "score": 0.036717
+    },
+    {
+      "word": "bivouac",
+      "score": 0.03663
+    },
+    {
+      "word": "sachem",
+      "score": 0.03641
+    },
+    {
+      "word": "postulate",
+      "score": 0.03602
+    }
+  ]
+}

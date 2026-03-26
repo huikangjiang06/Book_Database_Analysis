@@ -1,0 +1,87 @@
+{
+  "book_title": "Politics: A Treatise on Government by Aristotle",
+  "genre": "Political Philosophy and Ethics",
+  "pkl_stem": "Politics__A_Treatise_on_Government_by_Aristotle",
+  "top_keywords": [
+    {
+      "word": "oligarchy",
+      "score": 0.074728
+    },
+    {
+      "word": "oligarchies",
+      "score": 0.072994
+    },
+    {
+      "word": "ephori",
+      "score": 0.070344
+    },
+    {
+      "word": "democracies",
+      "score": 0.067819
+    },
+    {
+      "word": "lacedaemonians",
+      "score": 0.064943
+    },
+    {
+      "word": "seditions",
+      "score": 0.063792
+    },
+    {
+      "word": "lacedaemonian",
+      "score": 0.061974
+    },
+    {
+      "word": "lacedaemon",
+      "score": 0.059328
+    },
+    {
+      "word": "phaleas",
+      "score": 0.0559
+    },
+    {
+      "word": "rhetorica",
+      "score": 0.0559
+    },
+    {
+      "word": "tyrannies",
+      "score": 0.055861
+    },
+    {
+      "word": "periander",
+      "score": 0.055152
+    },
+    {
+      "word": "husbandmen",
+      "score": 0.054826
+    },
+    {
+      "word": "legislator",
+      "score": 0.052665
+    },
+    {
+      "word": "poetica",
+      "score": 0.052303
+    },
+    {
+      "word": "democratical",
+      "score": 0.050279
+    },
+    {
+      "word": "demagogues",
+      "score": 0.050249
+    },
+    {
+      "word": "democracy",
+      "score": 0.049622
+    },
+    {
+      "word": "sojourners",
+      "score": 0.048394
+    },
+    {
+      "word": "aristocracies",
+      "score": 0.048135
+    }
+  ]
+}

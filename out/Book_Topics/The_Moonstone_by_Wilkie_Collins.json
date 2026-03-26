@@ -1,0 +1,87 @@
+{
+  "book_title": "The Moonstone by Wilkie Collins",
+  "genre": "Detective and Mystery Stories",
+  "pkl_stem": "The_Moonstone_by_Wilkie_Collins",
+  "top_keywords": [
+    {
+      "word": "rosanna",
+      "score": 0.100544
+    },
+    {
+      "word": "moonstone",
+      "score": 0.084144
+    },
+    {
+      "word": "spearman",
+      "score": 0.071121
+    },
+    {
+      "word": "merridew",
+      "score": 0.069871
+    },
+    {
+      "word": "rachel",
+      "score": 0.064367
+    },
+    {
+      "word": "godfrey",
+      "score": 0.063797
+    },
+    {
+      "word": "blake",
+      "score": 0.063521
+    },
+    {
+      "word": "penelope",
+      "score": 0.063059
+    },
+    {
+      "word": "ezra",
+      "score": 0.062336
+    },
+    {
+      "word": "jennings",
+      "score": 0.058346
+    },
+    {
+      "word": "drusilla",
+      "score": 0.055359
+    },
+    {
+      "word": "clack",
+      "score": 0.05463
+    },
+    {
+      "word": "franklin",
+      "score": 0.054275
+    },
+    {
+      "word": "cuff",
+      "score": 0.053893
+    },
+    {
+      "word": "begbie",
+      "score": 0.052451
+    },
+    {
+      "word": "nightgown",
+      "score": 0.052061
+    },
+    {
+      "word": "sergeant",
+      "score": 0.047576
+    },
+    {
+      "word": "montagu",
+      "score": 0.047409
+    },
+    {
+      "word": "smalley",
+      "score": 0.047033
+    },
+    {
+      "word": "stamper",
+      "score": 0.047033
+    }
+  ]
+}

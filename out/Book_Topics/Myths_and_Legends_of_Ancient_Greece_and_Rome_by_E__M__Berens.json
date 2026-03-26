@@ -1,0 +1,87 @@
+{
+  "book_title": "Myths and Legends of Ancient Greece and Rome by E. M. Berens",
+  "genre": "Mythology",
+  "pkl_stem": "Myths_and_Legends_of_Ancient_Greece_and_Rome_by_E__M__Berens",
+  "top_keywords": [
+    {
+      "word": "heracles",
+      "score": 0.055444
+    },
+    {
+      "word": "gaea",
+      "score": 0.055025
+    },
+    {
+      "word": "cronus",
+      "score": 0.04995
+    },
+    {
+      "word": "helios",
+      "score": 0.04826
+    },
+    {
+      "word": "eurystheus",
+      "score": 0.04816
+    },
+    {
+      "word": "poseidon",
+      "score": 0.047796
+    },
+    {
+      "word": "odysseus",
+      "score": 0.047704
+    },
+    {
+      "word": "hera",
+      "score": 0.04672
+    },
+    {
+      "word": "hephaestus",
+      "score": 0.045909
+    },
+    {
+      "word": "athene",
+      "score": 0.044424
+    },
+    {
+      "word": "demeter",
+      "score": 0.044211
+    },
+    {
+      "word": "alcmaeon",
+      "score": 0.043667
+    },
+    {
+      "word": "nereides",
+      "score": 0.043061
+    },
+    {
+      "word": "zeus",
+      "score": 0.042374
+    },
+    {
+      "word": "selene",
+      "score": 0.04189
+    },
+    {
+      "word": "augeas",
+      "score": 0.04189
+    },
+    {
+      "word": "cus",
+      "score": 0.041581
+    },
+    {
+      "word": "jason",
+      "score": 0.041395
+    },
+    {
+      "word": "artemis",
+      "score": 0.040595
+    },
+    {
+      "word": "persephone",
+      "score": 0.040421
+    }
+  ]
+}

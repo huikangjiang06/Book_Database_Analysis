@@ -1,0 +1,87 @@
+{
+  "book_title": "Yekl: A Tale of the New York Ghetto by Abraham Cahan",
+  "genre": "NY-as-character",
+  "pkl_stem": "Yekl__A_Tale_of_the_New_York_Ghetto_by_Abraham_Cahan",
+  "top_keywords": [
+    {
+      "word": "gitl",
+      "score": 0.142252
+    },
+    {
+      "word": "bernstein",
+      "score": 0.1122
+    },
+    {
+      "word": "jake",
+      "score": 0.108113
+    },
+    {
+      "word": "mamie",
+      "score": 0.107954
+    },
+    {
+      "word": "yiddish",
+      "score": 0.087518
+    },
+    {
+      "word": "joey",
+      "score": 0.086975
+    },
+    {
+      "word": "vot",
+      "score": 0.080738
+    },
+    {
+      "word": "presser",
+      "score": 0.078607
+    },
+    {
+      "word": "ull",
+      "score": 0.077523
+    },
+    {
+      "word": "vell",
+      "score": 0.068997
+    },
+    {
+      "word": "alla",
+      "score": 0.067993
+    },
+    {
+      "word": "ghetto",
+      "score": 0.067343
+    },
+    {
+      "word": "rabbi",
+      "score": 0.066357
+    },
+    {
+      "word": "fanny",
+      "score": 0.062396
+    },
+    {
+      "word": "vill",
+      "score": 0.061911
+    },
+    {
+      "word": "greenhorn",
+      "score": 0.061166
+    },
+    {
+      "word": "vouldn",
+      "score": 0.059828
+    },
+    {
+      "word": "dot",
+      "score": 0.057527
+    },
+    {
+      "word": "vife",
+      "score": 0.055667
+    },
+    {
+      "word": "caine",
+      "score": 0.055667
+    }
+  ]
+}

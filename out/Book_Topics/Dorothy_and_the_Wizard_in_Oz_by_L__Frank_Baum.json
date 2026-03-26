@@ -1,0 +1,87 @@
+{
+  "book_title": "Dorothy and the Wizard in Oz by L. Frank Baum",
+  "genre": "Fairy Tales and Children's Literature",
+  "pkl_stem": "Dorothy_and_the_Wizard_in_Oz_by_L__Frank_Baum",
+  "top_keywords": [
+    {
+      "word": "zeb",
+      "score": 0.152349
+    },
+    {
+      "word": "piglets",
+      "score": 0.139576
+    },
+    {
+      "word": "piglet",
+      "score": 0.135692
+    },
+    {
+      "word": "sawhorse",
+      "score": 0.128232
+    },
+    {
+      "word": "dorothy",
+      "score": 0.11862
+    },
+    {
+      "word": "eureka",
+      "score": 0.117714
+    },
+    {
+      "word": "gargoyles",
+      "score": 0.107043
+    },
+    {
+      "word": "voe",
+      "score": 0.099736
+    },
+    {
+      "word": "wizard",
+      "score": 0.090675
+    },
+    {
+      "word": "buggy",
+      "score": 0.084144
+    },
+    {
+      "word": "sorcerer",
+      "score": 0.081262
+    },
+    {
+      "word": "kitten",
+      "score": 0.076957
+    },
+    {
+      "word": "jim",
+      "score": 0.076081
+    },
+    {
+      "word": "ble",
+      "score": 0.069132
+    },
+    {
+      "word": "woodman",
+      "score": 0.06882
+    },
+    {
+      "word": "munchkin",
+      "score": 0.066761
+    },
+    {
+      "word": "scarecrow",
+      "score": 0.06604
+    },
+    {
+      "word": "dama",
+      "score": 0.064733
+    },
+    {
+      "word": "gargoyle",
+      "score": 0.062734
+    },
+    {
+      "word": "damas",
+      "score": 0.061187
+    }
+  ]
+}

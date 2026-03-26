@@ -1,0 +1,87 @@
+{
+  "book_title": "The Communist Manifesto by Karl Marx and Friedrich Engels",
+  "genre": "Political Philosophy and Ethics",
+  "pkl_stem": "The_Communist_Manifesto_by_Karl_Marx_and_Friedrich_Engels",
+  "top_keywords": [
+    {
+      "word": "bourgeoisie",
+      "score": 0.148989
+    },
+    {
+      "word": "bourgeois",
+      "score": 0.129487
+    },
+    {
+      "word": "proletariat",
+      "score": 0.129391
+    },
+    {
+      "word": "communists",
+      "score": 0.126225
+    },
+    {
+      "word": "proletarians",
+      "score": 0.124915
+    },
+    {
+      "word": "antagonisms",
+      "score": 0.10714
+    },
+    {
+      "word": "communist",
+      "score": 0.103305
+    },
+    {
+      "word": "proletarian",
+      "score": 0.096873
+    },
+    {
+      "word": "communism",
+      "score": 0.093648
+    },
+    {
+      "word": "socialism",
+      "score": 0.089647
+    },
+    {
+      "word": "exploitation",
+      "score": 0.083139
+    },
+    {
+      "word": "reactionary",
+      "score": 0.079402
+    },
+    {
+      "word": "feudal",
+      "score": 0.07597
+    },
+    {
+      "word": "communistic",
+      "score": 0.07539
+    },
+    {
+      "word": "abolition",
+      "score": 0.075278
+    },
+    {
+      "word": "centralisation",
+      "score": 0.072908
+    },
+    {
+      "word": "socialist",
+      "score": 0.068242
+    },
+    {
+      "word": "chartists",
+      "score": 0.064204
+    },
+    {
+      "word": "revolutionary",
+      "score": 0.064138
+    },
+    {
+      "word": "crises",
+      "score": 0.063355
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "The Theory of the Leisure Class by Thorstein Veblen",
+  "genre": "Political Economy",
+  "pkl_stem": "The_Theory_of_the_Leisure_Class_by_Thorstein_Veblen",
+  "top_keywords": [
+    {
+      "word": "serviceability",
+      "score": 0.076563
+    },
+    {
+      "word": "honorific",
+      "score": 0.071883
+    },
+    {
+      "word": "animistic",
+      "score": 0.061995
+    },
+    {
+      "word": "selective",
+      "score": 0.055885
+    },
+    {
+      "word": "ethnic",
+      "score": 0.055693
+    },
+    {
+      "word": "expensiveness",
+      "score": 0.055318
+    },
+    {
+      "word": "anthropomorphic",
+      "score": 0.055113
+    },
+    {
+      "word": "aptitudes",
+      "score": 0.054596
+    },
+    {
+      "word": "vicarious",
+      "score": 0.052962
+    },
+    {
+      "word": "predatory",
+      "score": 0.051377
+    },
+    {
+      "word": "predaceous",
+      "score": 0.050745
+    },
+    {
+      "word": "norm",
+      "score": 0.050601
+    },
+    {
+      "word": "habituation",
+      "score": 0.048863
+    },
+    {
+      "word": "invidious",
+      "score": 0.048656
+    },
+    {
+      "word": "obsolescence",
+      "score": 0.048583
+    },
+    {
+      "word": "cultural",
+      "score": 0.047383
+    },
+    {
+      "word": "cults",
+      "score": 0.047037
+    },
+    {
+      "word": "proclivity",
+      "score": 0.046015
+    },
+    {
+      "word": "tabu",
+      "score": 0.044575
+    },
+    {
+      "word": "devoutness",
+      "score": 0.044413
+    }
+  ]
+}

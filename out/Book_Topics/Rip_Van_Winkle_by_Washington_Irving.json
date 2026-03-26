@@ -1,0 +1,87 @@
+{
+  "book_title": "Rip Van Winkle by Washington Irving",
+  "genre": "Fantasy and Allegorical Fiction",
+  "pkl_stem": "Rip_Van_Winkle_by_Washington_Irving",
+  "top_keywords": [
+    {
+      "word": "winkle",
+      "score": 0.152335
+    },
+    {
+      "word": "rip",
+      "score": 0.120275
+    },
+    {
+      "word": "ninepins",
+      "score": 0.112852
+    },
+    {
+      "word": "flagon",
+      "score": 0.106644
+    },
+    {
+      "word": "barometers",
+      "score": 0.084832
+    },
+    {
+      "word": "hollands",
+      "score": 0.084832
+    },
+    {
+      "word": "ingoldsby",
+      "score": 0.079641
+    },
+    {
+      "word": "doolittle",
+      "score": 0.079641
+    },
+    {
+      "word": "knickerbocker",
+      "score": 0.077169
+    },
+    {
+      "word": "manitou",
+      "score": 0.077051
+    },
+    {
+      "word": "hendrick",
+      "score": 0.077051
+    },
+    {
+      "word": "van",
+      "score": 0.076624
+    },
+    {
+      "word": "keg",
+      "score": 0.075721
+    },
+    {
+      "word": "pecked",
+      "score": 0.075085
+    },
+    {
+      "word": "firelock",
+      "score": 0.072965
+    },
+    {
+      "word": "fowling",
+      "score": 0.071847
+    },
+    {
+      "word": "stuyvesant",
+      "score": 0.071292
+    },
+    {
+      "word": "henpecked",
+      "score": 0.071292
+    },
+    {
+      "word": "glen",
+      "score": 0.068346
+    },
+    {
+      "word": "dame",
+      "score": 0.067178
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "Dead Souls by Nikolai Vasilevich Gogol",
+  "genre": "Satirical fiction",
+  "pkl_stem": "Dead_Souls_by_Nikolai_Vasilevich_Gogol",
+  "top_keywords": [
+    {
+      "word": "ivanovitch",
+      "score": 0.065503
+    },
+    {
+      "word": "platon",
+      "score": 0.064188
+    },
+    {
+      "word": "roubles",
+      "score": 0.063093
+    },
+    {
+      "word": "kopeck",
+      "score": 0.056041
+    },
+    {
+      "word": "antonovitch",
+      "score": 0.053952
+    },
+    {
+      "word": "versts",
+      "score": 0.053896
+    },
+    {
+      "word": "petrovitch",
+      "score": 0.049448
+    },
+    {
+      "word": "tchinovnik",
+      "score": 0.04905
+    },
+    {
+      "word": "vassili",
+      "score": 0.048811
+    },
+    {
+      "word": "frockcoat",
+      "score": 0.048665
+    },
+    {
+      "word": "vassilievitch",
+      "score": 0.047825
+    },
+    {
+      "word": "kopecks",
+      "score": 0.046704
+    },
+    {
+      "word": "ivan",
+      "score": 0.046573
+    },
+    {
+      "word": "kherson",
+      "score": 0.046484
+    },
+    {
+      "word": "gogol",
+      "score": 0.04625
+    },
+    {
+      "word": "landowner",
+      "score": 0.046119
+    },
+    {
+      "word": "rouble",
+      "score": 0.045978
+    },
+    {
+      "word": "samovar",
+      "score": 0.041202
+    },
+    {
+      "word": "vodka",
+      "score": 0.040302
+    },
+    {
+      "word": "archpriest",
+      "score": 0.039514
+    }
+  ]
+}

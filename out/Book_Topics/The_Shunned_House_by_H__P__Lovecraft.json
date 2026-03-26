@@ -1,0 +1,87 @@
+{
+  "book_title": "The Shunned House by H. P. Lovecraft",
+  "genre": "Horror Tales",
+  "pkl_stem": "The_Shunned_House_by_H__P__Lovecraft",
+  "top_keywords": [
+    {
+      "word": "dexter",
+      "score": 0.101488
+    },
+    {
+      "word": "carrington",
+      "score": 0.101412
+    },
+    {
+      "word": "harris",
+      "score": 0.100234
+    },
+    {
+      "word": "whipple",
+      "score": 0.093902
+    },
+    {
+      "word": "fungi",
+      "score": 0.085404
+    },
+    {
+      "word": "phebe",
+      "score": 0.078854
+    },
+    {
+      "word": "peleg",
+      "score": 0.07629
+    },
+    {
+      "word": "elihu",
+      "score": 0.075664
+    },
+    {
+      "word": "etienne",
+      "score": 0.073199
+    },
+    {
+      "word": "shunned",
+      "score": 0.071519
+    },
+    {
+      "word": "robbins",
+      "score": 0.069106
+    },
+    {
+      "word": "mold",
+      "score": 0.068213
+    },
+    {
+      "word": "panelling",
+      "score": 0.067766
+    },
+    {
+      "word": "moldy",
+      "score": 0.066542
+    },
+    {
+      "word": "crookes",
+      "score": 0.066151
+    },
+    {
+      "word": "ann",
+      "score": 0.065634
+    },
+    {
+      "word": "cot",
+      "score": 0.064777
+    },
+    {
+      "word": "exeter",
+      "score": 0.064528
+    },
+    {
+      "word": "anemia",
+      "score": 0.06155
+    },
+    {
+      "word": "angell",
+      "score": 0.06155
+    }
+  ]
+}

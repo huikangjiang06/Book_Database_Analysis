@@ -1,0 +1,87 @@
+{
+  "book_title": "The Education of Henry Adams by Henry Adams",
+  "genre": "Biographies and Autobiographies",
+  "pkl_stem": "The_Education_of_Henry_Adams_by_Henry_Adams",
+  "top_keywords": [
+    {
+      "word": "milnes",
+      "score": 0.054728
+    },
+    {
+      "word": "palmerston",
+      "score": 0.050644
+    },
+    {
+      "word": "gaudens",
+      "score": 0.04969
+    },
+    {
+      "word": "evarts",
+      "score": 0.048677
+    },
+    {
+      "word": "adams",
+      "score": 0.046649
+    },
+    {
+      "word": "bostonian",
+      "score": 0.045202
+    },
+    {
+      "word": "monckton",
+      "score": 0.044868
+    },
+    {
+      "word": "adamses",
+      "score": 0.044868
+    },
+    {
+      "word": "boutwell",
+      "score": 0.044705
+    },
+    {
+      "word": "sumner",
+      "score": 0.043865
+    },
+    {
+      "word": "supersensual",
+      "score": 0.043279
+    },
+    {
+      "word": "seward",
+      "score": 0.041476
+    },
+    {
+      "word": "delane",
+      "score": 0.040411
+    },
+    {
+      "word": "palgrave",
+      "score": 0.039887
+    },
+    {
+      "word": "legation",
+      "score": 0.039202
+    },
+    {
+      "word": "quincy",
+      "score": 0.0388
+    },
+    {
+      "word": "swinburne",
+      "score": 0.038022
+    },
+    {
+      "word": "cassini",
+      "score": 0.037986
+    },
+    {
+      "word": "langley",
+      "score": 0.037674
+    },
+    {
+      "word": "coeli",
+      "score": 0.037431
+    }
+  ]
+}

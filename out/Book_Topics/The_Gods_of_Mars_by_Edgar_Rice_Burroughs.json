@@ -1,0 +1,87 @@
+{
+  "book_title": "The Gods of Mars by Edgar Rice Burroughs",
+  "genre": "Science Fiction",
+  "pkl_stem": "The_Gods_of_Mars_by_Edgar_Rice_Burroughs",
+  "top_keywords": [
+    {
+      "word": "tarkas",
+      "score": 0.105119
+    },
+    {
+      "word": "barsoom",
+      "score": 0.104491
+    },
+    {
+      "word": "dejah",
+      "score": 0.098265
+    },
+    {
+      "word": "helium",
+      "score": 0.0977
+    },
+    {
+      "word": "issus",
+      "score": 0.096198
+    },
+    {
+      "word": "thoris",
+      "score": 0.093645
+    },
+    {
+      "word": "thark",
+      "score": 0.090879
+    },
+    {
+      "word": "kantos",
+      "score": 0.090879
+    },
+    {
+      "word": "jeddak",
+      "score": 0.084951
+    },
+    {
+      "word": "tars",
+      "score": 0.0813
+    },
+    {
+      "word": "vastus",
+      "score": 0.080769
+    },
+    {
+      "word": "zat",
+      "score": 0.079804
+    },
+    {
+      "word": "tardos",
+      "score": 0.078915
+    },
+    {
+      "word": "martian",
+      "score": 0.073521
+    },
+    {
+      "word": "korus",
+      "score": 0.071852
+    },
+    {
+      "word": "zodanga",
+      "score": 0.070867
+    },
+    {
+      "word": "barsoomian",
+      "score": 0.067546
+    },
+    {
+      "word": "martians",
+      "score": 0.067485
+    },
+    {
+      "word": "thoat",
+      "score": 0.066289
+    },
+    {
+      "word": "mors",
+      "score": 0.064942
+    }
+  ]
+}

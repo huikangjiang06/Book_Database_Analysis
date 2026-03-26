@@ -1,0 +1,87 @@
+{
+  "book_title": "The Green Mouse by Robert W. Chambers",
+  "genre": "NY-as-character",
+  "pkl_stem": "The_Green_Mouse_by_Robert_W__Chambers",
+  "top_keywords": [
+    {
+      "word": "drusilla",
+      "score": 0.099555
+    },
+    {
+      "word": "sybilla",
+      "score": 0.088157
+    },
+    {
+      "word": "yates",
+      "score": 0.087395
+    },
+    {
+      "word": "linda",
+      "score": 0.086046
+    },
+    {
+      "word": "carr",
+      "score": 0.080703
+    },
+    {
+      "word": "clarence",
+      "score": 0.076938
+    },
+    {
+      "word": "beekman",
+      "score": 0.071406
+    },
+    {
+      "word": "triplets",
+      "score": 0.066151
+    },
+    {
+      "word": "grille",
+      "score": 0.06591
+    },
+    {
+      "word": "tuxedo",
+      "score": 0.064746
+    },
+    {
+      "word": "pah",
+      "score": 0.061609
+    },
+    {
+      "word": "plumber",
+      "score": 0.058897
+    },
+    {
+      "word": "psychic",
+      "score": 0.056594
+    },
+    {
+      "word": "psychical",
+      "score": 0.056319
+    },
+    {
+      "word": "wireless",
+      "score": 0.056046
+    },
+    {
+      "word": "tentacle",
+      "score": 0.055858
+    },
+    {
+      "word": "monocle",
+      "score": 0.055858
+    },
+    {
+      "word": "betty",
+      "score": 0.05141
+    },
+    {
+      "word": "quinn",
+      "score": 0.048361
+    },
+    {
+      "word": "janitor",
+      "score": 0.047868
+    }
+  ]
+}

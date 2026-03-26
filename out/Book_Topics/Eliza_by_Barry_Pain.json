@@ -1,0 +1,87 @@
+{
+  "book_title": "Eliza by Barry Pain",
+  "genre": "Comedy, humourous novels",
+  "pkl_stem": "Eliza_by_Barry_Pain",
+  "top_keywords": [
+    {
+      "word": "sakers",
+      "score": 0.191359
+    },
+    {
+      "word": "eliza",
+      "score": 0.17343
+    },
+    {
+      "word": "figgis",
+      "score": 0.141883
+    },
+    {
+      "word": "wiper",
+      "score": 0.123664
+    },
+    {
+      "word": "mushroom",
+      "score": 0.103184
+    },
+    {
+      "word": "conundrums",
+      "score": 0.091525
+    },
+    {
+      "word": "fonder",
+      "score": 0.089458
+    },
+    {
+      "word": "walnuts",
+      "score": 0.079932
+    },
+    {
+      "word": "perkins",
+      "score": 0.079148
+    },
+    {
+      "word": "eugene",
+      "score": 0.078361
+    },
+    {
+      "word": "tonic",
+      "score": 0.077515
+    },
+    {
+      "word": "bazaar",
+      "score": 0.075701
+    },
+    {
+      "word": "hairpins",
+      "score": 0.073013
+    },
+    {
+      "word": "griffiths",
+      "score": 0.070699
+    },
+    {
+      "word": "ladyship",
+      "score": 0.06774
+    },
+    {
+      "word": "hon",
+      "score": 0.066692
+    },
+    {
+      "word": "tink",
+      "score": 0.065024
+    },
+    {
+      "word": "sha",
+      "score": 0.064576
+    },
+    {
+      "word": "shillings",
+      "score": 0.063049
+    },
+    {
+      "word": "hairpin",
+      "score": 0.062294
+    }
+  ]
+}

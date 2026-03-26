@@ -1,0 +1,87 @@
+{
+  "book_title": "Curious, if True by Elizabeth Cleghorn Gaskell",
+  "genre": "Horror Tales",
+  "pkl_stem": "Curious__if_True_by_Elizabeth_Cleghorn_Gaskell",
+  "top_keywords": [
+    {
+      "word": "amante",
+      "score": 0.096686
+    },
+    {
+      "word": "lois",
+      "score": 0.094683
+    },
+    {
+      "word": "hickson",
+      "score": 0.086198
+    },
+    {
+      "word": "manasseh",
+      "score": 0.085237
+    },
+    {
+      "word": "rupprecht",
+      "score": 0.074013
+    },
+    {
+      "word": "bridget",
+      "score": 0.073879
+    },
+    {
+      "word": "rosamond",
+      "score": 0.070486
+    },
+    {
+      "word": "nolan",
+      "score": 0.068963
+    },
+    {
+      "word": "babette",
+      "score": 0.066033
+    },
+    {
+      "word": "starkey",
+      "score": 0.065627
+    },
+    {
+      "word": "lefebvre",
+      "score": 0.061778
+    },
+    {
+      "word": "clares",
+      "score": 0.061515
+    },
+    {
+      "word": "carlsruhe",
+      "score": 0.059979
+    },
+    {
+      "word": "rochers",
+      "score": 0.059222
+    },
+    {
+      "word": "voss",
+      "score": 0.059222
+    },
+    {
+      "word": "barclay",
+      "score": 0.057799
+    },
+    {
+      "word": "mather",
+      "score": 0.057546
+    },
+    {
+      "word": "fitzgerald",
+      "score": 0.057292
+    },
+    {
+      "word": "lucy",
+      "score": 0.056794
+    },
+    {
+      "word": "chasseur",
+      "score": 0.055447
+    }
+  ]
+}

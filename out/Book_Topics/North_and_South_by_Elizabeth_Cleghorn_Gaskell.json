@@ -1,0 +1,87 @@
+{
+  "book_title": "North and South by Elizabeth Cleghorn Gaskell",
+  "genre": "Romance",
+  "pkl_stem": "North_and_South_by_Elizabeth_Cleghorn_Gaskell",
+  "top_keywords": [
+    {
+      "word": "helstone",
+      "score": 0.084209
+    },
+    {
+      "word": "thornton",
+      "score": 0.079123
+    },
+    {
+      "word": "bessy",
+      "score": 0.075427
+    },
+    {
+      "word": "higgins",
+      "score": 0.074417
+    },
+    {
+      "word": "lennox",
+      "score": 0.0732
+    },
+    {
+      "word": "dixon",
+      "score": 0.070833
+    },
+    {
+      "word": "leonards",
+      "score": 0.066894
+    },
+    {
+      "word": "margaret",
+      "score": 0.062846
+    },
+    {
+      "word": "boucher",
+      "score": 0.061412
+    },
+    {
+      "word": "edith",
+      "score": 0.059912
+    },
+    {
+      "word": "crampton",
+      "score": 0.057385
+    },
+    {
+      "word": "dunnot",
+      "score": 0.057325
+    },
+    {
+      "word": "measter",
+      "score": 0.056741
+    },
+    {
+      "word": "getten",
+      "score": 0.055502
+    },
+    {
+      "word": "sholto",
+      "score": 0.052171
+    },
+    {
+      "word": "hale",
+      "score": 0.052152
+    },
+    {
+      "word": "donaldson",
+      "score": 0.052062
+    },
+    {
+      "word": "clemming",
+      "score": 0.050868
+    },
+    {
+      "word": "harley",
+      "score": 0.050831
+    },
+    {
+      "word": "appen",
+      "score": 0.050175
+    }
+  ]
+}

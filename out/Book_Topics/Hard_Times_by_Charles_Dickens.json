@@ -1,0 +1,87 @@
+{
+  "book_title": "Hard Times by Charles Dickens",
+  "genre": "Social Criticism through Fiction",
+  "pkl_stem": "Hard_Times_by_Charles_Dickens",
+  "top_keywords": [
+    {
+      "word": "gradgrind",
+      "score": 0.125226
+    },
+    {
+      "word": "rachael",
+      "score": 0.101998
+    },
+    {
+      "word": "sissy",
+      "score": 0.091306
+    },
+    {
+      "word": "blackpool",
+      "score": 0.084105
+    },
+    {
+      "word": "louisa",
+      "score": 0.079182
+    },
+    {
+      "word": "wath",
+      "score": 0.078202
+    },
+    {
+      "word": "ith",
+      "score": 0.073399
+    },
+    {
+      "word": "childers",
+      "score": 0.071672
+    },
+    {
+      "word": "coom",
+      "score": 0.06672
+    },
+    {
+      "word": "merrylegs",
+      "score": 0.066081
+    },
+    {
+      "word": "loo",
+      "score": 0.061036
+    },
+    {
+      "word": "thay",
+      "score": 0.060563
+    },
+    {
+      "word": "whelp",
+      "score": 0.059083
+    },
+    {
+      "word": "kidderminster",
+      "score": 0.057725
+    },
+    {
+      "word": "heer",
+      "score": 0.056106
+    },
+    {
+      "word": "stephen",
+      "score": 0.055147
+    },
+    {
+      "word": "ath",
+      "score": 0.054705
+    },
+    {
+      "word": "josiah",
+      "score": 0.052529
+    },
+    {
+      "word": "jem",
+      "score": 0.050589
+    },
+    {
+      "word": "agen",
+      "score": 0.048332
+    }
+  ]
+}

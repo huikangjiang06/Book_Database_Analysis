@@ -1,0 +1,87 @@
+{
+  "book_title": "The Adventures of Sally by P. G. Wodehouse",
+  "genre": "Comedy, humourous novels",
+  "pkl_stem": "The_Adventures_of_Sally_by_P__G__Wodehouse",
+  "top_keywords": [
+    {
+      "word": "fillmore",
+      "score": 0.112315
+    },
+    {
+      "word": "elsa",
+      "score": 0.082633
+    },
+    {
+      "word": "gerald",
+      "score": 0.078297
+    },
+    {
+      "word": "abrahams",
+      "score": 0.07705
+    },
+    {
+      "word": "bunbury",
+      "score": 0.072566
+    },
+    {
+      "word": "crofton",
+      "score": 0.071869
+    },
+    {
+      "word": "winch",
+      "score": 0.070557
+    },
+    {
+      "word": "kemp",
+      "score": 0.069804
+    },
+    {
+      "word": "hobson",
+      "score": 0.06748
+    },
+    {
+      "word": "bruce",
+      "score": 0.065637
+    },
+    {
+      "word": "blighter",
+      "score": 0.063537
+    },
+    {
+      "word": "donald",
+      "score": 0.062577
+    },
+    {
+      "word": "ginger",
+      "score": 0.062144
+    },
+    {
+      "word": "normandie",
+      "score": 0.057662
+    },
+    {
+      "word": "gladys",
+      "score": 0.055452
+    },
+    {
+      "word": "sally",
+      "score": 0.055448
+    },
+    {
+      "word": "lew",
+      "score": 0.053617
+    },
+    {
+      "word": "ike",
+      "score": 0.053324
+    },
+    {
+      "word": "toto",
+      "score": 0.052516
+    },
+    {
+      "word": "jules",
+      "score": 0.051027
+    }
+  ]
+}

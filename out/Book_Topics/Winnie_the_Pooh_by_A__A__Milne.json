@@ -1,0 +1,87 @@
+{
+  "book_title": "Winnie-the-Pooh by A. A. Milne",
+  "genre": "Fairy Tales and Children's Literature",
+  "pkl_stem": "Winnie_the_Pooh_by_A__A__Milne",
+  "top_keywords": [
+    {
+      "word": "piglet",
+      "score": 0.281067
+    },
+    {
+      "word": "winnie",
+      "score": 0.189919
+    },
+    {
+      "word": "roo",
+      "score": 0.189635
+    },
+    {
+      "word": "christopher",
+      "score": 0.148181
+    },
+    {
+      "word": "pooh",
+      "score": 0.143474
+    },
+    {
+      "word": "robin",
+      "score": 0.124101
+    },
+    {
+      "word": "trespassers",
+      "score": 0.099952
+    },
+    {
+      "word": "owl",
+      "score": 0.094171
+    },
+    {
+      "word": "rabbit",
+      "score": 0.093426
+    },
+    {
+      "word": "hallo",
+      "score": 0.092181
+    },
+    {
+      "word": "gorse",
+      "score": 0.092121
+    },
+    {
+      "word": "balloon",
+      "score": 0.08925
+    },
+    {
+      "word": "tum",
+      "score": 0.088271
+    },
+    {
+      "word": "tra",
+      "score": 0.081694
+    },
+    {
+      "word": "squeaked",
+      "score": 0.081309
+    },
+    {
+      "word": "aha",
+      "score": 0.08008
+    },
+    {
+      "word": "milne",
+      "score": 0.077302
+    },
+    {
+      "word": "pencils",
+      "score": 0.0721
+    },
+    {
+      "word": "bump",
+      "score": 0.072041
+    },
+    {
+      "word": "stumped",
+      "score": 0.07059
+    }
+  ]
+}

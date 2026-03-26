@@ -1,0 +1,87 @@
+{
+  "book_title": "Triplanetary by E. E. Smith",
+  "genre": "Science Fiction",
+  "pkl_stem": "Triplanetary_by_E__E__Smith",
+  "top_keywords": [
+    {
+      "word": "costigan",
+      "score": 0.120113
+    },
+    {
+      "word": "rodebush",
+      "score": 0.098445
+    },
+    {
+      "word": "planetoid",
+      "score": 0.086024
+    },
+    {
+      "word": "terrestrials",
+      "score": 0.082112
+    },
+    {
+      "word": "clio",
+      "score": 0.079825
+    },
+    {
+      "word": "bradley",
+      "score": 0.073105
+    },
+    {
+      "word": "tractor",
+      "score": 0.071066
+    },
+    {
+      "word": "lifeboat",
+      "score": 0.070985
+    },
+    {
+      "word": "detectors",
+      "score": 0.068323
+    },
+    {
+      "word": "amphibians",
+      "score": 0.068323
+    },
+    {
+      "word": "conway",
+      "score": 0.065389
+    },
+    {
+      "word": "vee",
+      "score": 0.063383
+    },
+    {
+      "word": "robots",
+      "score": 0.062224
+    },
+    {
+      "word": "communicator",
+      "score": 0.060413
+    },
+    {
+      "word": "generators",
+      "score": 0.060376
+    },
+    {
+      "word": "tellus",
+      "score": 0.06005
+    },
+    {
+      "word": "marsden",
+      "score": 0.058975
+    },
+    {
+      "word": "cleveland",
+      "score": 0.055747
+    },
+    {
+      "word": "projector",
+      "score": 0.054174
+    },
+    {
+      "word": "roger",
+      "score": 0.053646
+    }
+  ]
+}

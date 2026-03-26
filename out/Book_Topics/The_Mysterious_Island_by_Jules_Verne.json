@@ -1,0 +1,87 @@
+{
+  "book_title": "The Mysterious Island by Jules Verne",
+  "genre": "Science Fiction",
+  "pkl_stem": "The_Mysterious_Island_by_Jules_Verne",
+  "top_keywords": [
+    {
+      "word": "ayrton",
+      "score": 0.087235
+    },
+    {
+      "word": "neb",
+      "score": 0.081119
+    },
+    {
+      "word": "jup",
+      "score": 0.072465
+    },
+    {
+      "word": "harding",
+      "score": 0.069802
+    },
+    {
+      "word": "gideon",
+      "score": 0.065393
+    },
+    {
+      "word": "tabor",
+      "score": 0.055575
+    },
+    {
+      "word": "mandible",
+      "score": 0.054676
+    },
+    {
+      "word": "cyrus",
+      "score": 0.053175
+    },
+    {
+      "word": "dakkar",
+      "score": 0.052592
+    },
+    {
+      "word": "orang",
+      "score": 0.051819
+    },
+    {
+      "word": "glycerine",
+      "score": 0.051379
+    },
+    {
+      "word": "corral",
+      "score": 0.051316
+    },
+    {
+      "word": "nemo",
+      "score": 0.048934
+    },
+    {
+      "word": "islet",
+      "score": 0.048106
+    },
+    {
+      "word": "dugong",
+      "score": 0.04777
+    },
+    {
+      "word": "nautilus",
+      "score": 0.047426
+    },
+    {
+      "word": "herbert",
+      "score": 0.047276
+    },
+    {
+      "word": "castaways",
+      "score": 0.046957
+    },
+    {
+      "word": "colonists",
+      "score": 0.043528
+    },
+    {
+      "word": "sulphate",
+      "score": 0.043064
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "Political economy by William Stanley Jevons",
+  "genre": "Political Economy",
+  "pkl_stem": "Political_economy_by_William_Stanley_Jevons",
+  "top_keywords": [
+    {
+      "word": "unions",
+      "score": 0.063475
+    },
+    {
+      "word": "transferable",
+      "score": 0.063131
+    },
+    {
+      "word": "primer",
+      "score": 0.063097
+    },
+    {
+      "word": "commodity",
+      "score": 0.058908
+    },
+    {
+      "word": "lockout",
+      "score": 0.05863
+    },
+    {
+      "word": "capitalist",
+      "score": 0.055483
+    },
+    {
+      "word": "employers",
+      "score": 0.053802
+    },
+    {
+      "word": "trades",
+      "score": 0.05349
+    },
+    {
+      "word": "whately",
+      "score": 0.053109
+    },
+    {
+      "word": "labourers",
+      "score": 0.052662
+    },
+    {
+      "word": "barometers",
+      "score": 0.052079
+    },
+    {
+      "word": "seamstresses",
+      "score": 0.051139
+    },
+    {
+      "word": "labourer",
+      "score": 0.050678
+    },
+    {
+      "word": "cheaply",
+      "score": 0.050412
+    },
+    {
+      "word": "labour",
+      "score": 0.050235
+    },
+    {
+      "word": "circulating",
+      "score": 0.04965
+    },
+    {
+      "word": "capitalists",
+      "score": 0.049624
+    },
+    {
+      "word": "cheapened",
+      "score": 0.049473
+    },
+    {
+      "word": "meteorological",
+      "score": 0.049473
+    },
+    {
+      "word": "speculators",
+      "score": 0.049429
+    }
+  ]
+}

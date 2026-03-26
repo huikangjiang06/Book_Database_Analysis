@@ -1,0 +1,87 @@
+{
+  "book_title": "The Mysterious Rider by Zane Grey",
+  "genre": "Western Stories",
+  "pkl_stem": "The_Mysterious_Rider_by_Zane_Grey",
+  "top_keywords": [
+    {
+      "word": "wils",
+      "score": 0.099848
+    },
+    {
+      "word": "columbine",
+      "score": 0.096016
+    },
+    {
+      "word": "buster",
+      "score": 0.082748
+    },
+    {
+      "word": "ahuh",
+      "score": 0.082098
+    },
+    {
+      "word": "lem",
+      "score": 0.076287
+    },
+    {
+      "word": "collie",
+      "score": 0.076104
+    },
+    {
+      "word": "thet",
+      "score": 0.074555
+    },
+    {
+      "word": "burley",
+      "score": 0.073581
+    },
+    {
+      "word": "rancher",
+      "score": 0.071451
+    },
+    {
+      "word": "hyar",
+      "score": 0.067202
+    },
+    {
+      "word": "wal",
+      "score": 0.066301
+    },
+    {
+      "word": "cowboy",
+      "score": 0.064871
+    },
+    {
+      "word": "pronto",
+      "score": 0.064384
+    },
+    {
+      "word": "rustler",
+      "score": 0.062703
+    },
+    {
+      "word": "folsom",
+      "score": 0.062583
+    },
+    {
+      "word": "wade",
+      "score": 0.062007
+    },
+    {
+      "word": "cowboys",
+      "score": 0.061609
+    },
+    {
+      "word": "moore",
+      "score": 0.058697
+    },
+    {
+      "word": "mustang",
+      "score": 0.057858
+    },
+    {
+      "word": "rustlers",
+      "score": 0.05727
+    }
+  ]
+}

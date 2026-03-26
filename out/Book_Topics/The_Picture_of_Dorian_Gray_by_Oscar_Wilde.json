@@ -1,0 +1,87 @@
+{
+  "book_title": "The Picture of Dorian Gray by Oscar Wilde",
+  "genre": "Horror Tales",
+  "pkl_stem": "The_Picture_of_Dorian_Gray_by_Oscar_Wilde",
+  "top_keywords": [
+    {
+      "word": "dorian",
+      "score": 0.109669
+    },
+    {
+      "word": "narborough",
+      "score": 0.083959
+    },
+    {
+      "word": "basil",
+      "score": 0.080504
+    },
+    {
+      "word": "sibyl",
+      "score": 0.072988
+    },
+    {
+      "word": "vane",
+      "score": 0.06904
+    },
+    {
+      "word": "alan",
+      "score": 0.068005
+    },
+    {
+      "word": "wotton",
+      "score": 0.058182
+    },
+    {
+      "word": "selby",
+      "score": 0.057445
+    },
+    {
+      "word": "singleton",
+      "score": 0.056038
+    },
+    {
+      "word": "agatha",
+      "score": 0.054523
+    },
+    {
+      "word": "erskine",
+      "score": 0.053144
+    },
+    {
+      "word": "harry",
+      "score": 0.051075
+    },
+    {
+      "word": "gladys",
+      "score": 0.050712
+    },
+    {
+      "word": "hubbard",
+      "score": 0.048878
+    },
+    {
+      "word": "geoffrey",
+      "score": 0.048772
+    },
+    {
+      "word": "campbell",
+      "score": 0.048317
+    },
+    {
+      "word": "adrian",
+      "score": 0.047928
+    },
+    {
+      "word": "hetty",
+      "score": 0.047006
+    },
+    {
+      "word": "devereux",
+      "score": 0.046136
+    },
+    {
+      "word": "dartmoor",
+      "score": 0.046136
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "The Life and Adventures of Robinson Crusoe by Daniel Defoe",
+  "genre": "Adventure",
+  "pkl_stem": "The_Life_and_Adventures_of_Robinson_Crusoe_by_Daniel_Defoe",
+  "top_keywords": [
+    {
+      "word": "brazils",
+      "score": 0.087342
+    },
+    {
+      "word": "moidores",
+      "score": 0.068184
+    },
+    {
+      "word": "sallee",
+      "score": 0.063476
+    },
+    {
+      "word": "procuration",
+      "score": 0.054228
+    },
+    {
+      "word": "mans",
+      "score": 0.052451
+    },
+    {
+      "word": "fowling",
+      "score": 0.050417
+    },
+    {
+      "word": "hallooed",
+      "score": 0.050367
+    },
+    {
+      "word": "frighted",
+      "score": 0.04844
+    },
+    {
+      "word": "canoes",
+      "score": 0.047167
+    },
+    {
+      "word": "lisbon",
+      "score": 0.045718
+    },
+    {
+      "word": "boatswain",
+      "score": 0.04425
+    },
+    {
+      "word": "raft",
+      "score": 0.044122
+    },
+    {
+      "word": "atkins",
+      "score": 0.04401
+    },
+    {
+      "word": "pampeluna",
+      "score": 0.043637
+    },
+    {
+      "word": "friday",
+      "score": 0.043627
+    },
+    {
+      "word": "yarmouth",
+      "score": 0.043266
+    },
+    {
+      "word": "raisins",
+      "score": 0.04315
+    },
+    {
+      "word": "providences",
+      "score": 0.041903
+    },
+    {
+      "word": "canoe",
+      "score": 0.041464
+    },
+    {
+      "word": "ironwork",
+      "score": 0.041136
+    }
+  ]
+}

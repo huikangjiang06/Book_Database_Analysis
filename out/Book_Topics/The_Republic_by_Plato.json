@@ -1,0 +1,87 @@
+{
+  "book_title": "The Republic by Plato",
+  "genre": "Political Philosophy and Ethics",
+  "pkl_stem": "The_Republic_by_Plato",
+  "top_keywords": [
+    {
+      "word": "glaucon",
+      "score": 0.069406
+    },
+    {
+      "word": "adeimantus",
+      "score": 0.068386
+    },
+    {
+      "word": "thrasymachus",
+      "score": 0.066148
+    },
+    {
+      "word": "timocracy",
+      "score": 0.051172
+    },
+    {
+      "word": "cephalus",
+      "score": 0.048928
+    },
+    {
+      "word": "asclepius",
+      "score": 0.046899
+    },
+    {
+      "word": "cubed",
+      "score": 0.046899
+    },
+    {
+      "word": "oligarchical",
+      "score": 0.044259
+    },
+    {
+      "word": "timaeus",
+      "score": 0.043598
+    },
+    {
+      "word": "philebus",
+      "score": 0.041328
+    },
+    {
+      "word": "dialectic",
+      "score": 0.040868
+    },
+    {
+      "word": "phaedrus",
+      "score": 0.040305
+    },
+    {
+      "word": "simonides",
+      "score": 0.039692
+    },
+    {
+      "word": "gymnastic",
+      "score": 0.039565
+    },
+    {
+      "word": "hellenes",
+      "score": 0.039369
+    },
+    {
+      "word": "socrates",
+      "score": 0.038885
+    },
+    {
+      "word": "ariston",
+      "score": 0.038454
+    },
+    {
+      "word": "purgation",
+      "score": 0.038282
+    },
+    {
+      "word": "plato",
+      "score": 0.037447
+    },
+    {
+      "word": "drones",
+      "score": 0.037392
+    }
+  ]
+}

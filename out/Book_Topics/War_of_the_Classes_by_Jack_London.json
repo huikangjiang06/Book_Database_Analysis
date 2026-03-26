@@ -1,0 +1,87 @@
+{
+  "book_title": "War of the Classes by Jack London",
+  "genre": "Social Criticism through Fiction",
+  "pkl_stem": "War_of_the_Classes_by_Jack_London",
+  "top_keywords": [
+    {
+      "word": "scab",
+      "score": 0.100313
+    },
+    {
+      "word": "scabs",
+      "score": 0.084146
+    },
+    {
+      "word": "unionism",
+      "score": 0.074458
+    },
+    {
+      "word": "capitalist",
+      "score": 0.065526
+    },
+    {
+      "word": "capitalistic",
+      "score": 0.062265
+    },
+    {
+      "word": "socialism",
+      "score": 0.060913
+    },
+    {
+      "word": "neil",
+      "score": 0.060153
+    },
+    {
+      "word": "socialist",
+      "score": 0.05999
+    },
+    {
+      "word": "unions",
+      "score": 0.059301
+    },
+    {
+      "word": "ghent",
+      "score": 0.058977
+    },
+    {
+      "word": "socialists",
+      "score": 0.057214
+    },
+    {
+      "word": "federation",
+      "score": 0.056454
+    },
+    {
+      "word": "laborer",
+      "score": 0.054137
+    },
+    {
+      "word": "bourgeoisie",
+      "score": 0.053521
+    },
+    {
+      "word": "strikers",
+      "score": 0.052342
+    },
+    {
+      "word": "westlake",
+      "score": 0.052047
+    },
+    {
+      "word": "anthracite",
+      "score": 0.05198
+    },
+    {
+      "word": "laborers",
+      "score": 0.051963
+    },
+    {
+      "word": "striker",
+      "score": 0.051023
+    },
+    {
+      "word": "terrorism",
+      "score": 0.051023
+    }
+  ]
+}

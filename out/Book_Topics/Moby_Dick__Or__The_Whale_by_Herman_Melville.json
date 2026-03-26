@@ -1,0 +1,87 @@
+{
+  "book_title": "Moby Dick; Or, The Whale by Herman Melville",
+  "genre": "Adventure",
+  "pkl_stem": "Moby_Dick__Or__The_Whale_by_Herman_Melville",
+  "top_keywords": [
+    {
+      "word": "pequod",
+      "score": 0.059241
+    },
+    {
+      "word": "ahab",
+      "score": 0.057843
+    },
+    {
+      "word": "sperm",
+      "score": 0.057653
+    },
+    {
+      "word": "whalemen",
+      "score": 0.054163
+    },
+    {
+      "word": "moby",
+      "score": 0.052572
+    },
+    {
+      "word": "peleg",
+      "score": 0.04841
+    },
+    {
+      "word": "bildad",
+      "score": 0.047509
+    },
+    {
+      "word": "whaling",
+      "score": 0.045125
+    },
+    {
+      "word": "nantucket",
+      "score": 0.043896
+    },
+    {
+      "word": "flukes",
+      "score": 0.041145
+    },
+    {
+      "word": "pip",
+      "score": 0.038383
+    },
+    {
+      "word": "whales",
+      "score": 0.037889
+    },
+    {
+      "word": "harpoon",
+      "score": 0.037161
+    },
+    {
+      "word": "leviathan",
+      "score": 0.036942
+    },
+    {
+      "word": "jonah",
+      "score": 0.036701
+    },
+    {
+      "word": "harpoons",
+      "score": 0.036371
+    },
+    {
+      "word": "whale",
+      "score": 0.036354
+    },
+    {
+      "word": "derick",
+      "score": 0.035963
+    },
+    {
+      "word": "hussey",
+      "score": 0.035076
+    },
+    {
+      "word": "shipmates",
+      "score": 0.034577
+    }
+  ]
+}

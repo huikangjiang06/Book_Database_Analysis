@@ -1,0 +1,87 @@
+{
+  "book_title": "The Blue Castle: a novel by L. M. Montgomery",
+  "genre": "Romance",
+  "pkl_stem": "The_Blue_Castle__a_novel_by_L__M__Montgomery",
+  "top_keywords": [
+    {
+      "word": "barney",
+      "score": 0.101851
+    },
+    {
+      "word": "stickles",
+      "score": 0.100639
+    },
+    {
+      "word": "doss",
+      "score": 0.092823
+    },
+    {
+      "word": "georgiana",
+      "score": 0.08916
+    },
+    {
+      "word": "stalling",
+      "score": 0.087628
+    },
+    {
+      "word": "bernie",
+      "score": 0.084134
+    },
+    {
+      "word": "stirling",
+      "score": 0.076415
+    },
+    {
+      "word": "tierney",
+      "score": 0.072571
+    },
+    {
+      "word": "abel",
+      "score": 0.069486
+    },
+    {
+      "word": "alberta",
+      "score": 0.06252
+    },
+    {
+      "word": "trent",
+      "score": 0.059974
+    },
+    {
+      "word": "gladys",
+      "score": 0.058855
+    },
+    {
+      "word": "liniment",
+      "score": 0.055995
+    },
+    {
+      "word": "rosebush",
+      "score": 0.055302
+    },
+    {
+      "word": "dippy",
+      "score": 0.053538
+    },
+    {
+      "word": "banjo",
+      "score": 0.053154
+    },
+    {
+      "word": "wellington",
+      "score": 0.053101
+    },
+    {
+      "word": "mildred",
+      "score": 0.052906
+    },
+    {
+      "word": "ethel",
+      "score": 0.0529
+    },
+    {
+      "word": "bitters",
+      "score": 0.052391
+    }
+  ]
+}

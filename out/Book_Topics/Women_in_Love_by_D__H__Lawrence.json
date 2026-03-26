@@ -1,0 +1,87 @@
+{
+  "book_title": "Women in Love by D. H. Lawrence",
+  "genre": "Romance",
+  "pkl_stem": "Women_in_Love_by_D__H__Lawrence",
+  "top_keywords": [
+    {
+      "word": "gudrun",
+      "score": 0.092552
+    },
+    {
+      "word": "ursula",
+      "score": 0.079053
+    },
+    {
+      "word": "gerald",
+      "score": 0.073283
+    },
+    {
+      "word": "winifred",
+      "score": 0.071524
+    },
+    {
+      "word": "crich",
+      "score": 0.070989
+    },
+    {
+      "word": "hermione",
+      "score": 0.068256
+    },
+    {
+      "word": "halliday",
+      "score": 0.061505
+    },
+    {
+      "word": "shortlands",
+      "score": 0.059589
+    },
+    {
+      "word": "rupert",
+      "score": 0.050318
+    },
+    {
+      "word": "ulein",
+      "score": 0.047244
+    },
+    {
+      "word": "mino",
+      "score": 0.045022
+    },
+    {
+      "word": "dige",
+      "score": 0.042371
+    },
+    {
+      "word": "contessa",
+      "score": 0.042327
+    },
+    {
+      "word": "mindless",
+      "score": 0.040802
+    },
+    {
+      "word": "bismarck",
+      "score": 0.03655
+    },
+    {
+      "word": "colliery",
+      "score": 0.036083
+    },
+    {
+      "word": "colliers",
+      "score": 0.035249
+    },
+    {
+      "word": "winnie",
+      "score": 0.035158
+    },
+    {
+      "word": "absorbedly",
+      "score": 0.034617
+    },
+    {
+      "word": "sie",
+      "score": 0.03385
+    }
+  ]
+}

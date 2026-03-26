@@ -1,0 +1,87 @@
+{
+  "book_title": "Ancient Egyptian legends by Margaret Alice Murray",
+  "genre": "Mythology",
+  "pkl_stem": "Ancient_Egyptian_legends_by_Margaret_Alice_Murray",
+  "top_keywords": [
+    {
+      "word": "horus",
+      "score": 0.1407
+    },
+    {
+      "word": "nefer",
+      "score": 0.135502
+    },
+    {
+      "word": "ptah",
+      "score": 0.133101
+    },
+    {
+      "word": "khonsu",
+      "score": 0.125861
+    },
+    {
+      "word": "thoth",
+      "score": 0.122496
+    },
+    {
+      "word": "edfu",
+      "score": 0.117245
+    },
+    {
+      "word": "amon",
+      "score": 0.113498
+    },
+    {
+      "word": "apep",
+      "score": 0.107159
+    },
+    {
+      "word": "ahura",
+      "score": 0.106453
+    },
+    {
+      "word": "merab",
+      "score": 0.100057
+    },
+    {
+      "word": "osiris",
+      "score": 0.09558
+    },
+    {
+      "word": "neferhotep",
+      "score": 0.094148
+    },
+    {
+      "word": "isis",
+      "score": 0.093136
+    },
+    {
+      "word": "khepera",
+      "score": 0.091703
+    },
+    {
+      "word": "hathor",
+      "score": 0.086233
+    },
+    {
+      "word": "papyrus",
+      "score": 0.085596
+    },
+    {
+      "word": "harpocrates",
+      "score": 0.082669
+    },
+    {
+      "word": "rameses",
+      "score": 0.079787
+    },
+    {
+      "word": "papyri",
+      "score": 0.07692
+    },
+    {
+      "word": "nubia",
+      "score": 0.07692
+    }
+  ]
+}

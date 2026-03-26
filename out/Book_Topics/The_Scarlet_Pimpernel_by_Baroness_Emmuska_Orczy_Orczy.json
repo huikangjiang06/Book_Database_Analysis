@@ -1,0 +1,87 @@
+{
+  "book_title": "The Scarlet Pimpernel by Baroness Emmuska Orczy Orczy",
+  "genre": "Adventure",
+  "pkl_stem": "The_Scarlet_Pimpernel_by_Baroness_Emmuska_Orczy_Orczy",
+  "top_keywords": [
+    {
+      "word": "chauvelin",
+      "score": 0.11821
+    },
+    {
+      "word": "pimpernel",
+      "score": 0.09758
+    },
+    {
+      "word": "suzanne",
+      "score": 0.089455
+    },
+    {
+      "word": "ffoulkes",
+      "score": 0.089109
+    },
+    {
+      "word": "citoyen",
+      "score": 0.087961
+    },
+    {
+      "word": "marguerite",
+      "score": 0.087715
+    },
+    {
+      "word": "armand",
+      "score": 0.080279
+    },
+    {
+      "word": "tournay",
+      "score": 0.070513
+    },
+    {
+      "word": "hempseed",
+      "score": 0.069921
+    },
+    {
+      "word": "comtesse",
+      "score": 0.068185
+    },
+    {
+      "word": "percy",
+      "score": 0.067068
+    },
+    {
+      "word": "grenville",
+      "score": 0.061438
+    },
+    {
+      "word": "gris",
+      "score": 0.060889
+    },
+    {
+      "word": "lud",
+      "score": 0.060889
+    },
+    {
+      "word": "reuben",
+      "score": 0.05779
+    },
+    {
+      "word": "blanchard",
+      "score": 0.056873
+    },
+    {
+      "word": "cyr",
+      "score": 0.05636
+    },
+    {
+      "word": "vicomte",
+      "score": 0.055056
+    },
+    {
+      "word": "margot",
+      "score": 0.053237
+    },
+    {
+      "word": "guillotine",
+      "score": 0.051855
+    }
+  ]
+}

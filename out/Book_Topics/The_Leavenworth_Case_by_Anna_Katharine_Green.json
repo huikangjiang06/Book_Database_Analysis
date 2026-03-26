@@ -1,0 +1,87 @@
+{
+  "book_title": "The Leavenworth Case by Anna Katharine Green",
+  "genre": "Detective and Mystery Stories",
+  "pkl_stem": "The_Leavenworth_Case_by_Anna_Katharine_Green",
+  "top_keywords": [
+    {
+      "word": "eleanore",
+      "score": 0.130108
+    },
+    {
+      "word": "gryce",
+      "score": 0.120585
+    },
+    {
+      "word": "leavenworth",
+      "score": 0.10955
+    },
+    {
+      "word": "hannah",
+      "score": 0.071965
+    },
+    {
+      "word": "raymond",
+      "score": 0.064131
+    },
+    {
+      "word": "stebbins",
+      "score": 0.062471
+    },
+    {
+      "word": "coroner",
+      "score": 0.058454
+    },
+    {
+      "word": "robbins",
+      "score": 0.053937
+    },
+    {
+      "word": "hoffman",
+      "score": 0.05381
+    },
+    {
+      "word": "ritchie",
+      "score": 0.051102
+    },
+    {
+      "word": "juryman",
+      "score": 0.050276
+    },
+    {
+      "word": "molly",
+      "score": 0.049988
+    },
+    {
+      "word": "amy",
+      "score": 0.048778
+    },
+    {
+      "word": "shure",
+      "score": 0.046328
+    },
+    {
+      "word": "inquest",
+      "score": 0.046229
+    },
+    {
+      "word": "hubbard",
+      "score": 0.045027
+    },
+    {
+      "word": "horatio",
+      "score": 0.044123
+    },
+    {
+      "word": "nieces",
+      "score": 0.043995
+    },
+    {
+      "word": "passageway",
+      "score": 0.041502
+    },
+    {
+      "word": "quire",
+      "score": 0.041421
+    }
+  ]
+}

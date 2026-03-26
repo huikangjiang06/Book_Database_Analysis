@@ -1,0 +1,87 @@
+{
+  "book_title": "The island of Doctor Moreau by H. G. Wells",
+  "genre": "Science Fiction",
+  "pkl_stem": "The_island_of_Doctor_Moreau_by_H__G__Wells",
+  "top_keywords": [
+    {
+      "word": "moreau",
+      "score": 0.110525
+    },
+    {
+      "word": "montgomery",
+      "score": 0.095928
+    },
+    {
+      "word": "puma",
+      "score": 0.092029
+    },
+    {
+      "word": "dingey",
+      "score": 0.083068
+    },
+    {
+      "word": "sayer",
+      "score": 0.076636
+    },
+    {
+      "word": "ling",
+      "score": 0.076308
+    },
+    {
+      "word": "hyena",
+      "score": 0.063581
+    },
+    {
+      "word": "canebrake",
+      "score": 0.062264
+    },
+    {
+      "word": "vivisection",
+      "score": 0.053848
+    },
+    {
+      "word": "satyr",
+      "score": 0.052397
+    },
+    {
+      "word": "leopard",
+      "score": 0.052043
+    },
+    {
+      "word": "schooner",
+      "score": 0.051983
+    },
+    {
+      "word": "kanaka",
+      "score": 0.051708
+    },
+    {
+      "word": "slantingly",
+      "score": 0.051708
+    },
+    {
+      "word": "grafting",
+      "score": 0.049903
+    },
+    {
+      "word": "undergrowth",
+      "score": 0.048687
+    },
+    {
+      "word": "ape",
+      "score": 0.046894
+    },
+    {
+      "word": "revolver",
+      "score": 0.046477
+    },
+    {
+      "word": "enclosure",
+      "score": 0.046363
+    },
+    {
+      "word": "fronds",
+      "score": 0.045831
+    }
+  ]
+}

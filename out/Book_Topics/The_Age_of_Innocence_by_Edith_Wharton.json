@@ -1,0 +1,87 @@
+{
+  "book_title": "The Age of Innocence by Edith Wharton",
+  "genre": "NY-as-character",
+  "pkl_stem": "The_Age_of_Innocence_by_Edith_Wharton",
+  "top_keywords": [
+    {
+      "word": "newland",
+      "score": 0.099944
+    },
+    {
+      "word": "mingott",
+      "score": 0.096756
+    },
+    {
+      "word": "welland",
+      "score": 0.090058
+    },
+    {
+      "word": "janey",
+      "score": 0.080151
+    },
+    {
+      "word": "sillerton",
+      "score": 0.079468
+    },
+    {
+      "word": "manson",
+      "score": 0.075729
+    },
+    {
+      "word": "struthers",
+      "score": 0.074163
+    },
+    {
+      "word": "luydens",
+      "score": 0.073674
+    },
+    {
+      "word": "beaufort",
+      "score": 0.072029
+    },
+    {
+      "word": "archer",
+      "score": 0.066489
+    },
+    {
+      "word": "riviere",
+      "score": 0.065828
+    },
+    {
+      "word": "medora",
+      "score": 0.064509
+    },
+    {
+      "word": "lovell",
+      "score": 0.063059
+    },
+    {
+      "word": "dallas",
+      "score": 0.062349
+    },
+    {
+      "word": "ellen",
+      "score": 0.05944
+    },
+    {
+      "word": "reggie",
+      "score": 0.059232
+    },
+    {
+      "word": "granny",
+      "score": 0.054032
+    },
+    {
+      "word": "rushworth",
+      "score": 0.052385
+    },
+    {
+      "word": "dagonet",
+      "score": 0.051567
+    },
+    {
+      "word": "nastasia",
+      "score": 0.051367
+    }
+  ]
+}

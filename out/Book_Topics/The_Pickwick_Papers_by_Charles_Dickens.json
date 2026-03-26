@@ -1,0 +1,87 @@
+{
+  "book_title": "The Pickwick Papers by Charles Dickens",
+  "genre": "Comedy, humourous novels",
+  "pkl_stem": "The_Pickwick_Papers_by_Charles_Dickens",
+  "top_keywords": [
+    {
+      "word": "tupman",
+      "score": 0.08157
+    },
+    {
+      "word": "pickwick",
+      "score": 0.077732
+    },
+    {
+      "word": "snodgrass",
+      "score": 0.075846
+    },
+    {
+      "word": "weller",
+      "score": 0.075214
+    },
+    {
+      "word": "bardell",
+      "score": 0.069949
+    },
+    {
+      "word": "fogg",
+      "score": 0.066283
+    },
+    {
+      "word": "wery",
+      "score": 0.061157
+    },
+    {
+      "word": "pott",
+      "score": 0.060003
+    },
+    {
+      "word": "eatanswill",
+      "score": 0.058453
+    },
+    {
+      "word": "dodson",
+      "score": 0.055617
+    },
+    {
+      "word": "winkle",
+      "score": 0.054936
+    },
+    {
+      "word": "sammy",
+      "score": 0.053451
+    },
+    {
+      "word": "muggleton",
+      "score": 0.053438
+    },
+    {
+      "word": "serjeant",
+      "score": 0.051565
+    },
+    {
+      "word": "pipkin",
+      "score": 0.048642
+    },
+    {
+      "word": "rachael",
+      "score": 0.0466
+    },
+    {
+      "word": "wos",
+      "score": 0.045891
+    },
+    {
+      "word": "edmunds",
+      "score": 0.044681
+    },
+    {
+      "word": "trotter",
+      "score": 0.044482
+    },
+    {
+      "word": "sawyer",
+      "score": 0.044392
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "The Children of Odin: The Book of Northern Myths by Padraic Colum",
+  "genre": "Mythology",
+  "pkl_stem": "The_Children_of_Odin__The_Book_of_Northern_Myths_by_Padraic_Colum",
+  "top_keywords": [
+    {
+      "word": "loki",
+      "score": 0.121322
+    },
+    {
+      "word": "asgard",
+      "score": 0.112938
+    },
+    {
+      "word": "sigurd",
+      "score": 0.111132
+    },
+    {
+      "word": "sigmund",
+      "score": 0.109783
+    },
+    {
+      "word": "brynhild",
+      "score": 0.104077
+    },
+    {
+      "word": "frigga",
+      "score": 0.099971
+    },
+    {
+      "word": "baldur",
+      "score": 0.099443
+    },
+    {
+      "word": "iduna",
+      "score": 0.099183
+    },
+    {
+      "word": "skirnir",
+      "score": 0.095293
+    },
+    {
+      "word": "freya",
+      "score": 0.094811
+    },
+    {
+      "word": "volsung",
+      "score": 0.094808
+    },
+    {
+      "word": "regin",
+      "score": 0.093766
+    },
+    {
+      "word": "gunnar",
+      "score": 0.092743
+    },
+    {
+      "word": "heimdall",
+      "score": 0.091625
+    },
+    {
+      "word": "thrym",
+      "score": 0.091263
+    },
+    {
+      "word": "gerda",
+      "score": 0.090442
+    },
+    {
+      "word": "volsungs",
+      "score": 0.090442
+    },
+    {
+      "word": "grani",
+      "score": 0.090442
+    },
+    {
+      "word": "fenrir",
+      "score": 0.089823
+    },
+    {
+      "word": "odin",
+      "score": 0.088792
+    }
+  ]
+}

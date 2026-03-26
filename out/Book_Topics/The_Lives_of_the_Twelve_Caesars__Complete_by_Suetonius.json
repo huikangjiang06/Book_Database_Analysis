@@ -1,0 +1,87 @@
+{
+  "book_title": "The Lives of the Twelve Caesars, Complete by Suetonius",
+  "genre": "History",
+  "pkl_stem": "The_Lives_of_the_Twelve_Caesars__Complete_by_Suetonius",
+  "top_keywords": [
+    {
+      "word": "sesterces",
+      "score": 0.05266
+    },
+    {
+      "word": "drusus",
+      "score": 0.049222
+    },
+    {
+      "word": "circensian",
+      "score": 0.046418
+    },
+    {
+      "word": "calends",
+      "score": 0.045927
+    },
+    {
+      "word": "livia",
+      "score": 0.04591
+    },
+    {
+      "word": "pretorian",
+      "score": 0.045838
+    },
+    {
+      "word": "caius",
+      "score": 0.045619
+    },
+    {
+      "word": "cneius",
+      "score": 0.043911
+    },
+    {
+      "word": "sejanus",
+      "score": 0.04325
+    },
+    {
+      "word": "germanicus",
+      "score": 0.042972
+    },
+    {
+      "word": "galba",
+      "score": 0.042767
+    },
+    {
+      "word": "consulship",
+      "score": 0.042227
+    },
+    {
+      "word": "tiberius",
+      "score": 0.042112
+    },
+    {
+      "word": "vitellius",
+      "score": 0.041508
+    },
+    {
+      "word": "claudius",
+      "score": 0.040747
+    },
+    {
+      "word": "asinius",
+      "score": 0.040617
+    },
+    {
+      "word": "agrippina",
+      "score": 0.03969
+    },
+    {
+      "word": "senatorian",
+      "score": 0.039472
+    },
+    {
+      "word": "lucius",
+      "score": 0.03928
+    },
+    {
+      "word": "domitius",
+      "score": 0.039197
+    }
+  ]
+}

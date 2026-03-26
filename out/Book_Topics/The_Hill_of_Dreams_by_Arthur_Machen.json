@@ -1,0 +1,87 @@
+{
+  "book_title": "The Hill of Dreams by Arthur Machen",
+  "genre": "Fantasy and Allegorical Fiction",
+  "pkl_stem": "The_Hill_of_Dreams_by_Arthur_Machen",
+  "top_keywords": [
+    {
+      "word": "caermaen",
+      "score": 0.085716
+    },
+    {
+      "word": "lucian",
+      "score": 0.082699
+    },
+    {
+      "word": "gervase",
+      "score": 0.071803
+    },
+    {
+      "word": "dixon",
+      "score": 0.070304
+    },
+    {
+      "word": "beit",
+      "score": 0.069006
+    },
+    {
+      "word": "dixons",
+      "score": 0.065219
+    },
+    {
+      "word": "vaughan",
+      "score": 0.052026
+    },
+    {
+      "word": "ritson",
+      "score": 0.051066
+    },
+    {
+      "word": "annie",
+      "score": 0.049745
+    },
+    {
+      "word": "colley",
+      "score": 0.049111
+    },
+    {
+      "word": "naphtha",
+      "score": 0.048335
+    },
+    {
+      "word": "jackie",
+      "score": 0.045904
+    },
+    {
+      "word": "lycidas",
+      "score": 0.043149
+    },
+    {
+      "word": "ilex",
+      "score": 0.04304
+    },
+    {
+      "word": "headmaster",
+      "score": 0.041092
+    },
+    {
+      "word": "burrows",
+      "score": 0.040949
+    },
+    {
+      "word": "rectory",
+      "score": 0.040779
+    },
+    {
+      "word": "runnymede",
+      "score": 0.040613
+    },
+    {
+      "word": "outland",
+      "score": 0.040613
+    },
+    {
+      "word": "edith",
+      "score": 0.04051
+    }
+  ]
+}

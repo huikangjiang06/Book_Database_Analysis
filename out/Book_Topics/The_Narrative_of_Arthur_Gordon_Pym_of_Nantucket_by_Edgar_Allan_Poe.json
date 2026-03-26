@@ -1,0 +1,87 @@
+{
+  "book_title": "The Narrative of Arthur Gordon Pym of Nantucket by Edgar Allan Poe",
+  "genre": "Horror Tales",
+  "pkl_stem": "The_Narrative_of_Arthur_Gordon_Pym_of_Nantucket_by_Edgar_Allan_Poe",
+  "top_keywords": [
+    {
+      "word": "peters",
+      "score": 0.074647
+    },
+    {
+      "word": "biche",
+      "score": 0.062728
+    },
+    {
+      "word": "brig",
+      "score": 0.062111
+    },
+    {
+      "word": "stowage",
+      "score": 0.061072
+    },
+    {
+      "word": "soapstone",
+      "score": 0.058403
+    },
+    {
+      "word": "penguin",
+      "score": 0.058209
+    },
+    {
+      "word": "barnard",
+      "score": 0.057163
+    },
+    {
+      "word": "nantucket",
+      "score": 0.056095
+    },
+    {
+      "word": "augustus",
+      "score": 0.055018
+    },
+    {
+      "word": "albatross",
+      "score": 0.054463
+    },
+    {
+      "word": "pym",
+      "score": 0.053507
+    },
+    {
+      "word": "antarctic",
+      "score": 0.053162
+    },
+    {
+      "word": "dirk",
+      "score": 0.052684
+    },
+    {
+      "word": "schooner",
+      "score": 0.051221
+    },
+    {
+      "word": "grampus",
+      "score": 0.050671
+    },
+    {
+      "word": "forecastle",
+      "score": 0.050551
+    },
+    {
+      "word": "stateroom",
+      "score": 0.050453
+    },
+    {
+      "word": "longitude",
+      "score": 0.050278
+    },
+    {
+      "word": "foresail",
+      "score": 0.050047
+    },
+    {
+      "word": "hulk",
+      "score": 0.049922
+    }
+  ]
+}

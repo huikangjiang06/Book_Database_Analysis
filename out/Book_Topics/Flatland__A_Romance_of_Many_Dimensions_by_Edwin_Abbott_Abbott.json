@@ -1,0 +1,87 @@
+{
+  "book_title": "Flatland: A Romance of Many Dimensions by Edwin Abbott Abbott",
+  "genre": "Satirical fiction",
+  "pkl_stem": "Flatland__A_Romance_of_Many_Dimensions_by_Edwin_Abbott_Abbott",
+  "top_keywords": [
+    {
+      "word": "isosceles",
+      "score": 0.117051
+    },
+    {
+      "word": "polygon",
+      "score": 0.099808
+    },
+    {
+      "word": "polygonal",
+      "score": 0.093237
+    },
+    {
+      "word": "pentagons",
+      "score": 0.091237
+    },
+    {
+      "word": "equilateral",
+      "score": 0.088851
+    },
+    {
+      "word": "pentagon",
+      "score": 0.085978
+    },
+    {
+      "word": "perimeter",
+      "score": 0.080901
+    },
+    {
+      "word": "hexagon",
+      "score": 0.077321
+    },
+    {
+      "word": "dimension",
+      "score": 0.075675
+    },
+    {
+      "word": "angularity",
+      "score": 0.070588
+    },
+    {
+      "word": "solids",
+      "score": 0.068265
+    },
+    {
+      "word": "cube",
+      "score": 0.065461
+    },
+    {
+      "word": "configuration",
+      "score": 0.062738
+    },
+    {
+      "word": "terminal",
+      "score": 0.06214
+    },
+    {
+      "word": "vertex",
+      "score": 0.058666
+    },
+    {
+      "word": "chromatic",
+      "score": 0.055868
+    },
+    {
+      "word": "triangles",
+      "score": 0.054765
+    },
+    {
+      "word": "intestines",
+      "score": 0.054328
+    },
+    {
+      "word": "insides",
+      "score": 0.053005
+    },
+    {
+      "word": "triangle",
+      "score": 0.051253
+    }
+  ]
+}

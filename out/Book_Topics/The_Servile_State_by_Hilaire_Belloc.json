@@ -1,0 +1,87 @@
+{
+  "book_title": "The Servile State by Hilaire Belloc",
+  "genre": "Political Economy",
+  "pkl_stem": "The_Servile_State_by_Hilaire_Belloc",
+  "top_keywords": [
+    {
+      "word": "collectivist",
+      "score": 0.106077
+    },
+    {
+      "word": "proletarian",
+      "score": 0.100134
+    },
+    {
+      "word": "capitalism",
+      "score": 0.09424
+    },
+    {
+      "word": "collectivism",
+      "score": 0.089629
+    },
+    {
+      "word": "capitalist",
+      "score": 0.081113
+    },
+    {
+      "word": "proletariat",
+      "score": 0.079759
+    },
+    {
+      "word": "servile",
+      "score": 0.068573
+    },
+    {
+      "word": "distributive",
+      "score": 0.066772
+    },
+    {
+      "word": "expropriation",
+      "score": 0.066104
+    },
+    {
+      "word": "dispossessed",
+      "score": 0.064795
+    },
+    {
+      "word": "recruitment",
+      "score": 0.064226
+    },
+    {
+      "word": "unemployment",
+      "score": 0.0636
+    },
+    {
+      "word": "socialist",
+      "score": 0.05866
+    },
+    {
+      "word": "insecurity",
+      "score": 0.058655
+    },
+    {
+      "word": "serf",
+      "score": 0.057506
+    },
+    {
+      "word": "confiscation",
+      "score": 0.05615
+    },
+    {
+      "word": "reformer",
+      "score": 0.055753
+    },
+    {
+      "word": "unfree",
+      "score": 0.054898
+    },
+    {
+      "word": "capitalists",
+      "score": 0.054258
+    },
+    {
+      "word": "possessors",
+      "score": 0.053884
+    }
+  ]
+}

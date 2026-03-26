@@ -1,0 +1,87 @@
+{
+  "book_title": "Sound Military Decision by Naval War College",
+  "genre": "War and Strategy",
+  "pkl_stem": "Sound_Military_Decision_by_Naval_War_College",
+  "top_keywords": [
+    {
+      "word": "objectives",
+      "score": 0.08553
+    },
+    {
+      "word": "acceptability",
+      "score": 0.084145
+    },
+    {
+      "word": "logistics",
+      "score": 0.083607
+    },
+    {
+      "word": "motivating",
+      "score": 0.074659
+    },
+    {
+      "word": "directive",
+      "score": 0.073073
+    },
+    {
+      "word": "suitability",
+      "score": 0.073073
+    },
+    {
+      "word": "abcd",
+      "score": 0.069826
+    },
+    {
+      "word": "echelon",
+      "score": 0.06891
+    },
+    {
+      "word": "echelons",
+      "score": 0.067871
+    },
+    {
+      "word": "evaluation",
+      "score": 0.067329
+    },
+    {
+      "word": "feasibility",
+      "score": 0.065908
+    },
+    {
+      "word": "tactical",
+      "score": 0.06323
+    },
+    {
+      "word": "formulation",
+      "score": 0.062179
+    },
+    {
+      "word": "strategical",
+      "score": 0.062036
+    },
+    {
+      "word": "subsidiary",
+      "score": 0.061156
+    },
+    {
+      "word": "visualization",
+      "score": 0.060855
+    },
+    {
+      "word": "visualized",
+      "score": 0.058968
+    },
+    {
+      "word": "basic",
+      "score": 0.058965
+    },
+    {
+      "word": "apportionment",
+      "score": 0.058862
+    },
+    {
+      "word": "annexes",
+      "score": 0.056844
+    }
+  ]
+}

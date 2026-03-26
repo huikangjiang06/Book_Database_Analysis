@@ -1,0 +1,87 @@
+{
+  "book_title": "We by Evgenii Ivanovich Zamiatin",
+  "genre": "Science Fiction",
+  "pkl_stem": "We_by_Evgenii_Ivanovich_Zamiatin",
+  "top_keywords": [
+    {
+      "word": "aero",
+      "score": 0.086743
+    },
+    {
+      "word": "integral",
+      "score": 0.060141
+    },
+    {
+      "word": "auditorium",
+      "score": 0.057574
+    },
+    {
+      "word": "doer",
+      "score": 0.056487
+    },
+    {
+      "word": "controller",
+      "score": 0.051772
+    },
+    {
+      "word": "megaphone",
+      "score": 0.051276
+    },
+    {
+      "word": "microbe",
+      "score": 0.049486
+    },
+    {
+      "word": "gills",
+      "score": 0.049399
+    },
+    {
+      "word": "minus",
+      "score": 0.047498
+    },
+    {
+      "word": "pinkish",
+      "score": 0.046301
+    },
+    {
+      "word": "piston",
+      "score": 0.04574
+    },
+    {
+      "word": "zero",
+      "score": 0.045176
+    },
+    {
+      "word": "heh",
+      "score": 0.044651
+    },
+    {
+      "word": "cube",
+      "score": 0.04448
+    },
+    {
+      "word": "unbearably",
+      "score": 0.044429
+    },
+    {
+      "word": "radio",
+      "score": 0.044429
+    },
+    {
+      "word": "grayish",
+      "score": 0.044226
+    },
+    {
+      "word": "petrograd",
+      "score": 0.043136
+    },
+    {
+      "word": "buddha",
+      "score": 0.042558
+    },
+    {
+      "word": "dimensional",
+      "score": 0.042076
+    }
+  ]
+}

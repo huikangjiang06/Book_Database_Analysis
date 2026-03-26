@@ -1,0 +1,87 @@
+{
+  "book_title": "The Wind in the Willows by Kenneth Grahame",
+  "genre": "Fairy Tales and Children's Literature",
+  "pkl_stem": "The_Wind_in_the_Willows_by_Kenneth_Grahame",
+  "top_keywords": [
+    {
+      "word": "ratty",
+      "score": 0.10783
+    },
+    {
+      "word": "badger",
+      "score": 0.085216
+    },
+    {
+      "word": "toad",
+      "score": 0.081825
+    },
+    {
+      "word": "stoats",
+      "score": 0.079645
+    },
+    {
+      "word": "mole",
+      "score": 0.071791
+    },
+    {
+      "word": "weasels",
+      "score": 0.070023
+    },
+    {
+      "word": "otter",
+      "score": 0.06127
+    },
+    {
+      "word": "sculls",
+      "score": 0.059795
+    },
+    {
+      "word": "washerwoman",
+      "score": 0.058848
+    },
+    {
+      "word": "toady",
+      "score": 0.057881
+    },
+    {
+      "word": "barge",
+      "score": 0.055973
+    },
+    {
+      "word": "poop",
+      "score": 0.055672
+    },
+    {
+      "word": "rat",
+      "score": 0.05452
+    },
+    {
+      "word": "gipsy",
+      "score": 0.050206
+    },
+    {
+      "word": "backwater",
+      "score": 0.048931
+    },
+    {
+      "word": "hedgehogs",
+      "score": 0.047842
+    },
+    {
+      "word": "seafarer",
+      "score": 0.046336
+    },
+    {
+      "word": "gaoler",
+      "score": 0.045816
+    },
+    {
+      "word": "badgers",
+      "score": 0.044005
+    },
+    {
+      "word": "motor",
+      "score": 0.043714
+    }
+  ]
+}

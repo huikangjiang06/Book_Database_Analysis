@@ -1,0 +1,87 @@
+{
+  "book_title": "The Book of Wonder by Lord Dunsany",
+  "genre": "Fantasy and Allegorical Fiction",
+  "pkl_stem": "The_Book_of_Wonder_by_Lord_Dunsany",
+  "top_keywords": [
+    {
+      "word": "nuth",
+      "score": 0.152329
+    },
+    {
+      "word": "pombo",
+      "score": 0.142298
+    },
+    {
+      "word": "shard",
+      "score": 0.123469
+    },
+    {
+      "word": "shap",
+      "score": 0.121797
+    },
+    {
+      "word": "chu",
+      "score": 0.121683
+    },
+    {
+      "word": "hippogriffs",
+      "score": 0.088684
+    },
+    {
+      "word": "idolater",
+      "score": 0.084859
+    },
+    {
+      "word": "gladsome",
+      "score": 0.078903
+    },
+    {
+      "word": "troubadours",
+      "score": 0.078229
+    },
+    {
+      "word": "hippogriff",
+      "score": 0.075233
+    },
+    {
+      "word": "jeweller",
+      "score": 0.069282
+    },
+    {
+      "word": "galleons",
+      "score": 0.065816
+    },
+    {
+      "word": "dragons",
+      "score": 0.063252
+    },
+    {
+      "word": "sphinx",
+      "score": 0.060409
+    },
+    {
+      "word": "agate",
+      "score": 0.05992
+    },
+    {
+      "word": "archers",
+      "score": 0.057898
+    },
+    {
+      "word": "centaurs",
+      "score": 0.057175
+    },
+    {
+      "word": "earthward",
+      "score": 0.056159
+    },
+    {
+      "word": "cobbled",
+      "score": 0.056159
+    },
+    {
+      "word": "emeralds",
+      "score": 0.055403
+    }
+  ]
+}

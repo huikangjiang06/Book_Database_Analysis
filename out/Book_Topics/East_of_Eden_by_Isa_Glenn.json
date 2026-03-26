@@ -1,0 +1,87 @@
+{
+  "book_title": "East of Eden by Isa Glenn",
+  "genre": "NY-as-character",
+  "pkl_stem": "East_of_Eden_by_Isa_Glenn",
+  "top_keywords": [
+    {
+      "word": "suydam",
+      "score": 0.112008
+    },
+    {
+      "word": "eva",
+      "score": 0.108146
+    },
+    {
+      "word": "mapes",
+      "score": 0.100754
+    },
+    {
+      "word": "litchfield",
+      "score": 0.088598
+    },
+    {
+      "word": "underhill",
+      "score": 0.076934
+    },
+    {
+      "word": "winnie",
+      "score": 0.076806
+    },
+    {
+      "word": "pomeroy",
+      "score": 0.07627
+    },
+    {
+      "word": "tillinghast",
+      "score": 0.075618
+    },
+    {
+      "word": "dinah",
+      "score": 0.074565
+    },
+    {
+      "word": "addis",
+      "score": 0.073504
+    },
+    {
+      "word": "ingoldsby",
+      "score": 0.072054
+    },
+    {
+      "word": "bloodgood",
+      "score": 0.069099
+    },
+    {
+      "word": "avery",
+      "score": 0.068183
+    },
+    {
+      "word": "conant",
+      "score": 0.06333
+    },
+    {
+      "word": "hollywood",
+      "score": 0.061887
+    },
+    {
+      "word": "cuyler",
+      "score": 0.06172
+    },
+    {
+      "word": "gertrude",
+      "score": 0.061336
+    },
+    {
+      "word": "molly",
+      "score": 0.060471
+    },
+    {
+      "word": "augusta",
+      "score": 0.059257
+    },
+    {
+      "word": "lois",
+      "score": 0.058823
+    }
+  ]
+}

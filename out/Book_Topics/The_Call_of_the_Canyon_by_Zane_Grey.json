@@ -1,0 +1,87 @@
+{
+  "book_title": "The Call of the Canyon by Zane Grey",
+  "genre": "Western Stories",
+  "pkl_stem": "The_Call_of_the_Canyon_by_Zane_Grey",
+  "top_keywords": [
+    {
+      "word": "glenn",
+      "score": 0.114249
+    },
+    {
+      "word": "flo",
+      "score": 0.098561
+    },
+    {
+      "word": "kilbourne",
+      "score": 0.092274
+    },
+    {
+      "word": "burch",
+      "score": 0.080737
+    },
+    {
+      "word": "canyon",
+      "score": 0.0647
+    },
+    {
+      "word": "mustang",
+      "score": 0.06087
+    },
+    {
+      "word": "ruff",
+      "score": 0.060406
+    },
+    {
+      "word": "eleanor",
+      "score": 0.058116
+    },
+    {
+      "word": "morrison",
+      "score": 0.055311
+    },
+    {
+      "word": "stanton",
+      "score": 0.055058
+    },
+    {
+      "word": "arizona",
+      "score": 0.053996
+    },
+    {
+      "word": "thet",
+      "score": 0.052665
+    },
+    {
+      "word": "hoyle",
+      "score": 0.049442
+    },
+    {
+      "word": "wal",
+      "score": 0.048364
+    },
+    {
+      "word": "charley",
+      "score": 0.047583
+    },
+    {
+      "word": "flagstaff",
+      "score": 0.046789
+    },
+    {
+      "word": "cedars",
+      "score": 0.045768
+    },
+    {
+      "word": "colorful",
+      "score": 0.044823
+    },
+    {
+      "word": "bowlders",
+      "score": 0.044823
+    },
+    {
+      "word": "navajo",
+      "score": 0.044823
+    }
+  ]
+}

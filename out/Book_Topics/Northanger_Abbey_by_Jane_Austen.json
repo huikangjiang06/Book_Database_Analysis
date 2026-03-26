@@ -1,0 +1,87 @@
+{
+  "book_title": "Northanger Abbey by Jane Austen",
+  "genre": "Satirical fiction",
+  "pkl_stem": "Northanger_Abbey_by_Jane_Austen",
+  "top_keywords": [
+    {
+      "word": "tilney",
+      "score": 0.144672
+    },
+    {
+      "word": "morland",
+      "score": 0.120242
+    },
+    {
+      "word": "thorpe",
+      "score": 0.120106
+    },
+    {
+      "word": "northanger",
+      "score": 0.099357
+    },
+    {
+      "word": "fullerton",
+      "score": 0.086859
+    },
+    {
+      "word": "eleanor",
+      "score": 0.085175
+    },
+    {
+      "word": "udolpho",
+      "score": 0.08383
+    },
+    {
+      "word": "catherine",
+      "score": 0.080823
+    },
+    {
+      "word": "isabella",
+      "score": 0.077788
+    },
+    {
+      "word": "allens",
+      "score": 0.072294
+    },
+    {
+      "word": "pulteney",
+      "score": 0.070889
+    },
+    {
+      "word": "milsom",
+      "score": 0.070416
+    },
+    {
+      "word": "allen",
+      "score": 0.06969
+    },
+    {
+      "word": "curricle",
+      "score": 0.059981
+    },
+    {
+      "word": "clifton",
+      "score": 0.057486
+    },
+    {
+      "word": "hughes",
+      "score": 0.052243
+    },
+    {
+      "word": "abbey",
+      "score": 0.048016
+    },
+    {
+      "word": "gloucestershire",
+      "score": 0.047392
+    },
+    {
+      "word": "radcliffe",
+      "score": 0.046473
+    },
+    {
+      "word": "quiz",
+      "score": 0.044147
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "Right Ho, Jeeves by P. G. Wodehouse",
+  "genre": "Comedy, humourous novels",
+  "pkl_stem": "Right_Ho__Jeeves_by_P__G__Wodehouse",
+  "top_keywords": [
+    {
+      "word": "gussie",
+      "score": 0.121626
+    },
+    {
+      "word": "tuppy",
+      "score": 0.112956
+    },
+    {
+      "word": "bassett",
+      "score": 0.098253
+    },
+    {
+      "word": "angela",
+      "score": 0.096849
+    },
+    {
+      "word": "dahlia",
+      "score": 0.093897
+    },
+    {
+      "word": "bertie",
+      "score": 0.091957
+    },
+    {
+      "word": "wooster",
+      "score": 0.086617
+    },
+    {
+      "word": "fink",
+      "score": 0.086475
+    },
+    {
+      "word": "brinkley",
+      "score": 0.081406
+    },
+    {
+      "word": "bertram",
+      "score": 0.077811
+    },
+    {
+      "word": "newts",
+      "score": 0.075214
+    },
+    {
+      "word": "anatole",
+      "score": 0.073362
+    },
+    {
+      "word": "newt",
+      "score": 0.071027
+    },
+    {
+      "word": "cannes",
+      "score": 0.068696
+    },
+    {
+      "word": "madeline",
+      "score": 0.065347
+    },
+    {
+      "word": "kingham",
+      "score": 0.062562
+    },
+    {
+      "word": "bloke",
+      "score": 0.059256
+    },
+    {
+      "word": "travers",
+      "score": 0.056706
+    },
+    {
+      "word": "purvis",
+      "score": 0.055474
+    },
+    {
+      "word": "simmons",
+      "score": 0.054337
+    }
+  ]
+}

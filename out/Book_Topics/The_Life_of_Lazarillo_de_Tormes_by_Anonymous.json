@@ -1,0 +1,87 @@
+{
+  "book_title": "The Life of Lazarillo de Tormes by Anonymous",
+  "genre": "Satirical fiction",
+  "pkl_stem": "The_Life_of_Lazarillo_de_Tormes_by_Anonymous",
+  "top_keywords": [
+    {
+      "word": "lazaro",
+      "score": 0.179727
+    },
+    {
+      "word": "sidenote",
+      "score": 0.144992
+    },
+    {
+      "word": "lazarillo",
+      "score": 0.129044
+    },
+    {
+      "word": "tormes",
+      "score": 0.126199
+    },
+    {
+      "word": "mendoza",
+      "score": 0.11786
+    },
+    {
+      "word": "escalona",
+      "score": 0.114393
+    },
+    {
+      "word": "hurtado",
+      "score": 0.104842
+    },
+    {
+      "word": "blancas",
+      "score": 0.096947
+    },
+    {
+      "word": "tendilla",
+      "score": 0.092388
+    },
+    {
+      "word": "blanca",
+      "score": 0.090767
+    },
+    {
+      "word": "diego",
+      "score": 0.088218
+    },
+    {
+      "word": "esquire",
+      "score": 0.086848
+    },
+    {
+      "word": "castille",
+      "score": 0.086273
+    },
+    {
+      "word": "archpriest",
+      "score": 0.085126
+    },
+    {
+      "word": "maqueda",
+      "score": 0.084652
+    },
+    {
+      "word": "toledo",
+      "score": 0.081148
+    },
+    {
+      "word": "salamanca",
+      "score": 0.080558
+    },
+    {
+      "word": "gelves",
+      "score": 0.079124
+    },
+    {
+      "word": "inigo",
+      "score": 0.078406
+    },
+    {
+      "word": "lopez",
+      "score": 0.07745
+    }
+  ]
+}

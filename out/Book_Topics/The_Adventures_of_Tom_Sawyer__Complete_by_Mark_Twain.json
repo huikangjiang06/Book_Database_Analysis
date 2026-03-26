@@ -1,0 +1,87 @@
+{
+  "book_title": "The Adventures of Tom Sawyer, Complete by Mark Twain",
+  "genre": "Comedy, humourous novels",
+  "pkl_stem": "The_Adventures_of_Tom_Sawyer__Complete_by_Mark_Twain",
+  "top_keywords": [
+    {
+      "word": "huck",
+      "score": 0.117811
+    },
+    {
+      "word": "becky",
+      "score": 0.092457
+    },
+    {
+      "word": "thatcher",
+      "score": 0.081602
+    },
+    {
+      "word": "sid",
+      "score": 0.077802
+    },
+    {
+      "word": "injun",
+      "score": 0.076869
+    },
+    {
+      "word": "huckleberry",
+      "score": 0.069345
+    },
+    {
+      "word": "polly",
+      "score": 0.062809
+    },
+    {
+      "word": "sawyer",
+      "score": 0.059977
+    },
+    {
+      "word": "welshman",
+      "score": 0.059139
+    },
+    {
+      "word": "finn",
+      "score": 0.057099
+    },
+    {
+      "word": "ferryboat",
+      "score": 0.054398
+    },
+    {
+      "word": "dono",
+      "score": 0.054031
+    },
+    {
+      "word": "dern",
+      "score": 0.053563
+    },
+    {
+      "word": "joe",
+      "score": 0.053231
+    },
+    {
+      "word": "amy",
+      "score": 0.052836
+    },
+    {
+      "word": "auntie",
+      "score": 0.05265
+    },
+    {
+      "word": "walters",
+      "score": 0.050723
+    },
+    {
+      "word": "tom",
+      "score": 0.050553
+    },
+    {
+      "word": "widder",
+      "score": 0.049398
+    },
+    {
+      "word": "shucks",
+      "score": 0.048506
+    }
+  ]
+}

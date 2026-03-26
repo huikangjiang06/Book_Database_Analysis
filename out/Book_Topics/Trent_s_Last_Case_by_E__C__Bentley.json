@@ -1,0 +1,87 @@
+{
+  "book_title": "Trent's Last Case by E. C. Bentley",
+  "genre": "Detective and Mystery Stories",
+  "pkl_stem": "Trent_s_Last_Case_by_E__C__Bentley",
+  "top_keywords": [
+    {
+      "word": "marlowe",
+      "score": 0.126894
+    },
+    {
+      "word": "trent",
+      "score": 0.09495
+    },
+    {
+      "word": "lestine",
+      "score": 0.088608
+    },
+    {
+      "word": "mabel",
+      "score": 0.074188
+    },
+    {
+      "word": "figgis",
+      "score": 0.071684
+    },
+    {
+      "word": "sheppard",
+      "score": 0.063494
+    },
+    {
+      "word": "southampton",
+      "score": 0.060759
+    },
+    {
+      "word": "jeunes",
+      "score": 0.060596
+    },
+    {
+      "word": "gables",
+      "score": 0.051886
+    },
+    {
+      "word": "harris",
+      "score": 0.05033
+    },
+    {
+      "word": "inquest",
+      "score": 0.048599
+    },
+    {
+      "word": "fingerprints",
+      "score": 0.048193
+    },
+    {
+      "word": "syphon",
+      "score": 0.046811
+    },
+    {
+      "word": "coroner",
+      "score": 0.046696
+    },
+    {
+      "word": "dental",
+      "score": 0.045966
+    },
+    {
+      "word": "inspector",
+      "score": 0.045513
+    },
+    {
+      "word": "martin",
+      "score": 0.04509
+    },
+    {
+      "word": "plutocrat",
+      "score": 0.044591
+    },
+    {
+      "word": "jeffrey",
+      "score": 0.044591
+    },
+    {
+      "word": "escritoire",
+      "score": 0.043798
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "A Modest Proposal by Jonathan Swift",
+  "genre": "Satirical fiction",
+  "pkl_stem": "A_Modest_Proposal_by_Jonathan_Swift",
+  "top_keywords": [
+    {
+      "word": "publick",
+      "score": 0.213347
+    },
+    {
+      "word": "breeders",
+      "score": 0.148565
+    },
+    {
+      "word": "expence",
+      "score": 0.145383
+    },
+    {
+      "word": "annum",
+      "score": 0.106176
+    },
+    {
+      "word": "landlords",
+      "score": 0.102229
+    },
+    {
+      "word": "papists",
+      "score": 0.101973
+    },
+    {
+      "word": "computed",
+      "score": 0.096607
+    },
+    {
+      "word": "cottagers",
+      "score": 0.096397
+    },
+    {
+      "word": "subtract",
+      "score": 0.096397
+    },
+    {
+      "word": "maturely",
+      "score": 0.095423
+    },
+    {
+      "word": "shillings",
+      "score": 0.095379
+    },
+    {
+      "word": "infants",
+      "score": 0.092227
+    },
+    {
+      "word": "pretender",
+      "score": 0.090288
+    },
+    {
+      "word": "carcass",
+      "score": 0.083862
+    },
+    {
+      "word": "exportation",
+      "score": 0.083615
+    },
+    {
+      "word": "kingdom",
+      "score": 0.082688
+    },
+    {
+      "word": "labourers",
+      "score": 0.079407
+    },
+    {
+      "word": "dublin",
+      "score": 0.078878
+    },
+    {
+      "word": "beggars",
+      "score": 0.076773
+    },
+    {
+      "word": "carcasses",
+      "score": 0.076603
+    }
+  ]
+}

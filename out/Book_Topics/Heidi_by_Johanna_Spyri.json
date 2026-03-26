@@ -1,0 +1,87 @@
+{
+  "book_title": "Heidi by Johanna Spyri",
+  "genre": "Fairy Tales and Children's Literature",
+  "pkl_stem": "Heidi_by_Johanna_Spyri",
+  "top_keywords": [
+    {
+      "word": "heidi",
+      "score": 0.211991
+    },
+    {
+      "word": "alm",
+      "score": 0.136007
+    },
+    {
+      "word": "grandmamma",
+      "score": 0.120479
+    },
+    {
+      "word": "frankfurt",
+      "score": 0.113161
+    },
+    {
+      "word": "clara",
+      "score": 0.11307
+    },
+    {
+      "word": "sebastian",
+      "score": 0.097992
+    },
+    {
+      "word": "snowflake",
+      "score": 0.093377
+    },
+    {
+      "word": "barbel",
+      "score": 0.084797
+    },
+    {
+      "word": "miau",
+      "score": 0.078131
+    },
+    {
+      "word": "coverlid",
+      "score": 0.072873
+    },
+    {
+      "word": "adelaide",
+      "score": 0.071088
+    },
+    {
+      "word": "goats",
+      "score": 0.070413
+    },
+    {
+      "word": "grandmother",
+      "score": 0.067963
+    },
+    {
+      "word": "tobias",
+      "score": 0.066281
+    },
+    {
+      "word": "sleigh",
+      "score": 0.064908
+    },
+    {
+      "word": "fir",
+      "score": 0.062566
+    },
+    {
+      "word": "kittens",
+      "score": 0.06208
+    },
+    {
+      "word": "peter",
+      "score": 0.061441
+    },
+    {
+      "word": "johanna",
+      "score": 0.061231
+    },
+    {
+      "word": "pastor",
+      "score": 0.056369
+    }
+  ]
+}

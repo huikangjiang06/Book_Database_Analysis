@@ -1,0 +1,87 @@
+{
+  "book_title": "Three Men in a Boat (To Say Nothing of the Dog) by Jerome K. Jerome",
+  "genre": "Comedy, humourous novels",
+  "pkl_stem": "Three_Men_in_a_Boat__To_Say_Nothing_of_the_Dog__by_Jerome_K__Jerome",
+  "top_keywords": [
+    {
+      "word": "montmorency",
+      "score": 0.082635
+    },
+    {
+      "word": "harris",
+      "score": 0.078567
+    },
+    {
+      "word": "podger",
+      "score": 0.075068
+    },
+    {
+      "word": "wallingford",
+      "score": 0.074702
+    },
+    {
+      "word": "marlow",
+      "score": 0.067743
+    },
+    {
+      "word": "sculls",
+      "score": 0.067532
+    },
+    {
+      "word": "biggs",
+      "score": 0.067082
+    },
+    {
+      "word": "sculling",
+      "score": 0.064901
+    },
+    {
+      "word": "diddle",
+      "score": 0.060295
+    },
+    {
+      "word": "staines",
+      "score": 0.058159
+    },
+    {
+      "word": "scull",
+      "score": 0.057147
+    },
+    {
+      "word": "goring",
+      "score": 0.055021
+    },
+    {
+      "word": "kingston",
+      "score": 0.054506
+    },
+    {
+      "word": "abingdon",
+      "score": 0.053284
+    },
+    {
+      "word": "cheeses",
+      "score": 0.053282
+    },
+    {
+      "word": "henley",
+      "score": 0.053265
+    },
+    {
+      "word": "punt",
+      "score": 0.05179
+    },
+    {
+      "word": "boating",
+      "score": 0.051681
+    },
+    {
+      "word": "datchet",
+      "score": 0.051403
+    },
+    {
+      "word": "pianist",
+      "score": 0.05097
+    }
+  ]
+}

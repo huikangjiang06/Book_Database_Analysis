@@ -1,0 +1,87 @@
+{
+  "book_title": "A Connecticut Yankee in King Arthur's Court by Mark Twain",
+  "genre": "Comedy, humourous novels",
+  "pkl_stem": "A_Connecticut_Yankee_in_King_Arthur_s_Court_by_Mark_Twain",
+  "top_keywords": [
+    {
+      "word": "launcelot",
+      "score": 0.071407
+    },
+    {
+      "word": "sagramor",
+      "score": 0.068028
+    },
+    {
+      "word": "mordred",
+      "score": 0.064785
+    },
+    {
+      "word": "gawaine",
+      "score": 0.063668
+    },
+    {
+      "word": "camelot",
+      "score": 0.062261
+    },
+    {
+      "word": "merlin",
+      "score": 0.060482
+    },
+    {
+      "word": "gareth",
+      "score": 0.059526
+    },
+    {
+      "word": "clarence",
+      "score": 0.058977
+    },
+    {
+      "word": "kay",
+      "score": 0.055103
+    },
+    {
+      "word": "uwaine",
+      "score": 0.050631
+    },
+    {
+      "word": "guenever",
+      "score": 0.04984
+    },
+    {
+      "word": "errantry",
+      "score": 0.044326
+    },
+    {
+      "word": "brast",
+      "score": 0.042131
+    },
+    {
+      "word": "bagdemagus",
+      "score": 0.041323
+    },
+    {
+      "word": "sith",
+      "score": 0.040667
+    },
+    {
+      "word": "marco",
+      "score": 0.039981
+    },
+    {
+      "word": "abbot",
+      "score": 0.038422
+    },
+    {
+      "word": "wheelwright",
+      "score": 0.037989
+    },
+    {
+      "word": "gaheris",
+      "score": 0.037789
+    },
+    {
+      "word": "bedivere",
+      "score": 0.036012
+    }
+  ]
+}

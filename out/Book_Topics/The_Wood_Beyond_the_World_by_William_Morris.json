@@ -1,0 +1,87 @@
+{
+  "book_title": "The Wood Beyond the World by William Morris",
+  "genre": "Fantasy and Allegorical Fiction",
+  "pkl_stem": "The_Wood_Beyond_the_World_by_William_Morris",
+  "top_keywords": [
+    {
+      "word": "langton",
+      "score": 0.091931
+    },
+    {
+      "word": "carle",
+      "score": 0.086675
+    },
+    {
+      "word": "shard",
+      "score": 0.074371
+    },
+    {
+      "word": "walter",
+      "score": 0.071334
+    },
+    {
+      "word": "valiancy",
+      "score": 0.068423
+    },
+    {
+      "word": "belike",
+      "score": 0.066976
+    },
+    {
+      "word": "shipmaster",
+      "score": 0.066476
+    },
+    {
+      "word": "anigh",
+      "score": 0.065529
+    },
+    {
+      "word": "meseemeth",
+      "score": 0.065081
+    },
+    {
+      "word": "amidmost",
+      "score": 0.064843
+    },
+    {
+      "word": "spake",
+      "score": 0.06277
+    },
+    {
+      "word": "tryst",
+      "score": 0.062666
+    },
+    {
+      "word": "whiles",
+      "score": 0.061767
+    },
+    {
+      "word": "greensward",
+      "score": 0.061678
+    },
+    {
+      "word": "deemest",
+      "score": 0.061467
+    },
+    {
+      "word": "hallows",
+      "score": 0.060952
+    },
+    {
+      "word": "wot",
+      "score": 0.060798
+    },
+    {
+      "word": "shipmen",
+      "score": 0.060608
+    },
+    {
+      "word": "wellnigh",
+      "score": 0.059966
+    },
+    {
+      "word": "wottest",
+      "score": 0.059965
+    }
+  ]
+}

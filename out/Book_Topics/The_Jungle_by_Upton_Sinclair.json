@@ -1,0 +1,87 @@
+{
+  "book_title": "The Jungle by Upton Sinclair",
+  "genre": "Social Criticism through Fiction",
+  "pkl_stem": "The_Jungle_by_Upton_Sinclair",
+  "top_keywords": [
+    {
+      "word": "ona",
+      "score": 0.089187
+    },
+    {
+      "word": "scully",
+      "score": 0.071938
+    },
+    {
+      "word": "teta",
+      "score": 0.067121
+    },
+    {
+      "word": "duane",
+      "score": 0.064094
+    },
+    {
+      "word": "stockyards",
+      "score": 0.059232
+    },
+    {
+      "word": "forelady",
+      "score": 0.057535
+    },
+    {
+      "word": "packers",
+      "score": 0.055302
+    },
+    {
+      "word": "fertilizer",
+      "score": 0.053578
+    },
+    {
+      "word": "freddie",
+      "score": 0.05349
+    },
+    {
+      "word": "dede",
+      "score": 0.049563
+    },
+    {
+      "word": "chappie",
+      "score": 0.048442
+    },
+    {
+      "word": "ashland",
+      "score": 0.048442
+    },
+    {
+      "word": "halloran",
+      "score": 0.045908
+    },
+    {
+      "word": "connor",
+      "score": 0.045627
+    },
+    {
+      "word": "fren",
+      "score": 0.045425
+    },
+    {
+      "word": "lithuanian",
+      "score": 0.04491
+    },
+    {
+      "word": "durham",
+      "score": 0.044448
+    },
+    {
+      "word": "jonas",
+      "score": 0.043752
+    },
+    {
+      "word": "schliemann",
+      "score": 0.043443
+    },
+    {
+      "word": "guv",
+      "score": 0.041818
+    }
+  ]
+}

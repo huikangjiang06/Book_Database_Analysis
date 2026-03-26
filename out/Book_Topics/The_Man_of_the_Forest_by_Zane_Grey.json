@@ -1,0 +1,87 @@
+{
+  "book_title": "The Man of the Forest by Zane Grey",
+  "genre": "Western Stories",
+  "pkl_stem": "The_Man_of_the_Forest_by_Zane_Grey",
+  "top_keywords": [
+    {
+      "word": "beasley",
+      "score": 0.096985
+    },
+    {
+      "word": "vegas",
+      "score": 0.084536
+    },
+    {
+      "word": "rayner",
+      "score": 0.078849
+    },
+    {
+      "word": "milt",
+      "score": 0.077522
+    },
+    {
+      "word": "riggs",
+      "score": 0.077257
+    },
+    {
+      "word": "moze",
+      "score": 0.074594
+    },
+    {
+      "word": "thet",
+      "score": 0.07431
+    },
+    {
+      "word": "carmichael",
+      "score": 0.073436
+    },
+    {
+      "word": "anson",
+      "score": 0.070595
+    },
+    {
+      "word": "roy",
+      "score": 0.066649
+    },
+    {
+      "word": "cougar",
+      "score": 0.064456
+    },
+    {
+      "word": "mulvey",
+      "score": 0.062983
+    },
+    {
+      "word": "nell",
+      "score": 0.062689
+    },
+    {
+      "word": "wal",
+      "score": 0.060883
+    },
+    {
+      "word": "helen",
+      "score": 0.056284
+    },
+    {
+      "word": "dale",
+      "score": 0.054866
+    },
+    {
+      "word": "harve",
+      "score": 0.054847
+    },
+    {
+      "word": "cowboy",
+      "score": 0.054272
+    },
+    {
+      "word": "burt",
+      "score": 0.054261
+    },
+    {
+      "word": "fellars",
+      "score": 0.053472
+    }
+  ]
+}

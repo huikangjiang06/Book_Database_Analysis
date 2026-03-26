@@ -1,0 +1,87 @@
+{
+  "book_title": "Persuasion by Jane Austen",
+  "genre": "Romance",
+  "pkl_stem": "Persuasion_by_Jane_Austen",
+  "top_keywords": [
+    {
+      "word": "musgrove",
+      "score": 0.12065
+    },
+    {
+      "word": "benwick",
+      "score": 0.112216
+    },
+    {
+      "word": "elliot",
+      "score": 0.105762
+    },
+    {
+      "word": "wentworth",
+      "score": 0.105558
+    },
+    {
+      "word": "hayter",
+      "score": 0.104047
+    },
+    {
+      "word": "lyme",
+      "score": 0.100599
+    },
+    {
+      "word": "croft",
+      "score": 0.09781
+    },
+    {
+      "word": "dalrymple",
+      "score": 0.092625
+    },
+    {
+      "word": "henrietta",
+      "score": 0.084149
+    },
+    {
+      "word": "crofts",
+      "score": 0.083117
+    },
+    {
+      "word": "louisa",
+      "score": 0.083012
+    },
+    {
+      "word": "wallis",
+      "score": 0.078541
+    },
+    {
+      "word": "anne",
+      "score": 0.070112
+    },
+    {
+      "word": "carteret",
+      "score": 0.069328
+    },
+    {
+      "word": "russell",
+      "score": 0.067247
+    },
+    {
+      "word": "rooke",
+      "score": 0.066093
+    },
+    {
+      "word": "camden",
+      "score": 0.064026
+    },
+    {
+      "word": "westgate",
+      "score": 0.060575
+    },
+    {
+      "word": "cobb",
+      "score": 0.060167
+    },
+    {
+      "word": "shirley",
+      "score": 0.060044
+    }
+  ]
+}

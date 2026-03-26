@@ -1,0 +1,87 @@
+{
+  "book_title": "Lysistrata by Aristophanes",
+  "genre": "War and Strategy",
+  "pkl_stem": "Lysistrata_by_Aristophanes",
+  "top_keywords": [
+    {
+      "word": "lysistrata",
+      "score": 0.137001
+    },
+    {
+      "word": "lampito",
+      "score": 0.122131
+    },
+    {
+      "word": "myrrhine",
+      "score": 0.119747
+    },
+    {
+      "word": "aristophanes",
+      "score": 0.083925
+    },
+    {
+      "word": "frae",
+      "score": 0.076005
+    },
+    {
+      "word": "zeus",
+      "score": 0.075454
+    },
+    {
+      "word": "spartans",
+      "score": 0.072787
+    },
+    {
+      "word": "aphrodite",
+      "score": 0.07165
+    },
+    {
+      "word": "shakespearean",
+      "score": 0.067096
+    },
+    {
+      "word": "acropolis",
+      "score": 0.064957
+    },
+    {
+      "word": "hellas",
+      "score": 0.064371
+    },
+    {
+      "word": "spartan",
+      "score": 0.063958
+    },
+    {
+      "word": "artemis",
+      "score": 0.063056
+    },
+    {
+      "word": "athenians",
+      "score": 0.061355
+    },
+    {
+      "word": "athene",
+      "score": 0.060882
+    },
+    {
+      "word": "rooster",
+      "score": 0.060882
+    },
+    {
+      "word": "adonis",
+      "score": 0.058252
+    },
+    {
+      "word": "humanistic",
+      "score": 0.057385
+    },
+    {
+      "word": "tristan",
+      "score": 0.057192
+    },
+    {
+      "word": "sparta",
+      "score": 0.056809
+    }
+  ]
+}

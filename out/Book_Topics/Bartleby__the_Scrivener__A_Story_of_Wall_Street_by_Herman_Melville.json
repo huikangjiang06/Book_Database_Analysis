@@ -1,0 +1,87 @@
+{
+  "book_title": "Bartleby, the Scrivener: A Story of Wall-Street by Herman Melville",
+  "genre": "NY-as-character",
+  "pkl_stem": "Bartleby__the_Scrivener__A_Story_of_Wall_Street_by_Herman_Melville",
+  "top_keywords": [
+    {
+      "word": "nippers",
+      "score": 0.159475
+    },
+    {
+      "word": "scrivener",
+      "score": 0.120214
+    },
+    {
+      "word": "scriveners",
+      "score": 0.107895
+    },
+    {
+      "word": "ginger",
+      "score": 0.083922
+    },
+    {
+      "word": "hermitage",
+      "score": 0.074037
+    },
+    {
+      "word": "turkey",
+      "score": 0.071939
+    },
+    {
+      "word": "copyists",
+      "score": 0.070927
+    },
+    {
+      "word": "copyist",
+      "score": 0.06938
+    },
+    {
+      "word": "turnkey",
+      "score": 0.067407
+    },
+    {
+      "word": "eccentricities",
+      "score": 0.067383
+    },
+    {
+      "word": "clerkship",
+      "score": 0.066442
+    },
+    {
+      "word": "copying",
+      "score": 0.06445
+    },
+    {
+      "word": "cutlets",
+      "score": 0.061016
+    },
+    {
+      "word": "grub",
+      "score": 0.060566
+    },
+    {
+      "word": "predestinated",
+      "score": 0.060545
+    },
+    {
+      "word": "vagrant",
+      "score": 0.058673
+    },
+    {
+      "word": "astor",
+      "score": 0.058075
+    },
+    {
+      "word": "tranquility",
+      "score": 0.057551
+    },
+    {
+      "word": "nut",
+      "score": 0.0572
+    },
+    {
+      "word": "revery",
+      "score": 0.05611
+    }
+  ]
+}

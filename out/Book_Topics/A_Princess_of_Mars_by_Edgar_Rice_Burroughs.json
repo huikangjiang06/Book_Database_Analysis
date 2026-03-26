@@ -1,0 +1,87 @@
+{
+  "book_title": "A Princess of Mars by Edgar Rice Burroughs",
+  "genre": "Science Fiction",
+  "pkl_stem": "A_Princess_of_Mars_by_Edgar_Rice_Burroughs",
+  "top_keywords": [
+    {
+      "word": "dejah",
+      "score": 0.118216
+    },
+    {
+      "word": "thoris",
+      "score": 0.112352
+    },
+    {
+      "word": "tarkas",
+      "score": 0.106217
+    },
+    {
+      "word": "barsoom",
+      "score": 0.102007
+    },
+    {
+      "word": "helium",
+      "score": 0.099082
+    },
+    {
+      "word": "hajus",
+      "score": 0.097245
+    },
+    {
+      "word": "jeddak",
+      "score": 0.095928
+    },
+    {
+      "word": "zodanga",
+      "score": 0.095234
+    },
+    {
+      "word": "thark",
+      "score": 0.093379
+    },
+    {
+      "word": "martian",
+      "score": 0.09137
+    },
+    {
+      "word": "kantos",
+      "score": 0.089977
+    },
+    {
+      "word": "tharks",
+      "score": 0.089022
+    },
+    {
+      "word": "woola",
+      "score": 0.086956
+    },
+    {
+      "word": "martians",
+      "score": 0.086507
+    },
+    {
+      "word": "thoats",
+      "score": 0.086403
+    },
+    {
+      "word": "kosis",
+      "score": 0.085833
+    },
+    {
+      "word": "sola",
+      "score": 0.083012
+    },
+    {
+      "word": "tars",
+      "score": 0.082149
+    },
+    {
+      "word": "zodangan",
+      "score": 0.077205
+    },
+    {
+      "word": "thoat",
+      "score": 0.075295
+    }
+  ]
+}

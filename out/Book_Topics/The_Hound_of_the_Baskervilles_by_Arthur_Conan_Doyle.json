@@ -1,0 +1,87 @@
+{
+  "book_title": "The Hound of the Baskervilles by Arthur Conan Doyle",
+  "genre": "Detective and Mystery Stories",
+  "pkl_stem": "The_Hound_of_the_Baskervilles_by_Arthur_Conan_Doyle",
+  "top_keywords": [
+    {
+      "word": "stapleton",
+      "score": 0.135025
+    },
+    {
+      "word": "baskerville",
+      "score": 0.133816
+    },
+    {
+      "word": "barrymore",
+      "score": 0.129116
+    },
+    {
+      "word": "mortimer",
+      "score": 0.10781
+    },
+    {
+      "word": "coombe",
+      "score": 0.094946
+    },
+    {
+      "word": "tracey",
+      "score": 0.094946
+    },
+    {
+      "word": "stapletons",
+      "score": 0.090496
+    },
+    {
+      "word": "baskervilles",
+      "score": 0.090496
+    },
+    {
+      "word": "frankland",
+      "score": 0.090481
+    },
+    {
+      "word": "holmes",
+      "score": 0.085047
+    },
+    {
+      "word": "watson",
+      "score": 0.076897
+    },
+    {
+      "word": "lestrade",
+      "score": 0.076811
+    },
+    {
+      "word": "sherlock",
+      "score": 0.073388
+    },
+    {
+      "word": "baronet",
+      "score": 0.072886
+    },
+    {
+      "word": "moor",
+      "score": 0.066108
+    },
+    {
+      "word": "selden",
+      "score": 0.064116
+    },
+    {
+      "word": "wagonette",
+      "score": 0.06375
+    },
+    {
+      "word": "tor",
+      "score": 0.059889
+    },
+    {
+      "word": "dartmoor",
+      "score": 0.058698
+    },
+    {
+      "word": "cartwright",
+      "score": 0.056679
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "The Portrait of a Lady \u2014 Volume 1 by Henry James",
+  "genre": "Romance",
+  "pkl_stem": "The_Portrait_of_a_Lady___Volume_1_by_Henry_James",
+  "top_keywords": [
+    {
+      "word": "merle",
+      "score": 0.111768
+    },
+    {
+      "word": "osmond",
+      "score": 0.106321
+    },
+    {
+      "word": "goodwood",
+      "score": 0.09242
+    },
+    {
+      "word": "isabel",
+      "score": 0.086936
+    },
+    {
+      "word": "warburton",
+      "score": 0.084448
+    },
+    {
+      "word": "bantling",
+      "score": 0.077176
+    },
+    {
+      "word": "henrietta",
+      "score": 0.076619
+    },
+    {
+      "word": "caspar",
+      "score": 0.074254
+    },
+    {
+      "word": "molyneux",
+      "score": 0.072818
+    },
+    {
+      "word": "pansy",
+      "score": 0.069909
+    },
+    {
+      "word": "ralph",
+      "score": 0.067858
+    },
+    {
+      "word": "pensil",
+      "score": 0.060083
+    },
+    {
+      "word": "interviewer",
+      "score": 0.059361
+    },
+    {
+      "word": "gemini",
+      "score": 0.054316
+    },
+    {
+      "word": "archer",
+      "score": 0.051541
+    },
+    {
+      "word": "bedfordshire",
+      "score": 0.047041
+    },
+    {
+      "word": "lilian",
+      "score": 0.047041
+    },
+    {
+      "word": "ludlow",
+      "score": 0.047001
+    },
+    {
+      "word": "luce",
+      "score": 0.04429
+    },
+    {
+      "word": "rosier",
+      "score": 0.04397
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "The Thirty-Nine Steps by John Buchan",
+  "genre": "Detective and Mystery Stories",
+  "pkl_stem": "The_Thirty_Nine_Steps_by_John_Buchan",
+  "top_keywords": [
+    {
+      "word": "scudder",
+      "score": 0.115243
+    },
+    {
+      "word": "roadman",
+      "score": 0.095861
+    },
+    {
+      "word": "turnbull",
+      "score": 0.08785
+    },
+    {
+      "word": "alloa",
+      "score": 0.085379
+    },
+    {
+      "word": "royer",
+      "score": 0.083712
+    },
+    {
+      "word": "whittaker",
+      "score": 0.075867
+    },
+    {
+      "word": "rhodesia",
+      "score": 0.069799
+    },
+    {
+      "word": "dovecot",
+      "score": 0.068585
+    },
+    {
+      "word": "aeroplane",
+      "score": 0.064734
+    },
+    {
+      "word": "milkman",
+      "score": 0.062148
+    },
+    {
+      "word": "lade",
+      "score": 0.058117
+    },
+    {
+      "word": "galloway",
+      "score": 0.057828
+    },
+    {
+      "word": "paddock",
+      "score": 0.056982
+    },
+    {
+      "word": "moorland",
+      "score": 0.056746
+    },
+    {
+      "word": "staircases",
+      "score": 0.053414
+    },
+    {
+      "word": "cypher",
+      "score": 0.053181
+    },
+    {
+      "word": "glen",
+      "score": 0.052717
+    },
+    {
+      "word": "heather",
+      "score": 0.050041
+    },
+    {
+      "word": "matabele",
+      "score": 0.049724
+    },
+    {
+      "word": "guv",
+      "score": 0.049713
+    }
+  ]
+}

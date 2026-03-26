@@ -1,0 +1,87 @@
+{
+  "book_title": "Wuthering Heights by Emily Bront\u00eb",
+  "genre": "Romance",
+  "pkl_stem": "Wuthering_Heights_by_Emily_Bronte\u0308",
+  "top_keywords": [
+    {
+      "word": "linton",
+      "score": 0.098159
+    },
+    {
+      "word": "wuthering",
+      "score": 0.081523
+    },
+    {
+      "word": "zillah",
+      "score": 0.076005
+    },
+    {
+      "word": "nelly",
+      "score": 0.065613
+    },
+    {
+      "word": "grange",
+      "score": 0.061498
+    },
+    {
+      "word": "minny",
+      "score": 0.058145
+    },
+    {
+      "word": "ellen",
+      "score": 0.057719
+    },
+    {
+      "word": "catherine",
+      "score": 0.057624
+    },
+    {
+      "word": "kenneth",
+      "score": 0.057192
+    },
+    {
+      "word": "lockwood",
+      "score": 0.055261
+    },
+    {
+      "word": "maister",
+      "score": 0.054947
+    },
+    {
+      "word": "edgar",
+      "score": 0.054588
+    },
+    {
+      "word": "yah",
+      "score": 0.050684
+    },
+    {
+      "word": "ech",
+      "score": 0.050502
+    },
+    {
+      "word": "isabella",
+      "score": 0.048796
+    },
+    {
+      "word": "noan",
+      "score": 0.046841
+    },
+    {
+      "word": "nowt",
+      "score": 0.046703
+    },
+    {
+      "word": "jabez",
+      "score": 0.044264
+    },
+    {
+      "word": "raight",
+      "score": 0.042691
+    },
+    {
+      "word": "dean",
+      "score": 0.042106
+    }
+  ]
+}

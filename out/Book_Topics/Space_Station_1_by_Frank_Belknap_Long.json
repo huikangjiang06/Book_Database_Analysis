@@ -1,0 +1,87 @@
+{
+  "book_title": "Space Station 1 by Frank Belknap Long",
+  "genre": "Science Fiction",
+  "pkl_stem": "Space_Station_1_by_Frank_Belknap_Long",
+  "top_keywords": [
+    {
+      "word": "ramsey",
+      "score": 0.113196
+    },
+    {
+      "word": "henley",
+      "score": 0.095762
+    },
+    {
+      "word": "freddy",
+      "score": 0.093713
+    },
+    {
+      "word": "viewport",
+      "score": 0.080161
+    },
+    {
+      "word": "tractors",
+      "score": 0.080119
+    },
+    {
+      "word": "uranium",
+      "score": 0.076391
+    },
+    {
+      "word": "freighter",
+      "score": 0.074644
+    },
+    {
+      "word": "martian",
+      "score": 0.067309
+    },
+    {
+      "word": "saddler",
+      "score": 0.066591
+    },
+    {
+      "word": "tractor",
+      "score": 0.064417
+    },
+    {
+      "word": "dune",
+      "score": 0.063137
+    },
+    {
+      "word": "clement",
+      "score": 0.061736
+    },
+    {
+      "word": "cruiser",
+      "score": 0.061536
+    },
+    {
+      "word": "waitress",
+      "score": 0.059073
+    },
+    {
+      "word": "killer",
+      "score": 0.057719
+    },
+    {
+      "word": "barb",
+      "score": 0.05672
+    },
+    {
+      "word": "hayes",
+      "score": 0.055821
+    },
+    {
+      "word": "helen",
+      "score": 0.05266
+    },
+    {
+      "word": "compartment",
+      "score": 0.052574
+    },
+    {
+      "word": "girder",
+      "score": 0.051874
+    }
+  ]
+}

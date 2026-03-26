@@ -1,0 +1,87 @@
+{
+  "book_title": "The Princess and the Goblin by George MacDonald",
+  "genre": "Fairy Tales and Children's Literature",
+  "pkl_stem": "The_Princess_and_the_Goblin_by_George_MacDonald",
+  "top_keywords": [
+    {
+      "word": "irene",
+      "score": 0.148884
+    },
+    {
+      "word": "goblins",
+      "score": 0.110863
+    },
+    {
+      "word": "cobs",
+      "score": 0.095987
+    },
+    {
+      "word": "goblin",
+      "score": 0.095206
+    },
+    {
+      "word": "pickaxe",
+      "score": 0.081545
+    },
+    {
+      "word": "princess",
+      "score": 0.070823
+    },
+    {
+      "word": "miners",
+      "score": 0.069829
+    },
+    {
+      "word": "grandmother",
+      "score": 0.068967
+    },
+    {
+      "word": "peterson",
+      "score": 0.067668
+    },
+    {
+      "word": "miner",
+      "score": 0.066958
+    },
+    {
+      "word": "lode",
+      "score": 0.063249
+    },
+    {
+      "word": "mountainside",
+      "score": 0.060566
+    },
+    {
+      "word": "papa",
+      "score": 0.058186
+    },
+    {
+      "word": "stair",
+      "score": 0.05744
+    },
+    {
+      "word": "jabber",
+      "score": 0.056153
+    },
+    {
+      "word": "slab",
+      "score": 0.053452
+    },
+    {
+      "word": "pickaxes",
+      "score": 0.051568
+    },
+    {
+      "word": "ore",
+      "score": 0.051227
+    },
+    {
+      "word": "workroom",
+      "score": 0.050101
+    },
+    {
+      "word": "burrowing",
+      "score": 0.050018
+    }
+  ]
+}

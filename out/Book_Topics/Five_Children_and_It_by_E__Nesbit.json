@@ -1,0 +1,87 @@
+{
+  "book_title": "Five Children and It by E. Nesbit",
+  "genre": "Fairy Tales and Children's Literature",
+  "pkl_stem": "Five_Children_and_It_by_E__Nesbit",
+  "top_keywords": [
+    {
+      "word": "anthea",
+      "score": 0.163386
+    },
+    {
+      "word": "cyril",
+      "score": 0.120813
+    },
+    {
+      "word": "jakin",
+      "score": 0.078518
+    },
+    {
+      "word": "willum",
+      "score": 0.076826
+    },
+    {
+      "word": "martha",
+      "score": 0.075985
+    },
+    {
+      "word": "syphon",
+      "score": 0.071506
+    },
+    {
+      "word": "jane",
+      "score": 0.070135
+    },
+    {
+      "word": "hilary",
+      "score": 0.070038
+    },
+    {
+      "word": "rochester",
+      "score": 0.067447
+    },
+    {
+      "word": "maidstone",
+      "score": 0.067358
+    },
+    {
+      "word": "megatherium",
+      "score": 0.064509
+    },
+    {
+      "word": "beale",
+      "score": 0.063723
+    },
+    {
+      "word": "devereux",
+      "score": 0.063316
+    },
+    {
+      "word": "becca",
+      "score": 0.062039
+    },
+    {
+      "word": "poof",
+      "score": 0.061758
+    },
+    {
+      "word": "maur",
+      "score": 0.061712
+    },
+    {
+      "word": "bobs",
+      "score": 0.058781
+    },
+    {
+      "word": "gipsies",
+      "score": 0.057391
+    },
+    {
+      "word": "robert",
+      "score": 0.057054
+    },
+    {
+      "word": "talbot",
+      "score": 0.054326
+    }
+  ]
+}

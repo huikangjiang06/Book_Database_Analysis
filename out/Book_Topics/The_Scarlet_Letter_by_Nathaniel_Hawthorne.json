@@ -1,0 +1,87 @@
+{
+  "book_title": "The Scarlet Letter by Nathaniel Hawthorne",
+  "genre": "Social Criticism through Fiction",
+  "pkl_stem": "The_Scarlet_Letter_by_Nathaniel_Hawthorne",
+  "top_keywords": [
+    {
+      "word": "prynne",
+      "score": 0.092902
+    },
+    {
+      "word": "chillingworth",
+      "score": 0.090055
+    },
+    {
+      "word": "hester",
+      "score": 0.088355
+    },
+    {
+      "word": "bellingham",
+      "score": 0.073359
+    },
+    {
+      "word": "roger",
+      "score": 0.048671
+    },
+    {
+      "word": "manse",
+      "score": 0.043432
+    },
+    {
+      "word": "shipmaster",
+      "score": 0.042437
+    },
+    {
+      "word": "surveyor",
+      "score": 0.041715
+    },
+    {
+      "word": "pearl",
+      "score": 0.039285
+    },
+    {
+      "word": "salem",
+      "score": 0.037171
+    },
+    {
+      "word": "brackett",
+      "score": 0.036848
+    },
+    {
+      "word": "scaffold",
+      "score": 0.036287
+    },
+    {
+      "word": "vignette",
+      "score": 0.036096
+    },
+    {
+      "word": "puritanic",
+      "score": 0.036087
+    },
+    {
+      "word": "elf",
+      "score": 0.036062
+    },
+    {
+      "word": "pillory",
+      "score": 0.03433
+    },
+    {
+      "word": "ignominy",
+      "score": 0.034172
+    },
+    {
+      "word": "leech",
+      "score": 0.034161
+    },
+    {
+      "word": "puritan",
+      "score": 0.033773
+    },
+    {
+      "word": "reverend",
+      "score": 0.03332
+    }
+  ]
+}

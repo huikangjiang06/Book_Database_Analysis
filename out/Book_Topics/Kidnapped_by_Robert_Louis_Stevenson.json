@@ -1,0 +1,87 @@
+{
+  "book_title": "Kidnapped by Robert Louis Stevenson",
+  "genre": "Adventure",
+  "pkl_stem": "Kidnapped_by_Robert_Louis_Stevenson",
+  "top_keywords": [
+    {
+      "word": "alan",
+      "score": 0.109049
+    },
+    {
+      "word": "breck",
+      "score": 0.09235
+    },
+    {
+      "word": "davie",
+      "score": 0.08787
+    },
+    {
+      "word": "shaws",
+      "score": 0.086956
+    },
+    {
+      "word": "nae",
+      "score": 0.078483
+    },
+    {
+      "word": "balfour",
+      "score": 0.076574
+    },
+    {
+      "word": "ransome",
+      "score": 0.075294
+    },
+    {
+      "word": "torrance",
+      "score": 0.07425
+    },
+    {
+      "word": "campbells",
+      "score": 0.072572
+    },
+    {
+      "word": "cluny",
+      "score": 0.070537
+    },
+    {
+      "word": "ebenezer",
+      "score": 0.069097
+    },
+    {
+      "word": "naething",
+      "score": 0.068785
+    },
+    {
+      "word": "mull",
+      "score": 0.060626
+    },
+    {
+      "word": "brig",
+      "score": 0.059273
+    },
+    {
+      "word": "gaelic",
+      "score": 0.05868
+    },
+    {
+      "word": "cannae",
+      "score": 0.058481
+    },
+    {
+      "word": "colin",
+      "score": 0.057785
+    },
+    {
+      "word": "mair",
+      "score": 0.056709
+    },
+    {
+      "word": "maclaren",
+      "score": 0.056234
+    },
+    {
+      "word": "stewart",
+      "score": 0.056008
+    }
+  ]
+}

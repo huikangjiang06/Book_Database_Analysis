@@ -1,0 +1,87 @@
+{
+  "book_title": "On War by Carl von Clausewitz",
+  "genre": "War and Strategy",
+  "pkl_stem": "On_War_by_Carl_von_Clausewitz",
+  "top_keywords": [
+    {
+      "word": "buonaparte",
+      "score": 0.059607
+    },
+    {
+      "word": "cantonments",
+      "score": 0.059061
+    },
+    {
+      "word": "clausewitz",
+      "score": 0.057205
+    },
+    {
+      "word": "tactical",
+      "score": 0.051863
+    },
+    {
+      "word": "daun",
+      "score": 0.050532
+    },
+    {
+      "word": "schwartzenberg",
+      "score": 0.050515
+    },
+    {
+      "word": "strategic",
+      "score": 0.046608
+    },
+    {
+      "word": "dep",
+      "score": 0.045666
+    },
+    {
+      "word": "counterstroke",
+      "score": 0.045304
+    },
+    {
+      "word": "polarity",
+      "score": 0.044799
+    },
+    {
+      "word": "strategy",
+      "score": 0.043557
+    },
+    {
+      "word": "strategically",
+      "score": 0.043426
+    },
+    {
+      "word": "fortresses",
+      "score": 0.041702
+    },
+    {
+      "word": "hochkirch",
+      "score": 0.041511
+    },
+    {
+      "word": "cher",
+      "score": 0.040555
+    },
+    {
+      "word": "combats",
+      "score": 0.040351
+    },
+    {
+      "word": "scharnhorst",
+      "score": 0.040146
+    },
+    {
+      "word": "borodino",
+      "score": 0.039918
+    },
+    {
+      "word": "reconnaissances",
+      "score": 0.039559
+    },
+    {
+      "word": "leuthen",
+      "score": 0.039559
+    }
+  ]
+}

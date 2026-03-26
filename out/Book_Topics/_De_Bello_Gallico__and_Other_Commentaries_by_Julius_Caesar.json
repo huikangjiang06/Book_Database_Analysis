@@ -1,0 +1,87 @@
+{
+  "book_title": "\"De Bello Gallico\" and Other Commentaries by Julius Caesar",
+  "genre": "War and Strategy",
+  "pkl_stem": "_De_Bello_Gallico__and_Other_Commentaries_by_Julius_Caesar",
+  "top_keywords": [
+    {
+      "word": "aedui",
+      "score": 0.073332
+    },
+    {
+      "word": "helvetii",
+      "score": 0.063106
+    },
+    {
+      "word": "vercingetorix",
+      "score": 0.06247
+    },
+    {
+      "word": "afranius",
+      "score": 0.061647
+    },
+    {
+      "word": "ariovistus",
+      "score": 0.061051
+    },
+    {
+      "word": "labienus",
+      "score": 0.061017
+    },
+    {
+      "word": "treviri",
+      "score": 0.060072
+    },
+    {
+      "word": "belgae",
+      "score": 0.059471
+    },
+    {
+      "word": "sequani",
+      "score": 0.059159
+    },
+    {
+      "word": "domitius",
+      "score": 0.058717
+    },
+    {
+      "word": "bellovaci",
+      "score": 0.05553
+    },
+    {
+      "word": "petreius",
+      "score": 0.0542
+    },
+    {
+      "word": "bituriges",
+      "score": 0.053724
+    },
+    {
+      "word": "centurions",
+      "score": 0.053427
+    },
+    {
+      "word": "gallia",
+      "score": 0.051995
+    },
+    {
+      "word": "dumnorix",
+      "score": 0.051616
+    },
+    {
+      "word": "massilians",
+      "score": 0.05103
+    },
+    {
+      "word": "suevi",
+      "score": 0.050893
+    },
+    {
+      "word": "arverni",
+      "score": 0.050893
+    },
+    {
+      "word": "cohorts",
+      "score": 0.050809
+    }
+  ]
+}

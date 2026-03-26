@@ -1,0 +1,87 @@
+{
+  "book_title": "The call of the wild by Jack London",
+  "genre": "Adventure",
+  "pkl_stem": "The_call_of_the_wild_by_Jack_London",
+  "top_keywords": [
+    {
+      "word": "spitz",
+      "score": 0.125389
+    },
+    {
+      "word": "thornton",
+      "score": 0.106558
+    },
+    {
+      "word": "perrault",
+      "score": 0.106229
+    },
+    {
+      "word": "huskies",
+      "score": 0.098026
+    },
+    {
+      "word": "sled",
+      "score": 0.09743
+    },
+    {
+      "word": "mercedes",
+      "score": 0.094822
+    },
+    {
+      "word": "ois",
+      "score": 0.088914
+    },
+    {
+      "word": "dave",
+      "score": 0.082204
+    },
+    {
+      "word": "hal",
+      "score": 0.081325
+    },
+    {
+      "word": "heem",
+      "score": 0.079662
+    },
+    {
+      "word": "fran",
+      "score": 0.079384
+    },
+    {
+      "word": "buck",
+      "score": 0.074879
+    },
+    {
+      "word": "dawson",
+      "score": 0.072045
+    },
+    {
+      "word": "sol",
+      "score": 0.071344
+    },
+    {
+      "word": "skaguay",
+      "score": 0.070344
+    },
+    {
+      "word": "southland",
+      "score": 0.0668
+    },
+    {
+      "word": "dyea",
+      "score": 0.06575
+    },
+    {
+      "word": "nig",
+      "score": 0.065403
+    },
+    {
+      "word": "sweater",
+      "score": 0.065156
+    },
+    {
+      "word": "pete",
+      "score": 0.063332
+    }
+  ]
+}

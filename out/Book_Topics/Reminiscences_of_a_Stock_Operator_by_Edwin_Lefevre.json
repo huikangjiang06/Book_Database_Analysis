@@ -1,0 +1,87 @@
+{
+  "book_title": "Reminiscences of a Stock Operator by Edwin Lefevre",
+  "genre": "Political Economy",
+  "pkl_stem": "Reminiscences_of_a_Stock_Operator_by_Edwin_Lefevre",
+  "top_keywords": [
+    {
+      "word": "bullish",
+      "score": 0.085945
+    },
+    {
+      "word": "insiders",
+      "score": 0.082753
+    },
+    {
+      "word": "bearish",
+      "score": 0.073186
+    },
+    {
+      "word": "livingston",
+      "score": 0.073135
+    },
+    {
+      "word": "keene",
+      "score": 0.070545
+    },
+    {
+      "word": "williamson",
+      "score": 0.070018
+    },
+    {
+      "word": "tipster",
+      "score": 0.068539
+    },
+    {
+      "word": "shorts",
+      "score": 0.065043
+    },
+    {
+      "word": "prentiss",
+      "score": 0.063753
+    },
+    {
+      "word": "ticker",
+      "score": 0.062891
+    },
+    {
+      "word": "fullerton",
+      "score": 0.062537
+    },
+    {
+      "word": "insider",
+      "score": 0.06168
+    },
+    {
+      "word": "havemeyer",
+      "score": 0.060756
+    },
+    {
+      "word": "marquand",
+      "score": 0.060756
+    },
+    {
+      "word": "westlake",
+      "score": 0.059051
+    },
+    {
+      "word": "stratton",
+      "score": 0.056056
+    },
+    {
+      "word": "manipulator",
+      "score": 0.055931
+    },
+    {
+      "word": "anaconda",
+      "score": 0.05555
+    },
+    {
+      "word": "harding",
+      "score": 0.054669
+    },
+    {
+      "word": "wolff",
+      "score": 0.053799
+    }
+  ]
+}

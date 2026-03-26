@@ -1,0 +1,87 @@
+{
+  "book_title": "The Valley of Fear by Arthur Conan Doyle",
+  "genre": "Detective and Mystery Stories",
+  "pkl_stem": "The_Valley_of_Fear_by_Arthur_Conan_Doyle",
+  "top_keywords": [
+    {
+      "word": "mcginty",
+      "score": 0.135288
+    },
+    {
+      "word": "porlock",
+      "score": 0.091897
+    },
+    {
+      "word": "barker",
+      "score": 0.08961
+    },
+    {
+      "word": "ames",
+      "score": 0.08627
+    },
+    {
+      "word": "shafter",
+      "score": 0.086078
+    },
+    {
+      "word": "birdy",
+      "score": 0.082783
+    },
+    {
+      "word": "holmes",
+      "score": 0.081963
+    },
+    {
+      "word": "marvin",
+      "score": 0.078602
+    },
+    {
+      "word": "douglas",
+      "score": 0.076051
+    },
+    {
+      "word": "baldwin",
+      "score": 0.074974
+    },
+    {
+      "word": "macdonald",
+      "score": 0.071863
+    },
+    {
+      "word": "pinkerton",
+      "score": 0.067162
+    },
+    {
+      "word": "watson",
+      "score": 0.066938
+    },
+    {
+      "word": "ted",
+      "score": 0.066325
+    },
+    {
+      "word": "mac",
+      "score": 0.063629
+    },
+    {
+      "word": "cecil",
+      "score": 0.063216
+    },
+    {
+      "word": "tunbridge",
+      "score": 0.062219
+    },
+    {
+      "word": "cormac",
+      "score": 0.061822
+    },
+    {
+      "word": "morris",
+      "score": 0.059946
+    },
+    {
+      "word": "councillor",
+      "score": 0.059106
+    }
+  ]
+}

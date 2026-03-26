@@ -1,0 +1,87 @@
+{
+  "book_title": "Plutarch: Lives of the noble Grecians and Romans by Plutarch",
+  "genre": "Biographies and Autobiographies",
+  "pkl_stem": "Plutarch__Lives_of_the_noble_Grecians_and_Romans_by_Plutarch",
+  "top_keywords": [
+    {
+      "word": "timoleon",
+      "score": 0.063553
+    },
+    {
+      "word": "poplicola",
+      "score": 0.053884
+    },
+    {
+      "word": "marcius",
+      "score": 0.053567
+    },
+    {
+      "word": "aemilius",
+      "score": 0.04973
+    },
+    {
+      "word": "volscians",
+      "score": 0.04973
+    },
+    {
+      "word": "themistocles",
+      "score": 0.048198
+    },
+    {
+      "word": "camillus",
+      "score": 0.047647
+    },
+    {
+      "word": "alcibiades",
+      "score": 0.047572
+    },
+    {
+      "word": "minucius",
+      "score": 0.047248
+    },
+    {
+      "word": "numa",
+      "score": 0.046043
+    },
+    {
+      "word": "fabius",
+      "score": 0.045853
+    },
+    {
+      "word": "lacedaemonians",
+      "score": 0.045472
+    },
+    {
+      "word": "porsenna",
+      "score": 0.043454
+    },
+    {
+      "word": "pisistratus",
+      "score": 0.042987
+    },
+    {
+      "word": "cimon",
+      "score": 0.042848
+    },
+    {
+      "word": "pharnabazus",
+      "score": 0.041986
+    },
+    {
+      "word": "theseus",
+      "score": 0.041482
+    },
+    {
+      "word": "pericles",
+      "score": 0.041379
+    },
+    {
+      "word": "numitor",
+      "score": 0.041219
+    },
+    {
+      "word": "sabines",
+      "score": 0.041156
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "My Memoirs, Vol. V, 1831 to 1832 by Alexandre Dumas",
+  "genre": "Biographies and Autobiographies",
+  "pkl_stem": "My_Memoirs__Vol__V__1831_to_1832_by_Alexandre_Dumas",
+  "top_keywords": [
+    {
+      "word": "delaroche",
+      "score": 0.050167
+    },
+    {
+      "word": "lamennais",
+      "score": 0.048191
+    },
+    {
+      "word": "casimir",
+      "score": 0.047152
+    },
+    {
+      "word": "bocage",
+      "score": 0.046593
+    },
+    {
+      "word": "delavigne",
+      "score": 0.046483
+    },
+    {
+      "word": "vernet",
+      "score": 0.045978
+    },
+    {
+      "word": "delacroix",
+      "score": 0.045484
+    },
+    {
+      "word": "duclos",
+      "score": 0.045159
+    },
+    {
+      "word": "fet",
+      "score": 0.045159
+    },
+    {
+      "word": "harel",
+      "score": 0.044872
+    },
+    {
+      "word": "ledru",
+      "score": 0.044576
+    },
+    {
+      "word": "firmin",
+      "score": 0.044271
+    },
+    {
+      "word": "odilon",
+      "score": 0.041419
+    },
+    {
+      "word": "rier",
+      "score": 0.040997
+    },
+    {
+      "word": "trouville",
+      "score": 0.040928
+    },
+    {
+      "word": "ais",
+      "score": 0.040876
+    },
+    {
+      "word": "laffitte",
+      "score": 0.040663
+    },
+    {
+      "word": "avenir",
+      "score": 0.040462
+    },
+    {
+      "word": "comines",
+      "score": 0.039788
+    },
+    {
+      "word": "lemy",
+      "score": 0.039612
+    }
+  ]
+}

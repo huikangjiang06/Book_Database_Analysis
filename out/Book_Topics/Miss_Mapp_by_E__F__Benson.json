@@ -1,0 +1,87 @@
+{
+  "book_title": "Miss Mapp by E. F. Benson",
+  "genre": "Comedy, humourous novels",
+  "pkl_stem": "Miss_Mapp_by_E__F__Benson",
+  "top_keywords": [
+    {
+      "word": "wyse",
+      "score": 0.107616
+    },
+    {
+      "word": "diva",
+      "score": 0.099187
+    },
+    {
+      "word": "puffin",
+      "score": 0.099002
+    },
+    {
+      "word": "benjy",
+      "score": 0.094956
+    },
+    {
+      "word": "contessa",
+      "score": 0.089469
+    },
+    {
+      "word": "evie",
+      "score": 0.078287
+    },
+    {
+      "word": "tilling",
+      "score": 0.06927
+    },
+    {
+      "word": "figgis",
+      "score": 0.069061
+    },
+    {
+      "word": "padre",
+      "score": 0.06861
+    },
+    {
+      "word": "janet",
+      "score": 0.067194
+    },
+    {
+      "word": "irene",
+      "score": 0.066502
+    },
+    {
+      "word": "susan",
+      "score": 0.056642
+    },
+    {
+      "word": "isabel",
+      "score": 0.0559
+    },
+    {
+      "word": "withers",
+      "score": 0.054905
+    },
+    {
+      "word": "tram",
+      "score": 0.053451
+    },
+    {
+      "word": "godiva",
+      "score": 0.051984
+    },
+    {
+      "word": "diaries",
+      "score": 0.051893
+    },
+    {
+      "word": "duellists",
+      "score": 0.050647
+    },
+    {
+      "word": "kingfisher",
+      "score": 0.050058
+    },
+    {
+      "word": "hopkins",
+      "score": 0.049869
+    }
+  ]
+}

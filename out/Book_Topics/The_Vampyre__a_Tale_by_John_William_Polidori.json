@@ -1,0 +1,87 @@
+{
+  "book_title": "The Vampyre; a Tale by John William Polidori",
+  "genre": "Horror Tales",
+  "pkl_stem": "The_Vampyre__a_Tale_by_John_William_Polidori",
+  "top_keywords": [
+    {
+      "word": "ruthven",
+      "score": 0.192232
+    },
+    {
+      "word": "aubrey",
+      "score": 0.178134
+    },
+    {
+      "word": "vampyre",
+      "score": 0.150694
+    },
+    {
+      "word": "mitylene",
+      "score": 0.097285
+    },
+    {
+      "word": "corse",
+      "score": 0.084571
+    },
+    {
+      "word": "dominick",
+      "score": 0.077601
+    },
+    {
+      "word": "lordship",
+      "score": 0.072022
+    },
+    {
+      "word": "felucca",
+      "score": 0.071121
+    },
+    {
+      "word": "godwin",
+      "score": 0.068914
+    },
+    {
+      "word": "guardians",
+      "score": 0.064985
+    },
+    {
+      "word": "byron",
+      "score": 0.064266
+    },
+    {
+      "word": "heloise",
+      "score": 0.063666
+    },
+    {
+      "word": "smyrna",
+      "score": 0.06285
+    },
+    {
+      "word": "armenian",
+      "score": 0.06164
+    },
+    {
+      "word": "whilst",
+      "score": 0.058179
+    },
+    {
+      "word": "assignation",
+      "score": 0.055599
+    },
+    {
+      "word": "jura",
+      "score": 0.054188
+    },
+    {
+      "word": "myrtle",
+      "score": 0.053264
+    },
+    {
+      "word": "enquiries",
+      "score": 0.052271
+    },
+    {
+      "word": "canto",
+      "score": 0.051765
+    }
+  ]
+}

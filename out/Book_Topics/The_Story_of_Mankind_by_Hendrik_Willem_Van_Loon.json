@@ -1,0 +1,87 @@
+{
+  "book_title": "The Story of Mankind by Hendrik Willem Van Loon",
+  "genre": "History",
+  "pkl_stem": "The_Story_of_Mankind_by_Hendrik_Willem_Van_Loon",
+  "top_keywords": [
+    {
+      "word": "habsburg",
+      "score": 0.054285
+    },
+    {
+      "word": "habsburgs",
+      "score": 0.045606
+    },
+    {
+      "word": "siddhartha",
+      "score": 0.045606
+    },
+    {
+      "word": "pilatus",
+      "score": 0.044327
+    },
+    {
+      "word": "metternich",
+      "score": 0.041531
+    },
+    {
+      "word": "aegean",
+      "score": 0.040414
+    },
+    {
+      "word": "tsar",
+      "score": 0.040042
+    },
+    {
+      "word": "sumerians",
+      "score": 0.039305
+    },
+    {
+      "word": "indo",
+      "score": 0.03925
+    },
+    {
+      "word": "magellan",
+      "score": 0.036841
+    },
+    {
+      "word": "necker",
+      "score": 0.036649
+    },
+    {
+      "word": "duchies",
+      "score": 0.035608
+    },
+    {
+      "word": "norsemen",
+      "score": 0.034676
+    },
+    {
+      "word": "frankish",
+      "score": 0.034468
+    },
+    {
+      "word": "octavian",
+      "score": 0.034064
+    },
+    {
+      "word": "mediaeval",
+      "score": 0.034016
+    },
+    {
+      "word": "phoenicians",
+      "score": 0.033962
+    },
+    {
+      "word": "slavic",
+      "score": 0.0338
+    },
+    {
+      "word": "mohammed",
+      "score": 0.033785
+    },
+    {
+      "word": "semitic",
+      "score": 0.033785
+    }
+  ]
+}

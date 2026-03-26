@@ -1,0 +1,87 @@
+{
+  "book_title": "Les Mis\u00e9rables by Victor Hugo",
+  "genre": "Social Criticism through Fiction",
+  "pkl_stem": "Les_Mise\u0301rables_by_Victor_Hugo",
+  "top_keywords": [
+    {
+      "word": "cosette",
+      "score": 0.078558
+    },
+    {
+      "word": "valjean",
+      "score": 0.077816
+    },
+    {
+      "word": "fantine",
+      "score": 0.073933
+    },
+    {
+      "word": "magloire",
+      "score": 0.062779
+    },
+    {
+      "word": "madeleine",
+      "score": 0.052562
+    },
+    {
+      "word": "myriel",
+      "score": 0.05209
+    },
+    {
+      "word": "hougomont",
+      "score": 0.048894
+    },
+    {
+      "word": "bienvenu",
+      "score": 0.046299
+    },
+    {
+      "word": "maire",
+      "score": 0.045821
+    },
+    {
+      "word": "phine",
+      "score": 0.045704
+    },
+    {
+      "word": "haie",
+      "score": 0.045032
+    },
+    {
+      "word": "monseigneur",
+      "score": 0.042019
+    },
+    {
+      "word": "portress",
+      "score": 0.041888
+    },
+    {
+      "word": "cuirassiers",
+      "score": 0.041028
+    },
+    {
+      "word": "cambronne",
+      "score": 0.040941
+    },
+    {
+      "word": "dahlia",
+      "score": 0.039921
+    },
+    {
+      "word": "gervais",
+      "score": 0.0394
+    },
+    {
+      "word": "jean",
+      "score": 0.038461
+    },
+    {
+      "word": "chelles",
+      "score": 0.038041
+    },
+    {
+      "word": "braine",
+      "score": 0.037522
+    }
+  ]
+}

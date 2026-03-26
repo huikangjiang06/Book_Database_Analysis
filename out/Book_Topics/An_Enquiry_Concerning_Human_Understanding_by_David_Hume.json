@@ -1,0 +1,87 @@
+{
+  "book_title": "An Enquiry Concerning Human Understanding by David Hume",
+  "genre": "Metaphysics and Epistemology",
+  "pkl_stem": "An_Enquiry_Concerning_Human_Understanding_by_David_Hume",
+  "top_keywords": [
+    {
+      "word": "connexion",
+      "score": 0.064751
+    },
+    {
+      "word": "reasonings",
+      "score": 0.061061
+    },
+    {
+      "word": "conjoined",
+      "score": 0.060718
+    },
+    {
+      "word": "opp",
+      "score": 0.057355
+    },
+    {
+      "word": "explication",
+      "score": 0.056152
+    },
+    {
+      "word": "contrariety",
+      "score": 0.054012
+    },
+    {
+      "word": "causation",
+      "score": 0.053645
+    },
+    {
+      "word": "enquiry",
+      "score": 0.053025
+    },
+    {
+      "word": "enquiries",
+      "score": 0.052712
+    },
+    {
+      "word": "contiguity",
+      "score": 0.052289
+    },
+    {
+      "word": "scepticism",
+      "score": 0.0511
+    },
+    {
+      "word": "inferences",
+      "score": 0.049825
+    },
+    {
+      "word": "priori",
+      "score": 0.049785
+    },
+    {
+      "word": "jansenist",
+      "score": 0.049303
+    },
+    {
+      "word": "pyrrhonism",
+      "score": 0.049303
+    },
+    {
+      "word": "judgement",
+      "score": 0.047952
+    },
+    {
+      "word": "nisus",
+      "score": 0.046952
+    },
+    {
+      "word": "disquisitions",
+      "score": 0.046192
+    },
+    {
+      "word": "epicurus",
+      "score": 0.046057
+    },
+    {
+      "word": "volition",
+      "score": 0.045932
+    }
+  ]
+}

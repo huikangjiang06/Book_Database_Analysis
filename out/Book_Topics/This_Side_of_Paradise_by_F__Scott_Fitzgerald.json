@@ -1,0 +1,87 @@
+{
+  "book_title": "This Side of Paradise by F. Scott Fitzgerald",
+  "genre": "Romance",
+  "pkl_stem": "This_Side_of_Paradise_by_F__Scott_Fitzgerald",
+  "top_keywords": [
+    {
+      "word": "amory",
+      "score": 0.12597
+    },
+    {
+      "word": "rosalind",
+      "score": 0.084934
+    },
+    {
+      "word": "burne",
+      "score": 0.084341
+    },
+    {
+      "word": "isabelle",
+      "score": 0.076908
+    },
+    {
+      "word": "alec",
+      "score": 0.072634
+    },
+    {
+      "word": "myra",
+      "score": 0.072308
+    },
+    {
+      "word": "monsignor",
+      "score": 0.067053
+    },
+    {
+      "word": "kerry",
+      "score": 0.06668
+    },
+    {
+      "word": "darcy",
+      "score": 0.062066
+    },
+    {
+      "word": "blaine",
+      "score": 0.060514
+    },
+    {
+      "word": "froggy",
+      "score": 0.06004
+    },
+    {
+      "word": "gillespie",
+      "score": 0.059374
+    },
+    {
+      "word": "olson",
+      "score": 0.058923
+    },
+    {
+      "word": "invilliers",
+      "score": 0.057723
+    },
+    {
+      "word": "tump",
+      "score": 0.057723
+    },
+    {
+      "word": "eleanor",
+      "score": 0.055077
+    },
+    {
+      "word": "princeton",
+      "score": 0.05487
+    },
+    {
+      "word": "sloane",
+      "score": 0.054691
+    },
+    {
+      "word": "beatrice",
+      "score": 0.051316
+    },
+    {
+      "word": "minneapolis",
+      "score": 0.051292
+    }
+  ]
+}

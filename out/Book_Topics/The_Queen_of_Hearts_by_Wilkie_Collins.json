@@ -1,0 +1,87 @@
+{
+  "book_title": "The Queen of Hearts by Wilkie Collins",
+  "genre": "Detective and Mystery Stories",
+  "pkl_stem": "The_Queen_of_Hearts_by_Wilkie_Collins",
+  "top_keywords": [
+    {
+      "word": "meeke",
+      "score": 0.072424
+    },
+    {
+      "word": "carling",
+      "score": 0.071404
+    },
+    {
+      "word": "fauntleroy",
+      "score": 0.065084
+    },
+    {
+      "word": "bulmer",
+      "score": 0.064122
+    },
+    {
+      "word": "yelverton",
+      "score": 0.064122
+    },
+    {
+      "word": "holliday",
+      "score": 0.063114
+    },
+    {
+      "word": "jessie",
+      "score": 0.058243
+    },
+    {
+      "word": "trowbridge",
+      "score": 0.054738
+    },
+    {
+      "word": "rambert",
+      "score": 0.054434
+    },
+    {
+      "word": "fondi",
+      "score": 0.051329
+    },
+    {
+      "word": "josephine",
+      "score": 0.050457
+    },
+    {
+      "word": "owen",
+      "score": 0.049669
+    },
+    {
+      "word": "ada",
+      "score": 0.048533
+    },
+    {
+      "word": "foulon",
+      "score": 0.048369
+    },
+    {
+      "word": "quadroon",
+      "score": 0.045948
+    },
+    {
+      "word": "morgan",
+      "score": 0.045135
+    },
+    {
+      "word": "rutherford",
+      "score": 0.043722
+    },
+    {
+      "word": "doncaster",
+      "score": 0.043314
+    },
+    {
+      "word": "griffith",
+      "score": 0.043301
+    },
+    {
+      "word": "jay",
+      "score": 0.042921
+    }
+  ]
+}

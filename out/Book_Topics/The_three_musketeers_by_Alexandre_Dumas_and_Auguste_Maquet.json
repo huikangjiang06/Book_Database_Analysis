@@ -1,0 +1,87 @@
+{
+  "book_title": "The three musketeers by Alexandre Dumas and Auguste Maquet",
+  "genre": "Adventure",
+  "pkl_stem": "The_three_musketeers_by_Alexandre_Dumas_and_Auguste_Maquet",
+  "top_keywords": [
+    {
+      "word": "artagnan",
+      "score": 0.104829
+    },
+    {
+      "word": "porthos",
+      "score": 0.094576
+    },
+    {
+      "word": "aramis",
+      "score": 0.089307
+    },
+    {
+      "word": "planchet",
+      "score": 0.081785
+    },
+    {
+      "word": "milady",
+      "score": 0.080751
+    },
+    {
+      "word": "grimaud",
+      "score": 0.076669
+    },
+    {
+      "word": "athos",
+      "score": 0.074956
+    },
+    {
+      "word": "felton",
+      "score": 0.070763
+    },
+    {
+      "word": "bazin",
+      "score": 0.066575
+    },
+    {
+      "word": "musketeer",
+      "score": 0.065721
+    },
+    {
+      "word": "mousqueton",
+      "score": 0.06528
+    },
+    {
+      "word": "musketeers",
+      "score": 0.059484
+    },
+    {
+      "word": "pistoles",
+      "score": 0.058721
+    },
+    {
+      "word": "chevreuse",
+      "score": 0.058351
+    },
+    {
+      "word": "rochellais",
+      "score": 0.057839
+    },
+    {
+      "word": "procurator",
+      "score": 0.057031
+    },
+    {
+      "word": "ville",
+      "score": 0.05682
+    },
+    {
+      "word": "meung",
+      "score": 0.053578
+    },
+    {
+      "word": "mme",
+      "score": 0.052337
+    },
+    {
+      "word": "buckingham",
+      "score": 0.051144
+    }
+  ]
+}

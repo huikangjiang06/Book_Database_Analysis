@@ -1,0 +1,87 @@
+{
+  "book_title": "Metamorphosis by Franz Kafka",
+  "genre": "Horror Tales",
+  "pkl_stem": "Metamorphosis_by_Franz_Kafka",
+  "top_keywords": [
+    {
+      "word": "gregor",
+      "score": 0.27616
+    },
+    {
+      "word": "grete",
+      "score": 0.173969
+    },
+    {
+      "word": "charwoman",
+      "score": 0.10514
+    },
+    {
+      "word": "nonetheless",
+      "score": 0.095605
+    },
+    {
+      "word": "onto",
+      "score": 0.082848
+    },
+    {
+      "word": "violin",
+      "score": 0.076797
+    },
+    {
+      "word": "immobile",
+      "score": 0.076351
+    },
+    {
+      "word": "locksmith",
+      "score": 0.074833
+    },
+    {
+      "word": "overview",
+      "score": 0.072165
+    },
+    {
+      "word": "cleaner",
+      "score": 0.071789
+    },
+    {
+      "word": "leant",
+      "score": 0.071211
+    },
+    {
+      "word": "boss",
+      "score": 0.068774
+    },
+    {
+      "word": "salesmen",
+      "score": 0.066554
+    },
+    {
+      "word": "realised",
+      "score": 0.063957
+    },
+    {
+      "word": "clerk",
+      "score": 0.061433
+    },
+    {
+      "word": "adhesive",
+      "score": 0.060897
+    },
+    {
+      "word": "woken",
+      "score": 0.059867
+    },
+    {
+      "word": "banister",
+      "score": 0.059867
+    },
+    {
+      "word": "sister",
+      "score": 0.058605
+    },
+    {
+      "word": "tidied",
+      "score": 0.057195
+    }
+  ]
+}

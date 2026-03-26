@@ -1,0 +1,87 @@
+{
+  "book_title": "Skylark Three by E. E. Smith",
+  "genre": "Science Fiction",
+  "pkl_stem": "Skylark_Three_by_E__E__Smith",
+  "top_keywords": [
+    {
+      "word": "seaton",
+      "score": 0.106527
+    },
+    {
+      "word": "visiplate",
+      "score": 0.080014
+    },
+    {
+      "word": "skylark",
+      "score": 0.074366
+    },
+    {
+      "word": "duquesne",
+      "score": 0.070667
+    },
+    {
+      "word": "sitar",
+      "score": 0.069812
+    },
+    {
+      "word": "terrestrials",
+      "score": 0.066387
+    },
+    {
+      "word": "detector",
+      "score": 0.066086
+    },
+    {
+      "word": "uranium",
+      "score": 0.064145
+    },
+    {
+      "word": "attractor",
+      "score": 0.063276
+    },
+    {
+      "word": "generators",
+      "score": 0.062077
+    },
+    {
+      "word": "dorothy",
+      "score": 0.061552
+    },
+    {
+      "word": "projector",
+      "score": 0.060739
+    },
+    {
+      "word": "loring",
+      "score": 0.060652
+    },
+    {
+      "word": "frequencies",
+      "score": 0.060301
+    },
+    {
+      "word": "shiro",
+      "score": 0.060301
+    },
+    {
+      "word": "dasor",
+      "score": 0.059468
+    },
+    {
+      "word": "dottie",
+      "score": 0.059468
+    },
+    {
+      "word": "overlord",
+      "score": 0.058086
+    },
+    {
+      "word": "brookings",
+      "score": 0.054559
+    },
+    {
+      "word": "galaxy",
+      "score": 0.053271
+    }
+  ]
+}

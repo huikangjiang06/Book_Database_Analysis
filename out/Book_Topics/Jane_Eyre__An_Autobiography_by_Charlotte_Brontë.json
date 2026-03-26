@@ -1,0 +1,87 @@
+{
+  "book_title": "Jane Eyre: An Autobiography by Charlotte Bront\u00eb",
+  "genre": "Romance",
+  "pkl_stem": "Jane_Eyre__An_Autobiography_by_Charlotte_Bronte\u0308",
+  "top_keywords": [
+    {
+      "word": "brocklehurst",
+      "score": 0.06467
+    },
+    {
+      "word": "lowood",
+      "score": 0.064439
+    },
+    {
+      "word": "bessie",
+      "score": 0.063486
+    },
+    {
+      "word": "eyre",
+      "score": 0.060782
+    },
+    {
+      "word": "ingram",
+      "score": 0.056848
+    },
+    {
+      "word": "rochester",
+      "score": 0.056399
+    },
+    {
+      "word": "fairfax",
+      "score": 0.054583
+    },
+    {
+      "word": "scatcherd",
+      "score": 0.053219
+    },
+    {
+      "word": "georgiana",
+      "score": 0.05304
+    },
+    {
+      "word": "leah",
+      "score": 0.049019
+    },
+    {
+      "word": "poole",
+      "score": 0.042999
+    },
+    {
+      "word": "sophie",
+      "score": 0.042033
+    },
+    {
+      "word": "jane",
+      "score": 0.040274
+    },
+    {
+      "word": "janet",
+      "score": 0.039574
+    },
+    {
+      "word": "lynn",
+      "score": 0.039096
+    },
+    {
+      "word": "rosamond",
+      "score": 0.038995
+    },
+    {
+      "word": "hannah",
+      "score": 0.03867
+    },
+    {
+      "word": "dent",
+      "score": 0.035683
+    },
+    {
+      "word": "mama",
+      "score": 0.034944
+    },
+    {
+      "word": "eliza",
+      "score": 0.034439
+    }
+  ]
+}

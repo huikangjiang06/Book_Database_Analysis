@@ -1,0 +1,87 @@
+{
+  "book_title": "Life of Harriet Beecher Stowe by Harriet Beecher Stowe",
+  "genre": "Biographies and Autobiographies",
+  "pkl_stem": "Life_of_Harriet_Beecher_Stowe_by_Harriet_Beecher_Stowe",
+  "top_keywords": [
+    {
+      "word": "stowe",
+      "score": 0.069796
+    },
+    {
+      "word": "beecher",
+      "score": 0.057292
+    },
+    {
+      "word": "dred",
+      "score": 0.054369
+    },
+    {
+      "word": "litchfield",
+      "score": 0.053674
+    },
+    {
+      "word": "andover",
+      "score": 0.050502
+    },
+    {
+      "word": "georgiana",
+      "score": 0.049825
+    },
+    {
+      "word": "argyll",
+      "score": 0.048522
+    },
+    {
+      "word": "birney",
+      "score": 0.047996
+    },
+    {
+      "word": "sutherland",
+      "score": 0.047051
+    },
+    {
+      "word": "hartford",
+      "score": 0.04686
+    },
+    {
+      "word": "brattleboro",
+      "score": 0.046523
+    },
+    {
+      "word": "harriet",
+      "score": 0.045794
+    },
+    {
+      "word": "orr",
+      "score": 0.044525
+    },
+    {
+      "word": "belloc",
+      "score": 0.043618
+    },
+    {
+      "word": "cincinnati",
+      "score": 0.043483
+    },
+    {
+      "word": "inverary",
+      "score": 0.042016
+    },
+    {
+      "word": "spiritualism",
+      "score": 0.041471
+    },
+    {
+      "word": "hatty",
+      "score": 0.041111
+    },
+    {
+      "word": "mina",
+      "score": 0.040558
+    },
+    {
+      "word": "whittier",
+      "score": 0.040516
+    }
+  ]
+}

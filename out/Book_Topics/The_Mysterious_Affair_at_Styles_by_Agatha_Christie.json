@@ -1,0 +1,87 @@
+{
+  "book_title": "The Mysterious Affair at Styles by Agatha Christie",
+  "genre": "Detective and Mystery Stories",
+  "pkl_stem": "The_Mysterious_Affair_at_Styles_by_Agatha_Christie",
+  "top_keywords": [
+    {
+      "word": "poirot",
+      "score": 0.162248
+    },
+    {
+      "word": "dorcas",
+      "score": 0.120182
+    },
+    {
+      "word": "cavendish",
+      "score": 0.110608
+    },
+    {
+      "word": "cynthia",
+      "score": 0.106018
+    },
+    {
+      "word": "strychnine",
+      "score": 0.101292
+    },
+    {
+      "word": "japp",
+      "score": 0.10117
+    },
+    {
+      "word": "evie",
+      "score": 0.088798
+    },
+    {
+      "word": "ami",
+      "score": 0.074768
+    },
+    {
+      "word": "howard",
+      "score": 0.07246
+    },
+    {
+      "word": "evelyn",
+      "score": 0.071579
+    },
+    {
+      "word": "lawrence",
+      "score": 0.069411
+    },
+    {
+      "word": "hastings",
+      "score": 0.06585
+    },
+    {
+      "word": "emily",
+      "score": 0.065689
+    },
+    {
+      "word": "murdoch",
+      "score": 0.06526
+    },
+    {
+      "word": "wilkins",
+      "score": 0.063961
+    },
+    {
+      "word": "bromide",
+      "score": 0.063232
+    },
+    {
+      "word": "cocoa",
+      "score": 0.060837
+    },
+    {
+      "word": "coroner",
+      "score": 0.06055
+    },
+    {
+      "word": "hydro",
+      "score": 0.060175
+    },
+    {
+      "word": "hercule",
+      "score": 0.06013
+    }
+  ]
+}

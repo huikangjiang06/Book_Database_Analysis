@@ -1,0 +1,87 @@
+{
+  "book_title": "The House of Souls by Arthur Machen",
+  "genre": "Horror Tales",
+  "pkl_stem": "The_House_of_Souls_by_Arthur_Machen",
+  "top_keywords": [
+    {
+      "word": "villiers",
+      "score": 0.095171
+    },
+    {
+      "word": "murry",
+      "score": 0.074125
+    },
+    {
+      "word": "cotgrave",
+      "score": 0.073231
+    },
+    {
+      "word": "meyrick",
+      "score": 0.072615
+    },
+    {
+      "word": "nixon",
+      "score": 0.07179
+    },
+    {
+      "word": "crashaw",
+      "score": 0.065058
+    },
+    {
+      "word": "clarke",
+      "score": 0.062325
+    },
+    {
+      "word": "marian",
+      "score": 0.061498
+    },
+    {
+      "word": "argentine",
+      "score": 0.059026
+    },
+    {
+      "word": "austin",
+      "score": 0.056875
+    },
+    {
+      "word": "raymond",
+      "score": 0.054559
+    },
+    {
+      "word": "beaumont",
+      "score": 0.054293
+    },
+    {
+      "word": "vaughan",
+      "score": 0.053971
+    },
+    {
+      "word": "salisbury",
+      "score": 0.053295
+    },
+    {
+      "word": "caermaen",
+      "score": 0.053152
+    },
+    {
+      "word": "ashley",
+      "score": 0.051005
+    },
+    {
+      "word": "alice",
+      "score": 0.050322
+    },
+    {
+      "word": "ambrose",
+      "score": 0.049985
+    },
+    {
+      "word": "trevor",
+      "score": 0.04713
+    },
+    {
+      "word": "chianti",
+      "score": 0.04713
+    }
+  ]
+}

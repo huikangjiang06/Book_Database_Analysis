@@ -1,0 +1,87 @@
+{
+  "book_title": "The Myths of Mexico & Peru by Lewis Spence",
+  "genre": "Mythology",
+  "pkl_stem": "The_Myths_of_Mexico___Peru_by_Lewis_Spence",
+  "top_keywords": [
+    {
+      "word": "nahua",
+      "score": 0.075333
+    },
+    {
+      "word": "kiche",
+      "score": 0.072882
+    },
+    {
+      "word": "quetzalcoatl",
+      "score": 0.069615
+    },
+    {
+      "word": "apu",
+      "score": 0.069191
+    },
+    {
+      "word": "popol",
+      "score": 0.068668
+    },
+    {
+      "word": "vuh",
+      "score": 0.068489
+    },
+    {
+      "word": "inca",
+      "score": 0.065402
+    },
+    {
+      "word": "toltecs",
+      "score": 0.06492
+    },
+    {
+      "word": "maya",
+      "score": 0.06477
+    },
+    {
+      "word": "tezcatlipoca",
+      "score": 0.064318
+    },
+    {
+      "word": "huitzilopochtli",
+      "score": 0.063013
+    },
+    {
+      "word": "toltec",
+      "score": 0.061369
+    },
+    {
+      "word": "tezcuco",
+      "score": 0.059177
+    },
+    {
+      "word": "tollan",
+      "score": 0.059177
+    },
+    {
+      "word": "tlaloc",
+      "score": 0.056072
+    },
+    {
+      "word": "cuzco",
+      "score": 0.055787
+    },
+    {
+      "word": "pachacamac",
+      "score": 0.055268
+    },
+    {
+      "word": "mitla",
+      "score": 0.055268
+    },
+    {
+      "word": "titicaca",
+      "score": 0.055062
+    },
+    {
+      "word": "tecpanecs",
+      "score": 0.054229
+    }
+  ]
+}

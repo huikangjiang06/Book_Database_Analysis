@@ -1,0 +1,87 @@
+{
+  "book_title": "The Monkey's Paw by W. W. Jacobs",
+  "genre": "Horror Tales",
+  "pkl_stem": "The_Monkey_s_Paw_by_W__W__Jacobs",
+  "top_keywords": [
+    {
+      "word": "herbert",
+      "score": 0.158919
+    },
+    {
+      "word": "talisman",
+      "score": 0.145075
+    },
+    {
+      "word": "paw",
+      "score": 0.143038
+    },
+    {
+      "word": "sergeant",
+      "score": 0.136102
+    },
+    {
+      "word": "morris",
+      "score": 0.13147
+    },
+    {
+      "word": "monkey",
+      "score": 0.104437
+    },
+    {
+      "word": "maw",
+      "score": 0.098234
+    },
+    {
+      "word": "major",
+      "score": 0.095063
+    },
+    {
+      "word": "mrs",
+      "score": 0.084077
+    },
+    {
+      "word": "parlour",
+      "score": 0.082489
+    },
+    {
+      "word": "tut",
+      "score": 0.080233
+    },
+    {
+      "word": "blotchy",
+      "score": 0.076988
+    },
+    {
+      "word": "fakir",
+      "score": 0.076988
+    },
+    {
+      "word": "henpecked",
+      "score": 0.076988
+    },
+    {
+      "word": "soothingly",
+      "score": 0.075992
+    },
+    {
+      "word": "visitor",
+      "score": 0.075878
+    },
+    {
+      "word": "fakirs",
+      "score": 0.075372
+    },
+    {
+      "word": "simian",
+      "score": 0.075372
+    },
+    {
+      "word": "condoled",
+      "score": 0.07391
+    },
+    {
+      "word": "miscalled",
+      "score": 0.072576
+    }
+  ]
+}

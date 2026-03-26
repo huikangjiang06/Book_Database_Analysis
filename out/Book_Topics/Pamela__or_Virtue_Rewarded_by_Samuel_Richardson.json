@@ -1,0 +1,87 @@
+{
+  "book_title": "Pamela, or Virtue Rewarded by Samuel Richardson",
+  "genre": "Romance",
+  "pkl_stem": "Pamela__or_Virtue_Rewarded_by_Samuel_Richardson",
+  "top_keywords": [
+    {
+      "word": "pamela",
+      "score": 0.093605
+    },
+    {
+      "word": "jervis",
+      "score": 0.091493
+    },
+    {
+      "word": "longman",
+      "score": 0.075021
+    },
+    {
+      "word": "bedfordshire",
+      "score": 0.057108
+    },
+    {
+      "word": "worden",
+      "score": 0.05406
+    },
+    {
+      "word": "ladyship",
+      "score": 0.054
+    },
+    {
+      "word": "nan",
+      "score": 0.053681
+    },
+    {
+      "word": "peters",
+      "score": 0.053486
+    },
+    {
+      "word": "lincolnshire",
+      "score": 0.052452
+    },
+    {
+      "word": "shew",
+      "score": 0.051371
+    },
+    {
+      "word": "ythee",
+      "score": 0.051232
+    },
+    {
+      "word": "andrews",
+      "score": 0.050674
+    },
+    {
+      "word": "williams",
+      "score": 0.04801
+    },
+    {
+      "word": "lambkin",
+      "score": 0.045942
+    },
+    {
+      "word": "shewed",
+      "score": 0.045012
+    },
+    {
+      "word": "stamford",
+      "score": 0.042683
+    },
+    {
+      "word": "shewn",
+      "score": 0.042192
+    },
+    {
+      "word": "freedoms",
+      "score": 0.041385
+    },
+    {
+      "word": "simon",
+      "score": 0.041378
+    },
+    {
+      "word": "disoblige",
+      "score": 0.041313
+    }
+  ]
+}

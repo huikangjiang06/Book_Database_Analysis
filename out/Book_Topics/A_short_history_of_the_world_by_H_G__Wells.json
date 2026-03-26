@@ -1,0 +1,87 @@
+{
+  "book_title": "A short history of the world by H.G. Wells",
+  "genre": "History",
+  "pkl_stem": "A_short_history_of_the_world_by_H_G__Wells",
+  "top_keywords": [
+    {
+      "word": "sumeria",
+      "score": 0.047902
+    },
+    {
+      "word": "muhammad",
+      "score": 0.044856
+    },
+    {
+      "word": "nordic",
+      "score": 0.043431
+    },
+    {
+      "word": "mesozoic",
+      "score": 0.042944
+    },
+    {
+      "word": "asoka",
+      "score": 0.040694
+    },
+    {
+      "word": "gautama",
+      "score": 0.040637
+    },
+    {
+      "word": "seq",
+      "score": 0.040575
+    },
+    {
+      "word": "heraclius",
+      "score": 0.04017
+    },
+    {
+      "word": "hwang",
+      "score": 0.04017
+    },
+    {
+      "word": "sargon",
+      "score": 0.04005
+    },
+    {
+      "word": "gean",
+      "score": 0.038863
+    },
+    {
+      "word": "sumerian",
+      "score": 0.038252
+    },
+    {
+      "word": "aryan",
+      "score": 0.037954
+    },
+    {
+      "word": "olithic",
+      "score": 0.037846
+    },
+    {
+      "word": "neolithic",
+      "score": 0.037795
+    },
+    {
+      "word": "nician",
+      "score": 0.037283
+    },
+    {
+      "word": "semitic",
+      "score": 0.036814
+    },
+    {
+      "word": "mongol",
+      "score": 0.036798
+    },
+    {
+      "word": "chosroes",
+      "score": 0.036072
+    },
+    {
+      "word": "photo",
+      "score": 0.035933
+    }
+  ]
+}

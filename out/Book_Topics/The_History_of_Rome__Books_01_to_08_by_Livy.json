@@ -1,0 +1,87 @@
+{
+  "book_title": "The History of Rome, Books 01 to 08 by Livy",
+  "genre": "History",
+  "pkl_stem": "The_History_of_Rome__Books_01_to_08_by_Livy",
+  "top_keywords": [
+    {
+      "word": "volscians",
+      "score": 0.063868
+    },
+    {
+      "word": "virginius",
+      "score": 0.063191
+    },
+    {
+      "word": "quintius",
+      "score": 0.058716
+    },
+    {
+      "word": "tribunes",
+      "score": 0.058585
+    },
+    {
+      "word": "appius",
+      "score": 0.05784
+    },
+    {
+      "word": "etrurians",
+      "score": 0.05749
+    },
+    {
+      "word": "postumius",
+      "score": 0.056166
+    },
+    {
+      "word": "veii",
+      "score": 0.056004
+    },
+    {
+      "word": "decemvirs",
+      "score": 0.05578
+    },
+    {
+      "word": "tribunitian",
+      "score": 0.055661
+    },
+    {
+      "word": "furius",
+      "score": 0.055481
+    },
+    {
+      "word": "spurius",
+      "score": 0.054525
+    },
+    {
+      "word": "volscian",
+      "score": 0.05326
+    },
+    {
+      "word": "servilius",
+      "score": 0.052741
+    },
+    {
+      "word": "icilius",
+      "score": 0.05268
+    },
+    {
+      "word": "fiden",
+      "score": 0.051919
+    },
+    {
+      "word": "manlius",
+      "score": 0.051773
+    },
+    {
+      "word": "patricians",
+      "score": 0.051025
+    },
+    {
+      "word": "publius",
+      "score": 0.050755
+    },
+    {
+      "word": "valerius",
+      "score": 0.050629
+    }
+  ]
+}

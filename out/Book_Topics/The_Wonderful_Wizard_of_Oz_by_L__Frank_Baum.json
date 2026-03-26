@@ -1,0 +1,87 @@
+{
+  "book_title": "The Wonderful Wizard of Oz by L. Frank Baum",
+  "genre": "Fairy Tales and Children's Literature",
+  "pkl_stem": "The_Wonderful_Wizard_of_Oz_by_L__Frank_Baum",
+  "top_keywords": [
+    {
+      "word": "dorothy",
+      "score": 0.153457
+    },
+    {
+      "word": "winkies",
+      "score": 0.14994
+    },
+    {
+      "word": "munchkins",
+      "score": 0.138859
+    },
+    {
+      "word": "glinda",
+      "score": 0.135422
+    },
+    {
+      "word": "woodman",
+      "score": 0.132834
+    },
+    {
+      "word": "scarecrow",
+      "score": 0.131642
+    },
+    {
+      "word": "toto",
+      "score": 0.131047
+    },
+    {
+      "word": "munchkin",
+      "score": 0.122394
+    },
+    {
+      "word": "quadlings",
+      "score": 0.116658
+    },
+    {
+      "word": "kansas",
+      "score": 0.096283
+    },
+    {
+      "word": "cyclone",
+      "score": 0.082236
+    },
+    {
+      "word": "stork",
+      "score": 0.080484
+    },
+    {
+      "word": "wizard",
+      "score": 0.078385
+    },
+    {
+      "word": "emerald",
+      "score": 0.077987
+    },
+    {
+      "word": "witch",
+      "score": 0.0775
+    },
+    {
+      "word": "monkeys",
+      "score": 0.075113
+    },
+    {
+      "word": "milkmaid",
+      "score": 0.07413
+    },
+    {
+      "word": "travelers",
+      "score": 0.07097
+    },
+    {
+      "word": "rusted",
+      "score": 0.06569
+    },
+    {
+      "word": "balloon",
+      "score": 0.064135
+    }
+  ]
+}

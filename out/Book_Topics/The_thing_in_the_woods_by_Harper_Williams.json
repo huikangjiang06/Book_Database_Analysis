@@ -1,0 +1,87 @@
+{
+  "book_title": "The thing in the woods by Harper Williams",
+  "genre": "Horror Tales",
+  "pkl_stem": "The_thing_in_the_woods_by_Harper_Williams",
+  "top_keywords": [
+    {
+      "word": "jakey",
+      "score": 0.118341
+    },
+    {
+      "word": "lennox",
+      "score": 0.109549
+    },
+    {
+      "word": "crowfoot",
+      "score": 0.109233
+    },
+    {
+      "word": "herrick",
+      "score": 0.108985
+    },
+    {
+      "word": "lessing",
+      "score": 0.105412
+    },
+    {
+      "word": "yoh",
+      "score": 0.078157
+    },
+    {
+      "word": "aaron",
+      "score": 0.0722
+    },
+    {
+      "word": "rebecca",
+      "score": 0.068136
+    },
+    {
+      "word": "pete",
+      "score": 0.067462
+    },
+    {
+      "word": "jake",
+      "score": 0.067032
+    },
+    {
+      "word": "bungalow",
+      "score": 0.066469
+    },
+    {
+      "word": "gwine",
+      "score": 0.064318
+    },
+    {
+      "word": "sluice",
+      "score": 0.064268
+    },
+    {
+      "word": "paddy",
+      "score": 0.062776
+    },
+    {
+      "word": "austin",
+      "score": 0.061976
+    },
+    {
+      "word": "setter",
+      "score": 0.059155
+    },
+    {
+      "word": "darkie",
+      "score": 0.055771
+    },
+    {
+      "word": "sah",
+      "score": 0.05516
+    },
+    {
+      "word": "dutchman",
+      "score": 0.055068
+    },
+    {
+      "word": "freeman",
+      "score": 0.054225
+    }
+  ]
+}

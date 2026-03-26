@@ -1,0 +1,87 @@
+{
+  "book_title": "The Devil's Dictionary by Ambrose Bierce",
+  "genre": "Satirical fiction",
+  "pkl_stem": "The_Devil_s_Dictionary_by_Ambrose_Bierce",
+  "top_keywords": [
+    {
+      "word": "adj",
+      "score": 0.083363
+    },
+    {
+      "word": "lexicographer",
+      "score": 0.049709
+    },
+    {
+      "word": "lunarian",
+      "score": 0.048733
+    },
+    {
+      "word": "adv",
+      "score": 0.041108
+    },
+    {
+      "word": "acceptably",
+      "score": 0.036515
+    },
+    {
+      "word": "severalty",
+      "score": 0.035137
+    },
+    {
+      "word": "noumenon",
+      "score": 0.03485
+    },
+    {
+      "word": "dullards",
+      "score": 0.034139
+    },
+    {
+      "word": "avers",
+      "score": 0.03413
+    },
+    {
+      "word": "splurge",
+      "score": 0.033274
+    },
+    {
+      "word": "ispahan",
+      "score": 0.033274
+    },
+    {
+      "word": "obsolescent",
+      "score": 0.033211
+    },
+    {
+      "word": "twere",
+      "score": 0.031891
+    },
+    {
+      "word": "humorist",
+      "score": 0.031653
+    },
+    {
+      "word": "carnegie",
+      "score": 0.031262
+    },
+    {
+      "word": "infesting",
+      "score": 0.031211
+    },
+    {
+      "word": "incumbents",
+      "score": 0.030901
+    },
+    {
+      "word": "attests",
+      "score": 0.030642
+    },
+    {
+      "word": "hearst",
+      "score": 0.030023
+    },
+    {
+      "word": "cynic",
+      "score": 0.029804
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "Treasure Island by Robert Louis Stevenson",
+  "genre": "Adventure",
+  "pkl_stem": "Treasure_Island_by_Robert_Louis_Stevenson",
+  "top_keywords": [
+    {
+      "word": "coracle",
+      "score": 0.092159
+    },
+    {
+      "word": "redruth",
+      "score": 0.088544
+    },
+    {
+      "word": "gunn",
+      "score": 0.088144
+    },
+    {
+      "word": "benbow",
+      "score": 0.087537
+    },
+    {
+      "word": "hispaniola",
+      "score": 0.086404
+    },
+    {
+      "word": "smollett",
+      "score": 0.07946
+    },
+    {
+      "word": "hawkins",
+      "score": 0.070293
+    },
+    {
+      "word": "coxswain",
+      "score": 0.067388
+    },
+    {
+      "word": "dooty",
+      "score": 0.066472
+    },
+    {
+      "word": "joyce",
+      "score": 0.063875
+    },
+    {
+      "word": "stockade",
+      "score": 0.062033
+    },
+    {
+      "word": "gigs",
+      "score": 0.060915
+    },
+    {
+      "word": "buccaneer",
+      "score": 0.059884
+    },
+    {
+      "word": "mutineers",
+      "score": 0.059706
+    },
+    {
+      "word": "buccaneers",
+      "score": 0.058666
+    },
+    {
+      "word": "cutlass",
+      "score": 0.055369
+    },
+    {
+      "word": "crutch",
+      "score": 0.054115
+    },
+    {
+      "word": "squire",
+      "score": 0.053775
+    },
+    {
+      "word": "jim",
+      "score": 0.053678
+    },
+    {
+      "word": "dirk",
+      "score": 0.05342
+    }
+  ]
+}

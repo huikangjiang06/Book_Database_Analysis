@@ -1,0 +1,87 @@
+{
+  "book_title": "Progress and Poverty, Volumes I and II by Henry George",
+  "genre": "Political Economy",
+  "pkl_stem": "Progress_and_Poverty__Volumes_I_and_II_by_Henry_George",
+  "top_keywords": [
+    {
+      "word": "malthusian",
+      "score": 0.051739
+    },
+    {
+      "word": "productiveness",
+      "score": 0.045448
+    },
+    {
+      "word": "laveleye",
+      "score": 0.044335
+    },
+    {
+      "word": "reproductive",
+      "score": 0.042024
+    },
+    {
+      "word": "ricardo",
+      "score": 0.040968
+    },
+    {
+      "word": "malthus",
+      "score": 0.040764
+    },
+    {
+      "word": "mcculloch",
+      "score": 0.037384
+    },
+    {
+      "word": "monopolization",
+      "score": 0.03699
+    },
+    {
+      "word": "bagehot",
+      "score": 0.036825
+    },
+    {
+      "word": "laborers",
+      "score": 0.036817
+    },
+    {
+      "word": "civilizations",
+      "score": 0.035565
+    },
+    {
+      "word": "laborer",
+      "score": 0.03511
+    },
+    {
+      "word": "producers",
+      "score": 0.03469
+    },
+    {
+      "word": "labor",
+      "score": 0.033816
+    },
+    {
+      "word": "ownership",
+      "score": 0.03363
+    },
+    {
+      "word": "statics",
+      "score": 0.033508
+    },
+    {
+      "word": "retrogression",
+      "score": 0.033506
+    },
+    {
+      "word": "reversely",
+      "score": 0.033385
+    },
+    {
+      "word": "taxation",
+      "score": 0.033059
+    },
+    {
+      "word": "pauperism",
+      "score": 0.032681
+    }
+  ]
+}

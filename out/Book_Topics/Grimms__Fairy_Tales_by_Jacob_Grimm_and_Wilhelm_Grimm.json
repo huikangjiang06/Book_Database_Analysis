@@ -1,0 +1,87 @@
+{
+  "book_title": "Grimms' Fairy Tales by Jacob Grimm and Wilhelm Grimm",
+  "genre": "Fairy Tales and Children's Literature",
+  "pkl_stem": "Grimms__Fairy_Tales_by_Jacob_Grimm_and_Wilhelm_Grimm",
+  "top_keywords": [
+    {
+      "word": "gretel",
+      "score": 0.125107
+    },
+    {
+      "word": "hansel",
+      "score": 0.094628
+    },
+    {
+      "word": "chanticleer",
+      "score": 0.088119
+    },
+    {
+      "word": "falada",
+      "score": 0.08278
+    },
+    {
+      "word": "snowdrop",
+      "score": 0.081097
+    },
+    {
+      "word": "curdken",
+      "score": 0.077294
+    },
+    {
+      "word": "holle",
+      "score": 0.077294
+    },
+    {
+      "word": "hans",
+      "score": 0.076545
+    },
+    {
+      "word": "lina",
+      "score": 0.072654
+    },
+    {
+      "word": "elsie",
+      "score": 0.070607
+    },
+    {
+      "word": "manikin",
+      "score": 0.064902
+    },
+    {
+      "word": "huntsman",
+      "score": 0.061609
+    },
+    {
+      "word": "goodbye",
+      "score": 0.056876
+    },
+    {
+      "word": "roland",
+      "score": 0.056267
+    },
+    {
+      "word": "enchantress",
+      "score": 0.055117
+    },
+    {
+      "word": "huntsmen",
+      "score": 0.053321
+    },
+    {
+      "word": "grete",
+      "score": 0.052633
+    },
+    {
+      "word": "juniper",
+      "score": 0.05156
+    },
+    {
+      "word": "dwarf",
+      "score": 0.048316
+    },
+    {
+      "word": "fiddler",
+      "score": 0.048145
+    }
+  ]
+}

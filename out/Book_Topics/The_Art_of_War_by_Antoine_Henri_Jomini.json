@@ -1,0 +1,87 @@
+{
+  "book_title": "The Art of War by Antoine Henri Jomini",
+  "genre": "War and Strategy",
+  "pkl_stem": "The_Art_of_War_by_Antoine_Henri_Jomini",
+  "top_keywords": [
+    {
+      "word": "logistics",
+      "score": 0.055326
+    },
+    {
+      "word": "deployed",
+      "score": 0.052649
+    },
+    {
+      "word": "checkerwise",
+      "score": 0.050356
+    },
+    {
+      "word": "maneuvers",
+      "score": 0.049374
+    },
+    {
+      "word": "riel",
+      "score": 0.049151
+    },
+    {
+      "word": "eylau",
+      "score": 0.049112
+    },
+    {
+      "word": "ulm",
+      "score": 0.048866
+    },
+    {
+      "word": "strategic",
+      "score": 0.04843
+    },
+    {
+      "word": "benningsen",
+      "score": 0.048039
+    },
+    {
+      "word": "intrenched",
+      "score": 0.047662
+    },
+    {
+      "word": "maneuver",
+      "score": 0.047604
+    },
+    {
+      "word": "essling",
+      "score": 0.047552
+    },
+    {
+      "word": "echelons",
+      "score": 0.046113
+    },
+    {
+      "word": "reconnoissances",
+      "score": 0.04578
+    },
+    {
+      "word": "leuthen",
+      "score": 0.04578
+    },
+    {
+      "word": "jourdan",
+      "score": 0.045742
+    },
+    {
+      "word": "tactical",
+      "score": 0.045711
+    },
+    {
+      "word": "depots",
+      "score": 0.045582
+    },
+    {
+      "word": "dennewitz",
+      "score": 0.045526
+    },
+    {
+      "word": "gera",
+      "score": 0.045324
+    }
+  ]
+}

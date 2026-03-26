@@ -1,0 +1,87 @@
+{
+  "book_title": "Heart of the West by O. Henry",
+  "genre": "Western Stories",
+  "pkl_stem": "Heart_of_the_West_by_O__Henry",
+  "top_keywords": [
+    {
+      "word": "ranse",
+      "score": 0.07763
+    },
+    {
+      "word": "mcguire",
+      "score": 0.076148
+    },
+    {
+      "word": "mame",
+      "score": 0.07254
+    },
+    {
+      "word": "redruth",
+      "score": 0.067429
+    },
+    {
+      "word": "emsley",
+      "score": 0.066415
+    },
+    {
+      "word": "yellowhammer",
+      "score": 0.064754
+    },
+    {
+      "word": "baldy",
+      "score": 0.060217
+    },
+    {
+      "word": "yeager",
+      "score": 0.058293
+    },
+    {
+      "word": "longley",
+      "score": 0.057907
+    },
+    {
+      "word": "lena",
+      "score": 0.057418
+    },
+    {
+      "word": "hondo",
+      "score": 0.057019
+    },
+    {
+      "word": "merwin",
+      "score": 0.057019
+    },
+    {
+      "word": "paisley",
+      "score": 0.056473
+    },
+    {
+      "word": "jessup",
+      "score": 0.056371
+    },
+    {
+      "word": "cherokee",
+      "score": 0.055426
+    },
+    {
+      "word": "antone",
+      "score": 0.05534
+    },
+    {
+      "word": "calliope",
+      "score": 0.053909
+    },
+    {
+      "word": "dugan",
+      "score": 0.052996
+    },
+    {
+      "word": "buckley",
+      "score": 0.05224
+    },
+    {
+      "word": "webb",
+      "score": 0.051876
+    }
+  ]
+}

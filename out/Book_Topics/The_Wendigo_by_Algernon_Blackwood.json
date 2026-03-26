@@ -1,0 +1,87 @@
+{
+  "book_title": "The Wendigo by Algernon Blackwood",
+  "genre": "Horror Tales",
+  "pkl_stem": "The_Wendigo_by_Algernon_Blackwood",
+  "top_keywords": [
+    {
+      "word": "cathcart",
+      "score": 0.168147
+    },
+    {
+      "word": "hank",
+      "score": 0.144541
+    },
+    {
+      "word": "simpson",
+      "score": 0.124945
+    },
+    {
+      "word": "punk",
+      "score": 0.118887
+    },
+    {
+      "word": "moose",
+      "score": 0.097881
+    },
+    {
+      "word": "portage",
+      "score": 0.082149
+    },
+    {
+      "word": "nuthin",
+      "score": 0.078196
+    },
+    {
+      "word": "skeered",
+      "score": 0.076235
+    },
+    {
+      "word": "brul",
+      "score": 0.064418
+    },
+    {
+      "word": "canadian",
+      "score": 0.064125
+    },
+    {
+      "word": "canoe",
+      "score": 0.062259
+    },
+    {
+      "word": "odor",
+      "score": 0.061502
+    },
+    {
+      "word": "ole",
+      "score": 0.060399
+    },
+    {
+      "word": "tent",
+      "score": 0.057014
+    },
+    {
+      "word": "backwoods",
+      "score": 0.05662
+    },
+    {
+      "word": "farfetched",
+      "score": 0.055497
+    },
+    {
+      "word": "doo",
+      "score": 0.052706
+    },
+    {
+      "word": "untamed",
+      "score": 0.052351
+    },
+    {
+      "word": "balsam",
+      "score": 0.051662
+    },
+    {
+      "word": "hemlock",
+      "score": 0.051278
+    }
+  ]
+}

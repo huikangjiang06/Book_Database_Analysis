@@ -1,0 +1,87 @@
+{
+  "book_title": "Manhattan Transfer by John Dos Passos",
+  "genre": "NY-as-character",
+  "pkl_stem": "Manhattan_Transfer_by_John_Dos_Passos",
+  "top_keywords": [
+    {
+      "word": "dont",
+      "score": 0.061467
+    },
+    {
+      "word": "ellie",
+      "score": 0.060618
+    },
+    {
+      "word": "cassie",
+      "score": 0.060434
+    },
+    {
+      "word": "harland",
+      "score": 0.058298
+    },
+    {
+      "word": "jez",
+      "score": 0.055404
+    },
+    {
+      "word": "elaine",
+      "score": 0.055255
+    },
+    {
+      "word": "thatcher",
+      "score": 0.054449
+    },
+    {
+      "word": "maisie",
+      "score": 0.054191
+    },
+    {
+      "word": "stan",
+      "score": 0.052556
+    },
+    {
+      "word": "merivale",
+      "score": 0.051972
+    },
+    {
+      "word": "aint",
+      "score": 0.049849
+    },
+    {
+      "word": "goddam",
+      "score": 0.0496
+    },
+    {
+      "word": "jimmy",
+      "score": 0.049346
+    },
+    {
+      "word": "gus",
+      "score": 0.049235
+    },
+    {
+      "word": "juss",
+      "score": 0.048894
+    },
+    {
+      "word": "susie",
+      "score": 0.047971
+    },
+    {
+      "word": "emile",
+      "score": 0.047888
+    },
+    {
+      "word": "ellen",
+      "score": 0.04679
+    },
+    {
+      "word": "oglethorpe",
+      "score": 0.045685
+    },
+    {
+      "word": "joey",
+      "score": 0.04485
+    }
+  ]
+}

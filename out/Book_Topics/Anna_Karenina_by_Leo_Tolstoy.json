@@ -1,0 +1,87 @@
+{
+  "book_title": "Anna Karenina by Leo Tolstoy",
+  "genre": "Romance",
+  "pkl_stem": "Anna_Karenina_by_Leo_Tolstoy",
+  "top_keywords": [
+    {
+      "word": "alexey",
+      "score": 0.094401
+    },
+    {
+      "word": "levin",
+      "score": 0.088691
+    },
+    {
+      "word": "alexandrovitch",
+      "score": 0.084648
+    },
+    {
+      "word": "stepan",
+      "score": 0.083856
+    },
+    {
+      "word": "konstantin",
+      "score": 0.078175
+    },
+    {
+      "word": "darya",
+      "score": 0.077605
+    },
+    {
+      "word": "alexandrovna",
+      "score": 0.074094
+    },
+    {
+      "word": "ivanovitch",
+      "score": 0.072077
+    },
+    {
+      "word": "nikolay",
+      "score": 0.069947
+    },
+    {
+      "word": "dmitrievitch",
+      "score": 0.062712
+    },
+    {
+      "word": "kitty",
+      "score": 0.061307
+    },
+    {
+      "word": "stahl",
+      "score": 0.059443
+    },
+    {
+      "word": "frou",
+      "score": 0.059165
+    },
+    {
+      "word": "lidia",
+      "score": 0.05884
+    },
+    {
+      "word": "marya",
+      "score": 0.057096
+    },
+    {
+      "word": "karenina",
+      "score": 0.055376
+    },
+    {
+      "word": "dolly",
+      "score": 0.055183
+    },
+    {
+      "word": "betsy",
+      "score": 0.054686
+    },
+    {
+      "word": "grisha",
+      "score": 0.053461
+    },
+    {
+      "word": "ivanovna",
+      "score": 0.051669
+    }
+  ]
+}

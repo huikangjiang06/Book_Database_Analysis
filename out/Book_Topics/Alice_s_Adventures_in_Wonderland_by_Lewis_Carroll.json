@@ -1,0 +1,87 @@
+{
+  "book_title": "Alice's Adventures in Wonderland by Lewis Carroll",
+  "genre": "Fairy Tales and Children's Literature",
+  "pkl_stem": "Alice_s_Adventures_in_Wonderland_by_Lewis_Carroll",
+  "top_keywords": [
+    {
+      "word": "gryphon",
+      "score": 0.179206
+    },
+    {
+      "word": "dormouse",
+      "score": 0.141608
+    },
+    {
+      "word": "alice",
+      "score": 0.133695
+    },
+    {
+      "word": "hatter",
+      "score": 0.128228
+    },
+    {
+      "word": "dodo",
+      "score": 0.116891
+    },
+    {
+      "word": "dinah",
+      "score": 0.108044
+    },
+    {
+      "word": "whiting",
+      "score": 0.098656
+    },
+    {
+      "word": "caterpillar",
+      "score": 0.096975
+    },
+    {
+      "word": "turtle",
+      "score": 0.093411
+    },
+    {
+      "word": "croquet",
+      "score": 0.090054
+    },
+    {
+      "word": "hookah",
+      "score": 0.08556
+    },
+    {
+      "word": "duchess",
+      "score": 0.083528
+    },
+    {
+      "word": "flamingo",
+      "score": 0.078807
+    },
+    {
+      "word": "hedgehog",
+      "score": 0.076736
+    },
+    {
+      "word": "tarts",
+      "score": 0.075658
+    },
+    {
+      "word": "cheshire",
+      "score": 0.075168
+    },
+    {
+      "word": "lobsters",
+      "score": 0.074431
+    },
+    {
+      "word": "mabel",
+      "score": 0.073393
+    },
+    {
+      "word": "eaglet",
+      "score": 0.072664
+    },
+    {
+      "word": "treacle",
+      "score": 0.072378
+    }
+  ]
+}

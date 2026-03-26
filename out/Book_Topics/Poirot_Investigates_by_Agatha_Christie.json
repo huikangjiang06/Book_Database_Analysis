@@ -1,0 +1,87 @@
+{
+  "book_title": "Poirot Investigates by Agatha Christie",
+  "genre": "Detective and Mystery Stories",
+  "pkl_stem": "Poirot_Investigates_by_Agatha_Christie",
+  "top_keywords": [
+    {
+      "word": "poirot",
+      "score": 0.152683
+    },
+    {
+      "word": "yardly",
+      "score": 0.112791
+    },
+    {
+      "word": "japp",
+      "score": 0.106405
+    },
+    {
+      "word": "maltravers",
+      "score": 0.096694
+    },
+    {
+      "word": "marvell",
+      "score": 0.087048
+    },
+    {
+      "word": "lowen",
+      "score": 0.086135
+    },
+    {
+      "word": "rolf",
+      "score": 0.085337
+    },
+    {
+      "word": "ascanio",
+      "score": 0.082098
+    },
+    {
+      "word": "lestine",
+      "score": 0.082098
+    },
+    {
+      "word": "daniels",
+      "score": 0.078444
+    },
+    {
+      "word": "ridgeway",
+      "score": 0.075237
+    },
+    {
+      "word": "hercule",
+      "score": 0.073331
+    },
+    {
+      "word": "ami",
+      "score": 0.071633
+    },
+    {
+      "word": "vavasour",
+      "score": 0.070788
+    },
+    {
+      "word": "hastings",
+      "score": 0.067834
+    },
+    {
+      "word": "willard",
+      "score": 0.067
+    },
+    {
+      "word": "milord",
+      "score": 0.064836
+    },
+    {
+      "word": "ames",
+      "score": 0.064663
+    },
+    {
+      "word": "elsa",
+      "score": 0.060456
+    },
+    {
+      "word": "farquhar",
+      "score": 0.058077
+    }
+  ]
+}

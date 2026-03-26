@@ -1,0 +1,87 @@
+{
+  "book_title": "The Merry Adventures of Robin Hood by Howard Pyle",
+  "genre": "Adventure",
+  "pkl_stem": "The_Merry_Adventures_of_Robin_Hood_by_Howard_Pyle",
+  "top_keywords": [
+    {
+      "word": "prythee",
+      "score": 0.072703
+    },
+    {
+      "word": "sherwood",
+      "score": 0.071661
+    },
+    {
+      "word": "partington",
+      "score": 0.063953
+    },
+    {
+      "word": "nottingham",
+      "score": 0.062868
+    },
+    {
+      "word": "nottinghamshire",
+      "score": 0.062188
+    },
+    {
+      "word": "quoth",
+      "score": 0.061033
+    },
+    {
+      "word": "hereford",
+      "score": 0.060902
+    },
+    {
+      "word": "quarterstaff",
+      "score": 0.060225
+    },
+    {
+      "word": "yeomen",
+      "score": 0.05954
+    },
+    {
+      "word": "robin",
+      "score": 0.059098
+    },
+    {
+      "word": "pottle",
+      "score": 0.058821
+    },
+    {
+      "word": "reynold",
+      "score": 0.055975
+    },
+    {
+      "word": "engrosser",
+      "score": 0.055975
+    },
+    {
+      "word": "emmet",
+      "score": 0.055776
+    },
+    {
+      "word": "curtal",
+      "score": 0.053047
+    },
+    {
+      "word": "denby",
+      "score": 0.05248
+    },
+    {
+      "word": "allan",
+      "score": 0.051519
+    },
+    {
+      "word": "friar",
+      "score": 0.05124
+    },
+    {
+      "word": "dunstan",
+      "score": 0.050888
+    },
+    {
+      "word": "sheriff",
+      "score": 0.050662
+    }
+  ]
+}

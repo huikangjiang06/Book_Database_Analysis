@@ -1,0 +1,87 @@
+{
+  "book_title": "Don Quixote by Miguel de Cervantes Saavedra",
+  "genre": "Satirical fiction",
+  "pkl_stem": "Don_Quixote_by_Miguel_de_Cervantes_Saavedra",
+  "top_keywords": [
+    {
+      "word": "anselmo",
+      "score": 0.076682
+    },
+    {
+      "word": "lothario",
+      "score": 0.070815
+    },
+    {
+      "word": "dulcinea",
+      "score": 0.068407
+    },
+    {
+      "word": "jpg",
+      "score": 0.066728
+    },
+    {
+      "word": "toboso",
+      "score": 0.066048
+    },
+    {
+      "word": "sancho",
+      "score": 0.065348
+    },
+    {
+      "word": "camilla",
+      "score": 0.06108
+    },
+    {
+      "word": "panza",
+      "score": 0.059146
+    },
+    {
+      "word": "dorothea",
+      "score": 0.058786
+    },
+    {
+      "word": "quixote",
+      "score": 0.057638
+    },
+    {
+      "word": "amadis",
+      "score": 0.056659
+    },
+    {
+      "word": "mancha",
+      "score": 0.056303
+    },
+    {
+      "word": "goatherd",
+      "score": 0.051822
+    },
+    {
+      "word": "mambrino",
+      "score": 0.051482
+    },
+    {
+      "word": "biscayan",
+      "score": 0.050935
+    },
+    {
+      "word": "cervantes",
+      "score": 0.048804
+    },
+    {
+      "word": "alforjas",
+      "score": 0.048396
+    },
+    {
+      "word": "fernando",
+      "score": 0.047883
+    },
+    {
+      "word": "caparison",
+      "score": 0.045484
+    },
+    {
+      "word": "ambrosio",
+      "score": 0.045128
+    }
+  ]
+}

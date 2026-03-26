@@ -1,0 +1,87 @@
+{
+  "book_title": "Twenty years after by Alexandre Dumas and Auguste Maquet",
+  "genre": "Adventure",
+  "pkl_stem": "Twenty_years_after_by_Alexandre_Dumas_and_Auguste_Maquet",
+  "top_keywords": [
+    {
+      "word": "artagnan",
+      "score": 0.101148
+    },
+    {
+      "word": "porthos",
+      "score": 0.09454
+    },
+    {
+      "word": "aramis",
+      "score": 0.088617
+    },
+    {
+      "word": "grimaud",
+      "score": 0.087841
+    },
+    {
+      "word": "planchet",
+      "score": 0.077619
+    },
+    {
+      "word": "mousqueton",
+      "score": 0.073586
+    },
+    {
+      "word": "athos",
+      "score": 0.073116
+    },
+    {
+      "word": "mazarin",
+      "score": 0.07107
+    },
+    {
+      "word": "bazin",
+      "score": 0.068178
+    },
+    {
+      "word": "comminges",
+      "score": 0.067487
+    },
+    {
+      "word": "raoul",
+      "score": 0.066658
+    },
+    {
+      "word": "chevreuse",
+      "score": 0.064207
+    },
+    {
+      "word": "guitant",
+      "score": 0.062588
+    },
+    {
+      "word": "guiche",
+      "score": 0.062454
+    },
+    {
+      "word": "scarron",
+      "score": 0.06224
+    },
+    {
+      "word": "chavigny",
+      "score": 0.059933
+    },
+    {
+      "word": "rochefort",
+      "score": 0.057756
+    },
+    {
+      "word": "longueville",
+      "score": 0.057653
+    },
+    {
+      "word": "laporte",
+      "score": 0.056715
+    },
+    {
+      "word": "michon",
+      "score": 0.055501
+    }
+  ]
+}

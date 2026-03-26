@@ -1,0 +1,87 @@
+{
+  "book_title": "The Parasite: A Story by Arthur Conan Doyle",
+  "genre": "Horror Tales",
+  "pkl_stem": "The_Parasite__A_Story_by_Arthur_Conan_Doyle",
+  "top_keywords": [
+    {
+      "word": "gilroy",
+      "score": 0.167117
+    },
+    {
+      "word": "agatha",
+      "score": 0.158639
+    },
+    {
+      "word": "marden",
+      "score": 0.15836
+    },
+    {
+      "word": "sadler",
+      "score": 0.13713
+    },
+    {
+      "word": "mesmeric",
+      "score": 0.111493
+    },
+    {
+      "word": "haldane",
+      "score": 0.108414
+    },
+    {
+      "word": "mesmerized",
+      "score": 0.106658
+    },
+    {
+      "word": "austin",
+      "score": 0.103352
+    },
+    {
+      "word": "wilson",
+      "score": 0.095566
+    },
+    {
+      "word": "pratt",
+      "score": 0.09141
+    },
+    {
+      "word": "crutch",
+      "score": 0.089089
+    },
+    {
+      "word": "mesmerism",
+      "score": 0.079268
+    },
+    {
+      "word": "parasite",
+      "score": 0.072562
+    },
+    {
+      "word": "experiments",
+      "score": 0.059101
+    },
+    {
+      "word": "unstrung",
+      "score": 0.057997
+    },
+    {
+      "word": "overmastering",
+      "score": 0.057059
+    },
+    {
+      "word": "professor",
+      "score": 0.0564
+    },
+    {
+      "word": "sceptic",
+      "score": 0.055752
+    },
+    {
+      "word": "glazing",
+      "score": 0.053969
+    },
+    {
+      "word": "vitriol",
+      "score": 0.053294
+    }
+  ]
+}

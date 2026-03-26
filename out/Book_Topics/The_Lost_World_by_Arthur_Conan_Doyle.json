@@ -1,0 +1,87 @@
+{
+  "book_title": "The Lost World by Arthur Conan Doyle",
+  "genre": "Adventure",
+  "pkl_stem": "The_Lost_World_by_Arthur_Conan_Doyle",
+  "top_keywords": [
+    {
+      "word": "summerlee",
+      "score": 0.115714
+    },
+    {
+      "word": "challenger",
+      "score": 0.101298
+    },
+    {
+      "word": "roxton",
+      "score": 0.093951
+    },
+    {
+      "word": "zambo",
+      "score": 0.079912
+    },
+    {
+      "word": "mcardle",
+      "score": 0.073317
+    },
+    {
+      "word": "malone",
+      "score": 0.073181
+    },
+    {
+      "word": "fellah",
+      "score": 0.067411
+    },
+    {
+      "word": "waldron",
+      "score": 0.066897
+    },
+    {
+      "word": "pterodactyl",
+      "score": 0.062481
+    },
+    {
+      "word": "gladys",
+      "score": 0.061997
+    },
+    {
+      "word": "pterodactyls",
+      "score": 0.058277
+    },
+    {
+      "word": "tarp",
+      "score": 0.053696
+    },
+    {
+      "word": "gomez",
+      "score": 0.051188
+    },
+    {
+      "word": "dinosaurs",
+      "score": 0.048939
+    },
+    {
+      "word": "plateau",
+      "score": 0.047973
+    },
+    {
+      "word": "esmeralda",
+      "score": 0.045743
+    },
+    {
+      "word": "wadley",
+      "score": 0.045642
+    },
+    {
+      "word": "zoological",
+      "score": 0.04503
+    },
+    {
+      "word": "maple",
+      "score": 0.043215
+    },
+    {
+      "word": "para",
+      "score": 0.041698
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "The Velveteen Rabbit by Margery Williams Bianco",
+  "genre": "Fairy Tales and Children's Literature",
+  "pkl_stem": "The_Velveteen_Rabbit_by_Margery_Williams_Bianco",
+  "top_keywords": [
+    {
+      "word": "bunny",
+      "score": 0.255258
+    },
+    {
+      "word": "nana",
+      "score": 0.231248
+    },
+    {
+      "word": "velveteen",
+      "score": 0.221501
+    },
+    {
+      "word": "rabbit",
+      "score": 0.167715
+    },
+    {
+      "word": "bracken",
+      "score": 0.167398
+    },
+    {
+      "word": "raspberry",
+      "score": 0.124745
+    },
+    {
+      "word": "rabbits",
+      "score": 0.121371
+    },
+    {
+      "word": "shabbier",
+      "score": 0.118541
+    },
+    {
+      "word": "seaside",
+      "score": 0.116079
+    },
+    {
+      "word": "playthings",
+      "score": 0.111678
+    },
+    {
+      "word": "bedclothes",
+      "score": 0.111018
+    },
+    {
+      "word": "nursery",
+      "score": 0.110532
+    },
+    {
+      "word": "furry",
+      "score": 0.109471
+    },
+    {
+      "word": "clockwork",
+      "score": 0.108629
+    },
+    {
+      "word": "hind",
+      "score": 0.10256
+    },
+    {
+      "word": "sawdust",
+      "score": 0.101957
+    },
+    {
+      "word": "toys",
+      "score": 0.094364
+    },
+    {
+      "word": "fairy",
+      "score": 0.091672
+    },
+    {
+      "word": "burrows",
+      "score": 0.088321
+    },
+    {
+      "word": "toy",
+      "score": 0.086697
+    }
+  ]
+}

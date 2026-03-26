@@ -1,0 +1,87 @@
+{
+  "book_title": "Agricultural prices by Henry A. Wallace",
+  "genre": "Political Economy",
+  "pkl_stem": "Agricultural_prices_by_Henry_A__Wallace",
+  "top_keywords": [
+    {
+      "word": "sep",
+      "score": 0.114243
+    },
+    {
+      "word": "apr",
+      "score": 0.098828
+    },
+    {
+      "word": "aug",
+      "score": 0.090758
+    },
+    {
+      "word": "middlings",
+      "score": 0.089317
+    },
+    {
+      "word": "thru",
+      "score": 0.088241
+    },
+    {
+      "word": "feb",
+      "score": 0.088031
+    },
+    {
+      "word": "totals",
+      "score": 0.086544
+    },
+    {
+      "word": "packers",
+      "score": 0.083144
+    },
+    {
+      "word": "dec",
+      "score": 0.080338
+    },
+    {
+      "word": "oct",
+      "score": 0.079592
+    },
+    {
+      "word": "nov",
+      "score": 0.078601
+    },
+    {
+      "word": "tankage",
+      "score": 0.078473
+    },
+    {
+      "word": "weighting",
+      "score": 0.078392
+    },
+    {
+      "word": "ratios",
+      "score": 0.077396
+    },
+    {
+      "word": "seasonal",
+      "score": 0.077018
+    },
+    {
+      "word": "stocker",
+      "score": 0.075582
+    },
+    {
+      "word": "clearings",
+      "score": 0.07549
+    },
+    {
+      "word": "exports",
+      "score": 0.07478
+    },
+    {
+      "word": "jan",
+      "score": 0.073489
+    },
+    {
+      "word": "hogs",
+      "score": 0.071944
+    }
+  ]
+}

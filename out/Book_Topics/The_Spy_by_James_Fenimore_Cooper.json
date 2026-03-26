@@ -1,0 +1,87 @@
+{
+  "book_title": "The Spy by James Fenimore Cooper",
+  "genre": "War and Strategy",
+  "pkl_stem": "The_Spy_by_James_Fenimore_Cooper",
+  "top_keywords": [
+    {
+      "word": "dunwoodie",
+      "score": 0.095309
+    },
+    {
+      "word": "lawton",
+      "score": 0.093023
+    },
+    {
+      "word": "peyton",
+      "score": 0.078061
+    },
+    {
+      "word": "singleton",
+      "score": 0.0683
+    },
+    {
+      "word": "katy",
+      "score": 0.067751
+    },
+    {
+      "word": "hollister",
+      "score": 0.067627
+    },
+    {
+      "word": "wharton",
+      "score": 0.067202
+    },
+    {
+      "word": "frances",
+      "score": 0.060228
+    },
+    {
+      "word": "peddler",
+      "score": 0.060059
+    },
+    {
+      "word": "sargeant",
+      "score": 0.057297
+    },
+    {
+      "word": "flanagan",
+      "score": 0.057038
+    },
+    {
+      "word": "skinners",
+      "score": 0.054254
+    },
+    {
+      "word": "trooper",
+      "score": 0.052965
+    },
+    {
+      "word": "harvey",
+      "score": 0.052324
+    },
+    {
+      "word": "roanoke",
+      "score": 0.0488
+    },
+    {
+      "word": "dragoon",
+      "score": 0.046005
+    },
+    {
+      "word": "skinner",
+      "score": 0.044811
+    },
+    {
+      "word": "betty",
+      "score": 0.044592
+    },
+    {
+      "word": "westchester",
+      "score": 0.044077
+    },
+    {
+      "word": "sarah",
+      "score": 0.043133
+    }
+  ]
+}

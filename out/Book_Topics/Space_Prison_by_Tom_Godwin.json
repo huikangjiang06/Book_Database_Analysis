@@ -1,0 +1,87 @@
+{
+  "book_title": "Space Prison by Tom Godwin",
+  "genre": "Science Fiction",
+  "pkl_stem": "Space_Prison_by_Tom_Godwin",
+  "top_keywords": [
+    {
+      "word": "ragnarok",
+      "score": 0.115836
+    },
+    {
+      "word": "gern",
+      "score": 0.112543
+    },
+    {
+      "word": "humbolt",
+      "score": 0.104374
+    },
+    {
+      "word": "schroeder",
+      "score": 0.103082
+    },
+    {
+      "word": "prentiss",
+      "score": 0.100055
+    },
+    {
+      "word": "prowlers",
+      "score": 0.098547
+    },
+    {
+      "word": "narth",
+      "score": 0.096359
+    },
+    {
+      "word": "unicorns",
+      "score": 0.09523
+    },
+    {
+      "word": "sigyn",
+      "score": 0.095019
+    },
+    {
+      "word": "fenrir",
+      "score": 0.092838
+    },
+    {
+      "word": "prowler",
+      "score": 0.091965
+    },
+    {
+      "word": "anders",
+      "score": 0.088313
+    },
+    {
+      "word": "mockers",
+      "score": 0.088313
+    },
+    {
+      "word": "craig",
+      "score": 0.08526
+    },
+    {
+      "word": "athena",
+      "score": 0.08188
+    },
+    {
+      "word": "blaster",
+      "score": 0.074669
+    },
+    {
+      "word": "unicorn",
+      "score": 0.072907
+    },
+    {
+      "word": "pups",
+      "score": 0.065979
+    },
+    {
+      "word": "cruiser",
+      "score": 0.065601
+    },
+    {
+      "word": "generator",
+      "score": 0.065374
+    }
+  ]
+}

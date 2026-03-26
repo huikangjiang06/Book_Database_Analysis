@@ -1,0 +1,87 @@
+{
+  "book_title": "The Law",
+  "genre": "Political Philosophy and Ethics",
+  "pkl_stem": "The_Law",
+  "top_keywords": [
+    {
+      "word": "bastiat",
+      "score": 0.109354
+    },
+    {
+      "word": "tariffs",
+      "score": 0.083549
+    },
+    {
+      "word": "mises",
+      "score": 0.082976
+    },
+    {
+      "word": "montalembert",
+      "score": 0.079643
+    },
+    {
+      "word": "legislator",
+      "score": 0.076488
+    },
+    {
+      "word": "mably",
+      "score": 0.069674
+    },
+    {
+      "word": "blanc",
+      "score": 0.069546
+    },
+    {
+      "word": "socialism",
+      "score": 0.069236
+    },
+    {
+      "word": "plunder",
+      "score": 0.068948
+    },
+    {
+      "word": "suffrage",
+      "score": 0.065111
+    },
+    {
+      "word": "robespierre",
+      "score": 0.064756
+    },
+    {
+      "word": "ric",
+      "score": 0.064175
+    },
+    {
+      "word": "lycurgus",
+      "score": 0.06408
+    },
+    {
+      "word": "nelon",
+      "score": 0.062867
+    },
+    {
+      "word": "organizers",
+      "score": 0.062084
+    },
+    {
+      "word": "bossuet",
+      "score": 0.061876
+    },
+    {
+      "word": "communism",
+      "score": 0.061634
+    },
+    {
+      "word": "rousseau",
+      "score": 0.06163
+    },
+    {
+      "word": "agriculturist",
+      "score": 0.061078
+    },
+    {
+      "word": "fraternity",
+      "score": 0.061026
+    }
+  ]
+}

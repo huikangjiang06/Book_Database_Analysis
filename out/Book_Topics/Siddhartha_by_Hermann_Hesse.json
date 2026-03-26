@@ -1,0 +1,87 @@
+{
+  "book_title": "Siddhartha by Hermann Hesse",
+  "genre": "Metaphysics and Epistemology",
+  "pkl_stem": "Siddhartha_by_Hermann_Hesse",
+  "top_keywords": [
+    {
+      "word": "siddhartha",
+      "score": 0.209902
+    },
+    {
+      "word": "govinda",
+      "score": 0.170953
+    },
+    {
+      "word": "gotama",
+      "score": 0.145407
+    },
+    {
+      "word": "vasudeva",
+      "score": 0.144212
+    },
+    {
+      "word": "samana",
+      "score": 0.141317
+    },
+    {
+      "word": "brahman",
+      "score": 0.115511
+    },
+    {
+      "word": "atman",
+      "score": 0.103659
+    },
+    {
+      "word": "ferryman",
+      "score": 0.100993
+    },
+    {
+      "word": "brahmans",
+      "score": 0.092307
+    },
+    {
+      "word": "buddha",
+      "score": 0.085955
+    },
+    {
+      "word": "tiredness",
+      "score": 0.077453
+    },
+    {
+      "word": "nirvana",
+      "score": 0.072883
+    },
+    {
+      "word": "mango",
+      "score": 0.071718
+    },
+    {
+      "word": "teachings",
+      "score": 0.070454
+    },
+    {
+      "word": "awoken",
+      "score": 0.070279
+    },
+    {
+      "word": "goals",
+      "score": 0.070014
+    },
+    {
+      "word": "oneness",
+      "score": 0.067858
+    },
+    {
+      "word": "knowledgeable",
+      "score": 0.067396
+    },
+    {
+      "word": "quoth",
+      "score": 0.067347
+    },
+    {
+      "word": "ferried",
+      "score": 0.064468
+    }
+  ]
+}

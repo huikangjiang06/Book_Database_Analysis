@@ -1,0 +1,87 @@
+{
+  "book_title": "X Y Z: A Detective Story by Anna Katharine Green",
+  "genre": "Detective and Mystery Stories",
+  "pkl_stem": "X_Y_Z__A_Detective_Story_by_Anna_Katharine_Green",
+  "top_keywords": [
+    {
+      "word": "hartley",
+      "score": 0.179159
+    },
+    {
+      "word": "benson",
+      "score": 0.179
+    },
+    {
+      "word": "carrie",
+      "score": 0.141395
+    },
+    {
+      "word": "domino",
+      "score": 0.135478
+    },
+    {
+      "word": "edith",
+      "score": 0.123611
+    },
+    {
+      "word": "jonas",
+      "score": 0.097784
+    },
+    {
+      "word": "joe",
+      "score": 0.097193
+    },
+    {
+      "word": "postmaster",
+      "score": 0.086393
+    },
+    {
+      "word": "wineglass",
+      "score": 0.081918
+    },
+    {
+      "word": "parlors",
+      "score": 0.070654
+    },
+    {
+      "word": "decanter",
+      "score": 0.069789
+    },
+    {
+      "word": "rowdies",
+      "score": 0.065869
+    },
+    {
+      "word": "detective",
+      "score": 0.065374
+    },
+    {
+      "word": "sirs",
+      "score": 0.060646
+    },
+    {
+      "word": "porti",
+      "score": 0.059192
+    },
+    {
+      "word": "brandon",
+      "score": 0.059192
+    },
+    {
+      "word": "rendezvous",
+      "score": 0.056909
+    },
+    {
+      "word": "counterfeit",
+      "score": 0.056685
+    },
+    {
+      "word": "envelope",
+      "score": 0.056457
+    },
+    {
+      "word": "evergreens",
+      "score": 0.054492
+    }
+  ]
+}

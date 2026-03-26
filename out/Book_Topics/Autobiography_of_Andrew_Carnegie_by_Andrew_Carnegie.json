@@ -1,0 +1,87 @@
+{
+  "book_title": "Autobiography of Andrew Carnegie by Andrew Carnegie",
+  "genre": "Biographies and Autobiographies",
+  "pkl_stem": "Autobiography_of_Andrew_Carnegie_by_Andrew_Carnegie",
+  "top_keywords": [
+    {
+      "word": "dunfermline",
+      "score": 0.072368
+    },
+    {
+      "word": "carnegie",
+      "score": 0.067741
+    },
+    {
+      "word": "pittsburgh",
+      "score": 0.064443
+    },
+    {
+      "word": "blaine",
+      "score": 0.063624
+    },
+    {
+      "word": "pittencrieff",
+      "score": 0.061567
+    },
+    {
+      "word": "altoona",
+      "score": 0.059246
+    },
+    {
+      "word": "allegheny",
+      "score": 0.058018
+    },
+    {
+      "word": "mcluckie",
+      "score": 0.056486
+    },
+    {
+      "word": "phipps",
+      "score": 0.054421
+    },
+    {
+      "word": "morley",
+      "score": 0.051986
+    },
+    {
+      "word": "aitken",
+      "score": 0.047114
+    },
+    {
+      "word": "bailie",
+      "score": 0.046378
+    },
+    {
+      "word": "coleman",
+      "score": 0.046376
+    },
+    {
+      "word": "billings",
+      "score": 0.046198
+    },
+    {
+      "word": "andy",
+      "score": 0.045814
+    },
+    {
+      "word": "morrison",
+      "score": 0.045546
+    },
+    {
+      "word": "eads",
+      "score": 0.045535
+    },
+    {
+      "word": "whitwell",
+      "score": 0.045378
+    },
+    {
+      "word": "dod",
+      "score": 0.045257
+    },
+    {
+      "word": "straus",
+      "score": 0.044899
+    }
+  ]
+}

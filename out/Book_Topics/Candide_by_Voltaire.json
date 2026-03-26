@@ -1,0 +1,87 @@
+{
+  "book_title": "Candide by Voltaire",
+  "genre": "Satirical fiction",
+  "pkl_stem": "Candide_by_Voltaire",
+  "top_keywords": [
+    {
+      "word": "candide",
+      "score": 0.16104
+    },
+    {
+      "word": "pangloss",
+      "score": 0.145807
+    },
+    {
+      "word": "pococurante",
+      "score": 0.092248
+    },
+    {
+      "word": "perigordian",
+      "score": 0.085459
+    },
+    {
+      "word": "dorado",
+      "score": 0.083048
+    },
+    {
+      "word": "anabaptist",
+      "score": 0.082648
+    },
+    {
+      "word": "issachar",
+      "score": 0.081441
+    },
+    {
+      "word": "bulgarians",
+      "score": 0.081437
+    },
+    {
+      "word": "piastres",
+      "score": 0.077257
+    },
+    {
+      "word": "surinam",
+      "score": 0.071275
+    },
+    {
+      "word": "inquisitor",
+      "score": 0.070509
+    },
+    {
+      "word": "bulgarian",
+      "score": 0.070456
+    },
+    {
+      "word": "achmet",
+      "score": 0.064009
+    },
+    {
+      "word": "ayres",
+      "score": 0.063499
+    },
+    {
+      "word": "voltaire",
+      "score": 0.061791
+    },
+    {
+      "word": "abb",
+      "score": 0.061685
+    },
+    {
+      "word": "jesuit",
+      "score": 0.059515
+    },
+    {
+      "word": "quarterings",
+      "score": 0.059269
+    },
+    {
+      "word": "buenos",
+      "score": 0.059247
+    },
+    {
+      "word": "marchioness",
+      "score": 0.058278
+    }
+  ]
+}

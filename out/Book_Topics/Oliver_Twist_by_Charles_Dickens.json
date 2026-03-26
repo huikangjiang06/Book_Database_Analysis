@@ -1,0 +1,87 @@
+{
+  "book_title": "Oliver Twist by Charles Dickens",
+  "genre": "Social Criticism through Fiction",
+  "pkl_stem": "Oliver_Twist_by_Charles_Dickens",
+  "top_keywords": [
+    {
+      "word": "sikes",
+      "score": 0.096848
+    },
+    {
+      "word": "brownlow",
+      "score": 0.090825
+    },
+    {
+      "word": "bumble",
+      "score": 0.081347
+    },
+    {
+      "word": "dodger",
+      "score": 0.078327
+    },
+    {
+      "word": "claypole",
+      "score": 0.073502
+    },
+    {
+      "word": "bolter",
+      "score": 0.062734
+    },
+    {
+      "word": "toby",
+      "score": 0.057649
+    },
+    {
+      "word": "oliver",
+      "score": 0.056591
+    },
+    {
+      "word": "bates",
+      "score": 0.054113
+    },
+    {
+      "word": "beadle",
+      "score": 0.054009
+    },
+    {
+      "word": "giles",
+      "score": 0.05284
+    },
+    {
+      "word": "chickweed",
+      "score": 0.052728
+    },
+    {
+      "word": "mann",
+      "score": 0.051804
+    },
+    {
+      "word": "dawkins",
+      "score": 0.050906
+    },
+    {
+      "word": "nancy",
+      "score": 0.050221
+    },
+    {
+      "word": "barney",
+      "score": 0.049753
+    },
+    {
+      "word": "chertsey",
+      "score": 0.048318
+    },
+    {
+      "word": "charley",
+      "score": 0.047333
+    },
+    {
+      "word": "fang",
+      "score": 0.045939
+    },
+    {
+      "word": "housebreaker",
+      "score": 0.044811
+    }
+  ]
+}

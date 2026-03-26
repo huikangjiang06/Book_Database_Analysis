@@ -1,0 +1,87 @@
+{
+  "book_title": "The Tale of Peter Rabbit by Beatrix Potter",
+  "genre": "Fairy Tales and Children's Literature",
+  "pkl_stem": "The_Tale_of_Peter_Rabbit_by_Beatrix_Potter",
+  "top_keywords": [
+    {
+      "word": "mcgregor",
+      "score": 0.497214
+    },
+    {
+      "word": "peter",
+      "score": 0.199358
+    },
+    {
+      "word": "currant",
+      "score": 0.159307
+    },
+    {
+      "word": "blackberries",
+      "score": 0.157969
+    },
+    {
+      "word": "wheelbarrow",
+      "score": 0.151855
+    },
+    {
+      "word": "rabbit",
+      "score": 0.147662
+    },
+    {
+      "word": "bunny",
+      "score": 0.134938
+    },
+    {
+      "word": "jacket",
+      "score": 0.133178
+    },
+    {
+      "word": "cabbages",
+      "score": 0.132203
+    },
+    {
+      "word": "fir",
+      "score": 0.12154
+    },
+    {
+      "word": "lettuces",
+      "score": 0.117697
+    },
+    {
+      "word": "underneath",
+      "score": 0.116292
+    },
+    {
+      "word": "tool",
+      "score": 0.111785
+    },
+    {
+      "word": "frederick",
+      "score": 0.109148
+    },
+    {
+      "word": "beans",
+      "score": 0.105968
+    },
+    {
+      "word": "buns",
+      "score": 0.103777
+    },
+    {
+      "word": "radishes",
+      "score": 0.102619
+    },
+    {
+      "word": "blackbirds",
+      "score": 0.098464
+    },
+    {
+      "word": "cucumber",
+      "score": 0.096621
+    },
+    {
+      "word": "parsley",
+      "score": 0.096621
+    }
+  ]
+}

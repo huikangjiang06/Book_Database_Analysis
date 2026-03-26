@@ -1,0 +1,87 @@
+{
+  "book_title": "The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson",
+  "genre": "Horror Tales",
+  "pkl_stem": "The_Strange_Case_of_Dr__Jekyll_and_Mr__Hyde_by_Robert_Louis_Stevenson",
+  "top_keywords": [
+    {
+      "word": "jekyll",
+      "score": 0.168578
+    },
+    {
+      "word": "lanyon",
+      "score": 0.161344
+    },
+    {
+      "word": "poole",
+      "score": 0.137213
+    },
+    {
+      "word": "enfield",
+      "score": 0.125499
+    },
+    {
+      "word": "hyde",
+      "score": 0.113594
+    },
+    {
+      "word": "carew",
+      "score": 0.071898
+    },
+    {
+      "word": "soho",
+      "score": 0.069072
+    },
+    {
+      "word": "cheque",
+      "score": 0.06605
+    },
+    {
+      "word": "bradshaw",
+      "score": 0.0631
+    },
+    {
+      "word": "lawyer",
+      "score": 0.057557
+    },
+    {
+      "word": "cavendish",
+      "score": 0.056342
+    },
+    {
+      "word": "cabinet",
+      "score": 0.054597
+    },
+    {
+      "word": "laboratory",
+      "score": 0.054192
+    },
+    {
+      "word": "edward",
+      "score": 0.053614
+    },
+    {
+      "word": "sawbones",
+      "score": 0.05234
+    },
+    {
+      "word": "powders",
+      "score": 0.051242
+    },
+    {
+      "word": "locksmith",
+      "score": 0.050779
+    },
+    {
+      "word": "phial",
+      "score": 0.050464
+    },
+    {
+      "word": "pedant",
+      "score": 0.049708
+    },
+    {
+      "word": "crates",
+      "score": 0.048723
+    }
+  ]
+}

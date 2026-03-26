@@ -1,0 +1,87 @@
+{
+  "book_title": "Comic History of the United States by Bill Nye",
+  "genre": "Satirical fiction",
+  "pkl_stem": "Comic_History_of_the_United_States_by_Bill_Nye",
+  "top_keywords": [
+    {
+      "word": "jamestown",
+      "score": 0.059229
+    },
+    {
+      "word": "bragg",
+      "score": 0.05536
+    },
+    {
+      "word": "merrimac",
+      "score": 0.053559
+    },
+    {
+      "word": "nye",
+      "score": 0.052391
+    },
+    {
+      "word": "mcclellan",
+      "score": 0.050058
+    },
+    {
+      "word": "cornwallis",
+      "score": 0.049962
+    },
+    {
+      "word": "sherman",
+      "score": 0.049531
+    },
+    {
+      "word": "braddock",
+      "score": 0.049143
+    },
+    {
+      "word": "buell",
+      "score": 0.04698
+    },
+    {
+      "word": "rosecrans",
+      "score": 0.046767
+    },
+    {
+      "word": "burnside",
+      "score": 0.046767
+    },
+    {
+      "word": "oglethorpe",
+      "score": 0.046716
+    },
+    {
+      "word": "charleston",
+      "score": 0.046665
+    },
+    {
+      "word": "beauregard",
+      "score": 0.045438
+    },
+    {
+      "word": "pocahontas",
+      "score": 0.044703
+    },
+    {
+      "word": "penn",
+      "score": 0.044035
+    },
+    {
+      "word": "webster",
+      "score": 0.043524
+    },
+    {
+      "word": "cortez",
+      "score": 0.043277
+    },
+    {
+      "word": "johnston",
+      "score": 0.043162
+    },
+    {
+      "word": "andros",
+      "score": 0.043044
+    }
+  ]
+}

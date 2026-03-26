@@ -1,0 +1,87 @@
+{
+  "book_title": "The Big Bow Mystery by Israel Zangwill",
+  "genre": "Detective and Mystery Stories",
+  "pkl_stem": "The_Big_Bow_Mystery_by_Israel_Zangwill",
+  "top_keywords": [
+    {
+      "word": "mortlake",
+      "score": 0.1247
+    },
+    {
+      "word": "dymond",
+      "score": 0.102138
+    },
+    {
+      "word": "glover",
+      "score": 0.074646
+    },
+    {
+      "word": "jessie",
+      "score": 0.071322
+    },
+    {
+      "word": "lytton",
+      "score": 0.071148
+    },
+    {
+      "word": "harland",
+      "score": 0.066006
+    },
+    {
+      "word": "euston",
+      "score": 0.064482
+    },
+    {
+      "word": "spigot",
+      "score": 0.056724
+    },
+    {
+      "word": "coroner",
+      "score": 0.055506
+    },
+    {
+      "word": "gladstone",
+      "score": 0.055282
+    },
+    {
+      "word": "fads",
+      "score": 0.054191
+    },
+    {
+      "word": "runnymede",
+      "score": 0.054113
+    },
+    {
+      "word": "postcard",
+      "score": 0.053567
+    },
+    {
+      "word": "ryan",
+      "score": 0.053567
+    },
+    {
+      "word": "stepney",
+      "score": 0.053184
+    },
+    {
+      "word": "brent",
+      "score": 0.052383
+    },
+    {
+      "word": "juryman",
+      "score": 0.052084
+    },
+    {
+      "word": "lodger",
+      "score": 0.050977
+    },
+    {
+      "word": "lud",
+      "score": 0.050068
+    },
+    {
+      "word": "caine",
+      "score": 0.049485
+    }
+  ]
+}

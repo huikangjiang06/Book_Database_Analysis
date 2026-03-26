@@ -1,0 +1,87 @@
+{
+  "book_title": "Carmilla by Joseph Sheridan Le Fanu",
+  "genre": "Horror Tales",
+  "pkl_stem": "Carmilla_by_Joseph_Sheridan_Le_Fanu",
+  "top_keywords": [
+    {
+      "word": "schloss",
+      "score": 0.128008
+    },
+    {
+      "word": "lafontaine",
+      "score": 0.094375
+    },
+    {
+      "word": "gratz",
+      "score": 0.091307
+    },
+    {
+      "word": "vampire",
+      "score": 0.089508
+    },
+    {
+      "word": "moravian",
+      "score": 0.076861
+    },
+    {
+      "word": "mademoiselle",
+      "score": 0.073744
+    },
+    {
+      "word": "styria",
+      "score": 0.068434
+    },
+    {
+      "word": "drawbridge",
+      "score": 0.067533
+    },
+    {
+      "word": "woodman",
+      "score": 0.064218
+    },
+    {
+      "word": "madame",
+      "score": 0.063447
+    },
+    {
+      "word": "countess",
+      "score": 0.062456
+    },
+    {
+      "word": "comtesse",
+      "score": 0.060589
+    },
+    {
+      "word": "vampires",
+      "score": 0.059763
+    },
+    {
+      "word": "papa",
+      "score": 0.055927
+    },
+    {
+      "word": "laura",
+      "score": 0.055921
+    },
+    {
+      "word": "chateau",
+      "score": 0.055115
+    },
+    {
+      "word": "strangulation",
+      "score": 0.051873
+    },
+    {
+      "word": "ladyships",
+      "score": 0.050987
+    },
+    {
+      "word": "specter",
+      "score": 0.050609
+    },
+    {
+      "word": "bertha",
+      "score": 0.050024
+    }
+  ]
+}

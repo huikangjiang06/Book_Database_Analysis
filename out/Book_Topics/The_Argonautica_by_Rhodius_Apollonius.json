@@ -1,0 +1,87 @@
+{
+  "book_title": "The Argonautica by Rhodius Apollonius",
+  "genre": "Mythology",
+  "pkl_stem": "The_Argonautica_by_Rhodius_Apollonius",
+  "top_keywords": [
+    {
+      "word": "aeetes",
+      "score": 0.08826
+    },
+    {
+      "word": "aeson",
+      "score": 0.083344
+    },
+    {
+      "word": "phrixus",
+      "score": 0.068734
+    },
+    {
+      "word": "chalciope",
+      "score": 0.068134
+    },
+    {
+      "word": "colchians",
+      "score": 0.067024
+    },
+    {
+      "word": "tiphys",
+      "score": 0.066348
+    },
+    {
+      "word": "cypris",
+      "score": 0.066337
+    },
+    {
+      "word": "phineus",
+      "score": 0.065613
+    },
+    {
+      "word": "jason",
+      "score": 0.065045
+    },
+    {
+      "word": "heracles",
+      "score": 0.064126
+    },
+    {
+      "word": "aea",
+      "score": 0.063788
+    },
+    {
+      "word": "hypsipyle",
+      "score": 0.063395
+    },
+    {
+      "word": "hera",
+      "score": 0.062153
+    },
+    {
+      "word": "earthborn",
+      "score": 0.061867
+    },
+    {
+      "word": "hawsers",
+      "score": 0.061054
+    },
+    {
+      "word": "amycus",
+      "score": 0.060799
+    },
+    {
+      "word": "pelias",
+      "score": 0.060767
+    },
+    {
+      "word": "ancaeus",
+      "score": 0.059423
+    },
+    {
+      "word": "apollonius",
+      "score": 0.059415
+    },
+    {
+      "word": "helios",
+      "score": 0.059089
+    }
+  ]
+}

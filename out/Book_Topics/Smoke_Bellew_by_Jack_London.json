@@ -1,0 +1,87 @@
+{
+  "book_title": "Smoke Bellew by Jack London",
+  "genre": "Western Stories",
+  "pkl_stem": "Smoke_Bellew_by_Jack_London",
+  "top_keywords": [
+    {
+      "word": "shorty",
+      "score": 0.101834
+    },
+    {
+      "word": "bellew",
+      "score": 0.08043
+    },
+    {
+      "word": "breck",
+      "score": 0.075512
+    },
+    {
+      "word": "sprague",
+      "score": 0.064009
+    },
+    {
+      "word": "sled",
+      "score": 0.061113
+    },
+    {
+      "word": "elkhorn",
+      "score": 0.060839
+    },
+    {
+      "word": "dawson",
+      "score": 0.059115
+    },
+    {
+      "word": "thousan",
+      "score": 0.058635
+    },
+    {
+      "word": "olaf",
+      "score": 0.056793
+    },
+    {
+      "word": "klondike",
+      "score": 0.056711
+    },
+    {
+      "word": "shunk",
+      "score": 0.05575
+    },
+    {
+      "word": "lucille",
+      "score": 0.05575
+    },
+    {
+      "word": "yukon",
+      "score": 0.055152
+    },
+    {
+      "word": "stampeders",
+      "score": 0.054498
+    },
+    {
+      "word": "cultus",
+      "score": 0.054304
+    },
+    {
+      "word": "sibley",
+      "score": 0.054071
+    },
+    {
+      "word": "schroeder",
+      "score": 0.053146
+    },
+    {
+      "word": "wentworth",
+      "score": 0.053138
+    },
+    {
+      "word": "sleds",
+      "score": 0.051957
+    },
+    {
+      "word": "caribou",
+      "score": 0.051462
+    }
+  ]
+}

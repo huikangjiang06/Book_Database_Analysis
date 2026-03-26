@@ -1,0 +1,87 @@
+{
+  "book_title": "The Willows by Algernon Blackwood",
+  "genre": "Horror Tales",
+  "pkl_stem": "The_Willows_by_Algernon_Blackwood",
+  "top_keywords": [
+    {
+      "word": "swede",
+      "score": 0.119845
+    },
+    {
+      "word": "willows",
+      "score": 0.095774
+    },
+    {
+      "word": "canoe",
+      "score": 0.083915
+    },
+    {
+      "word": "otter",
+      "score": 0.083524
+    },
+    {
+      "word": "driftwood",
+      "score": 0.077155
+    },
+    {
+      "word": "paddle",
+      "score": 0.070781
+    },
+    {
+      "word": "funnels",
+      "score": 0.070527
+    },
+    {
+      "word": "danube",
+      "score": 0.070393
+    },
+    {
+      "word": "willow",
+      "score": 0.066
+    },
+    {
+      "word": "tent",
+      "score": 0.064921
+    },
+    {
+      "word": "paddles",
+      "score": 0.061934
+    },
+    {
+      "word": "gong",
+      "score": 0.06041
+    },
+    {
+      "word": "stew",
+      "score": 0.05941
+    },
+    {
+      "word": "humming",
+      "score": 0.05805
+    },
+    {
+      "word": "bushes",
+      "score": 0.055332
+    },
+    {
+      "word": "shingle",
+      "score": 0.054865
+    },
+    {
+      "word": "bizarre",
+      "score": 0.054511
+    },
+    {
+      "word": "elemental",
+      "score": 0.054075
+    },
+    {
+      "word": "whirlpools",
+      "score": 0.053988
+    },
+    {
+      "word": "kilometers",
+      "score": 0.053104
+    }
+  ]
+}

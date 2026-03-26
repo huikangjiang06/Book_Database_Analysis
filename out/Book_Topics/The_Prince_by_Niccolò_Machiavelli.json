@@ -1,0 +1,87 @@
+{
+  "book_title": "The Prince by Niccol\u00f2 Machiavelli",
+  "genre": "War and Strategy",
+  "pkl_stem": "The_Prince_by_Niccolo\u0300_Machiavelli",
+  "top_keywords": [
+    {
+      "word": "castruccio",
+      "score": 0.131155
+    },
+    {
+      "word": "florentines",
+      "score": 0.101745
+    },
+    {
+      "word": "pistoia",
+      "score": 0.095562
+    },
+    {
+      "word": "messer",
+      "score": 0.095023
+    },
+    {
+      "word": "orsini",
+      "score": 0.093905
+    },
+    {
+      "word": "lucca",
+      "score": 0.082951
+    },
+    {
+      "word": "sforza",
+      "score": 0.082392
+    },
+    {
+      "word": "cesare",
+      "score": 0.078542
+    },
+    {
+      "word": "francesco",
+      "score": 0.077424
+    },
+    {
+      "word": "romagna",
+      "score": 0.077299
+    },
+    {
+      "word": "machiavelli",
+      "score": 0.077132
+    },
+    {
+      "word": "lucchese",
+      "score": 0.076315
+    },
+    {
+      "word": "valentino",
+      "score": 0.074826
+    },
+    {
+      "word": "guelph",
+      "score": 0.070407
+    },
+    {
+      "word": "urbino",
+      "score": 0.067669
+    },
+    {
+      "word": "switzers",
+      "score": 0.067669
+    },
+    {
+      "word": "giorgio",
+      "score": 0.064872
+    },
+    {
+      "word": "giovanni",
+      "score": 0.063648
+    },
+    {
+      "word": "pisa",
+      "score": 0.063384
+    },
+    {
+      "word": "venetians",
+      "score": 0.062477
+    }
+  ]
+}

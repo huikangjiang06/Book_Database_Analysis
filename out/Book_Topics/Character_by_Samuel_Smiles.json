@@ -1,0 +1,87 @@
+{
+  "book_title": "Character by Samuel Smiles",
+  "genre": "Self-Help & Personal Development",
+  "pkl_stem": "Character_by_Samuel_Smiles",
+  "top_keywords": [
+    {
+      "word": "highminded",
+      "score": 0.044684
+    },
+    {
+      "word": "camoens",
+      "score": 0.043259
+    },
+    {
+      "word": "napier",
+      "score": 0.042719
+    },
+    {
+      "word": "perthes",
+      "score": 0.0425
+    },
+    {
+      "word": "footnote",
+      "score": 0.041845
+    },
+    {
+      "word": "shakspeare",
+      "score": 0.039157
+    },
+    {
+      "word": "roper",
+      "score": 0.038333
+    },
+    {
+      "word": "martyn",
+      "score": 0.038116
+    },
+    {
+      "word": "scheffer",
+      "score": 0.037048
+    },
+    {
+      "word": "palmerston",
+      "score": 0.03702
+    },
+    {
+      "word": "tocqueville",
+      "score": 0.036931
+    },
+    {
+      "word": "tyndall",
+      "score": 0.036712
+    },
+    {
+      "word": "boswell",
+      "score": 0.03594
+    },
+    {
+      "word": "cobbett",
+      "score": 0.03587
+    },
+    {
+      "word": "fichte",
+      "score": 0.034436
+    },
+    {
+      "word": "michelet",
+      "score": 0.034315
+    },
+    {
+      "word": "lockhart",
+      "score": 0.034147
+    },
+    {
+      "word": "hutchinson",
+      "score": 0.034114
+    },
+    {
+      "word": "ary",
+      "score": 0.033955
+    },
+    {
+      "word": "baxter",
+      "score": 0.033687
+    }
+  ]
+}

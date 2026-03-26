@@ -1,0 +1,87 @@
+{
+  "book_title": "The Custom of the Country by Edith Wharton",
+  "genre": "NY-as-character",
+  "pkl_stem": "The_Custom_of_the_Country_by_Edith_Wharton",
+  "top_keywords": [
+    {
+      "word": "undine",
+      "score": 0.101115
+    },
+    {
+      "word": "spragg",
+      "score": 0.098074
+    },
+    {
+      "word": "moffatt",
+      "score": 0.09371
+    },
+    {
+      "word": "degen",
+      "score": 0.088897
+    },
+    {
+      "word": "marvell",
+      "score": 0.077033
+    },
+    {
+      "word": "popple",
+      "score": 0.076108
+    },
+    {
+      "word": "chelles",
+      "score": 0.07371
+    },
+    {
+      "word": "dagonet",
+      "score": 0.068207
+    },
+    {
+      "word": "rolliver",
+      "score": 0.068138
+    },
+    {
+      "word": "driscoll",
+      "score": 0.066115
+    },
+    {
+      "word": "shallum",
+      "score": 0.061183
+    },
+    {
+      "word": "elmer",
+      "score": 0.057147
+    },
+    {
+      "word": "ralph",
+      "score": 0.055652
+    },
+    {
+      "word": "mabel",
+      "score": 0.055101
+    },
+    {
+      "word": "bowen",
+      "score": 0.054024
+    },
+    {
+      "word": "clare",
+      "score": 0.052883
+    },
+    {
+      "word": "millard",
+      "score": 0.052811
+    },
+    {
+      "word": "masseuse",
+      "score": 0.050328
+    },
+    {
+      "word": "hubert",
+      "score": 0.050219
+    },
+    {
+      "word": "raymond",
+      "score": 0.04987
+    }
+  ]
+}

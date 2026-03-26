@@ -1,0 +1,87 @@
+{
+  "book_title": "Frankenstein; Or, The Modern Prometheus by Mary Wollstonecraft Shelley",
+  "genre": "Horror Tales",
+  "pkl_stem": "Frankenstein__Or__The_Modern_Prometheus_by_Mary_Wollstonecraft_Shelley",
+  "top_keywords": [
+    {
+      "word": "justine",
+      "score": 0.094716
+    },
+    {
+      "word": "frankenstein",
+      "score": 0.076382
+    },
+    {
+      "word": "ingolstadt",
+      "score": 0.0742
+    },
+    {
+      "word": "agatha",
+      "score": 0.060495
+    },
+    {
+      "word": "lacey",
+      "score": 0.060477
+    },
+    {
+      "word": "felix",
+      "score": 0.060202
+    },
+    {
+      "word": "cottagers",
+      "score": 0.056341
+    },
+    {
+      "word": "moritz",
+      "score": 0.048835
+    },
+    {
+      "word": "geneva",
+      "score": 0.048277
+    },
+    {
+      "word": "agrippa",
+      "score": 0.044942
+    },
+    {
+      "word": "elizabeth",
+      "score": 0.044549
+    },
+    {
+      "word": "walton",
+      "score": 0.044381
+    },
+    {
+      "word": "beaufort",
+      "score": 0.043561
+    },
+    {
+      "word": "ernest",
+      "score": 0.042425
+    },
+    {
+      "word": "hovel",
+      "score": 0.041591
+    },
+    {
+      "word": "leghorn",
+      "score": 0.039751
+    },
+    {
+      "word": "fiend",
+      "score": 0.039528
+    },
+    {
+      "word": "mont",
+      "score": 0.039087
+    },
+    {
+      "word": "sledge",
+      "score": 0.038816
+    },
+    {
+      "word": "protectors",
+      "score": 0.038595
+    }
+  ]
+}

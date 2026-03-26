@@ -1,0 +1,87 @@
+{
+  "book_title": "Mary Barton by Elizabeth Cleghorn Gaskell",
+  "genre": "Social Criticism through Fiction",
+  "pkl_stem": "Mary_Barton_by_Elizabeth_Cleghorn_Gaskell",
+  "top_keywords": [
+    {
+      "word": "jem",
+      "score": 0.08838
+    },
+    {
+      "word": "legh",
+      "score": 0.075989
+    },
+    {
+      "word": "getten",
+      "score": 0.065015
+    },
+    {
+      "word": "carson",
+      "score": 0.064804
+    },
+    {
+      "word": "barton",
+      "score": 0.063154
+    },
+    {
+      "word": "esther",
+      "score": 0.056986
+    },
+    {
+      "word": "davenport",
+      "score": 0.055152
+    },
+    {
+      "word": "telled",
+      "score": 0.05337
+    },
+    {
+      "word": "sturgis",
+      "score": 0.052589
+    },
+    {
+      "word": "babby",
+      "score": 0.052229
+    },
+    {
+      "word": "sophy",
+      "score": 0.052128
+    },
+    {
+      "word": "margaret",
+      "score": 0.050128
+    },
+    {
+      "word": "duncombe",
+      "score": 0.049469
+    },
+    {
+      "word": "mysel",
+      "score": 0.048045
+    },
+    {
+      "word": "oud",
+      "score": 0.047895
+    },
+    {
+      "word": "clemming",
+      "score": 0.047045
+    },
+    {
+      "word": "clemmed",
+      "score": 0.046547
+    },
+    {
+      "word": "cropper",
+      "score": 0.045817
+    },
+    {
+      "word": "alice",
+      "score": 0.045605
+    },
+    {
+      "word": "missis",
+      "score": 0.045307
+    }
+  ]
+}

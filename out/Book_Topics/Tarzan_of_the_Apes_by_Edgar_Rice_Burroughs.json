@@ -1,0 +1,87 @@
+{
+  "book_title": "Tarzan of the Apes by Edgar Rice Burroughs",
+  "genre": "Adventure",
+  "pkl_stem": "Tarzan_of_the_Apes_by_Edgar_Rice_Burroughs",
+  "top_keywords": [
+    {
+      "word": "philander",
+      "score": 0.108129
+    },
+    {
+      "word": "sabor",
+      "score": 0.094357
+    },
+    {
+      "word": "clayton",
+      "score": 0.09347
+    },
+    {
+      "word": "esmeralda",
+      "score": 0.090955
+    },
+    {
+      "word": "kala",
+      "score": 0.076307
+    },
+    {
+      "word": "claytons",
+      "score": 0.063576
+    },
+    {
+      "word": "horta",
+      "score": 0.061793
+    },
+    {
+      "word": "charpentier",
+      "score": 0.060223
+    },
+    {
+      "word": "apes",
+      "score": 0.059413
+    },
+    {
+      "word": "jungle",
+      "score": 0.056887
+    },
+    {
+      "word": "anthropoids",
+      "score": 0.054771
+    },
+    {
+      "word": "lioness",
+      "score": 0.054114
+    },
+    {
+      "word": "jane",
+      "score": 0.0526
+    },
+    {
+      "word": "anthropoid",
+      "score": 0.052159
+    },
+    {
+      "word": "numa",
+      "score": 0.052152
+    },
+    {
+      "word": "snipes",
+      "score": 0.052152
+    },
+    {
+      "word": "mirando",
+      "score": 0.049779
+    },
+    {
+      "word": "sailcloth",
+      "score": 0.048874
+    },
+    {
+      "word": "locket",
+      "score": 0.048373
+    },
+    {
+      "word": "cruiser",
+      "score": 0.04784
+    }
+  ]
+}

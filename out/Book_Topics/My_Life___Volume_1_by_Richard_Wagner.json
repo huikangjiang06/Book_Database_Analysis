@@ -1,0 +1,87 @@
+{
+  "book_title": "My Life \u2014 Volume 1 by Richard Wagner",
+  "genre": "Biographies and Autobiographies",
+  "pkl_stem": "My_Life___Volume_1_by_Richard_Wagner",
+  "top_keywords": [
+    {
+      "word": "minna",
+      "score": 0.065818
+    },
+    {
+      "word": "tannh",
+      "score": 0.062289
+    },
+    {
+      "word": "rienzi",
+      "score": 0.06155
+    },
+    {
+      "word": "nder",
+      "score": 0.058161
+    },
+    {
+      "word": "holl",
+      "score": 0.055935
+    },
+    {
+      "word": "brockhaus",
+      "score": 0.053451
+    },
+    {
+      "word": "rosalie",
+      "score": 0.051713
+    },
+    {
+      "word": "hiller",
+      "score": 0.0516
+    },
+    {
+      "word": "libretto",
+      "score": 0.049941
+    },
+    {
+      "word": "meyerbeer",
+      "score": 0.049058
+    },
+    {
+      "word": "liszt",
+      "score": 0.048611
+    },
+    {
+      "word": "marschner",
+      "score": 0.048527
+    },
+    {
+      "word": "lohengrin",
+      "score": 0.048298
+    },
+    {
+      "word": "nigsberg",
+      "score": 0.047517
+    },
+    {
+      "word": "magdeburg",
+      "score": 0.047491
+    },
+    {
+      "word": "dresden",
+      "score": 0.046155
+    },
+    {
+      "word": "riga",
+      "score": 0.045148
+    },
+    {
+      "word": "leipzig",
+      "score": 0.045135
+    },
+    {
+      "word": "apel",
+      "score": 0.043662
+    },
+    {
+      "word": "weber",
+      "score": 0.043248
+    }
+  ]
+}

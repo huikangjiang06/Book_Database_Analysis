@@ -1,0 +1,87 @@
+{
+  "book_title": "Far from the Madding Crowd by Thomas Hardy",
+  "genre": "Romance",
+  "pkl_stem": "Far_from_the_Madding_Crowd_by_Thomas_Hardy",
+  "top_keywords": [
+    {
+      "word": "bathsheba",
+      "score": 0.106912
+    },
+    {
+      "word": "liddy",
+      "score": 0.089615
+    },
+    {
+      "word": "weatherbury",
+      "score": 0.076651
+    },
+    {
+      "word": "casterbridge",
+      "score": 0.069411
+    },
+    {
+      "word": "laban",
+      "score": 0.059796
+    },
+    {
+      "word": "maltster",
+      "score": 0.057048
+    },
+    {
+      "word": "gabriel",
+      "score": 0.055002
+    },
+    {
+      "word": "melchester",
+      "score": 0.053803
+    },
+    {
+      "word": "budmouth",
+      "score": 0.051727
+    },
+    {
+      "word": "malthouse",
+      "score": 0.050566
+    },
+    {
+      "word": "baily",
+      "score": 0.049318
+    },
+    {
+      "word": "fanny",
+      "score": 0.047764
+    },
+    {
+      "word": "troy",
+      "score": 0.047083
+    },
+    {
+      "word": "malster",
+      "score": 0.046391
+    },
+    {
+      "word": "shearers",
+      "score": 0.044563
+    },
+    {
+      "word": "ess",
+      "score": 0.042336
+    },
+    {
+      "word": "greenhill",
+      "score": 0.040952
+    },
+    {
+      "word": "turpin",
+      "score": 0.040615
+    },
+    {
+      "word": "rick",
+      "score": 0.039999
+    },
+    {
+      "word": "lambing",
+      "score": 0.03962
+    }
+  ]
+}

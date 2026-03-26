@@ -1,0 +1,87 @@
+{
+  "book_title": "The Great Gatsby by F. Scott Fitzgerald",
+  "genre": "NY-as-character",
+  "pkl_stem": "The_Great_Gatsby_by_F__Scott_Fitzgerald",
+  "top_keywords": [
+    {
+      "word": "gatsby",
+      "score": 0.15737
+    },
+    {
+      "word": "mckee",
+      "score": 0.090282
+    },
+    {
+      "word": "daisy",
+      "score": 0.083041
+    },
+    {
+      "word": "michaelis",
+      "score": 0.082208
+    },
+    {
+      "word": "cody",
+      "score": 0.081329
+    },
+    {
+      "word": "biloxi",
+      "score": 0.076513
+    },
+    {
+      "word": "jordan",
+      "score": 0.070566
+    },
+    {
+      "word": "garage",
+      "score": 0.067745
+    },
+    {
+      "word": "lucille",
+      "score": 0.06681
+    },
+    {
+      "word": "sloane",
+      "score": 0.061126
+    },
+    {
+      "word": "buchanan",
+      "score": 0.059531
+    },
+    {
+      "word": "montenegro",
+      "score": 0.056625
+    },
+    {
+      "word": "wilson",
+      "score": 0.055659
+    },
+    {
+      "word": "myrtle",
+      "score": 0.054805
+    },
+    {
+      "word": "baedeker",
+      "score": 0.051233
+    },
+    {
+      "word": "phone",
+      "score": 0.050711
+    },
+    {
+      "word": "alongshore",
+      "score": 0.050222
+    },
+    {
+      "word": "drugstore",
+      "score": 0.050158
+    },
+    {
+      "word": "tom",
+      "score": 0.050041
+    },
+    {
+      "word": "meyer",
+      "score": 0.049229
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "Vanity Fair by William Makepeace Thackeray",
+  "genre": "Satirical fiction",
+  "pkl_stem": "Vanity_Fair_by_William_Makepeace_Thackeray",
+  "top_keywords": [
+    {
+      "word": "crawley",
+      "score": 0.083819
+    },
+    {
+      "word": "sedley",
+      "score": 0.080381
+    },
+    {
+      "word": "dobbin",
+      "score": 0.07825
+    },
+    {
+      "word": "rawdon",
+      "score": 0.075565
+    },
+    {
+      "word": "osborne",
+      "score": 0.05999
+    },
+    {
+      "word": "emmy",
+      "score": 0.059292
+    },
+    {
+      "word": "bute",
+      "score": 0.057807
+    },
+    {
+      "word": "becky",
+      "score": 0.056837
+    },
+    {
+      "word": "horrocks",
+      "score": 0.055433
+    },
+    {
+      "word": "amelia",
+      "score": 0.054903
+    },
+    {
+      "word": "briggs",
+      "score": 0.053641
+    },
+    {
+      "word": "rebecca",
+      "score": 0.052781
+    },
+    {
+      "word": "firkin",
+      "score": 0.050844
+    },
+    {
+      "word": "isidor",
+      "score": 0.05066
+    },
+    {
+      "word": "jos",
+      "score": 0.050599
+    },
+    {
+      "word": "raggles",
+      "score": 0.048891
+    },
+    {
+      "word": "sambo",
+      "score": 0.047688
+    },
+    {
+      "word": "pinkerton",
+      "score": 0.04658
+    },
+    {
+      "word": "jemima",
+      "score": 0.045712
+    },
+    {
+      "word": "wirt",
+      "score": 0.043823
+    }
+  ]
+}

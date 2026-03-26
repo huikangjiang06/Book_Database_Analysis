@@ -1,0 +1,87 @@
+{
+  "book_title": "Uncle Tom's Cabin by Harriet Beecher Stowe",
+  "genre": "Social Criticism through Fiction",
+  "pkl_stem": "Uncle_Tom_s_Cabin_by_Harriet_Beecher_Stowe",
+  "top_keywords": [
+    {
+      "word": "shelby",
+      "score": 0.07352
+    },
+    {
+      "word": "haley",
+      "score": 0.071951
+    },
+    {
+      "word": "eva",
+      "score": 0.06911
+    },
+    {
+      "word": "ophelia",
+      "score": 0.066459
+    },
+    {
+      "word": "chloe",
+      "score": 0.065091
+    },
+    {
+      "word": "clare",
+      "score": 0.06191
+    },
+    {
+      "word": "emmeline",
+      "score": 0.058458
+    },
+    {
+      "word": "mas",
+      "score": 0.058257
+    },
+    {
+      "word": "sambo",
+      "score": 0.05727
+    },
+    {
+      "word": "phineas",
+      "score": 0.05639
+    },
+    {
+      "word": "henrique",
+      "score": 0.055356
+    },
+    {
+      "word": "loker",
+      "score": 0.053762
+    },
+    {
+      "word": "andy",
+      "score": 0.051441
+    },
+    {
+      "word": "dinah",
+      "score": 0.050837
+    },
+    {
+      "word": "adolph",
+      "score": 0.050645
+    },
+    {
+      "word": "missis",
+      "score": 0.048482
+    },
+    {
+      "word": "eliza",
+      "score": 0.048073
+    },
+    {
+      "word": "crittur",
+      "score": 0.04749
+    },
+    {
+      "word": "dodo",
+      "score": 0.046054
+    },
+    {
+      "word": "mose",
+      "score": 0.045672
+    }
+  ]
+}

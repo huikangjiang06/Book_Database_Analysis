@@ -1,0 +1,87 @@
+{
+  "book_title": "The Confession: A Novel by Maksim Gorky",
+  "genre": "Social Criticism through Fiction",
+  "pkl_stem": "The_Confession__A_Novel_by_Maksim_Gorky",
+  "top_keywords": [
+    {
+      "word": "mikhail",
+      "score": 0.110824
+    },
+    {
+      "word": "gorky",
+      "score": 0.098154
+    },
+    {
+      "word": "olga",
+      "score": 0.093428
+    },
+    {
+      "word": "grisha",
+      "score": 0.091931
+    },
+    {
+      "word": "kostia",
+      "score": 0.07831
+    },
+    {
+      "word": "rubles",
+      "score": 0.076378
+    },
+    {
+      "word": "juna",
+      "score": 0.074213
+    },
+    {
+      "word": "tatiana",
+      "score": 0.072765
+    },
+    {
+      "word": "ikon",
+      "score": 0.063706
+    },
+    {
+      "word": "monastery",
+      "score": 0.059186
+    },
+    {
+      "word": "bakery",
+      "score": 0.05819
+    },
+    {
+      "word": "vodka",
+      "score": 0.057707
+    },
+    {
+      "word": "seraphim",
+      "score": 0.056426
+    },
+    {
+      "word": "kopeck",
+      "score": 0.05588
+    },
+    {
+      "word": "ivan",
+      "score": 0.055463
+    },
+    {
+      "word": "samovar",
+      "score": 0.054046
+    },
+    {
+      "word": "versts",
+      "score": 0.053741
+    },
+    {
+      "word": "abbot",
+      "score": 0.053026
+    },
+    {
+      "word": "anthony",
+      "score": 0.0519
+    },
+    {
+      "word": "creators",
+      "score": 0.051339
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "The Problems of Philosophy by Bertrand Russell",
+  "genre": "Metaphysics and Epistemology",
+  "pkl_stem": "The_Problems_of_Philosophy_by_Bertrand_Russell",
+  "top_keywords": [
+    {
+      "word": "cassio",
+      "score": 0.12268
+    },
+    {
+      "word": "universals",
+      "score": 0.115471
+    },
+    {
+      "word": "desdemona",
+      "score": 0.104519
+    },
+    {
+      "word": "datum",
+      "score": 0.091946
+    },
+    {
+      "word": "rationalists",
+      "score": 0.087074
+    },
+    {
+      "word": "judgements",
+      "score": 0.084664
+    },
+    {
+      "word": "priori",
+      "score": 0.08217
+    },
+    {
+      "word": "premisses",
+      "score": 0.0812
+    },
+    {
+      "word": "empiricists",
+      "score": 0.081139
+    },
+    {
+      "word": "berkeley",
+      "score": 0.078231
+    },
+    {
+      "word": "inductive",
+      "score": 0.078187
+    },
+    {
+      "word": "othello",
+      "score": 0.074705
+    },
+    {
+      "word": "bismarck",
+      "score": 0.074001
+    },
+    {
+      "word": "kant",
+      "score": 0.073339
+    },
+    {
+      "word": "judgement",
+      "score": 0.072678
+    },
+    {
+      "word": "leibniz",
+      "score": 0.072073
+    },
+    {
+      "word": "empirical",
+      "score": 0.070533
+    },
+    {
+      "word": "data",
+      "score": 0.069607
+    },
+    {
+      "word": "derivative",
+      "score": 0.068657
+    },
+    {
+      "word": "prepositions",
+      "score": 0.068061
+    }
+  ]
+}

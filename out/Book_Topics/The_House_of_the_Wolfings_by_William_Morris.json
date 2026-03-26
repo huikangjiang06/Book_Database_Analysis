@@ -1,0 +1,87 @@
+{
+  "book_title": "The House of the Wolfings by William Morris",
+  "genre": "Fantasy and Allegorical Fiction",
+  "pkl_stem": "The_House_of_the_Wolfings_by_William_Morris",
+  "top_keywords": [
+    {
+      "word": "kindreds",
+      "score": 0.09373
+    },
+    {
+      "word": "wolfing",
+      "score": 0.086081
+    },
+    {
+      "word": "garth",
+      "score": 0.074149
+    },
+    {
+      "word": "carline",
+      "score": 0.07092
+    },
+    {
+      "word": "hauberk",
+      "score": 0.070895
+    },
+    {
+      "word": "wains",
+      "score": 0.069124
+    },
+    {
+      "word": "otter",
+      "score": 0.068774
+    },
+    {
+      "word": "thralls",
+      "score": 0.067414
+    },
+    {
+      "word": "agni",
+      "score": 0.067159
+    },
+    {
+      "word": "goths",
+      "score": 0.065226
+    },
+    {
+      "word": "wain",
+      "score": 0.06268
+    },
+    {
+      "word": "burg",
+      "score": 0.062572
+    },
+    {
+      "word": "anigh",
+      "score": 0.062535
+    },
+    {
+      "word": "asmund",
+      "score": 0.061206
+    },
+    {
+      "word": "tofts",
+      "score": 0.061206
+    },
+    {
+      "word": "foemen",
+      "score": 0.060934
+    },
+    {
+      "word": "egil",
+      "score": 0.06025
+    },
+    {
+      "word": "tyr",
+      "score": 0.060016
+    },
+    {
+      "word": "wend",
+      "score": 0.057921
+    },
+    {
+      "word": "fleers",
+      "score": 0.056095
+    }
+  ]
+}

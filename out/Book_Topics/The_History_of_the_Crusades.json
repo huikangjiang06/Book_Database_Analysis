@@ -1,0 +1,87 @@
+{
+  "book_title": "The History of the Crusades",
+  "genre": "History",
+  "pkl_stem": "The_History_of_the_Crusades",
+  "top_keywords": [
+    {
+      "word": "ptolema",
+      "score": 0.066022
+    },
+    {
+      "word": "bohemond",
+      "score": 0.064856
+    },
+    {
+      "word": "saladin",
+      "score": 0.061807
+    },
+    {
+      "word": "noureddin",
+      "score": 0.061534
+    },
+    {
+      "word": "tancred",
+      "score": 0.05801
+    },
+    {
+      "word": "edessa",
+      "score": 0.057508
+    },
+    {
+      "word": "mussulmans",
+      "score": 0.056969
+    },
+    {
+      "word": "emirs",
+      "score": 0.054377
+    },
+    {
+      "word": "antioch",
+      "score": 0.053694
+    },
+    {
+      "word": "saracens",
+      "score": 0.052598
+    },
+    {
+      "word": "alexius",
+      "score": 0.052447
+    },
+    {
+      "word": "thoulouse",
+      "score": 0.050741
+    },
+    {
+      "word": "crusaders",
+      "score": 0.050581
+    },
+    {
+      "word": "ascalon",
+      "score": 0.049976
+    },
+    {
+      "word": "baldwin",
+      "score": 0.048053
+    },
+    {
+      "word": "lusignan",
+      "score": 0.047829
+    },
+    {
+      "word": "amaury",
+      "score": 0.047829
+    },
+    {
+      "word": "mond",
+      "score": 0.047644
+    },
+    {
+      "word": "michaud",
+      "score": 0.047091
+    },
+    {
+      "word": "godfrey",
+      "score": 0.046873
+    }
+  ]
+}

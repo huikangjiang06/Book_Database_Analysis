@@ -1,0 +1,87 @@
+{
+  "book_title": "The Napoleon of Notting Hill by G. K. Chesterton",
+  "genre": "Satirical fiction",
+  "pkl_stem": "The_Napoleon_of_Notting_Hill_by_G__K__Chesterton",
+  "top_keywords": [
+    {
+      "word": "notting",
+      "score": 0.118551
+    },
+    {
+      "word": "auberon",
+      "score": 0.115867
+    },
+    {
+      "word": "wayne",
+      "score": 0.101271
+    },
+    {
+      "word": "barker",
+      "score": 0.093316
+    },
+    {
+      "word": "turnbull",
+      "score": 0.087173
+    },
+    {
+      "word": "quin",
+      "score": 0.086637
+    },
+    {
+      "word": "bayswater",
+      "score": 0.078703
+    },
+    {
+      "word": "provost",
+      "score": 0.078431
+    },
+    {
+      "word": "campden",
+      "score": 0.075012
+    },
+    {
+      "word": "lambert",
+      "score": 0.073124
+    },
+    {
+      "word": "halberdiers",
+      "score": 0.070851
+    },
+    {
+      "word": "kensington",
+      "score": 0.069431
+    },
+    {
+      "word": "halberd",
+      "score": 0.066424
+    },
+    {
+      "word": "nicaragua",
+      "score": 0.065153
+    },
+    {
+      "word": "swindon",
+      "score": 0.064689
+    },
+    {
+      "word": "provosts",
+      "score": 0.061976
+    },
+    {
+      "word": "bowles",
+      "score": 0.059816
+    },
+    {
+      "word": "hammersmith",
+      "score": 0.059462
+    },
+    {
+      "word": "westbourne",
+      "score": 0.057666
+    },
+    {
+      "word": "waterworks",
+      "score": 0.054604
+    }
+  ]
+}

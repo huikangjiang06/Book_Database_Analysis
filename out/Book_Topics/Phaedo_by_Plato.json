@@ -1,0 +1,87 @@
+{
+  "book_title": "Phaedo by Plato",
+  "genre": "Metaphysics and Epistemology",
+  "pkl_stem": "Phaedo_by_Plato",
+  "top_keywords": [
+    {
+      "word": "cebes",
+      "score": 0.155461
+    },
+    {
+      "word": "simmias",
+      "score": 0.149994
+    },
+    {
+      "word": "crito",
+      "score": 0.117504
+    },
+    {
+      "word": "phaedo",
+      "score": 0.115883
+    },
+    {
+      "word": "socrates",
+      "score": 0.081659
+    },
+    {
+      "word": "acherusian",
+      "score": 0.073458
+    },
+    {
+      "word": "opposites",
+      "score": 0.073344
+    },
+    {
+      "word": "evenus",
+      "score": 0.071069
+    },
+    {
+      "word": "tartarus",
+      "score": 0.068273
+    },
+    {
+      "word": "meno",
+      "score": 0.065758
+    },
+    {
+      "word": "apollodorus",
+      "score": 0.065411
+    },
+    {
+      "word": "phaedrus",
+      "score": 0.063129
+    },
+    {
+      "word": "anaxagoras",
+      "score": 0.062327
+    },
+    {
+      "word": "cocytus",
+      "score": 0.061463
+    },
+    {
+      "word": "xanthippe",
+      "score": 0.060748
+    },
+    {
+      "word": "aesop",
+      "score": 0.059059
+    },
+    {
+      "word": "harmonized",
+      "score": 0.057654
+    },
+    {
+      "word": "lyre",
+      "score": 0.057471
+    },
+    {
+      "word": "oddness",
+      "score": 0.057426
+    },
+    {
+      "word": "imperishable",
+      "score": 0.056496
+    }
+  ]
+}

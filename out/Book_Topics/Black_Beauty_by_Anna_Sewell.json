@@ -1,0 +1,87 @@
+{
+  "book_title": "Black Beauty by Anna Sewell",
+  "genre": "Fairy Tales and Children's Literature",
+  "pkl_stem": "Black_Beauty_by_Anna_Sewell",
+  "top_keywords": [
+    {
+      "word": "merrylegs",
+      "score": 0.123235
+    },
+    {
+      "word": "jerry",
+      "score": 0.100502
+    },
+    {
+      "word": "blantyre",
+      "score": 0.093125
+    },
+    {
+      "word": "jakes",
+      "score": 0.084398
+    },
+    {
+      "word": "hostler",
+      "score": 0.082194
+    },
+    {
+      "word": "polly",
+      "score": 0.079758
+    },
+    {
+      "word": "rory",
+      "score": 0.076513
+    },
+    {
+      "word": "dolly",
+      "score": 0.075608
+    },
+    {
+      "word": "reuben",
+      "score": 0.073348
+    },
+    {
+      "word": "blinkers",
+      "score": 0.072701
+    },
+    {
+      "word": "hotspur",
+      "score": 0.069016
+    },
+    {
+      "word": "ginger",
+      "score": 0.068664
+    },
+    {
+      "word": "lizzie",
+      "score": 0.068627
+    },
+    {
+      "word": "auster",
+      "score": 0.068153
+    },
+    {
+      "word": "farrier",
+      "score": 0.067645
+    },
+    {
+      "word": "briggs",
+      "score": 0.066722
+    },
+    {
+      "word": "barker",
+      "score": 0.065132
+    },
+    {
+      "word": "grandpapa",
+      "score": 0.062774
+    },
+    {
+      "word": "colts",
+      "score": 0.061012
+    },
+    {
+      "word": "skinner",
+      "score": 0.060454
+    }
+  ]
+}

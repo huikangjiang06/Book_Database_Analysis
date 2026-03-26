@@ -1,0 +1,87 @@
+{
+  "book_title": "Symposium by Plato",
+  "genre": "Metaphysics and Epistemology",
+  "pkl_stem": "Symposium_by_Plato",
+  "top_keywords": [
+    {
+      "word": "agathon",
+      "score": 0.141878
+    },
+    {
+      "word": "aristodemus",
+      "score": 0.118266
+    },
+    {
+      "word": "phaedrus",
+      "score": 0.114751
+    },
+    {
+      "word": "diotima",
+      "score": 0.111384
+    },
+    {
+      "word": "alcibiades",
+      "score": 0.091081
+    },
+    {
+      "word": "pausanias",
+      "score": 0.087638
+    },
+    {
+      "word": "aristophanes",
+      "score": 0.086377
+    },
+    {
+      "word": "socrates",
+      "score": 0.083986
+    },
+    {
+      "word": "symposium",
+      "score": 0.083768
+    },
+    {
+      "word": "symp",
+      "score": 0.082739
+    },
+    {
+      "word": "hiccough",
+      "score": 0.081391
+    },
+    {
+      "word": "alcestis",
+      "score": 0.078465
+    },
+    {
+      "word": "apollodorus",
+      "score": 0.076726
+    },
+    {
+      "word": "potidaea",
+      "score": 0.074698
+    },
+    {
+      "word": "marsyas",
+      "score": 0.070416
+    },
+    {
+      "word": "glaucon",
+      "score": 0.069503
+    },
+    {
+      "word": "protag",
+      "score": 0.065696
+    },
+    {
+      "word": "patroclus",
+      "score": 0.060623
+    },
+    {
+      "word": "aphrodite",
+      "score": 0.060426
+    },
+    {
+      "word": "silenus",
+      "score": 0.060345
+    }
+  ]
+}

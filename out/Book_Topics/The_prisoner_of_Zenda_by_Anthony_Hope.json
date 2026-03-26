@@ -1,0 +1,87 @@
+{
+  "book_title": "The prisoner of Zenda by Anthony Hope",
+  "genre": "Adventure",
+  "pkl_stem": "The_prisoner_of_Zenda_by_Anthony_Hope",
+  "top_keywords": [
+    {
+      "word": "zenda",
+      "score": 0.144712
+    },
+    {
+      "word": "flavia",
+      "score": 0.14322
+    },
+    {
+      "word": "fritz",
+      "score": 0.111494
+    },
+    {
+      "word": "rupert",
+      "score": 0.111052
+    },
+    {
+      "word": "rudolf",
+      "score": 0.108836
+    },
+    {
+      "word": "josef",
+      "score": 0.094502
+    },
+    {
+      "word": "johann",
+      "score": 0.087924
+    },
+    {
+      "word": "helga",
+      "score": 0.079864
+    },
+    {
+      "word": "antoinette",
+      "score": 0.075521
+    },
+    {
+      "word": "bertram",
+      "score": 0.075469
+    },
+    {
+      "word": "michael",
+      "score": 0.073064
+    },
+    {
+      "word": "moat",
+      "score": 0.065907
+    },
+    {
+      "word": "drawbridge",
+      "score": 0.062797
+    },
+    {
+      "word": "chateau",
+      "score": 0.062166
+    },
+    {
+      "word": "sire",
+      "score": 0.056434
+    },
+    {
+      "word": "bert",
+      "score": 0.054923
+    },
+    {
+      "word": "duke",
+      "score": 0.053175
+    },
+    {
+      "word": "tyrol",
+      "score": 0.051811
+    },
+    {
+      "word": "marshal",
+      "score": 0.051486
+    },
+    {
+      "word": "prefect",
+      "score": 0.050902
+    }
+  ]
+}

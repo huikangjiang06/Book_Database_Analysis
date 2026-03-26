@@ -1,0 +1,87 @@
+{
+  "book_title": "Meditations by Emperor of Rome Marcus Aurelius",
+  "genre": "Metaphysics and Epistemology",
+  "pkl_stem": "Meditations_by_Emperor_of_Rome_Marcus_Aurelius",
+  "top_keywords": [
+    {
+      "word": "fronto",
+      "score": 0.093718
+    },
+    {
+      "word": "caes",
+      "score": 0.083365
+    },
+    {
+      "word": "verus",
+      "score": 0.072138
+    },
+    {
+      "word": "doest",
+      "score": 0.067202
+    },
+    {
+      "word": "antoninus",
+      "score": 0.062185
+    },
+    {
+      "word": "marcus",
+      "score": 0.061813
+    },
+    {
+      "word": "aurelius",
+      "score": 0.06095
+    },
+    {
+      "word": "faustina",
+      "score": 0.059361
+    },
+    {
+      "word": "whensoever",
+      "score": 0.058838
+    },
+    {
+      "word": "chrysippus",
+      "score": 0.056011
+    },
+    {
+      "word": "mayest",
+      "score": 0.05339
+    },
+    {
+      "word": "mayst",
+      "score": 0.053092
+    },
+    {
+      "word": "thyself",
+      "score": 0.052228
+    },
+    {
+      "word": "rusticus",
+      "score": 0.051647
+    },
+    {
+      "word": "unthankful",
+      "score": 0.051647
+    },
+    {
+      "word": "herodes",
+      "score": 0.049896
+    },
+    {
+      "word": "whilest",
+      "score": 0.049896
+    },
+    {
+      "word": "requireth",
+      "score": 0.048409
+    },
+    {
+      "word": "pronto",
+      "score": 0.047787
+    },
+    {
+      "word": "casaubon",
+      "score": 0.047787
+    }
+  ]
+}

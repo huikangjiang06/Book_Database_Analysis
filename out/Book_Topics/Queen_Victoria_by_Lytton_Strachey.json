@@ -1,0 +1,87 @@
+{
+  "book_title": "Queen Victoria by Lytton Strachey",
+  "genre": "Biographies and Autobiographies",
+  "pkl_stem": "Queen_Victoria_by_Lytton_Strachey",
+  "top_keywords": [
+    {
+      "word": "lehzen",
+      "score": 0.076489
+    },
+    {
+      "word": "palmerston",
+      "score": 0.070458
+    },
+    {
+      "word": "coburg",
+      "score": 0.061781
+    },
+    {
+      "word": "leopold",
+      "score": 0.057586
+    },
+    {
+      "word": "greville",
+      "score": 0.056776
+    },
+    {
+      "word": "balmoral",
+      "score": 0.054466
+    },
+    {
+      "word": "disraeli",
+      "score": 0.051331
+    },
+    {
+      "word": "melbourne",
+      "score": 0.050297
+    },
+    {
+      "word": "beaconsfield",
+      "score": 0.049626
+    },
+    {
+      "word": "osborne",
+      "score": 0.049205
+    },
+    {
+      "word": "victoria",
+      "score": 0.048688
+    },
+    {
+      "word": "albert",
+      "score": 0.048526
+    },
+    {
+      "word": "claremont",
+      "score": 0.048402
+    },
+    {
+      "word": "faery",
+      "score": 0.047285
+    },
+    {
+      "word": "baroness",
+      "score": 0.044504
+    },
+    {
+      "word": "clarence",
+      "score": 0.044424
+    },
+    {
+      "word": "saxe",
+      "score": 0.043999
+    },
+    {
+      "word": "laurent",
+      "score": 0.043751
+    },
+    {
+      "word": "windsor",
+      "score": 0.04324
+    },
+    {
+      "word": "vols",
+      "score": 0.043019
+    }
+  ]
+}

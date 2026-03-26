@@ -1,0 +1,87 @@
+{
+  "book_title": "Peter Pan by J. M. Barrie",
+  "genre": "Fairy Tales and Children's Literature",
+  "pkl_stem": "Peter_Pan_by_J__M__Barrie",
+  "top_keywords": [
+    {
+      "word": "smee",
+      "score": 0.133877
+    },
+    {
+      "word": "tootles",
+      "score": 0.128512
+    },
+    {
+      "word": "nana",
+      "score": 0.118827
+    },
+    {
+      "word": "starkey",
+      "score": 0.103536
+    },
+    {
+      "word": "tink",
+      "score": 0.094669
+    },
+    {
+      "word": "nibs",
+      "score": 0.094273
+    },
+    {
+      "word": "redskins",
+      "score": 0.093402
+    },
+    {
+      "word": "cecco",
+      "score": 0.088792
+    },
+    {
+      "word": "lagoon",
+      "score": 0.076329
+    },
+    {
+      "word": "redskin",
+      "score": 0.075797
+    },
+    {
+      "word": "liza",
+      "score": 0.074142
+    },
+    {
+      "word": "tinker",
+      "score": 0.069339
+    },
+    {
+      "word": "mermaids",
+      "score": 0.06866
+    },
+    {
+      "word": "crocodile",
+      "score": 0.065986
+    },
+    {
+      "word": "michael",
+      "score": 0.065966
+    },
+    {
+      "word": "barbecue",
+      "score": 0.062035
+    },
+    {
+      "word": "mullins",
+      "score": 0.060104
+    },
+    {
+      "word": "pirates",
+      "score": 0.059664
+    },
+    {
+      "word": "peter",
+      "score": 0.058673
+    },
+    {
+      "word": "pirate",
+      "score": 0.056429
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "The Enchiridion by Epictetus",
+  "genre": "Metaphysics and Epistemology",
+  "pkl_stem": "The_Enchiridion_by_Epictetus",
+  "top_keywords": [
+    {
+      "word": "lla",
+      "score": 0.222679
+    },
+    {
+      "word": "enchiridion",
+      "score": 0.164176
+    },
+    {
+      "word": "epictetus",
+      "score": 0.127774
+    },
+    {
+      "word": "stoic",
+      "score": 0.101818
+    },
+    {
+      "word": "chrysippus",
+      "score": 0.100401
+    },
+    {
+      "word": "arrian",
+      "score": 0.09165
+    },
+    {
+      "word": "stoicism",
+      "score": 0.089268
+    },
+    {
+      "word": "crito",
+      "score": 0.082378
+    },
+    {
+      "word": "externals",
+      "score": 0.080859
+    },
+    {
+      "word": "stoics",
+      "score": 0.073928
+    },
+    {
+      "word": "neue",
+      "score": 0.073743
+    },
+    {
+      "word": "lettuces",
+      "score": 0.069516
+    },
+    {
+      "word": "diviner",
+      "score": 0.06892
+    },
+    {
+      "word": "und",
+      "score": 0.068797
+    },
+    {
+      "word": "jowett",
+      "score": 0.067251
+    },
+    {
+      "word": "cleanthes",
+      "score": 0.066462
+    },
+    {
+      "word": "seneca",
+      "score": 0.064443
+    },
+    {
+      "word": "techniques",
+      "score": 0.064301
+    },
+    {
+      "word": "discourses",
+      "score": 0.062499
+    },
+    {
+      "word": "hadrian",
+      "score": 0.060891
+    }
+  ]
+}

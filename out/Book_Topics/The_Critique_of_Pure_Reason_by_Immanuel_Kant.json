@@ -1,0 +1,87 @@
+{
+  "book_title": "The Critique of Pure Reason by Immanuel Kant",
+  "genre": "Metaphysics and Epistemology",
+  "pkl_stem": "The_Critique_of_Pure_Reason_by_Immanuel_Kant",
+  "top_keywords": [
+    {
+      "word": "cognition",
+      "score": 0.086296
+    },
+    {
+      "word": "synthetical",
+      "score": 0.077851
+    },
+    {
+      "word": "cognitions",
+      "score": 0.07609
+    },
+    {
+      "word": "cogitated",
+      "score": 0.075126
+    },
+    {
+      "word": "cognized",
+      "score": 0.073686
+    },
+    {
+      "word": "cogitate",
+      "score": 0.071501
+    },
+    {
+      "word": "empirical",
+      "score": 0.069624
+    },
+    {
+      "word": "unconditioned",
+      "score": 0.068555
+    },
+    {
+      "word": "cosmological",
+      "score": 0.067198
+    },
+    {
+      "word": "regress",
+      "score": 0.067018
+    },
+    {
+      "word": "antinomy",
+      "score": 0.066469
+    },
+    {
+      "word": "causality",
+      "score": 0.064886
+    },
+    {
+      "word": "schema",
+      "score": 0.064772
+    },
+    {
+      "word": "apperception",
+      "score": 0.063594
+    },
+    {
+      "word": "dynamical",
+      "score": 0.062892
+    },
+    {
+      "word": "intuited",
+      "score": 0.061383
+    },
+    {
+      "word": "realissimum",
+      "score": 0.060443
+    },
+    {
+      "word": "synthesis",
+      "score": 0.060339
+    },
+    {
+      "word": "priori",
+      "score": 0.060216
+    },
+    {
+      "word": "noumenon",
+      "score": 0.059667
+    }
+  ]
+}

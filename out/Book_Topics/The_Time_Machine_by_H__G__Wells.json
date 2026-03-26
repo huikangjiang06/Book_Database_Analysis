@@ -1,0 +1,87 @@
+{
+  "book_title": "The Time Machine by H. G. Wells",
+  "genre": "Science Fiction",
+  "pkl_stem": "The_Time_Machine_by_H__G__Wells",
+  "top_keywords": [
+    {
+      "word": "filby",
+      "score": 0.116134
+    },
+    {
+      "word": "eloi",
+      "score": 0.085507
+    },
+    {
+      "word": "psychologist",
+      "score": 0.076492
+    },
+    {
+      "word": "camphor",
+      "score": 0.063114
+    },
+    {
+      "word": "sphinx",
+      "score": 0.061708
+    },
+    {
+      "word": "underworld",
+      "score": 0.059879
+    },
+    {
+      "word": "laboratory",
+      "score": 0.054649
+    },
+    {
+      "word": "lever",
+      "score": 0.051783
+    },
+    {
+      "word": "watchett",
+      "score": 0.051297
+    },
+    {
+      "word": "dimension",
+      "score": 0.050752
+    },
+    {
+      "word": "journalist",
+      "score": 0.050246
+    },
+    {
+      "word": "incontinently",
+      "score": 0.049303
+    },
+    {
+      "word": "traveller",
+      "score": 0.049154
+    },
+    {
+      "word": "porcelain",
+      "score": 0.049135
+    },
+    {
+      "word": "levers",
+      "score": 0.048208
+    },
+    {
+      "word": "dials",
+      "score": 0.047724
+    },
+    {
+      "word": "corroded",
+      "score": 0.046855
+    },
+    {
+      "word": "pinkish",
+      "score": 0.046855
+    },
+    {
+      "word": "pedestal",
+      "score": 0.046285
+    },
+    {
+      "word": "dimensional",
+      "score": 0.045554
+    }
+  ]
+}

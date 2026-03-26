@@ -1,0 +1,87 @@
+{
+  "book_title": "My \u00c1ntonia by Willa Cather",
+  "genre": "Western Stories",
+  "pkl_stem": "My_A\u0301ntonia_by_Willa_Cather",
+  "top_keywords": [
+    {
+      "word": "harling",
+      "score": 0.10483
+    },
+    {
+      "word": "lena",
+      "score": 0.103072
+    },
+    {
+      "word": "fuchs",
+      "score": 0.085979
+    },
+    {
+      "word": "lingard",
+      "score": 0.080633
+    },
+    {
+      "word": "pavel",
+      "score": 0.07988
+    },
+    {
+      "word": "jake",
+      "score": 0.071784
+    },
+    {
+      "word": "tony",
+      "score": 0.064888
+    },
+    {
+      "word": "nina",
+      "score": 0.059924
+    },
+    {
+      "word": "otto",
+      "score": 0.059233
+    },
+    {
+      "word": "arnault",
+      "score": 0.058453
+    },
+    {
+      "word": "cleric",
+      "score": 0.054705
+    },
+    {
+      "word": "frances",
+      "score": 0.053797
+    },
+    {
+      "word": "rudolph",
+      "score": 0.05059
+    },
+    {
+      "word": "anton",
+      "score": 0.050557
+    },
+    {
+      "word": "marys",
+      "score": 0.050391
+    },
+    {
+      "word": "cutter",
+      "score": 0.048497
+    },
+    {
+      "word": "windmill",
+      "score": 0.046494
+    },
+    {
+      "word": "nebraska",
+      "score": 0.046271
+    },
+    {
+      "word": "bohemian",
+      "score": 0.04589
+    },
+    {
+      "word": "chris",
+      "score": 0.045365
+    }
+  ]
+}

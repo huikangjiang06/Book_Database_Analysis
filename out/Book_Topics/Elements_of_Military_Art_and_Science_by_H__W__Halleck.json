@@ -1,0 +1,87 @@
+{
+  "book_title": "Elements of Military Art and Science by H. W. Halleck",
+  "genre": "War and Strategy",
+  "pkl_stem": "Elements_of_Military_Art_and_Science_by_H__W__Halleck",
+  "top_keywords": [
+    {
+      "word": "artillerie",
+      "score": 0.056492
+    },
+    {
+      "word": "pontoniers",
+      "score": 0.054911
+    },
+    {
+      "word": "jomini",
+      "score": 0.048828
+    },
+    {
+      "word": "vauban",
+      "score": 0.044655
+    },
+    {
+      "word": "kinburn",
+      "score": 0.044546
+    },
+    {
+      "word": "sebastopol",
+      "score": 0.04306
+    },
+    {
+      "word": "lune",
+      "score": 0.042887
+    },
+    {
+      "word": "officiers",
+      "score": 0.042632
+    },
+    {
+      "word": "barbette",
+      "score": 0.042451
+    },
+    {
+      "word": "fense",
+      "score": 0.042215
+    },
+    {
+      "word": "bataillon",
+      "score": 0.042215
+    },
+    {
+      "word": "scarp",
+      "score": 0.042028
+    },
+    {
+      "word": "sappers",
+      "score": 0.041853
+    },
+    {
+      "word": "traduit",
+      "score": 0.040868
+    },
+    {
+      "word": "gabions",
+      "score": 0.040826
+    },
+    {
+      "word": "echelon",
+      "score": 0.040492
+    },
+    {
+      "word": "logistics",
+      "score": 0.039499
+    },
+    {
+      "word": "champlain",
+      "score": 0.038793
+    },
+    {
+      "word": "frigates",
+      "score": 0.038669
+    },
+    {
+      "word": "militaire",
+      "score": 0.038398
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "Sister Carrie by Theodore Dreiser",
+  "genre": "NY-as-character",
+  "pkl_stem": "Sister_Carrie_by_Theodore_Dreiser",
+  "top_keywords": [
+    {
+      "word": "carrie",
+      "score": 0.098491
+    },
+    {
+      "word": "drouet",
+      "score": 0.097833
+    },
+    {
+      "word": "vance",
+      "score": 0.067805
+    },
+    {
+      "word": "jessica",
+      "score": 0.065887
+    },
+    {
+      "word": "lola",
+      "score": 0.064276
+    },
+    {
+      "word": "minnie",
+      "score": 0.061417
+    },
+    {
+      "word": "hanson",
+      "score": 0.06042
+    },
+    {
+      "word": "moy",
+      "score": 0.058972
+    },
+    {
+      "word": "ames",
+      "score": 0.051151
+    },
+    {
+      "word": "shaughnessy",
+      "score": 0.049387
+    },
+    {
+      "word": "fitzgerald",
+      "score": 0.043699
+    },
+    {
+      "word": "ogden",
+      "score": 0.040081
+    },
+    {
+      "word": "matinee",
+      "score": 0.039673
+    },
+    {
+      "word": "drummer",
+      "score": 0.039528
+    },
+    {
+      "word": "avery",
+      "score": 0.039167
+    },
+    {
+      "word": "casino",
+      "score": 0.0388
+    },
+    {
+      "word": "osborne",
+      "score": 0.038448
+    },
+    {
+      "word": "olsen",
+      "score": 0.037927
+    },
+    {
+      "word": "broadway",
+      "score": 0.036828
+    },
+    {
+      "word": "managerial",
+      "score": 0.035753
+    }
+  ]
+}

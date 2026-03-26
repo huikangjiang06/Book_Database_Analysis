@@ -1,0 +1,87 @@
+{
+  "book_title": "Anabasis by Xenophon",
+  "genre": "History",
+  "pkl_stem": "Anabasis_by_Xenophon",
+  "top_keywords": [
+    {
+      "word": "seuthes",
+      "score": 0.098505
+    },
+    {
+      "word": "clearchus",
+      "score": 0.089784
+    },
+    {
+      "word": "tissaphernes",
+      "score": 0.089203
+    },
+    {
+      "word": "hellenes",
+      "score": 0.078707
+    },
+    {
+      "word": "parasangs",
+      "score": 0.076514
+    },
+    {
+      "word": "ariaeus",
+      "score": 0.0759
+    },
+    {
+      "word": "cleander",
+      "score": 0.073313
+    },
+    {
+      "word": "proxenus",
+      "score": 0.073012
+    },
+    {
+      "word": "peltasts",
+      "score": 0.072371
+    },
+    {
+      "word": "heracleides",
+      "score": 0.068741
+    },
+    {
+      "word": "xenophon",
+      "score": 0.065665
+    },
+    {
+      "word": "menon",
+      "score": 0.065388
+    },
+    {
+      "word": "dexippus",
+      "score": 0.064119
+    },
+    {
+      "word": "neon",
+      "score": 0.062241
+    },
+    {
+      "word": "hoplites",
+      "score": 0.061654
+    },
+    {
+      "word": "cyrus",
+      "score": 0.059048
+    },
+    {
+      "word": "lacedaemonians",
+      "score": 0.059037
+    },
+    {
+      "word": "hellene",
+      "score": 0.05776
+    },
+    {
+      "word": "aristarchus",
+      "score": 0.05776
+    },
+    {
+      "word": "dardanian",
+      "score": 0.056131
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "A farewell to arms by Ernest Hemingway",
+  "genre": "War and Strategy",
+  "pkl_stem": "A_farewell_to_arms_by_Ernest_Hemingway",
+  "top_keywords": [
+    {
+      "word": "rinaldi",
+      "score": 0.114529
+    },
+    {
+      "word": "tenente",
+      "score": 0.110367
+    },
+    {
+      "word": "barkley",
+      "score": 0.097154
+    },
+    {
+      "word": "meyers",
+      "score": 0.087319
+    },
+    {
+      "word": "udine",
+      "score": 0.080887
+    },
+    {
+      "word": "montreux",
+      "score": 0.077724
+    },
+    {
+      "word": "barman",
+      "score": 0.076713
+    },
+    {
+      "word": "manera",
+      "score": 0.069701
+    },
+    {
+      "word": "gino",
+      "score": 0.068103
+    },
+    {
+      "word": "catherine",
+      "score": 0.068083
+    },
+    {
+      "word": "gabriele",
+      "score": 0.067725
+    },
+    {
+      "word": "lire",
+      "score": 0.066077
+    },
+    {
+      "word": "plava",
+      "score": 0.063149
+    },
+    {
+      "word": "crowell",
+      "score": 0.062661
+    },
+    {
+      "word": "stresa",
+      "score": 0.062481
+    },
+    {
+      "word": "ferguson",
+      "score": 0.062262
+    },
+    {
+      "word": "vermouth",
+      "score": 0.062139
+    },
+    {
+      "word": "valentini",
+      "score": 0.06009
+    },
+    {
+      "word": "gorizia",
+      "score": 0.060052
+    },
+    {
+      "word": "abruzzi",
+      "score": 0.060052
+    }
+  ]
+}

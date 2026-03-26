@@ -1,0 +1,87 @@
+{
+  "book_title": "The House of Mirth by Edith Wharton",
+  "genre": "NY-as-character",
+  "pkl_stem": "The_House_of_Mirth_by_Edith_Wharton",
+  "top_keywords": [
+    {
+      "word": "gerty",
+      "score": 0.093136
+    },
+    {
+      "word": "rosedale",
+      "score": 0.088205
+    },
+    {
+      "word": "gryce",
+      "score": 0.078457
+    },
+    {
+      "word": "stepney",
+      "score": 0.077104
+    },
+    {
+      "word": "selden",
+      "score": 0.073458
+    },
+    {
+      "word": "dorset",
+      "score": 0.07068
+    },
+    {
+      "word": "bart",
+      "score": 0.070112
+    },
+    {
+      "word": "bry",
+      "score": 0.069004
+    },
+    {
+      "word": "silverton",
+      "score": 0.067151
+    },
+    {
+      "word": "alstyne",
+      "score": 0.063325
+    },
+    {
+      "word": "bertha",
+      "score": 0.057395
+    },
+    {
+      "word": "gus",
+      "score": 0.055494
+    },
+    {
+      "word": "judy",
+      "score": 0.054486
+    },
+    {
+      "word": "nettie",
+      "score": 0.053644
+    },
+    {
+      "word": "gwen",
+      "score": 0.052091
+    },
+    {
+      "word": "mattie",
+      "score": 0.050744
+    },
+    {
+      "word": "wetherall",
+      "score": 0.050089
+    },
+    {
+      "word": "cressida",
+      "score": 0.05008
+    },
+    {
+      "word": "hubert",
+      "score": 0.049329
+    },
+    {
+      "word": "sabrina",
+      "score": 0.048468
+    }
+  ]
+}

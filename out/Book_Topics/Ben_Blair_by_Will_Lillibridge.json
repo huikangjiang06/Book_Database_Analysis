@@ -1,0 +1,87 @@
+{
+  "book_title": "Ben Blair by Will Lillibridge",
+  "genre": "Western Stories",
+  "pkl_stem": "Ben_Blair_by_Will_Lillibridge",
+  "top_keywords": [
+    {
+      "word": "scotty",
+      "score": 0.09828
+    },
+    {
+      "word": "rankin",
+      "score": 0.095169
+    },
+    {
+      "word": "hough",
+      "score": 0.085841
+    },
+    {
+      "word": "blair",
+      "score": 0.074938
+    },
+    {
+      "word": "mick",
+      "score": 0.064768
+    },
+    {
+      "word": "stetson",
+      "score": 0.062747
+    },
+    {
+      "word": "mollie",
+      "score": 0.058062
+    },
+    {
+      "word": "chad",
+      "score": 0.053635
+    },
+    {
+      "word": "ranch",
+      "score": 0.053146
+    },
+    {
+      "word": "kennedy",
+      "score": 0.052516
+    },
+    {
+      "word": "buckboard",
+      "score": 0.052404
+    },
+    {
+      "word": "ben",
+      "score": 0.051737
+    },
+    {
+      "word": "alec",
+      "score": 0.051695
+    },
+    {
+      "word": "marchmont",
+      "score": 0.050937
+    },
+    {
+      "word": "rancher",
+      "score": 0.049787
+    },
+    {
+      "word": "bronco",
+      "score": 0.049522
+    },
+    {
+      "word": "florence",
+      "score": 0.049513
+    },
+    {
+      "word": "cowboys",
+      "score": 0.049049
+    },
+    {
+      "word": "flossie",
+      "score": 0.048728
+    },
+    {
+      "word": "impassively",
+      "score": 0.046751
+    }
+  ]
+}

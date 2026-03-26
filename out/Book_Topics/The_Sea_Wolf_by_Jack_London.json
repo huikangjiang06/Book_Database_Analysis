@@ -1,0 +1,87 @@
+{
+  "book_title": "The Sea-Wolf by Jack London",
+  "genre": "Adventure",
+  "pkl_stem": "The_Sea_Wolf_by_Jack_London",
+  "top_keywords": [
+    {
+      "word": "larsen",
+      "score": 0.114184
+    },
+    {
+      "word": "johansen",
+      "score": 0.072399
+    },
+    {
+      "word": "leach",
+      "score": 0.069212
+    },
+    {
+      "word": "maud",
+      "score": 0.067662
+    },
+    {
+      "word": "cooky",
+      "score": 0.065982
+    },
+    {
+      "word": "puller",
+      "score": 0.060585
+    },
+    {
+      "word": "brewster",
+      "score": 0.05823
+    },
+    {
+      "word": "lazarette",
+      "score": 0.053229
+    },
+    {
+      "word": "halyards",
+      "score": 0.052499
+    },
+    {
+      "word": "latimer",
+      "score": 0.050183
+    },
+    {
+      "word": "humphrey",
+      "score": 0.048665
+    },
+    {
+      "word": "oilskins",
+      "score": 0.047229
+    },
+    {
+      "word": "poop",
+      "score": 0.047185
+    },
+    {
+      "word": "topsails",
+      "score": 0.047163
+    },
+    {
+      "word": "jib",
+      "score": 0.046698
+    },
+    {
+      "word": "steerage",
+      "score": 0.046615
+    },
+    {
+      "word": "schooner",
+      "score": 0.046344
+    },
+    {
+      "word": "kanaka",
+      "score": 0.045858
+    },
+    {
+      "word": "steerer",
+      "score": 0.045858
+    },
+    {
+      "word": "pullers",
+      "score": 0.045248
+    }
+  ]
+}

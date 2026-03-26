@@ -1,0 +1,87 @@
+{
+  "book_title": "The Jest Book by Mark Lemon",
+  "genre": "Comedy, humourous novels",
+  "pkl_stem": "The_Jest_Book_by_Mark_Lemon",
+  "top_keywords": [
+    {
+      "word": "jerrold",
+      "score": 0.061652
+    },
+    {
+      "word": "curran",
+      "score": 0.05384
+    },
+    {
+      "word": "quin",
+      "score": 0.052055
+    },
+    {
+      "word": "foote",
+      "score": 0.051299
+    },
+    {
+      "word": "cantab",
+      "score": 0.047152
+    },
+    {
+      "word": "porson",
+      "score": 0.046782
+    },
+    {
+      "word": "maule",
+      "score": 0.045967
+    },
+    {
+      "word": "erskine",
+      "score": 0.044771
+    },
+    {
+      "word": "garrick",
+      "score": 0.043721
+    },
+    {
+      "word": "glynn",
+      "score": 0.04326
+    },
+    {
+      "word": "mathews",
+      "score": 0.042419
+    },
+    {
+      "word": "sheridan",
+      "score": 0.042404
+    },
+    {
+      "word": "wilkes",
+      "score": 0.041997
+    },
+    {
+      "word": "colman",
+      "score": 0.040766
+    },
+    {
+      "word": "jekyll",
+      "score": 0.040502
+    },
+    {
+      "word": "kean",
+      "score": 0.039608
+    },
+    {
+      "word": "thurlow",
+      "score": 0.039548
+    },
+    {
+      "word": "laird",
+      "score": 0.039142
+    },
+    {
+      "word": "abernethy",
+      "score": 0.038604
+    },
+    {
+      "word": "eldon",
+      "score": 0.038358
+    }
+  ]
+}

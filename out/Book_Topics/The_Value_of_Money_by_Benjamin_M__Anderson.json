@@ -1,0 +1,87 @@
+{
+  "book_title": "The Value of Money by Benjamin M. Anderson",
+  "genre": "Political Economy",
+  "pkl_stem": "The_Value_of_Money_by_Benjamin_M__Anderson",
+  "top_keywords": [
+    {
+      "word": "schumpeter",
+      "score": 0.067131
+    },
+    {
+      "word": "saleability",
+      "score": 0.066481
+    },
+    {
+      "word": "wieser",
+      "score": 0.061159
+    },
+    {
+      "word": "agio",
+      "score": 0.055329
+    },
+    {
+      "word": "static",
+      "score": 0.054855
+    },
+    {
+      "word": "taussig",
+      "score": 0.05461
+    },
+    {
+      "word": "dodo",
+      "score": 0.051774
+    },
+    {
+      "word": "capitalization",
+      "score": 0.051737
+    },
+    {
+      "word": "veblen",
+      "score": 0.050733
+    },
+    {
+      "word": "marginal",
+      "score": 0.050035
+    },
+    {
+      "word": "mises",
+      "score": 0.049956
+    },
+    {
+      "word": "statics",
+      "score": 0.048869
+    },
+    {
+      "word": "clearings",
+      "score": 0.048155
+    },
+    {
+      "word": "equation",
+      "score": 0.047653
+    },
+    {
+      "word": "options",
+      "score": 0.047569
+    },
+    {
+      "word": "causal",
+      "score": 0.047342
+    },
+    {
+      "word": "dynamics",
+      "score": 0.046527
+    },
+    {
+      "word": "loc",
+      "score": 0.046494
+    },
+    {
+      "word": "causation",
+      "score": 0.046112
+    },
+    {
+      "word": "boehm",
+      "score": 0.045785
+    }
+  ]
+}

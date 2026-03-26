@@ -1,0 +1,87 @@
+{
+  "book_title": "Aircraft in war by Eric Stuart Bruce",
+  "genre": "War and Strategy",
+  "pkl_stem": "Aircraft_in_war_by_Eric_Stuart_Bruce",
+  "top_keywords": [
+    {
+      "word": "airships",
+      "score": 0.110439
+    },
+    {
+      "word": "airship",
+      "score": 0.10635
+    },
+    {
+      "word": "zeppelin",
+      "score": 0.097504
+    },
+    {
+      "word": "farman",
+      "score": 0.09568
+    },
+    {
+      "word": "aviator",
+      "score": 0.090081
+    },
+    {
+      "word": "monoplane",
+      "score": 0.088293
+    },
+    {
+      "word": "metres",
+      "score": 0.085535
+    },
+    {
+      "word": "rial",
+      "score": 0.082827
+    },
+    {
+      "word": "taube",
+      "score": 0.080383
+    },
+    {
+      "word": "aviators",
+      "score": 0.079372
+    },
+    {
+      "word": "monoplanes",
+      "score": 0.078129
+    },
+    {
+      "word": "parsifal",
+      "score": 0.07495
+    },
+    {
+      "word": "collodion",
+      "score": 0.074455
+    },
+    {
+      "word": "zeppelins",
+      "score": 0.074166
+    },
+    {
+      "word": "kilos",
+      "score": 0.073672
+    },
+    {
+      "word": "astra",
+      "score": 0.072655
+    },
+    {
+      "word": "merc",
+      "score": 0.071024
+    },
+    {
+      "word": "cody",
+      "score": 0.069321
+    },
+    {
+      "word": "balloons",
+      "score": 0.069208
+    },
+    {
+      "word": "propellers",
+      "score": 0.069191
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "A Study in Scarlet by Arthur Conan Doyle",
+  "genre": "Detective and Mystery Stories",
+  "pkl_stem": "A_Study_in_Scarlet_by_Arthur_Conan_Doyle",
+  "top_keywords": [
+    {
+      "word": "stangerson",
+      "score": 0.123899
+    },
+    {
+      "word": "gregson",
+      "score": 0.123899
+    },
+    {
+      "word": "ferrier",
+      "score": 0.120573
+    },
+    {
+      "word": "lestrade",
+      "score": 0.118598
+    },
+    {
+      "word": "sherlock",
+      "score": 0.083863
+    },
+    {
+      "word": "brixton",
+      "score": 0.081968
+    },
+    {
+      "word": "holmes",
+      "score": 0.079873
+    },
+    {
+      "word": "charpentier",
+      "score": 0.073209
+    },
+    {
+      "word": "lauriston",
+      "score": 0.065653
+    },
+    {
+      "word": "rance",
+      "score": 0.06554
+    },
+    {
+      "word": "lucy",
+      "score": 0.064616
+    },
+    {
+      "word": "mormon",
+      "score": 0.064067
+    },
+    {
+      "word": "enoch",
+      "score": 0.062375
+    },
+    {
+      "word": "jefferson",
+      "score": 0.061714
+    },
+    {
+      "word": "stamford",
+      "score": 0.061653
+    },
+    {
+      "word": "mormons",
+      "score": 0.059591
+    },
+    {
+      "word": "halliday",
+      "score": 0.05937
+    },
+    {
+      "word": "utah",
+      "score": 0.058464
+    },
+    {
+      "word": "afghanistan",
+      "score": 0.054158
+    },
+    {
+      "word": "aneurism",
+      "score": 0.05275
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "The Count of Monte Cristo by Alexandre Dumas and Auguste Maquet",
+  "genre": "Adventure",
+  "pkl_stem": "The_Count_of_Monte_Cristo_by_Alexandre_Dumas_and_Auguste_Maquet",
+  "top_keywords": [
+    {
+      "word": "morrel",
+      "score": 0.084426
+    },
+    {
+      "word": "dant",
+      "score": 0.082267
+    },
+    {
+      "word": "fernand",
+      "score": 0.076421
+    },
+    {
+      "word": "edmond",
+      "score": 0.073179
+    },
+    {
+      "word": "bertuccio",
+      "score": 0.067
+    },
+    {
+      "word": "merc",
+      "score": 0.064344
+    },
+    {
+      "word": "peppino",
+      "score": 0.061793
+    },
+    {
+      "word": "cristo",
+      "score": 0.060914
+    },
+    {
+      "word": "franz",
+      "score": 0.060726
+    },
+    {
+      "word": "carlini",
+      "score": 0.059541
+    },
+    {
+      "word": "gaetano",
+      "score": 0.059229
+    },
+    {
+      "word": "jacopo",
+      "score": 0.056139
+    },
+    {
+      "word": "spada",
+      "score": 0.054837
+    },
+    {
+      "word": "luigi",
+      "score": 0.052499
+    },
+    {
+      "word": "teresa",
+      "score": 0.052075
+    },
+    {
+      "word": "colosseum",
+      "score": 0.051713
+    },
+    {
+      "word": "boville",
+      "score": 0.049826
+    },
+    {
+      "word": "cocles",
+      "score": 0.048933
+    },
+    {
+      "word": "popolo",
+      "score": 0.047877
+    },
+    {
+      "word": "catalans",
+      "score": 0.047363
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "A Voyage to Arcturus by David Lindsay",
+  "genre": "Fantasy and Allegorical Fiction",
+  "pkl_stem": "A_Voyage_to_Arcturus_by_David_Lindsay",
+  "top_keywords": [
+    {
+      "word": "surtur",
+      "score": 0.095924
+    },
+    {
+      "word": "muspel",
+      "score": 0.095287
+    },
+    {
+      "word": "aer",
+      "score": 0.078127
+    },
+    {
+      "word": "sant",
+      "score": 0.071597
+    },
+    {
+      "word": "sorb",
+      "score": 0.066314
+    },
+    {
+      "word": "jale",
+      "score": 0.06547
+    },
+    {
+      "word": "magn",
+      "score": 0.056403
+    },
+    {
+      "word": "arcturus",
+      "score": 0.054413
+    },
+    {
+      "word": "landslip",
+      "score": 0.05322
+    },
+    {
+      "word": "breve",
+      "score": 0.052592
+    },
+    {
+      "word": "jameson",
+      "score": 0.049033
+    },
+    {
+      "word": "adage",
+      "score": 0.046435
+    },
+    {
+      "word": "membranes",
+      "score": 0.044987
+    },
+    {
+      "word": "corpuscles",
+      "score": 0.043037
+    },
+    {
+      "word": "tentacle",
+      "score": 0.042803
+    },
+    {
+      "word": "shaping",
+      "score": 0.042378
+    },
+    {
+      "word": "trent",
+      "score": 0.042293
+    },
+    {
+      "word": "spouts",
+      "score": 0.041957
+    },
+    {
+      "word": "gradient",
+      "score": 0.040754
+    },
+    {
+      "word": "lang",
+      "score": 0.040139
+    }
+  ]
+}

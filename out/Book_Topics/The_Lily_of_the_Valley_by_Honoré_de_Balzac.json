@@ -1,0 +1,87 @@
+{
+  "book_title": "The Lily of the Valley by Honor\u00e9 de Balzac",
+  "genre": "Romance",
+  "pkl_stem": "The_Lily_of_the_Valley_by_Honore\u0301_de_Balzac",
+  "top_keywords": [
+    {
+      "word": "henriette",
+      "score": 0.092207
+    },
+    {
+      "word": "indre",
+      "score": 0.07299
+    },
+    {
+      "word": "madeleine",
+      "score": 0.069085
+    },
+    {
+      "word": "natalie",
+      "score": 0.066683
+    },
+    {
+      "word": "touraine",
+      "score": 0.065755
+    },
+    {
+      "word": "sache",
+      "score": 0.065268
+    },
+    {
+      "word": "arabella",
+      "score": 0.063301
+    },
+    {
+      "word": "birotteau",
+      "score": 0.062958
+    },
+    {
+      "word": "dudley",
+      "score": 0.055974
+    },
+    {
+      "word": "abbe",
+      "score": 0.055664
+    },
+    {
+      "word": "chinon",
+      "score": 0.05445
+    },
+    {
+      "word": "felix",
+      "score": 0.053922
+    },
+    {
+      "word": "jacques",
+      "score": 0.053805
+    },
+    {
+      "word": "marsay",
+      "score": 0.048299
+    },
+    {
+      "word": "backgammon",
+      "score": 0.048099
+    },
+    {
+      "word": "countess",
+      "score": 0.046684
+    },
+    {
+      "word": "monsieur",
+      "score": 0.046308
+    },
+    {
+      "word": "tours",
+      "score": 0.04497
+    },
+    {
+      "word": "comtesse",
+      "score": 0.043795
+    },
+    {
+      "word": "duchesse",
+      "score": 0.042119
+    }
+  ]
+}

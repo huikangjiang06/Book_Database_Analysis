@@ -1,0 +1,87 @@
+{
+  "book_title": "Father Goriot by Honor\u00e9 de Balzac",
+  "genre": "Social Criticism through Fiction",
+  "pkl_stem": "Father_Goriot_by_Honore\u0301_de_Balzac",
+  "top_keywords": [
+    {
+      "word": "goriot",
+      "score": 0.105396
+    },
+    {
+      "word": "delphine",
+      "score": 0.097926
+    },
+    {
+      "word": "beauseant",
+      "score": 0.097767
+    },
+    {
+      "word": "victorine",
+      "score": 0.083803
+    },
+    {
+      "word": "couture",
+      "score": 0.083082
+    },
+    {
+      "word": "poiret",
+      "score": 0.082489
+    },
+    {
+      "word": "taillefer",
+      "score": 0.081102
+    },
+    {
+      "word": "vicomtesse",
+      "score": 0.0798
+    },
+    {
+      "word": "ajuda",
+      "score": 0.07838
+    },
+    {
+      "word": "mme",
+      "score": 0.076008
+    },
+    {
+      "word": "christophe",
+      "score": 0.072825
+    },
+    {
+      "word": "eugene",
+      "score": 0.070882
+    },
+    {
+      "word": "mlle",
+      "score": 0.065885
+    },
+    {
+      "word": "collin",
+      "score": 0.065518
+    },
+    {
+      "word": "maxime",
+      "score": 0.064305
+    },
+    {
+      "word": "marsay",
+      "score": 0.063801
+    },
+    {
+      "word": "langeais",
+      "score": 0.062614
+    },
+    {
+      "word": "therese",
+      "score": 0.060448
+    },
+    {
+      "word": "vermicelli",
+      "score": 0.059106
+    },
+    {
+      "word": "trompe",
+      "score": 0.057668
+    }
+  ]
+}

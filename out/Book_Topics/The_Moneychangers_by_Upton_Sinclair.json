@@ -1,0 +1,87 @@
+{
+  "book_title": "The Moneychangers by Upton Sinclair",
+  "genre": "NY-as-character",
+  "pkl_stem": "The_Moneychangers_by_Upton_Sinclair",
+  "top_keywords": [
+    {
+      "word": "montague",
+      "score": 0.129094
+    },
+    {
+      "word": "ryder",
+      "score": 0.116778
+    },
+    {
+      "word": "curtiss",
+      "score": 0.107789
+    },
+    {
+      "word": "waterman",
+      "score": 0.095456
+    },
+    {
+      "word": "bates",
+      "score": 0.089422
+    },
+    {
+      "word": "gotham",
+      "score": 0.088784
+    },
+    {
+      "word": "allis",
+      "score": 0.086184
+    },
+    {
+      "word": "lucy",
+      "score": 0.084543
+    },
+    {
+      "word": "rodney",
+      "score": 0.083943
+    },
+    {
+      "word": "stagg",
+      "score": 0.083561
+    },
+    {
+      "word": "reggie",
+      "score": 0.080363
+    },
+    {
+      "word": "ollie",
+      "score": 0.078962
+    },
+    {
+      "word": "wyman",
+      "score": 0.078934
+    },
+    {
+      "word": "haskins",
+      "score": 0.077519
+    },
+    {
+      "word": "allan",
+      "score": 0.075442
+    },
+    {
+      "word": "davenant",
+      "score": 0.073637
+    },
+    {
+      "word": "winnie",
+      "score": 0.072867
+    },
+    {
+      "word": "prentice",
+      "score": 0.072581
+    },
+    {
+      "word": "alden",
+      "score": 0.070028
+    },
+    {
+      "word": "landis",
+      "score": 0.06847
+    }
+  ]
+}

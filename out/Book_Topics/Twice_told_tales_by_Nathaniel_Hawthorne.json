@@ -1,0 +1,87 @@
+{
+  "book_title": "Twice-told tales by Nathaniel Hawthorne",
+  "genre": "Horror Tales",
+  "pkl_stem": "Twice_told_tales_by_Nathaniel_Hawthorne",
+  "top_keywords": [
+    {
+      "word": "eleanore",
+      "score": 0.060391
+    },
+    {
+      "word": "higginbotham",
+      "score": 0.060391
+    },
+    {
+      "word": "tabitha",
+      "score": 0.058002
+    },
+    {
+      "word": "dominicus",
+      "score": 0.057325
+    },
+    {
+      "word": "heidegger",
+      "score": 0.053255
+    },
+    {
+      "word": "hooper",
+      "score": 0.05066
+    },
+    {
+      "word": "elinor",
+      "score": 0.050518
+    },
+    {
+      "word": "endicott",
+      "score": 0.049083
+    },
+    {
+      "word": "pedler",
+      "score": 0.046287
+    },
+    {
+      "word": "maypole",
+      "score": 0.045864
+    },
+    {
+      "word": "carbuncle",
+      "score": 0.045052
+    },
+    {
+      "word": "lilias",
+      "score": 0.043585
+    },
+    {
+      "word": "wycherly",
+      "score": 0.041305
+    },
+    {
+      "word": "gascoigne",
+      "score": 0.039535
+    },
+    {
+      "word": "shute",
+      "score": 0.039363
+    },
+    {
+      "word": "pearson",
+      "score": 0.039135
+    },
+    {
+      "word": "wakefield",
+      "score": 0.038711
+    },
+    {
+      "word": "forrester",
+      "score": 0.038647
+    },
+    {
+      "word": "esther",
+      "score": 0.037067
+    },
+    {
+      "word": "killigrew",
+      "score": 0.036703
+    }
+  ]
+}

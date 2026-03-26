@@ -1,0 +1,87 @@
+{
+  "book_title": "The Jungle Book by Rudyard Kipling",
+  "genre": "Fairy Tales and Children's Literature",
+  "pkl_stem": "The_Jungle_Book_by_Rudyard_Kipling",
+  "top_keywords": [
+    {
+      "word": "baloo",
+      "score": 0.13256
+    },
+    {
+      "word": "shere",
+      "score": 0.129734
+    },
+    {
+      "word": "kaa",
+      "score": 0.120516
+    },
+    {
+      "word": "kala",
+      "score": 0.09805
+    },
+    {
+      "word": "petersen",
+      "score": 0.096454
+    },
+    {
+      "word": "holluschickie",
+      "score": 0.092339
+    },
+    {
+      "word": "mongoose",
+      "score": 0.09038
+    },
+    {
+      "word": "sahib",
+      "score": 0.086844
+    },
+    {
+      "word": "teddy",
+      "score": 0.086743
+    },
+    {
+      "word": "nag",
+      "score": 0.078017
+    },
+    {
+      "word": "khan",
+      "score": 0.075344
+    },
+    {
+      "word": "flippers",
+      "score": 0.071259
+    },
+    {
+      "word": "rann",
+      "score": 0.069506
+    },
+    {
+      "word": "rama",
+      "score": 0.067862
+    },
+    {
+      "word": "jungle",
+      "score": 0.066987
+    },
+    {
+      "word": "mahadeo",
+      "score": 0.066263
+    },
+    {
+      "word": "cub",
+      "score": 0.06594
+    },
+    {
+      "word": "amir",
+      "score": 0.064084
+    },
+    {
+      "word": "cubs",
+      "score": 0.06352
+    },
+    {
+      "word": "bullocks",
+      "score": 0.063041
+    }
+  ]
+}

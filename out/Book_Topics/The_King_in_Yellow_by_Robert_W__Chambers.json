@@ -1,0 +1,87 @@
+{
+  "book_title": "The King in Yellow by Robert W. Chambers",
+  "genre": "Horror Tales",
+  "pkl_stem": "The_King_in_Yellow_by_Robert_W__Chambers",
+  "top_keywords": [
+    {
+      "word": "clifford",
+      "score": 0.077304
+    },
+    {
+      "word": "genevi",
+      "score": 0.077209
+    },
+    {
+      "word": "boris",
+      "score": 0.076534
+    },
+    {
+      "word": "selby",
+      "score": 0.073131
+    },
+    {
+      "word": "cile",
+      "score": 0.071161
+    },
+    {
+      "word": "elliott",
+      "score": 0.06855
+    },
+    {
+      "word": "sylvia",
+      "score": 0.064956
+    },
+    {
+      "word": "wilde",
+      "score": 0.064798
+    },
+    {
+      "word": "castaigne",
+      "score": 0.063714
+    },
+    {
+      "word": "bladen",
+      "score": 0.062284
+    },
+    {
+      "word": "trent",
+      "score": 0.059735
+    },
+    {
+      "word": "barr",
+      "score": 0.059616
+    },
+    {
+      "word": "vance",
+      "score": 0.05859
+    },
+    {
+      "word": "hartman",
+      "score": 0.05767
+    },
+    {
+      "word": "hastings",
+      "score": 0.055276
+    },
+    {
+      "word": "concierge",
+      "score": 0.0536
+    },
+    {
+      "word": "jacqueline",
+      "score": 0.052449
+    },
+    {
+      "word": "susie",
+      "score": 0.052371
+    },
+    {
+      "word": "falconers",
+      "score": 0.050851
+    },
+    {
+      "word": "jeanne",
+      "score": 0.050388
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "My Life and Work by Henry Ford and Samuel Crowther",
+  "genre": "Biographies and Autobiographies",
+  "pkl_stem": "My_Life_and_Work_by_Henry_Ford_and_Samuel_Crowther",
+  "top_keywords": [
+    {
+      "word": "tractor",
+      "score": 0.078666
+    },
+    {
+      "word": "tractors",
+      "score": 0.06937
+    },
+    {
+      "word": "vanadium",
+      "score": 0.068129
+    },
+    {
+      "word": "chassis",
+      "score": 0.067284
+    },
+    {
+      "word": "sorensen",
+      "score": 0.064029
+    },
+    {
+      "word": "ironton",
+      "score": 0.060679
+    },
+    {
+      "word": "dearborn",
+      "score": 0.056428
+    },
+    {
+      "word": "horsepower",
+      "score": 0.055161
+    },
+    {
+      "word": "detroit",
+      "score": 0.054852
+    },
+    {
+      "word": "repetitive",
+      "score": 0.053919
+    },
+    {
+      "word": "automobile",
+      "score": 0.052439
+    },
+    {
+      "word": "turnover",
+      "score": 0.052421
+    },
+    {
+      "word": "burroughs",
+      "score": 0.048567
+    },
+    {
+      "word": "edison",
+      "score": 0.047578
+    },
+    {
+      "word": "piquette",
+      "score": 0.045689
+    },
+    {
+      "word": "gasoline",
+      "score": 0.045087
+    },
+    {
+      "word": "ford",
+      "score": 0.044707
+    },
+    {
+      "word": "workingman",
+      "score": 0.043664
+    },
+    {
+      "word": "overproduction",
+      "score": 0.043474
+    },
+    {
+      "word": "seasonal",
+      "score": 0.04329
+    }
+  ]
+}

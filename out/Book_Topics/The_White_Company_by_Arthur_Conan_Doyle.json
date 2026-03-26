@@ -1,0 +1,87 @@
+{
+  "book_title": "The White Company by Arthur Conan Doyle",
+  "genre": "War and Strategy",
+  "pkl_stem": "The_White_Company_by_Arthur_Conan_Doyle",
+  "top_keywords": [
+    {
+      "word": "alleyne",
+      "score": 0.086337
+    },
+    {
+      "word": "nigel",
+      "score": 0.07681
+    },
+    {
+      "word": "tiphaine",
+      "score": 0.054873
+    },
+    {
+      "word": "loring",
+      "score": 0.054393
+    },
+    {
+      "word": "guesclin",
+      "score": 0.052782
+    },
+    {
+      "word": "shipman",
+      "score": 0.052495
+    },
+    {
+      "word": "chandos",
+      "score": 0.05117
+    },
+    {
+      "word": "villefranche",
+      "score": 0.048428
+    },
+    {
+      "word": "camarade",
+      "score": 0.047843
+    },
+    {
+      "word": "samkin",
+      "score": 0.0474
+    },
+    {
+      "word": "norbury",
+      "score": 0.0474
+    },
+    {
+      "word": "beaulieu",
+      "score": 0.047064
+    },
+    {
+      "word": "felton",
+      "score": 0.047002
+    },
+    {
+      "word": "dax",
+      "score": 0.045897
+    },
+    {
+      "word": "christchurch",
+      "score": 0.045225
+    },
+    {
+      "word": "bowman",
+      "score": 0.044986
+    },
+    {
+      "word": "burley",
+      "score": 0.044399
+    },
+    {
+      "word": "hola",
+      "score": 0.043251
+    },
+    {
+      "word": "tita",
+      "score": 0.0427
+    },
+    {
+      "word": "gleeman",
+      "score": 0.042693
+    }
+  ]
+}

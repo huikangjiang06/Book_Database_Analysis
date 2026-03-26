@@ -1,0 +1,87 @@
+{
+  "book_title": "The Sayings of Confucius by Confucius",
+  "genre": "Political Philosophy and Ethics",
+  "pkl_stem": "The_Sayings_of_Confucius_by_Confucius",
+  "top_keywords": [
+    {
+      "word": "tzu",
+      "score": 0.157908
+    },
+    {
+      "word": "kung",
+      "score": 0.129238
+    },
+    {
+      "word": "meng",
+      "score": 0.126473
+    },
+    {
+      "word": "tseng",
+      "score": 0.119315
+    },
+    {
+      "word": "hsia",
+      "score": 0.118856
+    },
+    {
+      "word": "chou",
+      "score": 0.115115
+    },
+    {
+      "word": "chung",
+      "score": 0.110521
+    },
+    {
+      "word": "huan",
+      "score": 0.108657
+    },
+    {
+      "word": "wei",
+      "score": 0.103762
+    },
+    {
+      "word": "confucius",
+      "score": 0.103172
+    },
+    {
+      "word": "yen",
+      "score": 0.098697
+    },
+    {
+      "word": "hsi",
+      "score": 0.097983
+    },
+    {
+      "word": "kuan",
+      "score": 0.097035
+    },
+    {
+      "word": "yao",
+      "score": 0.094688
+    },
+    {
+      "word": "yin",
+      "score": 0.093649
+    },
+    {
+      "word": "ang",
+      "score": 0.093377
+    },
+    {
+      "word": "chuan",
+      "score": 0.092556
+    },
+    {
+      "word": "chi",
+      "score": 0.092535
+    },
+    {
+      "word": "shu",
+      "score": 0.091279
+    },
+    {
+      "word": "hua",
+      "score": 0.090833
+    }
+  ]
+}

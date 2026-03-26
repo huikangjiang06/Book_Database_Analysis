@@ -1,0 +1,87 @@
+{
+  "book_title": "The Mill on the Floss by George Eliot",
+  "genre": "Romance",
+  "pkl_stem": "The_Mill_on_the_Floss_by_George_Eliot",
+  "top_keywords": [
+    {
+      "word": "tulliver",
+      "score": 0.096429
+    },
+    {
+      "word": "maggie",
+      "score": 0.078463
+    },
+    {
+      "word": "deane",
+      "score": 0.068022
+    },
+    {
+      "word": "bessy",
+      "score": 0.063752
+    },
+    {
+      "word": "pullet",
+      "score": 0.062442
+    },
+    {
+      "word": "dodson",
+      "score": 0.056893
+    },
+    {
+      "word": "lucy",
+      "score": 0.052425
+    },
+    {
+      "word": "lors",
+      "score": 0.052256
+    },
+    {
+      "word": "minny",
+      "score": 0.050516
+    },
+    {
+      "word": "allays",
+      "score": 0.05043
+    },
+    {
+      "word": "jakin",
+      "score": 0.048914
+    },
+    {
+      "word": "riley",
+      "score": 0.047941
+    },
+    {
+      "word": "ull",
+      "score": 0.046763
+    },
+    {
+      "word": "mumps",
+      "score": 0.046202
+    },
+    {
+      "word": "packman",
+      "score": 0.04375
+    },
+    {
+      "word": "niver",
+      "score": 0.043703
+    },
+    {
+      "word": "gell",
+      "score": 0.043207
+    },
+    {
+      "word": "basset",
+      "score": 0.042739
+    },
+    {
+      "word": "stephen",
+      "score": 0.042376
+    },
+    {
+      "word": "turnbull",
+      "score": 0.041979
+    }
+  ]
+}

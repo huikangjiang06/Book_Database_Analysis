@@ -1,0 +1,87 @@
+{
+  "book_title": "Personal Memoirs of U. S. Grant, Complete by Ulysses S. Grant",
+  "genre": "War and Strategy",
+  "pkl_stem": "Personal_Memoirs_of_U__S__Grant__Complete_by_Ulysses_S__Grant",
+  "top_keywords": [
+    {
+      "word": "mcclernand",
+      "score": 0.067571
+    },
+    {
+      "word": "burnside",
+      "score": 0.063573
+    },
+    {
+      "word": "buell",
+      "score": 0.06269
+    },
+    {
+      "word": "mcpherson",
+      "score": 0.060071
+    },
+    {
+      "word": "vicksburg",
+      "score": 0.058991
+    },
+    {
+      "word": "chattanooga",
+      "score": 0.058469
+    },
+    {
+      "word": "bragg",
+      "score": 0.057927
+    },
+    {
+      "word": "spottsylvania",
+      "score": 0.05581
+    },
+    {
+      "word": "rosecrans",
+      "score": 0.054974
+    },
+    {
+      "word": "pemberton",
+      "score": 0.054973
+    },
+    {
+      "word": "longstreet",
+      "score": 0.054197
+    },
+    {
+      "word": "donelson",
+      "score": 0.053542
+    },
+    {
+      "word": "yazoo",
+      "score": 0.053514
+    },
+    {
+      "word": "sherman",
+      "score": 0.05319
+    },
+    {
+      "word": "hancock",
+      "score": 0.053181
+    },
+    {
+      "word": "hovey",
+      "score": 0.052498
+    },
+    {
+      "word": "hurlbut",
+      "score": 0.052168
+    },
+    {
+      "word": "nashville",
+      "score": 0.051813
+    },
+    {
+      "word": "osterhaus",
+      "score": 0.051687
+    },
+    {
+      "word": "knoxville",
+      "score": 0.051467
+    }
+  ]
+}

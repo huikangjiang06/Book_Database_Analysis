@@ -1,0 +1,87 @@
+{
+  "book_title": "The call of Cthulhu by H. P. Lovecraft",
+  "genre": "Horror Tales",
+  "pkl_stem": "The_call_of_Cthulhu_by_H__P__Lovecraft",
+  "top_keywords": [
+    {
+      "word": "cthulhu",
+      "score": 0.155585
+    },
+    {
+      "word": "johansen",
+      "score": 0.154018
+    },
+    {
+      "word": "wilcox",
+      "score": 0.123805
+    },
+    {
+      "word": "angell",
+      "score": 0.123699
+    },
+    {
+      "word": "castro",
+      "score": 0.098686
+    },
+    {
+      "word": "cult",
+      "score": 0.094293
+    },
+    {
+      "word": "monolith",
+      "score": 0.082726
+    },
+    {
+      "word": "webb",
+      "score": 0.079408
+    },
+    {
+      "word": "cyclopean",
+      "score": 0.076463
+    },
+    {
+      "word": "emma",
+      "score": 0.073746
+    },
+    {
+      "word": "squatters",
+      "score": 0.073453
+    },
+    {
+      "word": "waterfront",
+      "score": 0.070711
+    },
+    {
+      "word": "bas",
+      "score": 0.069569
+    },
+    {
+      "word": "worshipers",
+      "score": 0.068553
+    },
+    {
+      "word": "cuttings",
+      "score": 0.067392
+    },
+    {
+      "word": "sydney",
+      "score": 0.064939
+    },
+    {
+      "word": "affiliations",
+      "score": 0.064776
+    },
+    {
+      "word": "donovan",
+      "score": 0.063416
+    },
+    {
+      "word": "eskimos",
+      "score": 0.063416
+    },
+    {
+      "word": "statuette",
+      "score": 0.062691
+    }
+  ]
+}

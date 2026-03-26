@@ -1,0 +1,87 @@
+{
+  "book_title": "Leviathan by Thomas Hobbes",
+  "genre": "Political Philosophy and Ethics",
+  "pkl_stem": "Leviathan_by_Thomas_Hobbes",
+  "top_keywords": [
+    {
+      "word": "soveraign",
+      "score": 0.083299
+    },
+    {
+      "word": "kingdome",
+      "score": 0.076469
+    },
+    {
+      "word": "naturall",
+      "score": 0.07364
+    },
+    {
+      "word": "lawes",
+      "score": 0.072489
+    },
+    {
+      "word": "himselfe",
+      "score": 0.070178
+    },
+    {
+      "word": "onely",
+      "score": 0.069448
+    },
+    {
+      "word": "wealths",
+      "score": 0.061679
+    },
+    {
+      "word": "beleeve",
+      "score": 0.061547
+    },
+    {
+      "word": "lawfull",
+      "score": 0.060171
+    },
+    {
+      "word": "warre",
+      "score": 0.060156
+    },
+    {
+      "word": "counsell",
+      "score": 0.058849
+    },
+    {
+      "word": "evill",
+      "score": 0.057811
+    },
+    {
+      "word": "soveraigne",
+      "score": 0.057797
+    },
+    {
+      "word": "feare",
+      "score": 0.05736
+    },
+    {
+      "word": "unlesse",
+      "score": 0.05735
+    },
+    {
+      "word": "signes",
+      "score": 0.057169
+    },
+    {
+      "word": "eternall",
+      "score": 0.057157
+    },
+    {
+      "word": "spirituall",
+      "score": 0.056885
+    },
+    {
+      "word": "generall",
+      "score": 0.056088
+    },
+    {
+      "word": "selfe",
+      "score": 0.055749
+    }
+  ]
+}

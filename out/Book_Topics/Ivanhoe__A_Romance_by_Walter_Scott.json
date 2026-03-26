@@ -1,0 +1,87 @@
+{
+  "book_title": "Ivanhoe: A Romance by Walter Scott",
+  "genre": "Romance",
+  "pkl_stem": "Ivanhoe__A_Romance_by_Walter_Scott",
+  "top_keywords": [
+    {
+      "word": "cedric",
+      "score": 0.072925
+    },
+    {
+      "word": "guilbert",
+      "score": 0.069076
+    },
+    {
+      "word": "bracy",
+      "score": 0.067838
+    },
+    {
+      "word": "athelstane",
+      "score": 0.065453
+    },
+    {
+      "word": "wamba",
+      "score": 0.062948
+    },
+    {
+      "word": "rowena",
+      "score": 0.062762
+    },
+    {
+      "word": "templar",
+      "score": 0.06066
+    },
+    {
+      "word": "fitzurse",
+      "score": 0.057682
+    },
+    {
+      "word": "ivanhoe",
+      "score": 0.055738
+    },
+    {
+      "word": "aymer",
+      "score": 0.053656
+    },
+    {
+      "word": "waldemar",
+      "score": 0.051281
+    },
+    {
+      "word": "beaumanoir",
+      "score": 0.050888
+    },
+    {
+      "word": "locksley",
+      "score": 0.049154
+    },
+    {
+      "word": "brian",
+      "score": 0.047801
+    },
+    {
+      "word": "rebecca",
+      "score": 0.047305
+    },
+    {
+      "word": "wilfred",
+      "score": 0.04728
+    },
+    {
+      "word": "ashby",
+      "score": 0.045854
+    },
+    {
+      "word": "challengers",
+      "score": 0.043725
+    },
+    {
+      "word": "dunstan",
+      "score": 0.041289
+    },
+    {
+      "word": "jewess",
+      "score": 0.040215
+    }
+  ]
+}

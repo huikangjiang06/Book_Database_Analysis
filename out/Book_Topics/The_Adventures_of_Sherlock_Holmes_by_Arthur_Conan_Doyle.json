@@ -1,0 +1,87 @@
+{
+  "book_title": "The Adventures of Sherlock Holmes by Arthur Conan Doyle",
+  "genre": "Detective and Mystery Stories",
+  "pkl_stem": "The_Adventures_of_Sherlock_Holmes_by_Arthur_Conan_Doyle",
+  "top_keywords": [
+    {
+      "word": "lestrade",
+      "score": 0.08048
+    },
+    {
+      "word": "holmes",
+      "score": 0.07238
+    },
+    {
+      "word": "mccarthy",
+      "score": 0.070504
+    },
+    {
+      "word": "sherlock",
+      "score": 0.067012
+    },
+    {
+      "word": "hosmer",
+      "score": 0.063235
+    },
+    {
+      "word": "neville",
+      "score": 0.060313
+    },
+    {
+      "word": "adler",
+      "score": 0.059185
+    },
+    {
+      "word": "briony",
+      "score": 0.058967
+    },
+    {
+      "word": "doran",
+      "score": 0.058162
+    },
+    {
+      "word": "moran",
+      "score": 0.054511
+    },
+    {
+      "word": "clair",
+      "score": 0.05397
+    },
+    {
+      "word": "watson",
+      "score": 0.053716
+    },
+    {
+      "word": "horsham",
+      "score": 0.053327
+    },
+    {
+      "word": "ryder",
+      "score": 0.053287
+    },
+    {
+      "word": "stepfather",
+      "score": 0.052081
+    },
+    {
+      "word": "bradstreet",
+      "score": 0.052065
+    },
+    {
+      "word": "pips",
+      "score": 0.052065
+    },
+    {
+      "word": "irene",
+      "score": 0.051441
+    },
+    {
+      "word": "sutherland",
+      "score": 0.050765
+    },
+    {
+      "word": "jabez",
+      "score": 0.050159
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "Sense and Sensibility by Jane Austen",
+  "genre": "Romance",
+  "pkl_stem": "Sense_and_Sensibility_by_Jane_Austen",
+  "top_keywords": [
+    {
+      "word": "marianne",
+      "score": 0.130494
+    },
+    {
+      "word": "elinor",
+      "score": 0.129484
+    },
+    {
+      "word": "dashwood",
+      "score": 0.120726
+    },
+    {
+      "word": "ferrars",
+      "score": 0.104336
+    },
+    {
+      "word": "willoughby",
+      "score": 0.099351
+    },
+    {
+      "word": "brandon",
+      "score": 0.091228
+    },
+    {
+      "word": "jennings",
+      "score": 0.084513
+    },
+    {
+      "word": "middleton",
+      "score": 0.080425
+    },
+    {
+      "word": "lucy",
+      "score": 0.06965
+    },
+    {
+      "word": "barton",
+      "score": 0.068902
+    },
+    {
+      "word": "palmer",
+      "score": 0.064659
+    },
+    {
+      "word": "steele",
+      "score": 0.064467
+    },
+    {
+      "word": "combe",
+      "score": 0.057651
+    },
+    {
+      "word": "fanny",
+      "score": 0.056124
+    },
+    {
+      "word": "harley",
+      "score": 0.055652
+    },
+    {
+      "word": "palmers",
+      "score": 0.055202
+    },
+    {
+      "word": "whitwell",
+      "score": 0.054165
+    },
+    {
+      "word": "dawlish",
+      "score": 0.050628
+    },
+    {
+      "word": "mama",
+      "score": 0.049291
+    },
+    {
+      "word": "devonshire",
+      "score": 0.04906
+    }
+  ]
+}

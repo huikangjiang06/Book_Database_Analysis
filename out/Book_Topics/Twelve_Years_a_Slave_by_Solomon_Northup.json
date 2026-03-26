@@ -1,0 +1,87 @@
+{
+  "book_title": "Twelve Years a Slave by Solomon Northup",
+  "genre": "Biographies and Autobiographies",
+  "pkl_stem": "Twelve_Years_a_Slave_by_Solomon_Northup",
+  "top_keywords": [
+    {
+      "word": "epps",
+      "score": 0.11144
+    },
+    {
+      "word": "burch",
+      "score": 0.093208
+    },
+    {
+      "word": "bayou",
+      "score": 0.088226
+    },
+    {
+      "word": "patsey",
+      "score": 0.085752
+    },
+    {
+      "word": "marksville",
+      "score": 0.084965
+    },
+    {
+      "word": "boeuf",
+      "score": 0.079187
+    },
+    {
+      "word": "platt",
+      "score": 0.07853
+    },
+    {
+      "word": "chapin",
+      "score": 0.076112
+    },
+    {
+      "word": "phebe",
+      "score": 0.068673
+    },
+    {
+      "word": "deponent",
+      "score": 0.068245
+    },
+    {
+      "word": "abram",
+      "score": 0.063345
+    },
+    {
+      "word": "wiley",
+      "score": 0.062917
+    },
+    {
+      "word": "memorialist",
+      "score": 0.059267
+    },
+    {
+      "word": "saratoga",
+      "score": 0.054184
+    },
+    {
+      "word": "eliza",
+      "score": 0.053671
+    },
+    {
+      "word": "randall",
+      "score": 0.051949
+    },
+    {
+      "word": "cheney",
+      "score": 0.051111
+    },
+    {
+      "word": "clem",
+      "score": 0.049994
+    },
+    {
+      "word": "theophilus",
+      "score": 0.049766
+    },
+    {
+      "word": "lawson",
+      "score": 0.049091
+    }
+  ]
+}

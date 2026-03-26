@@ -1,0 +1,87 @@
+{
+  "book_title": "The Phantom of the Opera by Gaston Leroux",
+  "genre": "Horror Tales",
+  "pkl_stem": "The_Phantom_of_the_Opera_by_Gaston_Leroux",
+  "top_keywords": [
+    {
+      "word": "erik",
+      "score": 0.133234
+    },
+    {
+      "word": "christine",
+      "score": 0.106433
+    },
+    {
+      "word": "raoul",
+      "score": 0.103651
+    },
+    {
+      "word": "carlotta",
+      "score": 0.101739
+    },
+    {
+      "word": "daroga",
+      "score": 0.099758
+    },
+    {
+      "word": "perros",
+      "score": 0.085532
+    },
+    {
+      "word": "mercier",
+      "score": 0.083376
+    },
+    {
+      "word": "firmin",
+      "score": 0.07817
+    },
+    {
+      "word": "margarita",
+      "score": 0.072711
+    },
+    {
+      "word": "foyer",
+      "score": 0.07209
+    },
+    {
+      "word": "mme",
+      "score": 0.070131
+    },
+    {
+      "word": "ack",
+      "score": 0.069293
+    },
+    {
+      "word": "remy",
+      "score": 0.068421
+    },
+    {
+      "word": "valerius",
+      "score": 0.068139
+    },
+    {
+      "word": "vicomte",
+      "score": 0.067896
+    },
+    {
+      "word": "guggle",
+      "score": 0.0652
+    },
+    {
+      "word": "meg",
+      "score": 0.063119
+    },
+    {
+      "word": "viscount",
+      "score": 0.059736
+    },
+    {
+      "word": "philippe",
+      "score": 0.059039
+    },
+    {
+      "word": "lahore",
+      "score": 0.058022
+    }
+  ]
+}

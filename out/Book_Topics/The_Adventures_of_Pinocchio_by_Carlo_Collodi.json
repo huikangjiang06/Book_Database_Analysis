@@ -1,0 +1,87 @@
+{
+  "book_title": "The Adventures of Pinocchio by Carlo Collodi",
+  "genre": "Fairy Tales and Children's Literature",
+  "pkl_stem": "The_Adventures_of_Pinocchio_by_Carlo_Collodi",
+  "top_keywords": [
+    {
+      "word": "marionette",
+      "score": 0.161397
+    },
+    {
+      "word": "tunny",
+      "score": 0.095191
+    },
+    {
+      "word": "alidoro",
+      "score": 0.093404
+    },
+    {
+      "word": "marionettes",
+      "score": 0.082673
+    },
+    {
+      "word": "carabineers",
+      "score": 0.078488
+    },
+    {
+      "word": "dormouse",
+      "score": 0.078402
+    },
+    {
+      "word": "wick",
+      "score": 0.076598
+    },
+    {
+      "word": "shark",
+      "score": 0.075251
+    },
+    {
+      "word": "donkey",
+      "score": 0.074013
+    },
+    {
+      "word": "weasels",
+      "score": 0.073568
+    },
+    {
+      "word": "cricket",
+      "score": 0.072633
+    },
+    {
+      "word": "cri",
+      "score": 0.072622
+    },
+    {
+      "word": "harlequin",
+      "score": 0.072438
+    },
+    {
+      "word": "pulcinella",
+      "score": 0.072103
+    },
+    {
+      "word": "zum",
+      "score": 0.071953
+    },
+    {
+      "word": "watchdog",
+      "score": 0.071018
+    },
+    {
+      "word": "signori",
+      "score": 0.069472
+    },
+    {
+      "word": "donkeys",
+      "score": 0.067188
+    },
+    {
+      "word": "drumhead",
+      "score": 0.066454
+    },
+    {
+      "word": "assassins",
+      "score": 0.066084
+    }
+  ]
+}

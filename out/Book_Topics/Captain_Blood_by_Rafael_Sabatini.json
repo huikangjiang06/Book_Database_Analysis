@@ -1,0 +1,87 @@
+{
+  "book_title": "Captain Blood by Rafael Sabatini",
+  "genre": "Adventure",
+  "pkl_stem": "Captain_Blood_by_Rafael_Sabatini",
+  "top_keywords": [
+    {
+      "word": "levasseur",
+      "score": 0.077757
+    },
+    {
+      "word": "rivarol",
+      "score": 0.075113
+    },
+    {
+      "word": "cahusac",
+      "score": 0.074489
+    },
+    {
+      "word": "cussy",
+      "score": 0.072763
+    },
+    {
+      "word": "arabella",
+      "score": 0.070084
+    },
+    {
+      "word": "barbados",
+      "score": 0.063314
+    },
+    {
+      "word": "cinco",
+      "score": 0.060643
+    },
+    {
+      "word": "espinosa",
+      "score": 0.058816
+    },
+    {
+      "word": "nuttall",
+      "score": 0.057764
+    },
+    {
+      "word": "bridgetown",
+      "score": 0.057629
+    },
+    {
+      "word": "miguel",
+      "score": 0.056926
+    },
+    {
+      "word": "esteban",
+      "score": 0.056723
+    },
+    {
+      "word": "milagrosa",
+      "score": 0.054928
+    },
+    {
+      "word": "buccaneers",
+      "score": 0.054827
+    },
+    {
+      "word": "bridgewater",
+      "score": 0.05432
+    },
+    {
+      "word": "cartagena",
+      "score": 0.053489
+    },
+    {
+      "word": "buccaneer",
+      "score": 0.053088
+    },
+    {
+      "word": "foudre",
+      "score": 0.052808
+    },
+    {
+      "word": "ogle",
+      "score": 0.051932
+    },
+    {
+      "word": "diego",
+      "score": 0.051821
+    }
+  ]
+}

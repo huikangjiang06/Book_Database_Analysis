@@ -1,0 +1,87 @@
+{
+  "book_title": "The War of the Worlds by H. G. Wells",
+  "genre": "Science Fiction",
+  "pkl_stem": "The_War_of_the_Worlds_by_H__G__Wells",
+  "top_keywords": [
+    {
+      "word": "martians",
+      "score": 0.107058
+    },
+    {
+      "word": "woking",
+      "score": 0.093208
+    },
+    {
+      "word": "martian",
+      "score": 0.089883
+    },
+    {
+      "word": "ulla",
+      "score": 0.081555
+    },
+    {
+      "word": "weybridge",
+      "score": 0.081555
+    },
+    {
+      "word": "leatherhead",
+      "score": 0.078932
+    },
+    {
+      "word": "ogilvy",
+      "score": 0.077015
+    },
+    {
+      "word": "artilleryman",
+      "score": 0.076498
+    },
+    {
+      "word": "chertsey",
+      "score": 0.070434
+    },
+    {
+      "word": "shepperton",
+      "score": 0.068506
+    },
+    {
+      "word": "londonward",
+      "score": 0.067123
+    },
+    {
+      "word": "stent",
+      "score": 0.063158
+    },
+    {
+      "word": "edgware",
+      "score": 0.060189
+    },
+    {
+      "word": "elphinstone",
+      "score": 0.057885
+    },
+    {
+      "word": "halliford",
+      "score": 0.057885
+    },
+    {
+      "word": "barnet",
+      "score": 0.056205
+    },
+    {
+      "word": "sunbury",
+      "score": 0.055458
+    },
+    {
+      "word": "putney",
+      "score": 0.052976
+    },
+    {
+      "word": "cylinder",
+      "score": 0.051125
+    },
+    {
+      "word": "scullery",
+      "score": 0.048593
+    }
+  ]
+}

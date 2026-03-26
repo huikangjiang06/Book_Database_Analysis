@@ -1,0 +1,87 @@
+{
+  "book_title": "The Cruise of the Snark",
+  "genre": "Adventure",
+  "pkl_stem": "The_Cruise_of_the_Snark",
+  "top_keywords": [
+    {
+      "word": "snark",
+      "score": 0.10633
+    },
+    {
+      "word": "fella",
+      "score": 0.069312
+    },
+    {
+      "word": "wada",
+      "score": 0.068772
+    },
+    {
+      "word": "typee",
+      "score": 0.063652
+    },
+    {
+      "word": "yaws",
+      "score": 0.06191
+    },
+    {
+      "word": "honolulu",
+      "score": 0.061695
+    },
+    {
+      "word": "roscoe",
+      "score": 0.059647
+    },
+    {
+      "word": "jansen",
+      "score": 0.058387
+    },
+    {
+      "word": "solomons",
+      "score": 0.058134
+    },
+    {
+      "word": "maui",
+      "score": 0.057577
+    },
+    {
+      "word": "marquesas",
+      "score": 0.057223
+    },
+    {
+      "word": "langa",
+      "score": 0.056285
+    },
+    {
+      "word": "bushmen",
+      "score": 0.056084
+    },
+    {
+      "word": "lepers",
+      "score": 0.055582
+    },
+    {
+      "word": "sublimate",
+      "score": 0.054896
+    },
+    {
+      "word": "marster",
+      "score": 0.054879
+    },
+    {
+      "word": "easting",
+      "score": 0.05487
+    },
+    {
+      "word": "gasolene",
+      "score": 0.05487
+    },
+    {
+      "word": "hawaiian",
+      "score": 0.052189
+    },
+    {
+      "word": "hawaii",
+      "score": 0.050982
+    }
+  ]
+}

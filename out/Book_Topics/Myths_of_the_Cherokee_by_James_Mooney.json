@@ -1,0 +1,87 @@
+{
+  "book_title": "Myths of the Cherokee by James Mooney",
+  "genre": "Mythology",
+  "pkl_stem": "Myths_of_the_Cherokee_by_James_Mooney",
+  "top_keywords": [
+    {
+      "word": "cherokee",
+      "score": 0.074364
+    },
+    {
+      "word": "echota",
+      "score": 0.062718
+    },
+    {
+      "word": "coosa",
+      "score": 0.056571
+    },
+    {
+      "word": "catawba",
+      "score": 0.055052
+    },
+    {
+      "word": "holston",
+      "score": 0.05371
+    },
+    {
+      "word": "ani",
+      "score": 0.051508
+    },
+    {
+      "word": "tsi",
+      "score": 0.051431
+    },
+    {
+      "word": "tellico",
+      "score": 0.050493
+    },
+    {
+      "word": "kana",
+      "score": 0.050273
+    },
+    {
+      "word": "delawares",
+      "score": 0.049571
+    },
+    {
+      "word": "sevier",
+      "score": 0.049475
+    },
+    {
+      "word": "ranjel",
+      "score": 0.049441
+    },
+    {
+      "word": "garcilaso",
+      "score": 0.049117
+    },
+    {
+      "word": "osage",
+      "score": 0.048879
+    },
+    {
+      "word": "chickasaw",
+      "score": 0.048184
+    },
+    {
+      "word": "chattahoochee",
+      "score": 0.047984
+    },
+    {
+      "word": "schoolcraft",
+      "score": 0.047628
+    },
+    {
+      "word": "chickamauga",
+      "score": 0.047061
+    },
+    {
+      "word": "haywood",
+      "score": 0.047016
+    },
+    {
+      "word": "choctaw",
+      "score": 0.046729
+    }
+  ]
+}

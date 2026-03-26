@@ -1,0 +1,87 @@
+{
+  "book_title": "The Green Rust by Edgar Wallace",
+  "genre": "Detective and Mystery Stories",
+  "pkl_stem": "The_Green_Rust_by_Edgar_Wallace",
+  "top_keywords": [
+    {
+      "word": "beale",
+      "score": 0.111069
+    },
+    {
+      "word": "milsom",
+      "score": 0.102187
+    },
+    {
+      "word": "oliva",
+      "score": 0.095619
+    },
+    {
+      "word": "stanford",
+      "score": 0.066804
+    },
+    {
+      "word": "hilda",
+      "score": 0.065981
+    },
+    {
+      "word": "homo",
+      "score": 0.062416
+    },
+    {
+      "word": "peale",
+      "score": 0.0605
+    },
+    {
+      "word": "deans",
+      "score": 0.057992
+    },
+    {
+      "word": "staines",
+      "score": 0.053611
+    },
+    {
+      "word": "cracow",
+      "score": 0.0491
+    },
+    {
+      "word": "detective",
+      "score": 0.047203
+    },
+    {
+      "word": "herr",
+      "score": 0.046379
+    },
+    {
+      "word": "syndicate",
+      "score": 0.044773
+    },
+    {
+      "word": "van",
+      "score": 0.044177
+    },
+    {
+      "word": "fiancee",
+      "score": 0.043507
+    },
+    {
+      "word": "gunman",
+      "score": 0.042873
+    },
+    {
+      "word": "parson",
+      "score": 0.042097
+    },
+    {
+      "word": "horsham",
+      "score": 0.042015
+    },
+    {
+      "word": "paddington",
+      "score": 0.041698
+    },
+    {
+      "word": "jackson",
+      "score": 0.040537
+    }
+  ]
+}

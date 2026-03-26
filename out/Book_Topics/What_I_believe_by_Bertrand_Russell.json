@@ -1,0 +1,87 @@
+{
+  "book_title": "What I believe by Bertrand Russell",
+  "genre": "Metaphysics and Epistemology",
+  "pkl_stem": "What_I_believe_by_Bertrand_Russell",
+  "top_keywords": [
+    {
+      "word": "protons",
+      "score": 0.1091
+    },
+    {
+      "word": "electrons",
+      "score": 0.091609
+    },
+    {
+      "word": "venereal",
+      "score": 0.08763
+    },
+    {
+      "word": "aztecs",
+      "score": 0.072951
+    },
+    {
+      "word": "icarus",
+      "score": 0.071789
+    },
+    {
+      "word": "sexual",
+      "score": 0.071055
+    },
+    {
+      "word": "psychical",
+      "score": 0.069918
+    },
+    {
+      "word": "bertrand",
+      "score": 0.067848
+    },
+    {
+      "word": "physiological",
+      "score": 0.067727
+    },
+    {
+      "word": "bolsheviks",
+      "score": 0.066689
+    },
+    {
+      "word": "malevolence",
+      "score": 0.066066
+    },
+    {
+      "word": "divines",
+      "score": 0.064299
+    },
+    {
+      "word": "benevolence",
+      "score": 0.063368
+    },
+    {
+      "word": "moralist",
+      "score": 0.06223
+    },
+    {
+      "word": "tze",
+      "score": 0.062176
+    },
+    {
+      "word": "lao",
+      "score": 0.062176
+    },
+    {
+      "word": "harmful",
+      "score": 0.061885
+    },
+    {
+      "word": "ethical",
+      "score": 0.061276
+    },
+    {
+      "word": "nationalism",
+      "score": 0.057919
+    },
+    {
+      "word": "unscientific",
+      "score": 0.057874
+    }
+  ]
+}

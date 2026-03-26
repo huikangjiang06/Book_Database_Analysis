@@ -1,0 +1,87 @@
+{
+  "book_title": "The Turn of the Screw by Henry James",
+  "genre": "Horror Tales",
+  "pkl_stem": "The_Turn_of_the_Screw_by_Henry_James",
+  "top_keywords": [
+    {
+      "word": "grose",
+      "score": 0.160667
+    },
+    {
+      "word": "jessel",
+      "score": 0.131108
+    },
+    {
+      "word": "quint",
+      "score": 0.124104
+    },
+    {
+      "word": "bly",
+      "score": 0.117362
+    },
+    {
+      "word": "flora",
+      "score": 0.08452
+    },
+    {
+      "word": "nonetheless",
+      "score": 0.077078
+    },
+    {
+      "word": "schoolroom",
+      "score": 0.071864
+    },
+    {
+      "word": "harley",
+      "score": 0.068026
+    },
+    {
+      "word": "douglas",
+      "score": 0.057875
+    },
+    {
+      "word": "governess",
+      "score": 0.056695
+    },
+    {
+      "word": "certitude",
+      "score": 0.056292
+    },
+    {
+      "word": "visitant",
+      "score": 0.054078
+    },
+    {
+      "word": "mrs",
+      "score": 0.049402
+    },
+    {
+      "word": "grossness",
+      "score": 0.04901
+    },
+    {
+      "word": "griffin",
+      "score": 0.048555
+    },
+    {
+      "word": "colleague",
+      "score": 0.046809
+    },
+    {
+      "word": "headmaster",
+      "score": 0.044518
+    },
+    {
+      "word": "pupils",
+      "score": 0.043251
+    },
+    {
+      "word": "luke",
+      "score": 0.042081
+    },
+    {
+      "word": "evocation",
+      "score": 0.041966
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "book_title": "On Liberty by John Stuart Mill",
+  "genre": "Political Philosophy and Ethics",
+  "pkl_stem": "On_Liberty_by_John_Stuart_Mill",
+  "top_keywords": [
+    {
+      "word": "bureaucracy",
+      "score": 0.061572
+    },
+    {
+      "word": "humboldt",
+      "score": 0.04744
+    },
+    {
+      "word": "infallibility",
+      "score": 0.043807
+    },
+    {
+      "word": "interferences",
+      "score": 0.041832
+    },
+    {
+      "word": "infringements",
+      "score": 0.041287
+    },
+    {
+      "word": "aurelius",
+      "score": 0.041227
+    },
+    {
+      "word": "individuality",
+      "score": 0.040989
+    },
+    {
+      "word": "parsees",
+      "score": 0.04034
+    },
+    {
+      "word": "carlyle",
+      "score": 0.040219
+    },
+    {
+      "word": "wilhelm",
+      "score": 0.040102
+    },
+    {
+      "word": "silencing",
+      "score": 0.03995
+    },
+    {
+      "word": "intolerance",
+      "score": 0.039453
+    },
+    {
+      "word": "heretics",
+      "score": 0.039248
+    },
+    {
+      "word": "heretical",
+      "score": 0.039181
+    },
+    {
+      "word": "fallibility",
+      "score": 0.038727
+    },
+    {
+      "word": "marcus",
+      "score": 0.037452
+    },
+    {
+      "word": "toleration",
+      "score": 0.037249
+    },
+    {
+      "word": "persecution",
+      "score": 0.036947
+    },
+    {
+      "word": "doctrines",
+      "score": 0.036792
+    },
+    {
+      "word": "penalties",
+      "score": 0.036617
+    }
+  ]
+}

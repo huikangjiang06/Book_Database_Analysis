@@ -1,0 +1,87 @@
+{
+  "book_title": "The Return of the Native by Thomas Hardy",
+  "genre": "Romance",
+  "pkl_stem": "The_Return_of_the_Native_by_Thomas_Hardy",
+  "top_keywords": [
+    {
+      "word": "eustacia",
+      "score": 0.112381
+    },
+    {
+      "word": "clym",
+      "score": 0.106073
+    },
+    {
+      "word": "egdon",
+      "score": 0.086277
+    },
+    {
+      "word": "grandfer",
+      "score": 0.080856
+    },
+    {
+      "word": "fairway",
+      "score": 0.074292
+    },
+    {
+      "word": "diggory",
+      "score": 0.072313
+    },
+    {
+      "word": "budmouth",
+      "score": 0.070806
+    },
+    {
+      "word": "cantle",
+      "score": 0.05855
+    },
+    {
+      "word": "olly",
+      "score": 0.057273
+    },
+    {
+      "word": "anglebury",
+      "score": 0.056216
+    },
+    {
+      "word": "furze",
+      "score": 0.055111
+    },
+    {
+      "word": "mummers",
+      "score": 0.054725
+    },
+    {
+      "word": "damon",
+      "score": 0.05395
+    },
+    {
+      "word": "croppers",
+      "score": 0.053573
+    },
+    {
+      "word": "knap",
+      "score": 0.051018
+    },
+    {
+      "word": "humphrey",
+      "score": 0.0493
+    },
+    {
+      "word": "mumming",
+      "score": 0.048619
+    },
+    {
+      "word": "ess",
+      "score": 0.048322
+    },
+    {
+      "word": "charley",
+      "score": 0.046825
+    },
+    {
+      "word": "timothy",
+      "score": 0.044268
+    }
+  ]
+}

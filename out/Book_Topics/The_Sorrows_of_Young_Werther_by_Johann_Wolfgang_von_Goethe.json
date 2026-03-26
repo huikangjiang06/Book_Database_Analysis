@@ -1,0 +1,87 @@
+{
+  "book_title": "The Sorrows of Young Werther by Johann Wolfgang von Goethe",
+  "genre": "Romance",
+  "pkl_stem": "The_Sorrows_of_Young_Werther_by_Johann_Wolfgang_von_Goethe",
+  "top_keywords": [
+    {
+      "word": "werther",
+      "score": 0.129027
+    },
+    {
+      "word": "daura",
+      "score": 0.094737
+    },
+    {
+      "word": "charlotte",
+      "score": 0.092665
+    },
+    {
+      "word": "morar",
+      "score": 0.090283
+    },
+    {
+      "word": "wilhelm",
+      "score": 0.082897
+    },
+    {
+      "word": "armar",
+      "score": 0.080532
+    },
+    {
+      "word": "arindal",
+      "score": 0.080084
+    },
+    {
+      "word": "albert",
+      "score": 0.070926
+    },
+    {
+      "word": "frederica",
+      "score": 0.062737
+    },
+    {
+      "word": "ossian",
+      "score": 0.055162
+    },
+    {
+      "word": "schmidt",
+      "score": 0.050445
+    },
+    {
+      "word": "fingal",
+      "score": 0.047416
+    },
+    {
+      "word": "sophy",
+      "score": 0.047416
+    },
+    {
+      "word": "adieu",
+      "score": 0.044227
+    },
+    {
+      "word": "narration",
+      "score": 0.042054
+    },
+    {
+      "word": "selma",
+      "score": 0.041843
+    },
+    {
+      "word": "waltz",
+      "score": 0.041542
+    },
+    {
+      "word": "vicar",
+      "score": 0.041109
+    },
+    {
+      "word": "leonora",
+      "score": 0.039848
+    },
+    {
+      "word": "pistols",
+      "score": 0.039518
+    }
+  ]
+}

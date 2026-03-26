@@ -1,0 +1,87 @@
+{
+  "book_title": "Around the World in Eighty Days by Jules Verne",
+  "genre": "Adventure",
+  "pkl_stem": "Around_the_World_in_Eighty_Days_by_Jules_Verne",
+  "top_keywords": [
+    {
+      "word": "fogg",
+      "score": 0.146715
+    },
+    {
+      "word": "rangoon",
+      "score": 0.076596
+    },
+    {
+      "word": "yokohama",
+      "score": 0.075976
+    },
+    {
+      "word": "parsee",
+      "score": 0.075048
+    },
+    {
+      "word": "carnatic",
+      "score": 0.074493
+    },
+    {
+      "word": "hong",
+      "score": 0.070559
+    },
+    {
+      "word": "kong",
+      "score": 0.069712
+    },
+    {
+      "word": "mongolia",
+      "score": 0.06636
+    },
+    {
+      "word": "saville",
+      "score": 0.06488
+    },
+    {
+      "word": "cromarty",
+      "score": 0.064191
+    },
+    {
+      "word": "allahabad",
+      "score": 0.062236
+    },
+    {
+      "word": "proctor",
+      "score": 0.059875
+    },
+    {
+      "word": "kearney",
+      "score": 0.058984
+    },
+    {
+      "word": "henrietta",
+      "score": 0.058045
+    },
+    {
+      "word": "mudge",
+      "score": 0.05757
+    },
+    {
+      "word": "suez",
+      "score": 0.057394
+    },
+    {
+      "word": "pagoda",
+      "score": 0.056054
+    },
+    {
+      "word": "omaha",
+      "score": 0.055976
+    },
+    {
+      "word": "brindisi",
+      "score": 0.055698
+    },
+    {
+      "word": "singapore",
+      "score": 0.055295
+    }
+  ]
+}

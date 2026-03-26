@@ -1,0 +1,87 @@
+{
+  "book_title": "Essentials of Economic Theory by John Bates Clark",
+  "genre": "Political Economy",
+  "pkl_stem": "Essentials_of_Economic_Theory_by_John_Bates_Clark",
+  "top_keywords": [
+    {
+      "word": "subgroup",
+      "score": 0.075787
+    },
+    {
+      "word": "entrepreneur",
+      "score": 0.068274
+    },
+    {
+      "word": "static",
+      "score": 0.062032
+    },
+    {
+      "word": "entrepreneurs",
+      "score": 0.059208
+    },
+    {
+      "word": "monopolistic",
+      "score": 0.053045
+    },
+    {
+      "word": "productivity",
+      "score": 0.051796
+    },
+    {
+      "word": "seq",
+      "score": 0.050284
+    },
+    {
+      "word": "marginal",
+      "score": 0.049998
+    },
+    {
+      "word": "consumers",
+      "score": 0.04806
+    },
+    {
+      "word": "dynamic",
+      "score": 0.047499
+    },
+    {
+      "word": "utilities",
+      "score": 0.047096
+    },
+    {
+      "word": "boycott",
+      "score": 0.044842
+    },
+    {
+      "word": "increment",
+      "score": 0.044476
+    },
+    {
+      "word": "increments",
+      "score": 0.0439
+    },
+    {
+      "word": "producers",
+      "score": 0.043498
+    },
+    {
+      "word": "arbitration",
+      "score": 0.043276
+    },
+    {
+      "word": "dynamics",
+      "score": 0.043039
+    },
+    {
+      "word": "disutility",
+      "score": 0.042806
+    },
+    {
+      "word": "monopolies",
+      "score": 0.042492
+    },
+    {
+      "word": "outlays",
+      "score": 0.041091
+    }
+  ]
+}

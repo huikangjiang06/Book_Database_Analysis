@@ -1,0 +1,87 @@
+{
+  "book_title": "Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone by Sophocles",
+  "genre": "Mythology",
+  "pkl_stem": "Plays_of_Sophocles__Oedipus_the_King__Oedipus_at_Colonus__Antigone_by_Sophocles",
+  "top_keywords": [
+    {
+      "word": "creon",
+      "score": 0.093423
+    },
+    {
+      "word": "laius",
+      "score": 0.092764
+    },
+    {
+      "word": "oedipus",
+      "score": 0.085947
+    },
+    {
+      "word": "ismene",
+      "score": 0.083009
+    },
+    {
+      "word": "antigone",
+      "score": 0.080038
+    },
+    {
+      "word": "polybus",
+      "score": 0.073744
+    },
+    {
+      "word": "haemon",
+      "score": 0.069565
+    },
+    {
+      "word": "jocasta",
+      "score": 0.069319
+    },
+    {
+      "word": "thebes",
+      "score": 0.064863
+    },
+    {
+      "word": "theseus",
+      "score": 0.063297
+    },
+    {
+      "word": "colonus",
+      "score": 0.063045
+    },
+    {
+      "word": "zeus",
+      "score": 0.06162
+    },
+    {
+      "word": "cithaeron",
+      "score": 0.061254
+    },
+    {
+      "word": "aegeus",
+      "score": 0.061254
+    },
+    {
+      "word": "thebans",
+      "score": 0.058143
+    },
+    {
+      "word": "str",
+      "score": 0.057416
+    },
+    {
+      "word": "phoebus",
+      "score": 0.056659
+    },
+    {
+      "word": "theban",
+      "score": 0.054358
+    },
+    {
+      "word": "unwed",
+      "score": 0.054125
+    },
+    {
+      "word": "exeunt",
+      "score": 0.053573
+    }
+  ]
+}

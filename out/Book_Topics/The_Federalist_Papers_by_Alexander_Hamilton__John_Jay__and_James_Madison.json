@@ -1,0 +1,87 @@
+{
+  "book_title": "The Federalist Papers by Alexander Hamilton, John Jay, and James Madison",
+  "genre": "Political Philosophy and Ethics",
+  "pkl_stem": "The_Federalist_Papers_by_Alexander_Hamilton__John_Jay__and_James_Madison",
+  "top_keywords": [
+    {
+      "word": "federalist",
+      "score": 0.06136
+    },
+    {
+      "word": "confederacies",
+      "score": 0.051743
+    },
+    {
+      "word": "judiciary",
+      "score": 0.050059
+    },
+    {
+      "word": "impeachments",
+      "score": 0.049727
+    },
+    {
+      "word": "appellate",
+      "score": 0.046074
+    },
+    {
+      "word": "federal",
+      "score": 0.044531
+    },
+    {
+      "word": "legislatures",
+      "score": 0.042786
+    },
+    {
+      "word": "confederation",
+      "score": 0.042479
+    },
+    {
+      "word": "biennial",
+      "score": 0.040842
+    },
+    {
+      "word": "quotas",
+      "score": 0.038303
+    },
+    {
+      "word": "legislature",
+      "score": 0.038068
+    },
+    {
+      "word": "legislative",
+      "score": 0.037255
+    },
+    {
+      "word": "excises",
+      "score": 0.03718
+    },
+    {
+      "word": "usurpations",
+      "score": 0.036079
+    },
+    {
+      "word": "confederacy",
+      "score": 0.035339
+    },
+    {
+      "word": "concurrent",
+      "score": 0.035059
+    },
+    {
+      "word": "treaties",
+      "score": 0.035003
+    },
+    {
+      "word": "executive",
+      "score": 0.034862
+    },
+    {
+      "word": "achaeans",
+      "score": 0.034114
+    },
+    {
+      "word": "sovereignties",
+      "score": 0.033679
+    }
+  ]
+}

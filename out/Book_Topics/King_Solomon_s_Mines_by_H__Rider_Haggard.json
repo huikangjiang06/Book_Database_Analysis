@@ -1,0 +1,87 @@
+{
+  "book_title": "King Solomon's Mines by H. Rider Haggard",
+  "genre": "Adventure",
+  "pkl_stem": "King_Solomon_s_Mines_by_H__Rider_Haggard",
+  "top_keywords": [
+    {
+      "word": "kraal",
+      "score": 0.083194
+    },
+    {
+      "word": "suliman",
+      "score": 0.080128
+    },
+    {
+      "word": "gel",
+      "score": 0.076304
+    },
+    {
+      "word": "zulu",
+      "score": 0.072944
+    },
+    {
+      "word": "biltong",
+      "score": 0.071777
+    },
+    {
+      "word": "kafir",
+      "score": 0.071777
+    },
+    {
+      "word": "greys",
+      "score": 0.069934
+    },
+    {
+      "word": "baas",
+      "score": 0.068694
+    },
+    {
+      "word": "kafirs",
+      "score": 0.068694
+    },
+    {
+      "word": "zulus",
+      "score": 0.065107
+    },
+    {
+      "word": "koom",
+      "score": 0.062755
+    },
+    {
+      "word": "curtis",
+      "score": 0.062056
+    },
+    {
+      "word": "loo",
+      "score": 0.061817
+    },
+    {
+      "word": "kraals",
+      "score": 0.060443
+    },
+    {
+      "word": "neville",
+      "score": 0.058765
+    },
+    {
+      "word": "zululand",
+      "score": 0.057822
+    },
+    {
+      "word": "colossi",
+      "score": 0.053257
+    },
+    {
+      "word": "sheba",
+      "score": 0.052116
+    },
+    {
+      "word": "hee",
+      "score": 0.051922
+    },
+    {
+      "word": "eland",
+      "score": 0.051218
+    }
+  ]
+}

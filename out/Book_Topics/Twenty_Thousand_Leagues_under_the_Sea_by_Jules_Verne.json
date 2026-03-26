@@ -1,0 +1,87 @@
+{
+  "book_title": "Twenty Thousand Leagues under the Sea by Jules Verne",
+  "genre": "Science Fiction",
+  "pkl_stem": "Twenty_Thousand_Leagues_under_the_Sea_by_Jules_Verne",
+  "top_keywords": [
+    {
+      "word": "nautilus",
+      "score": 0.084776
+    },
+    {
+      "word": "conseil",
+      "score": 0.083531
+    },
+    {
+      "word": "nemo",
+      "score": 0.080248
+    },
+    {
+      "word": "narwhal",
+      "score": 0.064022
+    },
+    {
+      "word": "ned",
+      "score": 0.062076
+    },
+    {
+      "word": "cetacean",
+      "score": 0.06051
+    },
+    {
+      "word": "harpooner",
+      "score": 0.056879
+    },
+    {
+      "word": "manometer",
+      "score": 0.055798
+    },
+    {
+      "word": "dugong",
+      "score": 0.0553
+    },
+    {
+      "word": "perouse",
+      "score": 0.051972
+    },
+    {
+      "word": "crespo",
+      "score": 0.051683
+    },
+    {
+      "word": "farragut",
+      "score": 0.051302
+    },
+    {
+      "word": "zoophytes",
+      "score": 0.05037
+    },
+    {
+      "word": "harpoon",
+      "score": 0.050351
+    },
+    {
+      "word": "submarine",
+      "score": 0.050016
+    },
+    {
+      "word": "polypi",
+      "score": 0.049253
+    },
+    {
+      "word": "molluscs",
+      "score": 0.049062
+    },
+    {
+      "word": "planisphere",
+      "score": 0.048191
+    },
+    {
+      "word": "ruhmkorff",
+      "score": 0.048191
+    },
+    {
+      "word": "canadian",
+      "score": 0.047678
+    }
+  ]
+}

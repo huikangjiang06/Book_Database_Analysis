@@ -1,0 +1,87 @@
+{
+  "book_title": "The Story of My Life by Helen Keller",
+  "genre": "Biographies and Autobiographies",
+  "pkl_stem": "The_Story_of_My_Life_by_Helen_Keller",
+  "top_keywords": [
+    {
+      "word": "keller",
+      "score": 0.080974
+    },
+    {
+      "word": "tuscumbia",
+      "score": 0.07102
+    },
+    {
+      "word": "mildred",
+      "score": 0.070318
+    },
+    {
+      "word": "sullivan",
+      "score": 0.064152
+    },
+    {
+      "word": "bridgman",
+      "score": 0.059787
+    },
+    {
+      "word": "canby",
+      "score": 0.058439
+    },
+    {
+      "word": "hutton",
+      "score": 0.056571
+    },
+    {
+      "word": "radcliffe",
+      "score": 0.055866
+    },
+    {
+      "word": "helen",
+      "score": 0.054087
+    },
+    {
+      "word": "viney",
+      "score": 0.051865
+    },
+    {
+      "word": "gilman",
+      "score": 0.05138
+    },
+    {
+      "word": "fauntleroy",
+      "score": 0.050391
+    },
+    {
+      "word": "perkins",
+      "score": 0.048829
+    },
+    {
+      "word": "birdie",
+      "score": 0.048747
+    },
+    {
+      "word": "hitz",
+      "score": 0.048576
+    },
+    {
+      "word": "keith",
+      "score": 0.045159
+    },
+    {
+      "word": "ala",
+      "score": 0.044154
+    },
+    {
+      "word": "jakey",
+      "score": 0.044038
+    },
+    {
+      "word": "chamberlin",
+      "score": 0.044038
+    },
+    {
+      "word": "brewster",
+      "score": 0.043764
+    }
+  ]
+}

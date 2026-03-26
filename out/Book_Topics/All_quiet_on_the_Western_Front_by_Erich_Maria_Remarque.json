@@ -1,0 +1,87 @@
+{
+  "book_title": "All quiet on the Western Front by Erich Maria Remarque",
+  "genre": "War and Strategy",
+  "pkl_stem": "All_quiet_on_the_Western_Front_by_Erich_Maria_Remarque",
+  "top_keywords": [
+    {
+      "word": "haie",
+      "score": 0.101859
+    },
+    {
+      "word": "kat",
+      "score": 0.099418
+    },
+    {
+      "word": "ller",
+      "score": 0.071168
+    },
+    {
+      "word": "lorries",
+      "score": 0.066823
+    },
+    {
+      "word": "franz",
+      "score": 0.058827
+    },
+    {
+      "word": "josef",
+      "score": 0.058498
+    },
+    {
+      "word": "barrage",
+      "score": 0.0576
+    },
+    {
+      "word": "bombardment",
+      "score": 0.05275
+    },
+    {
+      "word": "berger",
+      "score": 0.052219
+    },
+    {
+      "word": "albert",
+      "score": 0.050491
+    },
+    {
+      "word": "artilleryman",
+      "score": 0.048809
+    },
+    {
+      "word": "shelling",
+      "score": 0.048064
+    },
+    {
+      "word": "grenades",
+      "score": 0.047096
+    },
+    {
+      "word": "dump",
+      "score": 0.046531
+    },
+    {
+      "word": "leer",
+      "score": 0.045218
+    },
+    {
+      "word": "growls",
+      "score": 0.044232
+    },
+    {
+      "word": "sector",
+      "score": 0.044213
+    },
+    {
+      "word": "dysentery",
+      "score": 0.044213
+    },
+    {
+      "word": "munition",
+      "score": 0.044063
+    },
+    {
+      "word": "parachute",
+      "score": 0.044063
+    }
+  ]
+}

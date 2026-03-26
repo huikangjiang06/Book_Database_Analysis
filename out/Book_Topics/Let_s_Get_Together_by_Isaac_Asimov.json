@@ -1,0 +1,87 @@
+{
+  "book_title": "Let's Get Together by Isaac Asimov",
+  "genre": "Science Fiction",
+  "pkl_stem": "Let_s_Get_Together_by_Isaac_Asimov",
+  "top_keywords": [
+    {
+      "word": "breckenridge",
+      "score": 0.278333
+    },
+    {
+      "word": "robotics",
+      "score": 0.274504
+    },
+    {
+      "word": "lynn",
+      "score": 0.241584
+    },
+    {
+      "word": "jeffreys",
+      "score": 0.170186
+    },
+    {
+      "word": "stalemate",
+      "score": 0.166614
+    },
+    {
+      "word": "robots",
+      "score": 0.146001
+    },
+    {
+      "word": "cheyenne",
+      "score": 0.145397
+    },
+    {
+      "word": "blaster",
+      "score": 0.125504
+    },
+    {
+      "word": "presidential",
+      "score": 0.105472
+    },
+    {
+      "word": "bomb",
+      "score": 0.097057
+    },
+    {
+      "word": "scientists",
+      "score": 0.091781
+    },
+    {
+      "word": "decentralization",
+      "score": 0.089049
+    },
+    {
+      "word": "soviets",
+      "score": 0.084803
+    },
+    {
+      "word": "agenda",
+      "score": 0.084803
+    },
+    {
+      "word": "micro",
+      "score": 0.084803
+    },
+    {
+      "word": "procedures",
+      "score": 0.07859
+    },
+    {
+      "word": "facet",
+      "score": 0.076172
+    },
+    {
+      "word": "haystack",
+      "score": 0.066879
+    },
+    {
+      "word": "elias",
+      "score": 0.066879
+    },
+    {
+      "word": "conference",
+      "score": 0.065611
+    }
+  ]
+}

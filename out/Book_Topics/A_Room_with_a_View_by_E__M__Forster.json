@@ -1,0 +1,87 @@
+{
+  "book_title": "A Room with a View by E. M. Forster",
+  "genre": "Romance",
+  "pkl_stem": "A_Room_with_a_View_by_E__M__Forster",
+  "top_keywords": [
+    {
+      "word": "beebe",
+      "score": 0.124836
+    },
+    {
+      "word": "freddy",
+      "score": 0.104998
+    },
+    {
+      "word": "vyse",
+      "score": 0.103716
+    },
+    {
+      "word": "emersons",
+      "score": 0.094016
+    },
+    {
+      "word": "bartlett",
+      "score": 0.091196
+    },
+    {
+      "word": "cecil",
+      "score": 0.090002
+    },
+    {
+      "word": "alans",
+      "score": 0.087208
+    },
+    {
+      "word": "lucy",
+      "score": 0.085347
+    },
+    {
+      "word": "cissie",
+      "score": 0.082466
+    },
+    {
+      "word": "croce",
+      "score": 0.069172
+    },
+    {
+      "word": "minnie",
+      "score": 0.06896
+    },
+    {
+      "word": "emerson",
+      "score": 0.068307
+    },
+    {
+      "word": "baedeker",
+      "score": 0.063879
+    },
+    {
+      "word": "alan",
+      "score": 0.062898
+    },
+    {
+      "word": "fiesole",
+      "score": 0.062884
+    },
+    {
+      "word": "arno",
+      "score": 0.061326
+    },
+    {
+      "word": "phaethon",
+      "score": 0.060438
+    },
+    {
+      "word": "otway",
+      "score": 0.060438
+    },
+    {
+      "word": "charlotte",
+      "score": 0.060342
+    },
+    {
+      "word": "weald",
+      "score": 0.058721
+    }
+  ]
+}

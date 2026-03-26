@@ -1,0 +1,87 @@
+{
+  "book_title": "Tess of the d'Urbervilles: A Pure Woman by Thomas Hardy",
+  "genre": "Romance",
+  "pkl_stem": "Tess_of_the_d_Urbervilles__A_Pure_Woman_by_Thomas_Hardy",
+  "top_keywords": [
+    {
+      "word": "tess",
+      "score": 0.096023
+    },
+    {
+      "word": "dairyman",
+      "score": 0.072358
+    },
+    {
+      "word": "clare",
+      "score": 0.065531
+    },
+    {
+      "word": "marian",
+      "score": 0.062761
+    },
+    {
+      "word": "urbervilles",
+      "score": 0.061138
+    },
+    {
+      "word": "blackmoor",
+      "score": 0.055506
+    },
+    {
+      "word": "kingsbere",
+      "score": 0.054042
+    },
+    {
+      "word": "crick",
+      "score": 0.051625
+    },
+    {
+      "word": "alec",
+      "score": 0.050827
+    },
+    {
+      "word": "rolliver",
+      "score": 0.049522
+    },
+    {
+      "word": "liza",
+      "score": 0.046607
+    },
+    {
+      "word": "milkers",
+      "score": 0.042325
+    },
+    {
+      "word": "milkmaids",
+      "score": 0.041373
+    },
+    {
+      "word": "egdon",
+      "score": 0.040922
+    },
+    {
+      "word": "dairy",
+      "score": 0.040118
+    },
+    {
+      "word": "rick",
+      "score": 0.040041
+    },
+    {
+      "word": "casterbridge",
+      "score": 0.039206
+    },
+    {
+      "word": "sandbourne",
+      "score": 0.038781
+    },
+    {
+      "word": "wessex",
+      "score": 0.038725
+    },
+    {
+      "word": "vicarage",
+      "score": 0.038294
+    }
+  ]
+}

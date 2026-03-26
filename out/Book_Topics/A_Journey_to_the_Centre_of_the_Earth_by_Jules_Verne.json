@@ -1,0 +1,87 @@
+{
+  "book_title": "A Journey to the Centre of the Earth by Jules Verne",
+  "genre": "Science Fiction",
+  "pkl_stem": "A_Journey_to_the_Centre_of_the_Earth_by_Jules_Verne",
+  "top_keywords": [
+    {
+      "word": "reykjavik",
+      "score": 0.070107
+    },
+    {
+      "word": "hans",
+      "score": 0.067508
+    },
+    {
+      "word": "gretchen",
+      "score": 0.066448
+    },
+    {
+      "word": "icelandic",
+      "score": 0.062317
+    },
+    {
+      "word": "ruhmkorff",
+      "score": 0.061595
+    },
+    {
+      "word": "icelander",
+      "score": 0.05958
+    },
+    {
+      "word": "arne",
+      "score": 0.05807
+    },
+    {
+      "word": "eruptive",
+      "score": 0.057632
+    },
+    {
+      "word": "granitic",
+      "score": 0.056826
+    },
+    {
+      "word": "eider",
+      "score": 0.055423
+    },
+    {
+      "word": "cryptograph",
+      "score": 0.054943
+    },
+    {
+      "word": "iceland",
+      "score": 0.054799
+    },
+    {
+      "word": "quaternary",
+      "score": 0.054733
+    },
+    {
+      "word": "icelanders",
+      "score": 0.053065
+    },
+    {
+      "word": "manometer",
+      "score": 0.052638
+    },
+    {
+      "word": "raft",
+      "score": 0.052523
+    },
+    {
+      "word": "fjord",
+      "score": 0.048718
+    },
+    {
+      "word": "lava",
+      "score": 0.047195
+    },
+    {
+      "word": "crater",
+      "score": 0.044364
+    },
+    {
+      "word": "runic",
+      "score": 0.043275
+    }
+  ]
+}
