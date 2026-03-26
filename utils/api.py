@@ -1,6 +1,5 @@
 """
-Lightweight Anthropic (and optional OpenAI) wrapper for the Emergence project.
-Adapted from /home/hj2742/Paper/utils/api_requests.py.
+Lightweight Anthropic (and optional OpenAI) wrapper.
 """
 
 import os

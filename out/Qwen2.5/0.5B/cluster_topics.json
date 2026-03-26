@@ -1,0 +1,3179 @@
+{
+  "noise": {
+    "cluster_id": -1,
+    "book_count": 86,
+    "books": [
+      "Around the World in Eighty Days by Jules Verne",
+      "Captain Blood by Rafael Sabatini",
+      "Heart of the World by H. Rider Haggard",
+      "Kidnapped by Robert Louis Stevenson",
+      "Kim by Rudyard Kipling",
+      "King Solomon's Mines by H. Rider Haggard",
+      "Moby Dick; Or, The Whale by Herman Melville",
+      "Tarzan of the Apes by Edgar Rice Burroughs",
+      "The Coral Island: A Tale of the Pacific Ocean by R. M. Ballantyne",
+      "The Cruise of the Snark",
+      "The Life and Adventures of Robinson Crusoe by Daniel Defoe",
+      "The Pathfinder; Or, The Inland Sea by James Fenimore Cooper",
+      "The Scarlet Pimpernel by Baroness Emmuska Orczy Orczy",
+      "The prisoner of Zenda by Anthony Hope",
+      "Boswell's Life of Johnson by James Boswell",
+      "Louisa May Alcott : Her Life, Letters, and Journals by Louisa May Alcott",
+      "Memoirs of Napoleon Bonaparte — Complete by Louis Antoine Fauvelet de Bourrienne",
+      "The Life of Charlotte Brontë — Volume 1 by Elizabeth Cleghorn Gaskell",
+      "The Story of My Life by Helen Keller",
+      "Fables for the Frivolous by Guy Wetmore Carryl",
+      "The Innocents Abroad by Mark Twain",
+      "The Jest Book by Mark Lemon",
+      "Three men on the bummel by Jerome K. Jerome",
+      "Vice Versa; or, A Lesson to Fathers by F. Anstey",
+      "A Study in Scarlet by Arthur Conan Doyle",
+      "Fantômas by Pierre Souvestre and Marcel Allain",
+      "Poirot Investigates by Agatha Christie",
+      "The Moonstone by Wilkie Collins",
+      "Just so stories by Rudyard Kipling",
+      "The Jungle Book by Rudyard Kipling",
+      "Rip Van Winkle by Washington Irving",
+      "She by H. Rider Haggard",
+      "The History of Caliph Vathek by William Beckford",
+      "Japan: From the Japanese Government History by Kan'ichi Asakawa",
+      "Mexico, Aztec, Spanish and Republican, Vol. 1 of 2 by Brantz Mayer",
+      "The History of England, from the Accession of James II — Volume 1 by Macaulay",
+      "The History of Herodotus — Volume 1 by Herodotus",
+      "The Story of Mankind by Hendrik Willem Van Loon",
+      "Carmilla by Joseph Sheridan Le Fanu",
+      "Curious, if True by Elizabeth Cleghorn Gaskell",
+      "The House of Souls by Arthur Machen",
+      "The King in Yellow by Robert W. Chambers",
+      "The Picture of Dorian Gray by Oscar Wilde",
+      "The Works of Edgar Allan Poe, The Raven Edition by Edgar Allan Poe",
+      "The thing in the woods by Harper Williams",
+      "Siddhartha by Hermann Hesse",
+      "Myths and Legends of Alaska by Katharine Berry Judson",
+      "The house of bondage by Reginald Wright Kauffman",
+      "Illustrations of political economy, Volume 1 (of 9) by Harriet Martineau",
+      "The Economic Consequences of the Peace by John Maynard Keynes",
+      "The Theory of the Leisure Class by Thorstein Veblen",
+      "Second Treatise of Government by John Locke",
+      "The Writings of Thomas Paine, Complete by Thomas Paine",
+      "Far from the Madding Crowd by Thomas Hardy",
+      "Ivanhoe: A Romance by Walter Scott",
+      "Jane Eyre: An Autobiography by Charlotte Brontë",
+      "Lady Chatterley's lover by D. H. Lawrence",
+      "Lorna Doone: A Romance of Exmoor by R. D. Blackmore",
+      "Manon Lescaut by abbé Prévost",
+      "North and South by Elizabeth Cleghorn Gaskell",
+      "Tess of the d'Urbervilles: A Pure Woman by Thomas Hardy",
+      "The Blue Castle: a novel by L. M. Montgomery",
+      "The Lily of the Valley by Honoré de Balzac",
+      "The Mill on the Floss by George Eliot",
+      "A Book of Burlesques by H. L. Mencken",
+      "A Modest Proposal by Jonathan Swift",
+      "Behind the Beyond, and Other Contributions to Human Knowledge by Stephen Leacock",
+      "Dead Souls by Nikolai Vasilevich Gogol",
+      "Democracy, an American novel by Henry Adams",
+      "Gulliver's Travels into Several Remote Nations of the World by Jonathan Swift",
+      "The Confidence-Man: His Masquerade by Herman Melville",
+      "The Devil's Dictionary by Ambrose Bierce",
+      "The Land of Afternoon: A Satire by Gilbert Knox",
+      "The Man Who Would Be King by Rudyard Kipling",
+      "The Runaway Skyscraper by Murray Leinster",
+      "Character by Samuel Smiles",
+      "Etiquette by Emily Post",
+      "The Science of Getting Rich by W. D. Wattles",
+      "Barnaby Rudge: A Tale of the Riots of 'Eighty by Charles Dickens",
+      "Felix Holt, the Radical by George Eliot",
+      "Sybil, Or, The Two Nations by Earl of Beaconsfield Benjamin Disraeli",
+      "The Confession: A Novel by Maksim Gorky",
+      "The House of the Dead; or, Prison Life in Siberia by Fyodor Dostoyevsky",
+      "The Secret Agent: A Simple Tale by Joseph Conrad",
+      "West Point by Robert C. Richardson",
+      "Dancing Devil range by W. C. Tuttle"
+    ],
+    "top_keywords": []
+  },
+  "cluster_0": {
+    "cluster_id": 0,
+    "book_count": 10,
+    "books": [
+      "Aircraft in war by Eric Stuart Bruce",
+      "Battle Studies; Ancient and Modern Battle by Ardant du Picq",
+      "Elements of Military Art and Science by H. W. Halleck",
+      "History of the World War : An authentic narrative of the world's greatest war",
+      "On War by Carl von Clausewitz",
+      "Paris : or, the future of war by Sir Basil Henry Liddell Hart",
+      "Some Principles of Maritime Strategy by Julian Stafford Corbett",
+      "The Art of War by Antoine Henri Jomini",
+      "The Officer's Manual: Napoleon's Maxims of War by Emperor of the French Napoleon I",
+      "The Story of the Great War, Volume 1 by Reynolds, Churchill, and Miller"
+    ],
+    "top_keywords": [
+      {
+        "word": "war",
+        "score": 0.032492
+      },
+      {
+        "word": "army",
+        "score": 0.027413
+      },
+      {
+        "word": "enemy",
+        "score": 0.02356
+      },
+      {
+        "word": "german",
+        "score": 0.018117
+      },
+      {
+        "word": "battle",
+        "score": 0.017555
+      },
+      {
+        "word": "military",
+        "score": 0.016089
+      },
+      {
+        "word": "french",
+        "score": 0.014949
+      },
+      {
+        "word": "general",
+        "score": 0.014508
+      },
+      {
+        "word": "line",
+        "score": 0.014345
+      },
+      {
+        "word": "troops",
+        "score": 0.014319
+      },
+      {
+        "word": "operations",
+        "score": 0.013552
+      },
+      {
+        "word": "attack",
+        "score": 0.013301
+      },
+      {
+        "word": "germany",
+        "score": 0.01303
+      },
+      {
+        "word": "russia",
+        "score": 0.012185
+      },
+      {
+        "word": "austria",
+        "score": 0.012156
+      },
+      {
+        "word": "force",
+        "score": 0.011047
+      },
+      {
+        "word": "british",
+        "score": 0.010805
+      },
+      {
+        "word": "fleet",
+        "score": 0.010611
+      },
+      {
+        "word": "cavalry",
+        "score": 0.010544
+      },
+      {
+        "word": "france",
+        "score": 0.010442
+      }
+    ],
+    "llm_label": "Classical military strategy theory and World War I history"
+  },
+  "cluster_1": {
+    "cluster_id": 1,
+    "book_count": 5,
+    "books": [
+      "Emma by Jane Austen",
+      "Persuasion by Jane Austen",
+      "Pride and Prejudice by Jane Austen",
+      "Sense and Sensibility by Jane Austen",
+      "Northanger Abbey by Jane Austen"
+    ],
+    "top_keywords": [
+      {
+        "word": "mrs",
+        "score": 0.032022
+      },
+      {
+        "word": "miss",
+        "score": 0.024482
+      },
+      {
+        "word": "emma",
+        "score": 0.024449
+      },
+      {
+        "word": "elinor",
+        "score": 0.02038
+      },
+      {
+        "word": "elizabeth",
+        "score": 0.019738
+      },
+      {
+        "word": "must",
+        "score": 0.018208
+      },
+      {
+        "word": "marianne",
+        "score": 0.017465
+      },
+      {
+        "word": "catherine",
+        "score": 0.01599
+      },
+      {
+        "word": "jane",
+        "score": 0.015503
+      },
+      {
+        "word": "harriet",
+        "score": 0.015166
+      },
+      {
+        "word": "anne",
+        "score": 0.014485
+      },
+      {
+        "word": "sister",
+        "score": 0.014053
+      },
+      {
+        "word": "darcy",
+        "score": 0.013811
+      },
+      {
+        "word": "might",
+        "score": 0.013535
+      },
+      {
+        "word": "weston",
+        "score": 0.013519
+      },
+      {
+        "word": "soon",
+        "score": 0.013306
+      },
+      {
+        "word": "knightley",
+        "score": 0.01266
+      },
+      {
+        "word": "elton",
+        "score": 0.012574
+      },
+      {
+        "word": "lady",
+        "score": 0.012083
+      },
+      {
+        "word": "though",
+        "score": 0.011999
+      }
+    ],
+    "llm_label": "Jane Austen's Regency era novels of manners and courtship"
+  },
+  "cluster_2": {
+    "cluster_id": 2,
+    "book_count": 14,
+    "books": [
+      "Abraham Lincoln: The True Story of a Great Life, Volume 1 (of 2) by Herndon et al.",
+      "Autobiography of Andrew Carnegie by Andrew Carnegie",
+      "Autobiography of Benjamin Franklin by Benjamin Franklin",
+      "Life of Harriet Beecher Stowe by Harriet Beecher Stowe",
+      "Memoirs of General William T. Sherman — Complete by William T. Sherman",
+      "Narrative of the Life of Frederick Douglass, an American Slave by Douglass",
+      "The Life and Work of Susan B. Anthony (Volume 1 of 2) by Ida Husted Harper",
+      "Twelve Years a Slave by Solomon Northup",
+      "Up from Slavery: An Autobiography by Booker T. Washington",
+      "The Underground Railroad by William Still",
+      "Myths of the Cherokee by James Mooney",
+      "Comic History of the United States by Bill Nye",
+      "The hindered hand : or, The reign of the repressionist by Sutton E. Griggs",
+      "Personal Memoirs of U. S. Grant, Complete by Ulysses S. Grant"
+    ],
+    "top_keywords": [
+      {
+        "word": "general",
+        "score": 0.015473
+      },
+      {
+        "word": "time",
+        "score": 0.01254
+      },
+      {
+        "word": "cherokee",
+        "score": 0.010746
+      },
+      {
+        "word": "day",
+        "score": 0.009113
+      },
+      {
+        "word": "river",
+        "score": 0.008448
+      },
+      {
+        "word": "mrs",
+        "score": 0.007988
+      },
+      {
+        "word": "years",
+        "score": 0.007935
+      },
+      {
+        "word": "anthony",
+        "score": 0.00791
+      },
+      {
+        "word": "lincoln",
+        "score": 0.007418
+      },
+      {
+        "word": "slave",
+        "score": 0.007393
+      },
+      {
+        "word": "south",
+        "score": 0.007234
+      },
+      {
+        "word": "letter",
+        "score": 0.007198
+      },
+      {
+        "word": "slavery",
+        "score": 0.007156
+      },
+      {
+        "word": "people",
+        "score": 0.007143
+      },
+      {
+        "word": "troops",
+        "score": 0.007051
+      },
+      {
+        "word": "found",
+        "score": 0.006944
+      },
+      {
+        "word": "work",
+        "score": 0.0068
+      },
+      {
+        "word": "many",
+        "score": 0.006795
+      },
+      {
+        "word": "enemy",
+        "score": 0.006696
+      },
+      {
+        "word": "soon",
+        "score": 0.006669
+      }
+    ],
+    "llm_label": "American Historical Autobiographies and Biographies of Notable Figures"
+  },
+  "cluster_3": {
+    "cluster_id": 3,
+    "book_count": 10,
+    "books": [
+      "The Inventions of the Idiot by John Kendrick Bangs",
+      "The Pursuit of the House-Boat by John Kendrick Bangs",
+      "The Boss, and How He Came to Rule New York by Alfred Henry Lewis",
+      "The Moneychangers by Upton Sinclair",
+      "The Spider's Web by Reginald Wright Kauffman",
+      "Reminiscences of a Stock Operator by Edwin Lefevre",
+      "Arcadian Adventures with the Idle Rich by Stephen Leacock",
+      "The Gilded Age: A Tale of Today by Mark Twain and Charles Dudley Warner",
+      "Finding youth : A human experience by Gertrude Nelson Andrews",
+      "The Ragged Trousered Philanthropists by Robert Tressell"
+    ],
+    "top_keywords": [
+      {
+        "word": "luke",
+        "score": 0.014771
+      },
+      {
+        "word": "montague",
+        "score": 0.014585
+      },
+      {
+        "word": "stock",
+        "score": 0.013775
+      },
+      {
+        "word": "don",
+        "score": 0.012888
+      },
+      {
+        "word": "money",
+        "score": 0.011964
+      },
+      {
+        "word": "work",
+        "score": 0.011922
+      },
+      {
+        "word": "can",
+        "score": 0.011543
+      },
+      {
+        "word": "time",
+        "score": 0.011521
+      },
+      {
+        "word": "crass",
+        "score": 0.010183
+      },
+      {
+        "word": "big",
+        "score": 0.010082
+      },
+      {
+        "word": "market",
+        "score": 0.009569
+      },
+      {
+        "word": "owen",
+        "score": 0.009546
+      },
+      {
+        "word": "like",
+        "score": 0.009525
+      },
+      {
+        "word": "day",
+        "score": 0.009066
+      },
+      {
+        "word": "kennedy",
+        "score": 0.008972
+      },
+      {
+        "word": "right",
+        "score": 0.008567
+      },
+      {
+        "word": "laura",
+        "score": 0.008278
+      },
+      {
+        "word": "people",
+        "score": 0.008147
+      },
+      {
+        "word": "put",
+        "score": 0.008079
+      },
+      {
+        "word": "just",
+        "score": 0.008012
+      }
+    ],
+    "llm_label": "Gilded Age satire and critique of capitalism and wealth"
+  },
+  "cluster_4": {
+    "cluster_id": 4,
+    "book_count": 13,
+    "books": [
+      "Autobiography by John Stuart Mill",
+      "What I believe by Bertrand Russell",
+      "Harmonies of Political Economy by Frédéric Bastiat",
+      "An Essay on the Principle of Population by T. R. Malthus",
+      "Democracy in America — Volume 1 by Alexis de Tocqueville",
+      "Letters from a Farmer in Pennsylvania, to the Inhabitants of the British Colonies by John Dickinson",
+      "On Liberty by John Stuart Mill",
+      "Politics: A Treatise on Government by Aristotle",
+      "The Federalist Papers by Alexander Hamilton, John Jay, and James Madison",
+      "The Law",
+      "The Social Contract & Discourses by Jean-Jacques Rousseau",
+      "The Subjection of Women by John Stuart Mill",
+      "Utilitarianism by John Stuart Mill"
+    ],
+    "top_keywords": [
+      {
+        "word": "government",
+        "score": 0.021683
+      },
+      {
+        "word": "state",
+        "score": 0.020792
+      },
+      {
+        "word": "states",
+        "score": 0.018681
+      },
+      {
+        "word": "power",
+        "score": 0.016669
+      },
+      {
+        "word": "people",
+        "score": 0.014124
+      },
+      {
+        "word": "laws",
+        "score": 0.013772
+      },
+      {
+        "word": "society",
+        "score": 0.012726
+      },
+      {
+        "word": "public",
+        "score": 0.011817
+      },
+      {
+        "word": "can",
+        "score": 0.011676
+      },
+      {
+        "word": "nature",
+        "score": 0.011158
+      },
+      {
+        "word": "must",
+        "score": 0.01098
+      },
+      {
+        "word": "law",
+        "score": 0.010906
+      },
+      {
+        "word": "general",
+        "score": 0.010534
+      },
+      {
+        "word": "labour",
+        "score": 0.010266
+      },
+      {
+        "word": "political",
+        "score": 0.010243
+      },
+      {
+        "word": "human",
+        "score": 0.010209
+      },
+      {
+        "word": "union",
+        "score": 0.009741
+      },
+      {
+        "word": "value",
+        "score": 0.009734
+      },
+      {
+        "word": "without",
+        "score": 0.00962
+      },
+      {
+        "word": "constitution",
+        "score": 0.009532
+      }
+    ],
+    "llm_label": "Classical political philosophy and foundational democratic theory texts"
+  },
+  "cluster_5": {
+    "cluster_id": 5,
+    "book_count": 23,
+    "books": [
+      "My Life and Work by Henry Ford and Samuel Crowther",
+      "A Contribution to the Critique of Political Economy by Karl Marx",
+      "A History of Greek Economic Thought by Albert Augustus Trever",
+      "Agricultural prices by Henry A. Wallace",
+      "An Inquiry into the Nature and Causes of the Wealth of Nations by Adam Smith",
+      "Definition & Reality in the General Theory of Political Economy by Thomas Cool",
+      "Economic Sophisms by Frédéric Bastiat",
+      "Essays on some unsettled Questions of Political Economy by John Stuart Mill",
+      "Essentials of Economic Theory by John Bates Clark",
+      "On The Principles of Political Economy, and Taxation by David Ricardo",
+      "Political economy by William Stanley Jevons",
+      "Principles of Political Economy, Vol. 1 by Wilhelm Roscher",
+      "Principles of Political Economy by John Stuart Mill",
+      "Progress and Poverty, Volumes I and II by Henry George",
+      "The Condition of the Working-Class in England in 1844 by Friedrich Engels",
+      "The Servile State by Hilaire Belloc",
+      "The Value of Money by Benjamin M. Anderson",
+      "The basic facts of economics : A common-sense primer for advanced students by Post",
+      "On the Duty of Civil Disobedience by Henry David Thoreau",
+      "The Communist Manifesto by Karl Marx and Friedrich Engels",
+      "The Works of the Right Honourable Edmund Burke, Vol. 01 (of 12) by Edmund Burke",
+      "War of the Classes by Jack London",
+      "Sound Military Decision by Naval War College"
+    ],
+    "top_keywords": [
+      {
+        "word": "value",
+        "score": 0.025676
+      },
+      {
+        "word": "money",
+        "score": 0.024255
+      },
+      {
+        "word": "capital",
+        "score": 0.022322
+      },
+      {
+        "word": "labor",
+        "score": 0.021354
+      },
+      {
+        "word": "price",
+        "score": 0.021018
+      },
+      {
+        "word": "production",
+        "score": 0.017619
+      },
+      {
+        "word": "wages",
+        "score": 0.017206
+      },
+      {
+        "word": "land",
+        "score": 0.013493
+      },
+      {
+        "word": "labour",
+        "score": 0.013432
+      },
+      {
+        "word": "quantity",
+        "score": 0.013377
+      },
+      {
+        "word": "prices",
+        "score": 0.013223
+      },
+      {
+        "word": "can",
+        "score": 0.013192
+      },
+      {
+        "word": "economic",
+        "score": 0.012466
+      },
+      {
+        "word": "goods",
+        "score": 0.012258
+      },
+      {
+        "word": "exchange",
+        "score": 0.012214
+      },
+      {
+        "word": "commodities",
+        "score": 0.011975
+      },
+      {
+        "word": "produce",
+        "score": 0.01185
+      },
+      {
+        "word": "trade",
+        "score": 0.011564
+      },
+      {
+        "word": "wealth",
+        "score": 0.011538
+      },
+      {
+        "word": "increase",
+        "score": 0.011433
+      }
+    ],
+    "llm_label": "Classical and Marxist Political Economy and Economic Theory"
+  },
+  "cluster_6": {
+    "cluster_id": 6,
+    "book_count": 7,
+    "books": [
+      "An Enquiry Concerning Human Understanding by David Hume",
+      "An Essay Concerning Humane Understanding, Volume 1 by John Locke",
+      "Six metaphysical meditations by René Descartes",
+      "Theodicy by Freiherr von Gottfried Wilhelm Leibniz",
+      "Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences by Rene Descartes",
+      "Ethics by Benedictus de Spinoza",
+      "The Ethics of Aristotle by Aristotle"
+    ],
+    "top_keywords": [
+      {
+        "word": "ideas",
+        "score": 0.033
+      },
+      {
+        "word": "god",
+        "score": 0.031935
+      },
+      {
+        "word": "idea",
+        "score": 0.024675
+      },
+      {
+        "word": "things",
+        "score": 0.021938
+      },
+      {
+        "word": "reason",
+        "score": 0.021362
+      },
+      {
+        "word": "mind",
+        "score": 0.021136
+      },
+      {
+        "word": "nature",
+        "score": 0.020626
+      },
+      {
+        "word": "body",
+        "score": 0.017721
+      },
+      {
+        "word": "can",
+        "score": 0.016985
+      },
+      {
+        "word": "therefore",
+        "score": 0.015286
+      },
+      {
+        "word": "cause",
+        "score": 0.015266
+      },
+      {
+        "word": "must",
+        "score": 0.013735
+      },
+      {
+        "word": "power",
+        "score": 0.013423
+      },
+      {
+        "word": "without",
+        "score": 0.012772
+      },
+      {
+        "word": "pleasure",
+        "score": 0.012587
+      },
+      {
+        "word": "thing",
+        "score": 0.01253
+      },
+      {
+        "word": "evil",
+        "score": 0.012463
+      },
+      {
+        "word": "knowledge",
+        "score": 0.012376
+      },
+      {
+        "word": "actions",
+        "score": 0.012347
+      },
+      {
+        "word": "prop",
+        "score": 0.011513
+      }
+    ],
+    "llm_label": "Early Modern and Classical Philosophy on Epistemology and Metaphysics"
+  },
+  "cluster_7": {
+    "cluster_id": 7,
+    "book_count": 12,
+    "books": [
+      "Creative Evolution by Henri Bergson",
+      "Hegel's Philosophy of Mind by Georg Wilhelm Friedrich Hegel",
+      "Ontology, or the Theory of Being by P. Coffey",
+      "Pragmatism: A New Name for Some Old Ways of Thinking by William James",
+      "The Critique of Pure Reason by Immanuel Kant",
+      "The Influence of Darwin on Philosophy, and other essays in contemporary thought by John Dewey",
+      "The Problems of Philosophy by Bertrand Russell",
+      "Mastery of Self for Wealth, Power, Success by Frank C. Haddock",
+      "Power Through Repose by Annie Payson Call",
+      "The Power of Concentration by Theron Q. Dumont",
+      "When You Don't Know Where to Turn by Steven J. Bartlett",
+      "Your Mind and How to Use It: A Manual of Practical Psychology by Atkinson"
+    ],
+    "top_keywords": [
+      {
+        "word": "reality",
+        "score": 0.019567
+      },
+      {
+        "word": "experience",
+        "score": 0.017712
+      },
+      {
+        "word": "can",
+        "score": 0.017587
+      },
+      {
+        "word": "nature",
+        "score": 0.016474
+      },
+      {
+        "word": "existence",
+        "score": 0.015501
+      },
+      {
+        "word": "object",
+        "score": 0.01448
+      },
+      {
+        "word": "sense",
+        "score": 0.013705
+      },
+      {
+        "word": "must",
+        "score": 0.013607
+      },
+      {
+        "word": "reason",
+        "score": 0.013605
+      },
+      {
+        "word": "mind",
+        "score": 0.013553
+      },
+      {
+        "word": "conception",
+        "score": 0.013526
+      },
+      {
+        "word": "things",
+        "score": 0.013293
+      },
+      {
+        "word": "real",
+        "score": 0.01328
+      },
+      {
+        "word": "consciousness",
+        "score": 0.013201
+      },
+      {
+        "word": "knowledge",
+        "score": 0.013052
+      },
+      {
+        "word": "self",
+        "score": 0.013046
+      },
+      {
+        "word": "unity",
+        "score": 0.012868
+      },
+      {
+        "word": "substance",
+        "score": 0.01265
+      },
+      {
+        "word": "philosophy",
+        "score": 0.012324
+      },
+      {
+        "word": "relation",
+        "score": 0.012319
+      }
+    ],
+    "llm_label": "Philosophy of Mind, Consciousness, and Practical Self-Mastery"
+  },
+  "cluster_8": {
+    "cluster_id": 8,
+    "book_count": 39,
+    "books": [
+      "A Mind That Found Itself: An Autobiography by Clifford Whittingham Beers",
+      "My Life — Volume 1 by Richard Wagner",
+      "Queen Victoria by Lytton Strachey",
+      "The Autobiography of Goethe by Johann Wolfgang von Goethe",
+      "The Education of Henry Adams by Henry Adams",
+      "Riallaro: The Archipelago of Exiles by Godfrey Sweven",
+      "The Wallet of Kai Lung by Ernest Bramah",
+      "The inner house by Walter Besant",
+      "Empires and Emperors of Russia, China, Korea, and Japan by Péter Vay",
+      "Beyond Good and Evil by Friedrich Wilhelm Nietzsche",
+      "The Enchiridion by Epictetus",
+      "The Essays of Arthur Schopenhauer; Studies in Pessimism by Arthur Schopenhauer",
+      "The Genealogy of Morals by Friedrich Wilhelm Nietzsche",
+      "Bartleby, the Scrivener: A Story of Wall-Street by Herman Melville",
+      "City of Endless Night by Milo Hastings",
+      "Mammonart: An essay in economic interpretation by Upton Sinclair",
+      "The Economist by Xenophon",
+      "Anarchism and Other Essays by Emma Goldman",
+      "Darkwater: Voices from Within the Veil by W. E. B. Du Bois",
+      "The Souls of Black Folk by W. E. B. Du Bois",
+      "Erewhon; Or, Over the Range by Samuel Butler",
+      "Flatland: A Romance of Many Dimensions by Edwin Abbott Abbott",
+      "The Monikins by James Fenimore Cooper",
+      "The Silver Domino; Or, Side Whispers, Social and Literary by Marie Corelli",
+      "Architects of Fate; Or, Steps to Success and Power by Orison Swett Marden",
+      "As a man thinketh by James Allen",
+      "Franklin's Way to Wealth; or, \"Poor Richard Improved\" by Benjamin Franklin",
+      "Increasing Personal Efficiency by Russell H. Conwell",
+      "Letters to His Son, Complete by Earl of Philip Dormer Stanhope Chesterfield",
+      "Making Life Worth While by Douglas Fairbanks",
+      "Pushing to the Front by Orison Swett Marden",
+      "Self Help; with Illustrations of Conduct and Perseverance by Samuel Smiles",
+      "Self and self-management : Essays about existing by Arnold Bennett",
+      "Successful Methods of Public Speaking by Grenville Kleiser",
+      "The Art of Public Speaking by J. Berg Esenwein and Dale Carnegie",
+      "The Conduct of Life by Ralph Waldo Emerson",
+      "The Majesty of Calmness; individual problems and posibilities by Jordan",
+      "The Power of Truth: Individual Problems and Possibilities by William George Jordan",
+      "Walden, and On The Duty Of Civil Disobedience by Henry David Thoreau"
+    ],
+    "top_keywords": [
+      {
+        "word": "life",
+        "score": 0.011869
+      },
+      {
+        "word": "time",
+        "score": 0.009754
+      },
+      {
+        "word": "world",
+        "score": 0.009387
+      },
+      {
+        "word": "can",
+        "score": 0.00839
+      },
+      {
+        "word": "many",
+        "score": 0.007896
+      },
+      {
+        "word": "must",
+        "score": 0.007695
+      },
+      {
+        "word": "work",
+        "score": 0.007631
+      },
+      {
+        "word": "years",
+        "score": 0.007177
+      },
+      {
+        "word": "people",
+        "score": 0.007058
+      },
+      {
+        "word": "like",
+        "score": 0.007045
+      },
+      {
+        "word": "without",
+        "score": 0.006811
+      },
+      {
+        "word": "day",
+        "score": 0.006399
+      },
+      {
+        "word": "might",
+        "score": 0.005652
+      },
+      {
+        "word": "thought",
+        "score": 0.005586
+      },
+      {
+        "word": "young",
+        "score": 0.005511
+      },
+      {
+        "word": "power",
+        "score": 0.005497
+      },
+      {
+        "word": "though",
+        "score": 0.005354
+      },
+      {
+        "word": "nature",
+        "score": 0.005275
+      },
+      {
+        "word": "mind",
+        "score": 0.005202
+      },
+      {
+        "word": "things",
+        "score": 0.005173
+      }
+    ],
+    "llm_label": "Philosophical essays, autobiographies, and self-improvement literature from nineteenth century"
+  },
+  "cluster_9": {
+    "cluster_id": 9,
+    "book_count": 10,
+    "books": [
+      "Meditations by Emperor of Rome Marcus Aurelius",
+      "Pascal's Pensées by Blaise Pascal",
+      "Phaedo by Plato",
+      "Symposium by Plato",
+      "The Confessions of St. Augustine by Bishop of Hippo Saint Augustine",
+      "The Fable of the Bees; Or, Private Vices, Public Benefits by Bernard Mandeville",
+      "A Vindication of the Rights of Woman by Mary Wollstonecraft",
+      "Leviathan by Thomas Hobbes",
+      "The Republic by Plato",
+      "Discipline and Other Sermons by Charles Kingsley"
+    ],
+    "top_keywords": [
+      {
+        "word": "god",
+        "score": 0.025407
+      },
+      {
+        "word": "things",
+        "score": 0.0164
+      },
+      {
+        "word": "nature",
+        "score": 0.014699
+      },
+      {
+        "word": "can",
+        "score": 0.012763
+      },
+      {
+        "word": "reason",
+        "score": 0.012057
+      },
+      {
+        "word": "unto",
+        "score": 0.011921
+      },
+      {
+        "word": "true",
+        "score": 0.011676
+      },
+      {
+        "word": "therefore",
+        "score": 0.011595
+      },
+      {
+        "word": "must",
+        "score": 0.011552
+      },
+      {
+        "word": "world",
+        "score": 0.011209
+      },
+      {
+        "word": "life",
+        "score": 0.011126
+      },
+      {
+        "word": "christ",
+        "score": 0.011088
+      },
+      {
+        "word": "without",
+        "score": 0.010948
+      },
+      {
+        "word": "another",
+        "score": 0.010818
+      },
+      {
+        "word": "love",
+        "score": 0.010547
+      },
+      {
+        "word": "power",
+        "score": 0.01039
+      },
+      {
+        "word": "many",
+        "score": 0.010048
+      },
+      {
+        "word": "soul",
+        "score": 0.010031
+      },
+      {
+        "word": "common",
+        "score": 0.00999
+      },
+      {
+        "word": "thing",
+        "score": 0.009586
+      }
+    ],
+    "llm_label": "Classical and Enlightenment Philosophy on God, Reason, and Virtue"
+  },
+  "cluster_10": {
+    "cluster_id": 10,
+    "book_count": 20,
+    "books": [
+      "The Count of Monte Cristo by Alexandre Dumas and Auguste Maquet",
+      "The three musketeers by Alexandre Dumas and Auguste Maquet",
+      "Twenty years after by Alexandre Dumas and Auguste Maquet",
+      "My Memoirs, Vol. V, 1831 to 1832 by Alexandre Dumas",
+      "The Memoirs of Jacques Casanova de Seingalt, 1725-1798. Complete by Casanova",
+      "The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar by Maurice Leblanc",
+      "The Mystery of the Yellow Room by Gaston Leroux",
+      "Jurgen: A Comedy of Justice by James Branch Cabell",
+      "The French Revolution: A History by Thomas Carlyle",
+      "The Last Days of the Romanovs by N. Sokolov",
+      "The Phantom of the Opera by Gaston Leroux",
+      "Anna Karenina by Leo Tolstoy",
+      "Candide by Voltaire",
+      "Don Quixote by Miguel de Cervantes Saavedra",
+      "The Life of Lazarillo de Tormes by Anonymous",
+      "Father Goriot by Honoré de Balzac",
+      "Les Misérables by Victor Hugo",
+      "The Idiot by Fyodor Dostoyevsky",
+      "The Red and the Black: A Chronicle of 1830 by Stendhal",
+      "The possessed : or, The devils by Fyodor Dostoyevsky"
+    ],
+    "top_keywords": [
+      {
+        "word": "artagnan",
+        "score": 0.013068
+      },
+      {
+        "word": "monsieur",
+        "score": 0.010819
+      },
+      {
+        "word": "time",
+        "score": 0.009621
+      },
+      {
+        "word": "julien",
+        "score": 0.008935
+      },
+      {
+        "word": "like",
+        "score": 0.008582
+      },
+      {
+        "word": "don",
+        "score": 0.008254
+      },
+      {
+        "word": "madame",
+        "score": 0.008205
+      },
+      {
+        "word": "without",
+        "score": 0.008134
+      },
+      {
+        "word": "day",
+        "score": 0.008033
+      },
+      {
+        "word": "must",
+        "score": 0.007793
+      },
+      {
+        "word": "can",
+        "score": 0.007702
+      },
+      {
+        "word": "prince",
+        "score": 0.007594
+      },
+      {
+        "word": "athos",
+        "score": 0.007529
+      },
+      {
+        "word": "yes",
+        "score": 0.007461
+      },
+      {
+        "word": "young",
+        "score": 0.007456
+      },
+      {
+        "word": "room",
+        "score": 0.007388
+      },
+      {
+        "word": "jurgen",
+        "score": 0.007193
+      },
+      {
+        "word": "eyes",
+        "score": 0.006804
+      },
+      {
+        "word": "three",
+        "score": 0.006657
+      },
+      {
+        "word": "moment",
+        "score": 0.006619
+      }
+    ],
+    "llm_label": "Classic European literature featuring adventure, romance, and social upheaval"
+  },
+  "cluster_11": {
+    "cluster_id": 11,
+    "book_count": 29,
+    "books": [
+      "The Merry Adventures of Robin Hood by Howard Pyle",
+      "Spenser's The Faerie Queene, Book I by Edmund Spenser",
+      "The House of the Wolfings by William Morris",
+      "The Story of the Glittering Plain by William Morris",
+      "The Well at the World's End: A Tale by William Morris",
+      "The Wood Beyond the World by William Morris",
+      "The Worm Ouroboros: A Romance by Eric Rücker Eddison",
+      "On the Nature of Things by Titus Lucretius Carus",
+      "The Song Celestial; Or, Bhagavad-Gîtâ (from the Mahâbhârata) by Sir Edwin Arnold",
+      "Thus Spake Zarathustra: A Book for All and None by Friedrich Wilhelm Nietzsche",
+      "Aeschylus' Prometheus Bound and the Seven Against Thebes by Aeschylus",
+      "Ancient Egyptian legends by Margaret Alice Murray",
+      "Bulfinch's Mythology by Thomas Bulfinch",
+      "Kalevala : the Epic Poem of Finland — Complete by Lönnrot and Crawford",
+      "Medea of Euripides by Euripides",
+      "Myths and Legends of Ancient Greece and Rome by E. M. Berens",
+      "Oedipus King of Thebes by Sophocles",
+      "Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone by Sophocles",
+      "The Ancient Irish Epic Tale Táin Bó Cúalnge by Joseph Dunn",
+      "The Argonautica by Rhodius Apollonius",
+      "The Children of Odin: The Book of Northern Myths by Padraic Colum",
+      "The Fairy Mythology by Thomas Keightley",
+      "The Iliad by Homer",
+      "The Metamorphoses of Ovid, Books I-VII by Ovid",
+      "The Younger Edda; Also called Snorre's Edda, or The Prose Edda by Snorri Sturluson",
+      "Gargantua and Pantagruel by François Rabelais",
+      "Lays of Ancient Rome by Baron Thomas Babington Macaulay Macaulay",
+      "Lysistrata by Aristophanes",
+      "The White Company by Arthur Conan Doyle"
+    ],
+    "top_keywords": [
+      {
+        "word": "king",
+        "score": 0.011302
+      },
+      {
+        "word": "son",
+        "score": 0.011079
+      },
+      {
+        "word": "like",
+        "score": 0.008166
+      },
+      {
+        "word": "day",
+        "score": 0.007856
+      },
+      {
+        "word": "ralph",
+        "score": 0.007716
+      },
+      {
+        "word": "lord",
+        "score": 0.007619
+      },
+      {
+        "word": "gods",
+        "score": 0.007336
+      },
+      {
+        "word": "fair",
+        "score": 0.007102
+      },
+      {
+        "word": "sea",
+        "score": 0.007085
+      },
+      {
+        "word": "many",
+        "score": 0.007045
+      },
+      {
+        "word": "sir",
+        "score": 0.006941
+      },
+      {
+        "word": "let",
+        "score": 0.006758
+      },
+      {
+        "word": "unto",
+        "score": 0.006747
+      },
+      {
+        "word": "earth",
+        "score": 0.006701
+      },
+      {
+        "word": "might",
+        "score": 0.006659
+      },
+      {
+        "word": "spake",
+        "score": 0.006576
+      },
+      {
+        "word": "forth",
+        "score": 0.006517
+      },
+      {
+        "word": "time",
+        "score": 0.006301
+      },
+      {
+        "word": "till",
+        "score": 0.00627
+      },
+      {
+        "word": "head",
+        "score": 0.006203
+      }
+    ],
+    "llm_label": "Classical mythology, epic poetry, and medieval romance literature"
+  },
+  "cluster_12": {
+    "cluster_id": 12,
+    "book_count": 10,
+    "books": [
+      "Plutarch: Lives of the noble Grecians and Romans by Plutarch",
+      "An Account of the Conquest of Peru by Pedro Sancho",
+      "Anabasis by Xenophon",
+      "History of the Wars, Books I and II: The Persian War by Procopius",
+      "The History of Rome, Books 01 to 08 by Livy",
+      "The History of the Crusades",
+      "The Lives of the Twelve Caesars, Complete by Suetonius",
+      "The History of the Peloponnesian War by Thucydides",
+      "The Prince by Niccolò Machiavelli",
+      "\"De Bello Gallico\" and Other Commentaries by Julius Caesar"
+    ],
+    "top_keywords": [
+      {
+        "word": "city",
+        "score": 0.018139
+      },
+      {
+        "word": "army",
+        "score": 0.016665
+      },
+      {
+        "word": "enemy",
+        "score": 0.014734
+      },
+      {
+        "word": "war",
+        "score": 0.013946
+      },
+      {
+        "word": "athenians",
+        "score": 0.01307
+      },
+      {
+        "word": "caesar",
+        "score": 0.012861
+      },
+      {
+        "word": "soldiers",
+        "score": 0.012107
+      },
+      {
+        "word": "people",
+        "score": 0.012042
+      },
+      {
+        "word": "time",
+        "score": 0.010423
+      },
+      {
+        "word": "romans",
+        "score": 0.010413
+      },
+      {
+        "word": "sent",
+        "score": 0.010334
+      },
+      {
+        "word": "camp",
+        "score": 0.010247
+      },
+      {
+        "word": "roman",
+        "score": 0.0094
+      },
+      {
+        "word": "senate",
+        "score": 0.008681
+      },
+      {
+        "word": "without",
+        "score": 0.008672
+      },
+      {
+        "word": "king",
+        "score": 0.008347
+      },
+      {
+        "word": "battle",
+        "score": 0.008278
+      },
+      {
+        "word": "country",
+        "score": 0.008243
+      },
+      {
+        "word": "christians",
+        "score": 0.008235
+      },
+      {
+        "word": "might",
+        "score": 0.008182
+      }
+    ],
+    "llm_label": "Ancient and classical military history and political leadership"
+  },
+  "cluster_13": {
+    "cluster_id": 13,
+    "book_count": 21,
+    "books": [
+      "Rizal's own story of his life by José Rizal",
+      "The Thousand and One Nights, Vol. I. by Lane, Lane-Poole, Poole, and Harvey",
+      "A History of the Inquisition of Spain; vol. 1 by Henry Charles Lea",
+      "A short history of the world by H.G. Wells",
+      "Ancient Britain and the Invasions of Julius Caesar by T. Rice Holmes",
+      "Annals and Antiquities of Rajasthan, v. 1 of 3 by James Tod",
+      "History of the Conquest of Mexico; vol. 1/4 by William Hickling Prescott",
+      "The Discovery of America Vol. 1 (of 2) by John Fiske",
+      "The History of the Decline and Fall of the Roman Empire by Edward Gibbon",
+      "The government of the Ottoman Empire in the time of Suleiman the Magnificent",
+      "The historians' history of the world in twenty-five volumes, volume 01 Prolegomena; Egypt, Mesopotamia",
+      "Indian Myth and Legend by Donald A. Mackenzie",
+      "Myths & Legends of Japan by F. Hadland Davis",
+      "Myths and Legends of China by E. T. C. Werner",
+      "Myths of Babylonia and Assyria by Donald A. Mackenzie",
+      "The Fairy-Faith in Celtic Countries by W. Y. Evans-Wentz",
+      "The Golden Bough: A Study of Magic and Religion by James George Frazer",
+      "The Myths of Mexico & Peru by Lewis Spence",
+      "The Sayings of Confucius by Confucius",
+      "La Tribuna by condesa de Emilia Pardo Bazán",
+      "The Art of War by active 6th century B.C. Sunzi"
+    ],
+    "top_keywords": [
+      {
+        "word": "king",
+        "score": 0.010198
+      },
+      {
+        "word": "que",
+        "score": 0.009231
+      },
+      {
+        "word": "god",
+        "score": 0.007946
+      },
+      {
+        "word": "ancient",
+        "score": 0.007455
+      },
+      {
+        "word": "footnote",
+        "score": 0.007106
+      },
+      {
+        "word": "people",
+        "score": 0.006673
+      },
+      {
+        "word": "time",
+        "score": 0.00667
+      },
+      {
+        "word": "many",
+        "score": 0.006426
+      },
+      {
+        "word": "history",
+        "score": 0.006284
+      },
+      {
+        "word": "years",
+        "score": 0.006256
+      },
+      {
+        "word": "name",
+        "score": 0.006107
+      },
+      {
+        "word": "son",
+        "score": 0.006008
+      },
+      {
+        "word": "egypt",
+        "score": 0.005949
+      },
+      {
+        "word": "return",
+        "score": 0.00586
+      },
+      {
+        "word": "found",
+        "score": 0.005762
+      },
+      {
+        "word": "gods",
+        "score": 0.005759
+      },
+      {
+        "word": "like",
+        "score": 0.005683
+      },
+      {
+        "word": "empire",
+        "score": 0.005661
+      },
+      {
+        "word": "sun",
+        "score": 0.005552
+      },
+      {
+        "word": "among",
+        "score": 0.005501
+      }
+    ],
+    "llm_label": "Ancient civilizations, empires, mythology, and world history"
+  },
+  "cluster_14": {
+    "cluster_id": 14,
+    "book_count": 11,
+    "books": [
+      "The Red Rover: A Tale by James Fenimore Cooper",
+      "Frankenstein; Or, The Modern Prometheus by Mary Wollstonecraft Shelley",
+      "The Mummy's Foot by Théophile Gautier",
+      "The Vampyre; a Tale by John William Polidori",
+      "The call of Cthulhu by H. P. Lovecraft",
+      "Twice-told tales by Nathaniel Hawthorne",
+      "The Sorrows of Young Werther by Johann Wolfgang von Goethe",
+      "The Last Man by Mary Wollstonecraft Shelley",
+      "The Scarlet Letter by Nathaniel Hawthorne",
+      "The Last of the Mohicans; A narrative of 1757 by James Fenimore Cooper",
+      "The Spy by James Fenimore Cooper"
+    ],
+    "top_keywords": [
+      {
+        "word": "might",
+        "score": 0.009026
+      },
+      {
+        "word": "wilder",
+        "score": 0.008605
+      },
+      {
+        "word": "heart",
+        "score": 0.008199
+      },
+      {
+        "word": "like",
+        "score": 0.008179
+      },
+      {
+        "word": "eyes",
+        "score": 0.007941
+      },
+      {
+        "word": "though",
+        "score": 0.007754
+      },
+      {
+        "word": "time",
+        "score": 0.007162
+      },
+      {
+        "word": "life",
+        "score": 0.00716
+      },
+      {
+        "word": "hester",
+        "score": 0.006516
+      },
+      {
+        "word": "moment",
+        "score": 0.006487
+      },
+      {
+        "word": "ship",
+        "score": 0.006467
+      },
+      {
+        "word": "whose",
+        "score": 0.006277
+      },
+      {
+        "word": "eye",
+        "score": 0.006244
+      },
+      {
+        "word": "among",
+        "score": 0.006128
+      },
+      {
+        "word": "young",
+        "score": 0.006009
+      },
+      {
+        "word": "voice",
+        "score": 0.005806
+      },
+      {
+        "word": "without",
+        "score": 0.005782
+      },
+      {
+        "word": "scout",
+        "score": 0.005781
+      },
+      {
+        "word": "returned",
+        "score": 0.005772
+      },
+      {
+        "word": "air",
+        "score": 0.005726
+      }
+    ],
+    "llm_label": "Early Romantic and Gothic fiction exploring human emotion and darkness"
+  },
+  "cluster_15": {
+    "cluster_id": 15,
+    "book_count": 16,
+    "books": [
+      "A Connecticut Yankee in King Arthur's Court by Mark Twain",
+      "Daredevil by Leslie Charteris",
+      "The Big Bow Mystery by Israel Zangwill",
+      "The innocence of Father Brown by G. K. Chesterton",
+      "The Dunwich Horror by H. P. Lovecraft",
+      "The Napoleon of Notting Hill by G. K. Chesterton",
+      "The Poison Belt by Arthur Conan Doyle",
+      "A passage to India by E. M. Forster",
+      "Germinal by Émile Zola",
+      "Life in the Iron-Mills; Or, The Korl Woman by Rebecca Harding Davis",
+      "Nostromo: A Tale of the Seaboard by Joseph Conrad",
+      "The Jungle by Upton Sinclair",
+      "All quiet on the Western Front by Erich Maria Remarque",
+      "Mrs. Skagg's Husbands and Other Stories by Bret Harte",
+      "Selected Stories of Bret Harte by Bret Harte",
+      "The Luck of Roaring Camp and Other Tales by Bret Harte"
+    ],
+    "top_keywords": [
+      {
+        "word": "like",
+        "score": 0.012312
+      },
+      {
+        "word": "jurgis",
+        "score": 0.011307
+      },
+      {
+        "word": "time",
+        "score": 0.008484
+      },
+      {
+        "word": "away",
+        "score": 0.008312
+      },
+      {
+        "word": "don",
+        "score": 0.008091
+      },
+      {
+        "word": "eyes",
+        "score": 0.007886
+      },
+      {
+        "word": "face",
+        "score": 0.007583
+      },
+      {
+        "word": "head",
+        "score": 0.007443
+      },
+      {
+        "word": "day",
+        "score": 0.00685
+      },
+      {
+        "word": "can",
+        "score": 0.006799
+      },
+      {
+        "word": "door",
+        "score": 0.006792
+      },
+      {
+        "word": "gould",
+        "score": 0.006652
+      },
+      {
+        "word": "seemed",
+        "score": 0.006647
+      },
+      {
+        "word": "night",
+        "score": 0.006604
+      },
+      {
+        "word": "just",
+        "score": 0.006538
+      },
+      {
+        "word": "without",
+        "score": 0.00641
+      },
+      {
+        "word": "half",
+        "score": 0.006345
+      },
+      {
+        "word": "room",
+        "score": 0.006319
+      },
+      {
+        "word": "storm",
+        "score": 0.006299
+      },
+      {
+        "word": "teal",
+        "score": 0.00583
+      }
+    ],
+    "llm_label": "Late 19th and early 20th century social realism and genre fiction"
+  },
+  "cluster_16": {
+    "cluster_id": 16,
+    "book_count": 15,
+    "books": [
+      "Adventures of Bindle by Herbert George Jenkins",
+      "Mr. Punch's Golf Stories by J. A. Hammerton",
+      "The Book of Nonsense by Edward Lear",
+      "The Real Mother Goose by Blanche Fisher Wright",
+      "Maggie: A Girl of the Streets by Stephen Crane",
+      "Manhattan Transfer by John Dos Passos",
+      "The Fortune Hunter by Louis Joseph Vance and Winchell Smith",
+      "The Trimmed Lamp, and Other Stories of the Four Million",
+      "Yekl: A Tale of the New York Ghetto by Abraham Cahan",
+      "This Side of Paradise by F. Scott Fitzgerald",
+      "Samantha at the World's Fair by Marietta Holley",
+      "2 B R 0 2 B by Kurt Vonnegut",
+      "Scanners live in vain by Paul Myron Anthony Linebarger",
+      "Derelicts of the hills by W. C. Tuttle",
+      "Heart of the West by O. Henry"
+    ],
+    "top_keywords": [
+      {
+        "word": "wuz",
+        "score": 0.035025
+      },
+      {
+        "word": "bindle",
+        "score": 0.025537
+      },
+      {
+        "word": "sez",
+        "score": 0.018427
+      },
+      {
+        "word": "amory",
+        "score": 0.016936
+      },
+      {
+        "word": "like",
+        "score": 0.014719
+      },
+      {
+        "word": "don",
+        "score": 0.012385
+      },
+      {
+        "word": "josiah",
+        "score": 0.009942
+      },
+      {
+        "word": "right",
+        "score": 0.009678
+      },
+      {
+        "word": "eyes",
+        "score": 0.009149
+      },
+      {
+        "word": "can",
+        "score": 0.009043
+      },
+      {
+        "word": "mrs",
+        "score": 0.008893
+      },
+      {
+        "word": "jest",
+        "score": 0.008874
+      },
+      {
+        "word": "duncan",
+        "score": 0.008729
+      },
+      {
+        "word": "dont",
+        "score": 0.008622
+      },
+      {
+        "word": "look",
+        "score": 0.008471
+      },
+      {
+        "word": "face",
+        "score": 0.007841
+      },
+      {
+        "word": "goin",
+        "score": 0.007789
+      },
+      {
+        "word": "time",
+        "score": 0.007774
+      },
+      {
+        "word": "want",
+        "score": 0.007706
+      },
+      {
+        "word": "just",
+        "score": 0.007607
+      }
+    ],
+    "llm_label": "Early American vernacular fiction and humorous urban tales"
+  },
+  "cluster_17": {
+    "cluster_id": 17,
+    "book_count": 8,
+    "books": [
+      "Room 13 by Edgar Wallace",
+      "The Circular Staircase by Mary Roberts Rinehart",
+      "East of Eden by Isa Glenn",
+      "Peter: A Novel of Which He is Not the Hero by Francis Hopkinson Smith",
+      "The Beautiful and Damned by F. Scott Fitzgerald",
+      "The Great Gatsby by F. Scott Fitzgerald",
+      "The Green Mouse by Robert W. Chambers",
+      "Women in Love by D. H. Lawrence"
+    ],
+    "top_keywords": [
+      {
+        "word": "gerald",
+        "score": 0.018212
+      },
+      {
+        "word": "anthony",
+        "score": 0.016792
+      },
+      {
+        "word": "don",
+        "score": 0.016151
+      },
+      {
+        "word": "gudrun",
+        "score": 0.015558
+      },
+      {
+        "word": "peter",
+        "score": 0.014661
+      },
+      {
+        "word": "birkin",
+        "score": 0.014628
+      },
+      {
+        "word": "like",
+        "score": 0.014546
+      },
+      {
+        "word": "jack",
+        "score": 0.014491
+      },
+      {
+        "word": "ursula",
+        "score": 0.014397
+      },
+      {
+        "word": "gloria",
+        "score": 0.012411
+      },
+      {
+        "word": "eva",
+        "score": 0.011872
+      },
+      {
+        "word": "eyes",
+        "score": 0.011832
+      },
+      {
+        "word": "room",
+        "score": 0.011071
+      },
+      {
+        "word": "face",
+        "score": 0.010993
+      },
+      {
+        "word": "want",
+        "score": 0.010877
+      },
+      {
+        "word": "looked",
+        "score": 0.010585
+      },
+      {
+        "word": "asked",
+        "score": 0.010426
+      },
+      {
+        "word": "can",
+        "score": 0.010274
+      },
+      {
+        "word": "yes",
+        "score": 0.009773
+      },
+      {
+        "word": "going",
+        "score": 0.00976
+      }
+    ],
+    "llm_label": "Early twentieth-century novels exploring relationships and social decay"
+  },
+  "cluster_18": {
+    "cluster_id": 18,
+    "book_count": 6,
+    "books": [
+      "Dorothy and the Wizard in Oz by L. Frank Baum",
+      "Grimms' Fairy Tales by Jacob Grimm and Wilhelm Grimm",
+      "The Blue Fairy Book by Andrew Lang",
+      "The Princess and the Goblin by George MacDonald",
+      "The Velveteen Rabbit by Margery Williams Bianco",
+      "The Wonderful Wizard of Oz by L. Frank Baum"
+    ],
+    "top_keywords": [
+      {
+        "word": "princess",
+        "score": 0.031724
+      },
+      {
+        "word": "dorothy",
+        "score": 0.027903
+      },
+      {
+        "word": "king",
+        "score": 0.026535
+      },
+      {
+        "word": "prince",
+        "score": 0.017761
+      },
+      {
+        "word": "curdie",
+        "score": 0.016696
+      },
+      {
+        "word": "wizard",
+        "score": 0.015125
+      },
+      {
+        "word": "away",
+        "score": 0.014515
+      },
+      {
+        "word": "asked",
+        "score": 0.013559
+      },
+      {
+        "word": "saw",
+        "score": 0.013177
+      },
+      {
+        "word": "scarecrow",
+        "score": 0.012847
+      },
+      {
+        "word": "time",
+        "score": 0.012078
+      },
+      {
+        "word": "took",
+        "score": 0.012042
+      },
+      {
+        "word": "answered",
+        "score": 0.011958
+      },
+      {
+        "word": "cried",
+        "score": 0.011747
+      },
+      {
+        "word": "must",
+        "score": 0.011688
+      },
+      {
+        "word": "soon",
+        "score": 0.011614
+      },
+      {
+        "word": "woodman",
+        "score": 0.011339
+      },
+      {
+        "word": "thought",
+        "score": 0.010944
+      },
+      {
+        "word": "can",
+        "score": 0.010854
+      },
+      {
+        "word": "horse",
+        "score": 0.010573
+      }
+    ],
+    "llm_label": "Classic children's fantasy tales with magical quests and transformations"
+  },
+  "cluster_19": {
+    "cluster_id": 19,
+    "book_count": 16,
+    "books": [
+      "The Adventures of Tom Sawyer, Complete by Mark Twain",
+      "A Little Princess by Frances Hodgson Burnett",
+      "Alice's Adventures in Wonderland by Lewis Carroll",
+      "At the Back of the North Wind by George MacDonald",
+      "Black Beauty by Anna Sewell",
+      "Five Children and It by E. Nesbit",
+      "Heidi by Johanna Spyri",
+      "Peter Pan by J. M. Barrie",
+      "The Adventures of Pinocchio by Carlo Collodi",
+      "The Secret Garden by Frances Hodgson Burnett",
+      "The Water-Babies: A Fairy Tale for a Land-Baby by Charles Kingsley",
+      "Through the Looking-Glass by Lewis Carroll",
+      "Winnie-the-Pooh by A. A. Milne",
+      "The Monkey's Paw by W. W. Jacobs",
+      "A farewell to arms by Ernest Hemingway",
+      "My Ántonia by Willa Cather"
+    ],
+    "top_keywords": [
+      {
+        "word": "tom",
+        "score": 0.019618
+      },
+      {
+        "word": "like",
+        "score": 0.019125
+      },
+      {
+        "word": "diamond",
+        "score": 0.018534
+      },
+      {
+        "word": "don",
+        "score": 0.016592
+      },
+      {
+        "word": "heidi",
+        "score": 0.014692
+      },
+      {
+        "word": "alice",
+        "score": 0.01425
+      },
+      {
+        "word": "looked",
+        "score": 0.013808
+      },
+      {
+        "word": "sara",
+        "score": 0.013202
+      },
+      {
+        "word": "just",
+        "score": 0.012657
+      },
+      {
+        "word": "can",
+        "score": 0.01258
+      },
+      {
+        "word": "peter",
+        "score": 0.011392
+      },
+      {
+        "word": "away",
+        "score": 0.011167
+      },
+      {
+        "word": "thought",
+        "score": 0.011161
+      },
+      {
+        "word": "look",
+        "score": 0.011039
+      },
+      {
+        "word": "quite",
+        "score": 0.010934
+      },
+      {
+        "word": "mary",
+        "score": 0.010867
+      },
+      {
+        "word": "time",
+        "score": 0.010371
+      },
+      {
+        "word": "tell",
+        "score": 0.009916
+      },
+      {
+        "word": "put",
+        "score": 0.00991
+      },
+      {
+        "word": "going",
+        "score": 0.009603
+      }
+    ],
+    "llm_label": "Classic children's literature and coming-of-age adventure tales"
+  },
+  "cluster_20": {
+    "cluster_id": 20,
+    "book_count": 5,
+    "books": [
+      "The Swiss Family Robinson; or Adventures in a Desert Island by Johann David Wyss",
+      "The Narrative of Arthur Gordon Pym of Nantucket by Edgar Allan Poe",
+      "A Journey to the Centre of the Earth by Jules Verne",
+      "The Mysterious Island by Jules Verne",
+      "Twenty Thousand Leagues under the Sea by Jules Verne"
+    ],
+    "top_keywords": [
+      {
+        "word": "pencroft",
+        "score": 0.026557
+      },
+      {
+        "word": "harding",
+        "score": 0.021602
+      },
+      {
+        "word": "island",
+        "score": 0.019356
+      },
+      {
+        "word": "captain",
+        "score": 0.018598
+      },
+      {
+        "word": "herbert",
+        "score": 0.017508
+      },
+      {
+        "word": "sea",
+        "score": 0.015763
+      },
+      {
+        "word": "nautilus",
+        "score": 0.015198
+      },
+      {
+        "word": "cyrus",
+        "score": 0.014726
+      },
+      {
+        "word": "engineer",
+        "score": 0.014108
+      },
+      {
+        "word": "water",
+        "score": 0.013636
+      },
+      {
+        "word": "neb",
+        "score": 0.013098
+      },
+      {
+        "word": "spilett",
+        "score": 0.012722
+      },
+      {
+        "word": "nemo",
+        "score": 0.01236
+      },
+      {
+        "word": "fritz",
+        "score": 0.012071
+      },
+      {
+        "word": "granite",
+        "score": 0.011874
+      },
+      {
+        "word": "vessel",
+        "score": 0.010702
+      },
+      {
+        "word": "replied",
+        "score": 0.010661
+      },
+      {
+        "word": "sailor",
+        "score": 0.010508
+      },
+      {
+        "word": "uncle",
+        "score": 0.010032
+      },
+      {
+        "word": "ayrton",
+        "score": 0.009528
+      }
+    ],
+    "llm_label": "Nineteenth-century maritime adventure and island survival exploration narratives"
+  },
+  "cluster_21": {
+    "cluster_id": 21,
+    "book_count": 10,
+    "books": [
+      "Fairy Tales of Hans Christian Andersen by H. C. Andersen",
+      "The Happy Prince, and Other Tales by Oscar Wilde",
+      "Lilith: A Romance by George MacDonald",
+      "Phantastes: A Faerie Romance for Men and Women by George MacDonald",
+      "The Book of Wonder by Lord Dunsany",
+      "The Crock of Gold by James Stephens",
+      "The Hill of Dreams by Arthur Machen",
+      "The King of Elfland's Daughter by Lord Dunsany",
+      "The Mahatma and the Hare: A Dream Story by H. Rider Haggard",
+      "Seneca myths and folk tales by Arthur C. Parker"
+    ],
+    "top_keywords": [
+      {
+        "word": "like",
+        "score": 0.013221
+      },
+      {
+        "word": "saw",
+        "score": 0.012888
+      },
+      {
+        "word": "tree",
+        "score": 0.012373
+      },
+      {
+        "word": "away",
+        "score": 0.011138
+      },
+      {
+        "word": "woman",
+        "score": 0.01059
+      },
+      {
+        "word": "looked",
+        "score": 0.009989
+      },
+      {
+        "word": "boy",
+        "score": 0.00982
+      },
+      {
+        "word": "eyes",
+        "score": 0.009332
+      },
+      {
+        "word": "night",
+        "score": 0.009123
+      },
+      {
+        "word": "stood",
+        "score": 0.009111
+      },
+      {
+        "word": "elfland",
+        "score": 0.009093
+      },
+      {
+        "word": "thought",
+        "score": 0.008967
+      },
+      {
+        "word": "time",
+        "score": 0.008769
+      },
+      {
+        "word": "seemed",
+        "score": 0.008736
+      },
+      {
+        "word": "knew",
+        "score": 0.00864
+      },
+      {
+        "word": "must",
+        "score": 0.008419
+      },
+      {
+        "word": "day",
+        "score": 0.008244
+      },
+      {
+        "word": "heard",
+        "score": 0.008026
+      },
+      {
+        "word": "lay",
+        "score": 0.00798
+      },
+      {
+        "word": "water",
+        "score": 0.007898
+      }
+    ],
+    "llm_label": "Victorian and Edwardian Fantasy Tales and Fairy Romance"
+  },
+  "cluster_22": {
+    "cluster_id": 22,
+    "book_count": 11,
+    "books": [
+      "A Voyage to Arcturus by David Lindsay",
+      "The Purple Cloud by M. P. Shiel",
+      "The House on the Borderland by William Hope Hodgson",
+      "The Willows by Algernon Blackwood",
+      "The Gods of Mars by Edgar Rice Burroughs",
+      "The Metal Monster by Abraham Merritt",
+      "The Moon Pool by Abraham Merritt",
+      "The Time Machine by H. G. Wells",
+      "The War of the Worlds by H. G. Wells",
+      "The island of Doctor Moreau by H. G. Wells",
+      "When the Sleeper Wakes by H. G. Wells"
+    ],
+    "top_keywords": [
+      {
+        "word": "maskull",
+        "score": 0.01838
+      },
+      {
+        "word": "like",
+        "score": 0.013222
+      },
+      {
+        "word": "saw",
+        "score": 0.013129
+      },
+      {
+        "word": "eyes",
+        "score": 0.011326
+      },
+      {
+        "word": "graham",
+        "score": 0.01102
+      },
+      {
+        "word": "seemed",
+        "score": 0.010665
+      },
+      {
+        "word": "time",
+        "score": 0.009924
+      },
+      {
+        "word": "face",
+        "score": 0.009853
+      },
+      {
+        "word": "light",
+        "score": 0.009788
+      },
+      {
+        "word": "feet",
+        "score": 0.009255
+      },
+      {
+        "word": "black",
+        "score": 0.008882
+      },
+      {
+        "word": "stood",
+        "score": 0.008451
+      },
+      {
+        "word": "though",
+        "score": 0.008411
+      },
+      {
+        "word": "turned",
+        "score": 0.008393
+      },
+      {
+        "word": "larry",
+        "score": 0.008225
+      },
+      {
+        "word": "toward",
+        "score": 0.008179
+      },
+      {
+        "word": "looked",
+        "score": 0.007824
+      },
+      {
+        "word": "white",
+        "score": 0.00778
+      },
+      {
+        "word": "green",
+        "score": 0.007382
+      },
+      {
+        "word": "far",
+        "score": 0.007363
+      }
+    ],
+    "llm_label": "Early Science Fiction and Weird Fiction Cosmic Adventures"
+  },
+  "cluster_23": {
+    "cluster_id": 23,
+    "book_count": 7,
+    "books": [
+      "The Lost World by Arthur Conan Doyle",
+      "The Oregon Trail: Sketches of Prairie and Rocky-Mountain Life by Francis Parkman",
+      "The Shunned House by H. P. Lovecraft",
+      "The Wendigo by Algernon Blackwood",
+      "A Princess of Mars by Edgar Rice Burroughs",
+      "The Defence of Duffer's Drift by E. D. Swinton",
+      "Hunting the Grisly and Other Sketches by Theodore Roosevelt"
+    ],
+    "top_keywords": [
+      {
+        "word": "buffalo",
+        "score": 0.01404
+      },
+      {
+        "word": "camp",
+        "score": 0.011937
+      },
+      {
+        "word": "prairie",
+        "score": 0.011395
+      },
+      {
+        "word": "indians",
+        "score": 0.010758
+      },
+      {
+        "word": "among",
+        "score": 0.010353
+      },
+      {
+        "word": "challenger",
+        "score": 0.010061
+      },
+      {
+        "word": "ground",
+        "score": 0.009593
+      },
+      {
+        "word": "side",
+        "score": 0.008578
+      },
+      {
+        "word": "horses",
+        "score": 0.008395
+      },
+      {
+        "word": "bear",
+        "score": 0.008374
+      },
+      {
+        "word": "rifle",
+        "score": 0.00829
+      },
+      {
+        "word": "like",
+        "score": 0.008206
+      },
+      {
+        "word": "dejah",
+        "score": 0.008177
+      },
+      {
+        "word": "thoris",
+        "score": 0.008049
+      },
+      {
+        "word": "time",
+        "score": 0.007899
+      },
+      {
+        "word": "found",
+        "score": 0.007693
+      },
+      {
+        "word": "behind",
+        "score": 0.007615
+      },
+      {
+        "word": "saw",
+        "score": 0.007553
+      },
+      {
+        "word": "indian",
+        "score": 0.007493
+      },
+      {
+        "word": "close",
+        "score": 0.007366
+      }
+    ],
+    "llm_label": "Adventure tales of wilderness exploration and frontier encounters"
+  },
+  "cluster_24": {
+    "cluster_id": 24,
+    "book_count": 7,
+    "books": [
+      "The Samurai Strategy by Thomas Hoover",
+      "Let's Get Together by Isaac Asimov",
+      "Skylark Three by E. E. Smith",
+      "The Night of the Long Knives by Fritz Leiber",
+      "The Vibration Wasps by Frank Belknap Long",
+      "Triplanetary by E. E. Smith",
+      "We by Evgenii Ivanovich Zamiatin"
+    ],
+    "top_keywords": [
+      {
+        "word": "noda",
+        "score": 0.024083
+      },
+      {
+        "word": "seaton",
+        "score": 0.01699
+      },
+      {
+        "word": "just",
+        "score": 0.015931
+      },
+      {
+        "word": "like",
+        "score": 0.01466
+      },
+      {
+        "word": "can",
+        "score": 0.013382
+      },
+      {
+        "word": "tam",
+        "score": 0.013015
+      },
+      {
+        "word": "right",
+        "score": 0.011291
+      },
+      {
+        "word": "around",
+        "score": 0.010814
+      },
+      {
+        "word": "maybe",
+        "score": 0.010718
+      },
+      {
+        "word": "time",
+        "score": 0.010439
+      },
+      {
+        "word": "costigan",
+        "score": 0.010103
+      },
+      {
+        "word": "japanese",
+        "score": 0.010054
+      },
+      {
+        "word": "something",
+        "score": 0.010034
+      },
+      {
+        "word": "going",
+        "score": 0.009932
+      },
+      {
+        "word": "don",
+        "score": 0.00978
+      },
+      {
+        "word": "space",
+        "score": 0.009699
+      },
+      {
+        "word": "japan",
+        "score": 0.009273
+      },
+      {
+        "word": "pop",
+        "score": 0.009261
+      },
+      {
+        "word": "didn",
+        "score": 0.00867
+      },
+      {
+        "word": "miti",
+        "score": 0.0085
+      }
+    ],
+    "llm_label": "Science fiction adventures featuring space exploration and technological conflict"
+  },
+  "cluster_25": {
+    "cluster_id": 25,
+    "book_count": 28,
+    "books": [
+      "The Sea-Wolf by Jack London",
+      "The call of the wild by Jack London",
+      "Treasure Island by Robert Louis Stevenson",
+      "White Fang by Jack London",
+      "How Private George W. Peck Put Down the Rebellion by George W. Peck",
+      "Three Men in a Boat (To Say Nothing of the Dog) by Jerome K. Jerome",
+      "The Thirty-Nine Steps by John Buchan",
+      "The Wind in the Willows by Kenneth Grahame",
+      "Space Prison by Tom Godwin",
+      "Space Station 1 by Frank Belknap Long",
+      "Youth by Isaac Asimov",
+      "Ben Blair by Will Lillibridge",
+      "Gunman's Reckoning by Max Brand",
+      "Love of Life, and Other Stories by Jack London",
+      "Oh, You Tex! by William MacLeod Raine",
+      "One jump ahead by Ray Humphreys",
+      "Riders of the Purple Sage by Zane Grey",
+      "Smoke Bellew by Jack London",
+      "The Border Legion by Zane Grey",
+      "The Broncho Rider Boys with Funston at Vera Cruz by Frank Fowler",
+      "The Call of the Canyon by Zane Grey",
+      "The Light of the Western Stars by Zane Grey",
+      "The Log of a Cowboy: A Narrative of the Old Trail Days by Andy Adams",
+      "The Lone Star Ranger: A Romance of the Border by Zane Grey",
+      "The Man of the Forest by Zane Grey",
+      "The Mysterious Rider by Zane Grey",
+      "The Seventh Man by Max Brand",
+      "The Virginian: A Horseman of the Plains by Owen Wister"
+    ],
+    "top_keywords": [
+      {
+        "word": "like",
+        "score": 0.011245
+      },
+      {
+        "word": "eyes",
+        "score": 0.010328
+      },
+      {
+        "word": "don",
+        "score": 0.010309
+      },
+      {
+        "word": "face",
+        "score": 0.010012
+      },
+      {
+        "word": "horse",
+        "score": 0.009451
+      },
+      {
+        "word": "duane",
+        "score": 0.009354
+      },
+      {
+        "word": "time",
+        "score": 0.009097
+      },
+      {
+        "word": "trail",
+        "score": 0.008702
+      },
+      {
+        "word": "away",
+        "score": 0.008573
+      },
+      {
+        "word": "can",
+        "score": 0.008515
+      },
+      {
+        "word": "saw",
+        "score": 0.008239
+      },
+      {
+        "word": "seemed",
+        "score": 0.008197
+      },
+      {
+        "word": "joan",
+        "score": 0.008155
+      },
+      {
+        "word": "helen",
+        "score": 0.007928
+      },
+      {
+        "word": "white",
+        "score": 0.007928
+      },
+      {
+        "word": "right",
+        "score": 0.007703
+      },
+      {
+        "word": "madeline",
+        "score": 0.007649
+      },
+      {
+        "word": "smoke",
+        "score": 0.00753
+      },
+      {
+        "word": "night",
+        "score": 0.007524
+      },
+      {
+        "word": "just",
+        "score": 0.007481
+      }
+    ],
+    "llm_label": "Adventure tales of wilderness, frontier, and rugged masculinity"
+  },
+  "cluster_26": {
+    "cluster_id": 26,
+    "book_count": 10,
+    "books": [
+      "Eliza by Barry Pain",
+      "The Diary of a Nobody by George Grossmith and Weedon Grossmith",
+      "The Importance of Being Earnest: A Trivial Comedy for Serious People by Oscar Wilde",
+      "The Green Mummy by Fergus Hume",
+      "The Middle Temple Murder by J. S. Fletcher",
+      "The Mysterious Affair at Styles by Agatha Christie",
+      "The Valley of Fear by Arthur Conan Doyle",
+      "The murder of Roger Ackroyd by Agatha Christie",
+      "The Tale of Peter Rabbit by Beatrix Potter",
+      "Ragged Dick, Or, Street Life in New York with the Boot-Blacks by Jr. Horatio Alger"
+    ],
+    "top_keywords": [
+      {
+        "word": "spargo",
+        "score": 0.031149
+      },
+      {
+        "word": "dick",
+        "score": 0.028851
+      },
+      {
+        "word": "poirot",
+        "score": 0.028086
+      },
+      {
+        "word": "mrs",
+        "score": 0.019155
+      },
+      {
+        "word": "don",
+        "score": 0.018865
+      },
+      {
+        "word": "braddock",
+        "score": 0.016187
+      },
+      {
+        "word": "mummy",
+        "score": 0.015209
+      },
+      {
+        "word": "ackroyd",
+        "score": 0.014421
+      },
+      {
+        "word": "jasher",
+        "score": 0.014358
+      },
+      {
+        "word": "asked",
+        "score": 0.013807
+      },
+      {
+        "word": "can",
+        "score": 0.01348
+      },
+      {
+        "word": "yes",
+        "score": 0.013373
+      },
+      {
+        "word": "sir",
+        "score": 0.012944
+      },
+      {
+        "word": "room",
+        "score": 0.012701
+      },
+      {
+        "word": "inglethorp",
+        "score": 0.012434
+      },
+      {
+        "word": "breton",
+        "score": 0.011814
+      },
+      {
+        "word": "random",
+        "score": 0.01181
+      },
+      {
+        "word": "lupin",
+        "score": 0.011186
+      },
+      {
+        "word": "frank",
+        "score": 0.011096
+      },
+      {
+        "word": "miss",
+        "score": 0.010631
+      }
+    ],
+    "llm_label": "Victorian and Edwardian British mysteries and social comedies"
+  },
+  "cluster_27": {
+    "cluster_id": 27,
+    "book_count": 7,
+    "books": [
+      "She Stoops to Conquer; Or, The Mistakes of a Night: A Comedy by Oliver Goldsmith",
+      "The Bow of Orange Ribbon: A Romance of New York by Amelia E. Barr",
+      "Pamela, or Virtue Rewarded by Samuel Richardson",
+      "Wuthering Heights by Emily Brontë",
+      "Vanity Fair by William Makepeace Thackeray",
+      "Mary Barton by Elizabeth Cleghorn Gaskell",
+      "Uncle Tom's Cabin by Harriet Beecher Stowe"
+    ],
+    "top_keywords": [
+      {
+        "word": "miss",
+        "score": 0.017462
+      },
+      {
+        "word": "mrs",
+        "score": 0.017034
+      },
+      {
+        "word": "sir",
+        "score": 0.014841
+      },
+      {
+        "word": "mary",
+        "score": 0.014583
+      },
+      {
+        "word": "crawley",
+        "score": 0.013767
+      },
+      {
+        "word": "dear",
+        "score": 0.013447
+      },
+      {
+        "word": "poor",
+        "score": 0.013132
+      },
+      {
+        "word": "lady",
+        "score": 0.01227
+      },
+      {
+        "word": "master",
+        "score": 0.01208
+      },
+      {
+        "word": "can",
+        "score": 0.011704
+      },
+      {
+        "word": "george",
+        "score": 0.011085
+      },
+      {
+        "word": "don",
+        "score": 0.011016
+      },
+      {
+        "word": "father",
+        "score": 0.010943
+      },
+      {
+        "word": "heart",
+        "score": 0.010144
+      },
+      {
+        "word": "tom",
+        "score": 0.009828
+      },
+      {
+        "word": "mother",
+        "score": 0.009606
+      },
+      {
+        "word": "pamela",
+        "score": 0.009468
+      },
+      {
+        "word": "must",
+        "score": 0.009372
+      },
+      {
+        "word": "thought",
+        "score": 0.009318
+      },
+      {
+        "word": "tell",
+        "score": 0.009282
+      }
+    ],
+    "llm_label": "Eighteenth and Nineteenth Century British and American Social Novels"
+  },
+  "cluster_28": {
+    "cluster_id": 28,
+    "book_count": 19,
+    "books": [
+      "Cranford by Elizabeth Cleghorn Gaskell",
+      "Love Among the Chickens by P. G. Wodehouse",
+      "Miss Mapp by E. F. Benson",
+      "Queen Lucia by E. F. Benson",
+      "Right Ho, Jeeves by P. G. Wodehouse",
+      "The Adventures of Sally by P. G. Wodehouse",
+      "The Green Rust by Edgar Wallace",
+      "The Shadowy Third, and Other Stories by Ellen Anderson Gholson Glasgow",
+      "Dracula by Bram Stoker",
+      "Metamorphosis by Franz Kafka",
+      "A Loyal Little Red-Coat: A Story of Child-life in New York a Hundred Years Ago",
+      "Sister Carrie by Theodore Dreiser",
+      "The Age of Innocence by Edith Wharton",
+      "The Custom of the Country by Edith Wharton",
+      "The House of Mirth by Edith Wharton",
+      "The Old Maid (The 'Fifties) by Edith Wharton",
+      "A Room with a View by E. M. Forster",
+      "The Enchanted April by Elizabeth Von Arnim",
+      "The Return of the Native by Thomas Hardy"
+    ],
+    "top_keywords": [
+      {
+        "word": "mrs",
+        "score": 0.02116
+      },
+      {
+        "word": "miss",
+        "score": 0.017034
+      },
+      {
+        "word": "like",
+        "score": 0.011598
+      },
+      {
+        "word": "carrie",
+        "score": 0.011094
+      },
+      {
+        "word": "don",
+        "score": 0.011045
+      },
+      {
+        "word": "room",
+        "score": 0.010547
+      },
+      {
+        "word": "thought",
+        "score": 0.010281
+      },
+      {
+        "word": "van",
+        "score": 0.009547
+      },
+      {
+        "word": "time",
+        "score": 0.00948
+      },
+      {
+        "word": "can",
+        "score": 0.00926
+      },
+      {
+        "word": "seemed",
+        "score": 0.009211
+      },
+      {
+        "word": "just",
+        "score": 0.009001
+      },
+      {
+        "word": "looked",
+        "score": 0.008483
+      },
+      {
+        "word": "going",
+        "score": 0.008302
+      },
+      {
+        "word": "must",
+        "score": 0.008285
+      },
+      {
+        "word": "door",
+        "score": 0.008091
+      },
+      {
+        "word": "undine",
+        "score": 0.007889
+      },
+      {
+        "word": "might",
+        "score": 0.007834
+      },
+      {
+        "word": "face",
+        "score": 0.007802
+      },
+      {
+        "word": "yes",
+        "score": 0.007707
+      }
+    ],
+    "llm_label": "British and American social comedies and domestic realism"
+  },
+  "cluster_29": {
+    "cluster_id": 29,
+    "book_count": 15,
+    "books": [
+      "The Pickwick Papers by Charles Dickens",
+      "The Adventures of Sherlock Holmes by Arthur Conan Doyle",
+      "The Hound of the Baskervilles by Arthur Conan Doyle",
+      "The Leavenworth Case by Anna Katharine Green",
+      "The Mystery of Edwin Drood by Charles Dickens",
+      "The Queen of Hearts by Wilkie Collins",
+      "Trent's Last Case by E. C. Bentley",
+      "X Y Z: A Detective Story by Anna Katharine Green",
+      "The Brass Bottle by F. Anstey",
+      "The Parasite: A Story by Arthur Conan Doyle",
+      "The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson",
+      "The Turn of the Screw by Henry James",
+      "The Portrait of a Lady — Volume 1 by Henry James",
+      "Hard Times by Charles Dickens",
+      "Oliver Twist by Charles Dickens"
+    ],
+    "top_keywords": [
+      {
+        "word": "sir",
+        "score": 0.017212
+      },
+      {
+        "word": "pickwick",
+        "score": 0.016642
+      },
+      {
+        "word": "mrs",
+        "score": 0.01184
+      },
+      {
+        "word": "don",
+        "score": 0.011358
+      },
+      {
+        "word": "room",
+        "score": 0.010616
+      },
+      {
+        "word": "time",
+        "score": 0.010088
+      },
+      {
+        "word": "oliver",
+        "score": 0.00987
+      },
+      {
+        "word": "can",
+        "score": 0.00967
+      },
+      {
+        "word": "gentleman",
+        "score": 0.009648
+      },
+      {
+        "word": "replied",
+        "score": 0.009345
+      },
+      {
+        "word": "face",
+        "score": 0.009302
+      },
+      {
+        "word": "door",
+        "score": 0.008765
+      },
+      {
+        "word": "house",
+        "score": 0.008491
+      },
+      {
+        "word": "young",
+        "score": 0.00839
+      },
+      {
+        "word": "isabel",
+        "score": 0.008212
+      },
+      {
+        "word": "lady",
+        "score": 0.008212
+      },
+      {
+        "word": "like",
+        "score": 0.008176
+      },
+      {
+        "word": "might",
+        "score": 0.008147
+      },
+      {
+        "word": "dear",
+        "score": 0.008036
+      },
+      {
+        "word": "horace",
+        "score": 0.007765
+      }
+    ],
+    "llm_label": "Victorian-era British mystery detective and social novels"
+  }
+}
