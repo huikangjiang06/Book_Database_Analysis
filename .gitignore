@@ -3,7 +3,7 @@ out/main_component_removal/*
 !out/main_component_removal/eigenvalues_top_20.json
 !out/main_component_removal/eigenvalues.json
 
-src/knn_community/*
+src/knn_community
 
 outputs_embeddings_all_with_chunks/*
 !outputs_embeddings_all_with_chunks/.gitkeep
