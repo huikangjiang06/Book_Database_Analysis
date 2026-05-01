@@ -1,0 +1,225 @@
+{
+  "reference_family": "Cerebras-GPT",
+  "reference_size": "13B",
+  "k": 10,
+  "abtt_n": 2,
+  "n_books": 500,
+  "records": [
+    {
+      "family": "Pythia",
+      "size": "70M",
+      "label": "Pythia/70M",
+      "model_size_millions": 70.0,
+      "mean": 0.4538,
+      "std": 0.20200386134923262,
+      "median": 0.5
+    },
+    {
+      "family": "Cerebras-GPT",
+      "size": "111M",
+      "label": "Cerebras-GPT/111M",
+      "model_size_millions": 111.0,
+      "mean": 0.4926,
+      "std": 0.18189348531489521,
+      "median": 0.5
+    },
+    {
+      "family": "Pythia",
+      "size": "160M",
+      "label": "Pythia/160M",
+      "model_size_millions": 160.0,
+      "mean": 0.49439999999999995,
+      "std": 0.21616808275043753,
+      "median": 0.5
+    },
+    {
+      "family": "Cerebras-GPT",
+      "size": "256M",
+      "label": "Cerebras-GPT/256M",
+      "model_size_millions": 256.0,
+      "mean": 0.5762,
+      "std": 0.17836356130106842,
+      "median": 0.6
+    },
+    {
+      "family": "Pythia",
+      "size": "410M",
+      "label": "Pythia/410M",
+      "model_size_millions": 410.0,
+      "mean": 0.5758,
+      "std": 0.20735081383973394,
+      "median": 0.6
+    },
+    {
+      "family": "Qwen2.5",
+      "size": "0.5B",
+      "label": "Qwen2.5/0.5B",
+      "model_size_millions": 500.0,
+      "mean": 0.4918,
+      "std": 0.21258588852508534,
+      "median": 0.5
+    },
+    {
+      "family": "Cerebras-GPT",
+      "size": "590M",
+      "label": "Cerebras-GPT/590M",
+      "model_size_millions": 590.0,
+      "mean": 0.6357999999999999,
+      "std": 0.16594685896394665,
+      "median": 0.6
+    },
+    {
+      "family": "Qwen3-Embedding",
+      "size": "0.6B",
+      "label": "Qwen3-Embedding/0.6B",
+      "model_size_millions": 600.0,
+      "mean": 0.40959999999999996,
+      "std": 0.21068421867809653,
+      "median": 0.4
+    },
+    {
+      "family": "Pythia",
+      "size": "1B",
+      "label": "Pythia/1B",
+      "model_size_millions": 1000.0,
+      "mean": 0.596,
+      "std": 0.19905778055629977,
+      "median": 0.6
+    },
+    {
+      "family": "Cerebras-GPT",
+      "size": "1.3B",
+      "label": "Cerebras-GPT/1.3B",
+      "model_size_millions": 1300.0,
+      "mean": 0.7268,
+      "std": 0.1504717913763241,
+      "median": 0.7
+    },
+    {
+      "family": "Pythia",
+      "size": "1.4B",
+      "label": "Pythia/1.4B",
+      "model_size_millions": 1400.0,
+      "mean": 0.6165999999999999,
+      "std": 0.19986105173344804,
+      "median": 0.6
+    },
+    {
+      "family": "Qwen2.5",
+      "size": "1.5B",
+      "label": "Qwen2.5/1.5B",
+      "model_size_millions": 1500.0,
+      "mean": 0.5337999999999999,
+      "std": 0.21641986969777058,
+      "median": 0.55
+    },
+    {
+      "family": "Cerebras-GPT",
+      "size": "2.7B",
+      "label": "Cerebras-GPT/2.7B",
+      "model_size_millions": 2700.0,
+      "mean": 0.8012000000000001,
+      "std": 0.12360647232244759,
+      "median": 0.8
+    },
+    {
+      "family": "Pythia",
+      "size": "2.8B",
+      "label": "Pythia/2.8B",
+      "model_size_millions": 2800.0,
+      "mean": 0.657,
+      "std": 0.1935226084983354,
+      "median": 0.7
+    },
+    {
+      "family": "Qwen2.5",
+      "size": "3B",
+      "label": "Qwen2.5/3B",
+      "model_size_millions": 3000.0,
+      "mean": 0.5554000000000001,
+      "std": 0.2183365292386961,
+      "median": 0.6
+    },
+    {
+      "family": "Qwen3-Embedding",
+      "size": "4B",
+      "label": "Qwen3-Embedding/4B",
+      "model_size_millions": 4000.0,
+      "mean": 0.43739999999999996,
+      "std": 0.20411085223475992,
+      "median": 0.4
+    },
+    {
+      "family": "Cerebras-GPT",
+      "size": "6.7B",
+      "label": "Cerebras-GPT/6.7B",
+      "model_size_millions": 6700.0,
+      "mean": 0.8276000000000001,
+      "std": 0.11915636785333801,
+      "median": 0.8
+    },
+    {
+      "family": "Pythia",
+      "size": "6.9B",
+      "label": "Pythia/6.9B",
+      "model_size_millions": 6900.0,
+      "mean": 0.6536000000000001,
+      "std": 0.19981751674965836,
+      "median": 0.7
+    },
+    {
+      "family": "Qwen2.5",
+      "size": "7B",
+      "label": "Qwen2.5/7B",
+      "model_size_millions": 7000.0,
+      "mean": 0.5316000000000001,
+      "std": 0.21373216884690052,
+      "median": 0.5
+    },
+    {
+      "family": "Qwen3-Embedding",
+      "size": "8B",
+      "label": "Qwen3-Embedding/8B",
+      "model_size_millions": 8000.0,
+      "mean": 0.45520000000000005,
+      "std": 0.2017745276292327,
+      "median": 0.5
+    },
+    {
+      "family": "Pythia",
+      "size": "12B",
+      "label": "Pythia/12B",
+      "model_size_millions": 12000.0,
+      "mean": 0.6184000000000001,
+      "std": 0.20703004612857526,
+      "median": 0.6
+    },
+    {
+      "family": "Cerebras-GPT",
+      "size": "13B",
+      "label": "Cerebras-GPT/13B",
+      "model_size_millions": 13000.0,
+      "mean": 1.0,
+      "std": 0.0,
+      "median": 1.0
+    },
+    {
+      "family": "OpenAI",
+      "size": "text-embedding-3-small",
+      "label": "OpenAI/text-embedding-3-small",
+      "model_size_millions": null,
+      "mean": 0.523,
+      "std": 0.19992748685460937,
+      "median": 0.5
+    },
+    {
+      "family": "OpenAI",
+      "size": "text-embedding-3-large",
+      "label": "OpenAI/text-embedding-3-large",
+      "model_size_millions": null,
+      "mean": 0.5655999999999999,
+      "std": 0.19873761596637915,
+      "median": 0.6
+    }
+  ]
+}

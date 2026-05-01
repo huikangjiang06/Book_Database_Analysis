@@ -1,0 +1,23 @@
+{
+  "family": "OpenAI",
+  "embedding_level": "chunk",
+  "num_instances": 350,
+  "num_candidates": 49,
+  "seed": 42,
+  "sample_n": 5000,
+  "sample_seed": 42,
+  "results": {
+    "genre": {
+      "text-embedding-3-small": 0.24857142857142858,
+      "text-embedding-3-large": 0.24857142857142858
+    },
+    "bookshelf": {
+      "text-embedding-3-small": 0.0546875,
+      "text-embedding-3-large": 0.0625
+    },
+    "subject": {
+      "text-embedding-3-small": 0.28125,
+      "text-embedding-3-large": 0.296875
+    }
+  }
+}

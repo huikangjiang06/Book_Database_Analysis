@@ -1,0 +1,138 @@
+{
+  "family": "Qwen2.5",
+  "k": 10,
+  "abtt_n": 2,
+  "n_books": 500,
+  "sizes": [
+    "0.5B",
+    "1.5B",
+    "3B",
+    "7B"
+  ],
+  "mnn": [
+    [
+      1.0,
+      0.659,
+      0.5778,
+      0.6012000000000001
+    ],
+    [
+      0.659,
+      1.0,
+      0.6482,
+      0.6368
+    ],
+    [
+      0.5778,
+      0.6482,
+      1.0,
+      0.6364000000000001
+    ],
+    [
+      0.6012000000000001,
+      0.6368,
+      0.6364000000000001,
+      1.0
+    ]
+  ],
+  "largest_model_alignment": {
+    "reference_size": "7B",
+    "sizes": [
+      "0.5B",
+      "1.5B",
+      "3B",
+      "7B"
+    ],
+    "means": [
+      0.6012000000000001,
+      0.6368,
+      0.6364000000000001,
+      1.0
+    ]
+  },
+  "pairs": [
+    {
+      "size_a": "0.5B",
+      "size_b": "1.5B",
+      "label": "0.5B -> 1.5B",
+      "is_adjacent": true,
+      "mean": 0.659,
+      "std": 0.160682917573711,
+      "median": 0.7
+    },
+    {
+      "size_a": "1.5B",
+      "size_b": "3B",
+      "label": "1.5B -> 3B",
+      "is_adjacent": true,
+      "mean": 0.6482,
+      "std": 0.17826037136727838,
+      "median": 0.7
+    },
+    {
+      "size_a": "3B",
+      "size_b": "7B",
+      "label": "3B -> 7B",
+      "is_adjacent": true,
+      "mean": 0.6364000000000001,
+      "std": 0.18621235189965246,
+      "median": 0.7
+    }
+  ],
+  "all_pairs": [
+    {
+      "size_a": "0.5B",
+      "size_b": "1.5B",
+      "label": "0.5B -> 1.5B",
+      "is_adjacent": true,
+      "mean": 0.659,
+      "std": 0.160682917573711,
+      "median": 0.7
+    },
+    {
+      "size_a": "0.5B",
+      "size_b": "3B",
+      "label": "0.5B -> 3B",
+      "is_adjacent": false,
+      "mean": 0.5778,
+      "std": 0.17357177189854348,
+      "median": 0.6
+    },
+    {
+      "size_a": "0.5B",
+      "size_b": "7B",
+      "label": "0.5B -> 7B",
+      "is_adjacent": false,
+      "mean": 0.6012000000000001,
+      "std": 0.18340817866169437,
+      "median": 0.6
+    },
+    {
+      "size_a": "1.5B",
+      "size_b": "3B",
+      "label": "1.5B -> 3B",
+      "is_adjacent": true,
+      "mean": 0.6482,
+      "std": 0.17826037136727838,
+      "median": 0.7
+    },
+    {
+      "size_a": "1.5B",
+      "size_b": "7B",
+      "label": "1.5B -> 7B",
+      "is_adjacent": false,
+      "mean": 0.6368,
+      "std": 0.18451493164511104,
+      "median": 0.7
+    },
+    {
+      "size_a": "3B",
+      "size_b": "7B",
+      "label": "3B -> 7B",
+      "is_adjacent": true,
+      "mean": 0.6364000000000001,
+      "std": 0.18621235189965246,
+      "median": 0.7
+    }
+  ]
+}

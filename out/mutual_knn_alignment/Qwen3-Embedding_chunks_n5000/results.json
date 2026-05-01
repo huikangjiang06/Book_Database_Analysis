@@ -1,0 +1,94 @@
+{
+  "family": "Qwen3-Embedding",
+  "k": 10,
+  "abtt_n": 0,
+  "embedding_level": "chunk",
+  "sample_n": 5000,
+  "sample_seed": 42,
+  "n_books": null,
+  "n_embeddings": 5000,
+  "sizes": [
+    "0.6B",
+    "4B",
+    "8B"
+  ],
+  "mnn": [
+    [
+      1.0,
+      0.5566399999999999,
+      0.5136
+    ],
+    [
+      0.5566399999999999,
+      1.0,
+      0.64352
+    ],
+    [
+      0.5136,
+      0.64352,
+      1.0
+    ]
+  ],
+  "largest_model_alignment": {
+    "reference_size": "8B",
+    "sizes": [
+      "0.6B",
+      "4B",
+      "8B"
+    ],
+    "means": [
+      0.5136,
+      0.64352,
+      1.0
+    ]
+  },
+  "pairs": [
+    {
+      "size_a": "0.6B",
+      "size_b": "4B",
+      "label": "0.6B -> 4B",
+      "is_adjacent": true,
+      "mean": 0.5566399999999999,
+      "std": 0.20296775704530015,
+      "median": 0.6
+    },
+    {
+      "size_a": "4B",
+      "size_b": "8B",
+      "label": "4B -> 8B",
+      "is_adjacent": true,
+      "mean": 0.64352,
+      "std": 0.17044063365289394,
+      "median": 0.7
+    }
+  ],
+  "all_pairs": [
+    {
+      "size_a": "0.6B",
+      "size_b": "4B",
+      "label": "0.6B -> 4B",
+      "is_adjacent": true,
+      "mean": 0.5566399999999999,
+      "std": 0.20296775704530015,
+      "median": 0.6
+    },
+    {
+      "size_a": "0.6B",
+      "size_b": "8B",
+      "label": "0.6B -> 8B",
+      "is_adjacent": false,
+      "mean": 0.5136,
+      "std": 0.2074006750230095,
+      "median": 0.5
+    },
+    {
+      "size_a": "4B",
+      "size_b": "8B",
+      "label": "4B -> 8B",
+      "is_adjacent": true,
+      "mean": 0.64352,
+      "std": 0.17044063365289394,
+      "median": 0.7
+    }
+  ]
+}

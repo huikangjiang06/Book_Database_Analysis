@@ -1,0 +1,53 @@
+{
+  "family": "OpenAI",
+  "k": 10,
+  "abtt_n": 0,
+  "n_books": 500,
+  "sizes": [
+    "text-embedding-3-small",
+    "text-embedding-3-large"
+  ],
+  "mnn": [
+    [
+      1.0,
+      0.7163999999999999
+    ],
+    [
+      0.7163999999999999,
+      1.0
+    ]
+  ],
+  "largest_model_alignment": {
+    "reference_size": "text-embedding-3-large",
+    "sizes": [
+      "text-embedding-3-small",
+      "text-embedding-3-large"
+    ],
+    "means": [
+      0.7163999999999999,
+      1.0
+    ]
+  },
+  "pairs": [
+    {
+      "size_a": "text-embedding-3-small",
+      "size_b": "text-embedding-3-large",
+      "label": "text-embedding-3-small -> text-embedding-3-large",
+      "is_adjacent": true,
+      "mean": 0.7163999999999999,
+      "std": 0.1435654554549945,
+      "median": 0.7
+    }
+  ],
+  "all_pairs": [
+    {
+      "size_a": "text-embedding-3-small",
+      "size_b": "text-embedding-3-large",
+      "label": "text-embedding-3-small -> text-embedding-3-large",
+      "is_adjacent": true,
+      "mean": 0.7163999999999999,
+      "std": 0.1435654554549945,
+      "median": 0.7
+    }
+  ]
+}

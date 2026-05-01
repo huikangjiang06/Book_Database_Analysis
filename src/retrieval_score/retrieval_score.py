@@ -25,6 +25,8 @@ Usage:
     python src/retrieval_score/retrieval_score.py --model_family Qwen3-Embedding
     python src/retrieval_score/retrieval_score.py --model_family Pythia \\
         --num_instances 200 --num_candidates 19
+    python src/retrieval_score/retrieval_score.py --model_family Pythia \\
+        --embedding_level chunk --sample_n 5000
 """
 
 import argparse
@@ -52,6 +54,8 @@ META_FILE = os.path.join(ROOT, "out", "gutenberg_meta", "meta.jsonl")
 BASE_OUT  = os.path.join(ROOT, "out", "retrieval_score")
 
 GROUPINGS = ["genre", "bookshelf", "subject"]
+BOOK_LEVEL = "book"
+CHUNK_LEVEL = "chunk"
 
 GROUPING_COLORS = {
     "genre":     "#2196F3",
@@ -66,7 +70,25 @@ def nfc(s: str) -> str:
     return unicodedata.normalize("NFC", s)
 
 
+class NumpyCompatUnpickler(pickle.Unpickler):
+    """Read NumPy 2.x pickles from NumPy 1.x runtimes."""
+
+    def find_class(self, module: str, name: str):
+        if module.startswith("numpy._core"):
+            module = module.replace("numpy._core", "numpy.core", 1)
+        return super().find_class(module, name)
+
+
+def load_pickle(path: str):
+    with open(path, "rb") as f:
+        return NumpyCompatUnpickler(f).load()
+
+
 def _size_sort_key(s: str) -> float:
+    if s == "text-embedding-3-small":
+        return 1e12
+    if s == "text-embedding-3-large":
+        return 1e12 + 1
     m = re.match(r"([\d.]+)\s*([BbMmKk]?)", s.strip())
     if not m:
         return float("inf")
@@ -118,7 +140,90 @@ def load_book_names_with_genre(family: str, size: str) -> list[tuple[str, str]]:
     return out
 
 
-def load_embeddings(family: str, size: str, abtt_n: int = 0) -> dict[str, np.ndarray]:
+def _normalise_rows(X: np.ndarray) -> np.ndarray:
+    norms = np.linalg.norm(X, axis=1, keepdims=True)
+    norms[norms == 0] = 1.0
+    return X / norms
+
+
+def chunk_id(book_name: str, chunk_idx: int) -> str:
+    return f"{book_name}::chunk_{chunk_idx:05d}"
+
+
+def collect_chunk_ids(family: str, size: str) -> dict[str, list[str]]:
+    """book_name -> chunk IDs available for this model size."""
+    base = os.path.join(EMB_DIR, family, size)
+    paths = sorted(glob.glob(os.path.join(base, "**", "*.pkl"), recursive=True))
+    out: dict[str, list[str]] = {}
+    for path in paths:
+        d = load_pickle(path)
+        chunks = d.get("chunk_embeddings")
+        if chunks is None:
+            continue
+        book_name = nfc(os.path.splitext(os.path.basename(path))[0])
+        out[book_name] = [chunk_id(book_name, i) for i in range(len(chunks))]
+    return out
+
+
+def sample_common_chunk_ids(
+    family: str,
+    sizes: list[str],
+    sample_n: int,
+    seed: int,
+) -> set[str]:
+    """Stratified sample of chunk IDs common to every size, preserving book coverage."""
+    print(f"[sample] Collecting common chunk IDs across {len(sizes)} sizes...")
+    first_by_book: dict[str, list[str]] | None = None
+    common: set[str] | None = None
+    for size in sizes:
+        by_book = collect_chunk_ids(family, size)
+        ids = {cid for ids_for_book in by_book.values() for cid in ids_for_book}
+        if first_by_book is None:
+            first_by_book = by_book
+        common = ids if common is None else common & ids
+        print(f"  {size:>25}: {len(ids):>7} chunks")
+
+    if not common:
+        raise ValueError(f"No common chunk IDs found for {family}.")
+
+    ordered_by_book = {
+        book: [cid for cid in ids if cid in common]
+        for book, ids in first_by_book.items()
+    }
+    ordered_by_book = {book: ids for book, ids in ordered_by_book.items() if ids}
+    ordered_all = [cid for ids in ordered_by_book.values() for cid in ids]
+
+    if sample_n <= 0 or sample_n >= len(ordered_all):
+        selected = set(ordered_all)
+        print(f"[sample] Common chunks: {len(ordered_all)}; using all")
+        return selected
+
+    rng = random.Random(seed)
+    selected: list[str] = []
+
+    # First pass: one chunk per book when the budget allows it.
+    books = list(ordered_by_book)
+    rng.shuffle(books)
+    for book in books[:min(sample_n, len(books))]:
+        selected.append(rng.choice(ordered_by_book[book]))
+
+    remaining_budget = sample_n - len(selected)
+    if remaining_budget > 0:
+        selected_set = set(selected)
+        remaining = [cid for cid in ordered_all if cid not in selected_set]
+        selected.extend(rng.sample(remaining, min(remaining_budget, len(remaining))))
+
+    print(f"[sample] Common chunks: {len(ordered_all)}; using {len(selected)} (seed={seed})")
+    return set(selected)
+
+
+def load_embeddings(
+    family: str,
+    size: str,
+    abtt_n: int = 0,
+    embedding_level: str = BOOK_LEVEL,
+    selected_chunk_ids: set[str] | None = None,
+) -> dict[str, np.ndarray]:
     """book_name (NFC) → L2-normalised embedding (with optional ABTT postprocessing)."""
     base  = os.path.join(EMB_DIR, family, size)
     paths = sorted(glob.glob(os.path.join(base, "**", "*.pkl"), recursive=True))
@@ -126,20 +231,36 @@ def load_embeddings(family: str, size: str, abtt_n: int = 0) -> dict[str, np.nda
     book_names: list[str] = []
     raw: list[np.ndarray] = []
     for path in paths:
-        with open(path, "rb") as f:
-            d = pickle.load(f)
-        emb = d.get("embedding")
-        if emb is None:
-            emb = d.get("book_embedding")
-        if emb is None:
-            continue
-        emb = np.array(emb, dtype=np.float64)
-        norm = np.linalg.norm(emb)
-        if norm > 0:
-            emb /= norm
         bn = nfc(os.path.splitext(os.path.basename(path))[0])
-        book_names.append(bn)
-        raw.append(emb)
+        d = load_pickle(path)
+
+        if embedding_level == BOOK_LEVEL:
+            emb = d.get("embedding")
+            if emb is None:
+                emb = d.get("book_embedding")
+            if emb is None:
+                continue
+            emb = np.array(emb, dtype=np.float64)
+            norm = np.linalg.norm(emb)
+            if norm > 0:
+                emb /= norm
+            book_names.append(bn)
+            raw.append(emb)
+        else:
+            chunks = d.get("chunk_embeddings")
+            if chunks is None:
+                continue
+            rows = []
+            for chunk_idx, emb in enumerate(chunks):
+                cid = chunk_id(bn, chunk_idx)
+                if selected_chunk_ids is not None and cid not in selected_chunk_ids:
+                    continue
+                rows.append(np.array(emb, dtype=np.float64))
+            if rows:
+                embs[bn] = _normalise_rows(np.stack(rows)).astype(np.float32)
+
+    if embedding_level == CHUNK_LEVEL:
+        return embs
 
     if not raw:
         return embs
@@ -231,6 +352,30 @@ def score_instances(
     return correct / total if total > 0 else float("nan")
 
 
+def score_instances_chunk(
+    embs: dict[str, np.ndarray],
+    instances: list[tuple[str, str, list[str]]],
+) -> float:
+    correct = total = 0
+    for query, target, distractors in instances:
+        if query not in embs or target not in embs:
+            continue
+        if any(d not in embs for d in distractors):
+            continue
+
+        q = embs[query]
+        pool = [target] + distractors
+        sims = []
+        for book in pool:
+            # Candidate score: average, over sampled query chunks, of the best
+            # matching sampled chunk in the candidate book.
+            sims.append(float((q @ embs[book].T).max(axis=1).mean()))
+        if int(np.argmax(np.array(sims))) == 0:
+            correct += 1
+        total += 1
+    return correct / total if total > 0 else float("nan")
+
+
 # ─── Plotting ─────────────────────────────────────────────────────────────────
 
 def plot_results(
@@ -239,6 +384,7 @@ def plot_results(
     out_dir: str,
     family: str,
     num_candidates: int,
+    embedding_level: str,
 ):
     chance = 1.0 / (num_candidates + 1)
 
@@ -252,7 +398,8 @@ def plot_results(
     ax.axhline(chance, color="gray", linestyle="--", linewidth=1,
                label=f"random ({chance:.0%})")
 
-    ax.set_title(f"Retrieval Accuracy — {family}")
+    suffix = "chunk embeddings" if embedding_level == CHUNK_LEVEL else "book embeddings"
+    ax.set_title(f"Retrieval Accuracy — {family} ({suffix})")
     ax.set_xlabel("Model size")
     ax.set_ylabel("Accuracy")
     ax.set_ylim(0, 1.05)
@@ -277,12 +424,25 @@ def main():
     parser.add_argument("--num_candidates", type=int, default=49,
                         help="Number of distractor books (pool size = num_candidates + 1)")
     parser.add_argument("--seed",           type=int, default=42)
+    parser.add_argument("--embedding_level", choices=[BOOK_LEVEL, CHUNK_LEVEL], default=BOOK_LEVEL,
+                        help="Use whole-book embeddings or sampled chunk embeddings")
+    parser.add_argument("--sample_n",       type=int, default=5000,
+                        help="Chunk mode: number of common chunk embeddings to sample; 0 = all")
+    parser.add_argument("--sample_seed",    type=int, default=42,
+                        help="Chunk mode: random seed for chunk sampling")
     parser.add_argument("--abtt",           type=int, default=0, metavar="N",
-                        help="Apply ABTT: remove top-N principal directions (0 = disabled)")
+                        help="Book mode only: apply ABTT, removing top-N principal directions (0 = disabled)")
     args = parser.parse_args()
 
+    if args.embedding_level == CHUNK_LEVEL and args.abtt > 0:
+        raise ValueError("ABTT is only available for book embeddings; use --abtt 0 with --embedding_level chunk.")
+
     family  = args.model_family
-    suffix  = f"_abtt" if args.abtt > 0 else ""
+    if args.embedding_level == CHUNK_LEVEL:
+        sample_suffix = "all" if args.sample_n <= 0 else str(args.sample_n)
+        suffix = f"_chunks_n{sample_suffix}"
+    else:
+        suffix  = f"_abtt" if args.abtt > 0 else ""
     out_dir = os.path.join(BASE_OUT, family + suffix)
     os.makedirs(out_dir, exist_ok=True)
 
@@ -297,6 +457,15 @@ def main():
     book_genre_pairs = load_book_names_with_genre(family, sizes[0])
     all_books = [bn for bn, _ in book_genre_pairs]
     print(f"[load] {len(all_books)} books in {family}/{sizes[0]}")
+
+    selected_chunk_ids = None
+    if args.embedding_level == CHUNK_LEVEL:
+        selected_chunk_ids = sample_common_chunk_ids(
+            family, sizes, args.sample_n, args.sample_seed
+        )
+        available_books = {cid.split("::chunk_", 1)[0] for cid in selected_chunk_ids}
+        all_books = [book for book in all_books if book in available_books]
+        print(f"[sample] {len(all_books)} books have sampled chunks")
 
     # Backfill genre in meta from pkl directory structure (covers books with no meta)
     for bn, genre in book_genre_pairs:
@@ -323,11 +492,20 @@ def main():
 
     for size in sizes:
         print(f"  loading {family}/{size} …", end="", flush=True)
-        embs = load_embeddings(family, size, abtt_n=args.abtt)
+        embs = load_embeddings(
+            family,
+            size,
+            abtt_n=args.abtt,
+            embedding_level=args.embedding_level,
+            selected_chunk_ids=selected_chunk_ids,
+        )
         print(f"  {len(embs)} embs")
         row = f"{size:>{col_w}}"
         for g in GROUPINGS:
-            acc = score_instances(embs, instances_map[g])
+            if args.embedding_level == CHUNK_LEVEL:
+                acc = score_instances_chunk(embs, instances_map[g])
+            else:
+                acc = score_instances(embs, instances_map[g])
             results[g][size] = acc
             row += f"  {acc:>{col_w}.1%}" if not np.isnan(acc) else f"  {'N/A':>{col_w}}"
         print(row)
@@ -338,9 +516,12 @@ def main():
     out_json = os.path.join(out_dir, "results.json")
     serial = {
         "family":         family,
+        "embedding_level": args.embedding_level,
         "num_instances":  args.num_instances,
         "num_candidates": args.num_candidates,
         "seed":           args.seed,
+        "sample_n":       len(selected_chunk_ids) if selected_chunk_ids is not None else None,
+        "sample_seed":    args.sample_seed if args.embedding_level == CHUNK_LEVEL else None,
         "results": {
             g: {s: (v if not np.isnan(v) else None) for s, v in sv.items()}
             for g, sv in results.items()
@@ -350,7 +531,7 @@ def main():
         json.dump(serial, fh, indent=2)
     print(f"\n[save]  Results → {out_json}")
 
-    plot_results(results, sizes, out_dir, family, args.num_candidates)
+    plot_results(results, sizes, out_dir, family, args.num_candidates, args.embedding_level)
 
 
 if __name__ == "__main__":

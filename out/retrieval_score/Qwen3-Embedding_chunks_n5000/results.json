@@ -1,0 +1,26 @@
+{
+  "family": "Qwen3-Embedding",
+  "embedding_level": "chunk",
+  "num_instances": 350,
+  "num_candidates": 49,
+  "seed": 42,
+  "sample_n": 5000,
+  "sample_seed": 42,
+  "results": {
+    "genre": {
+      "0.6B": 0.22,
+      "4B": 0.2257142857142857,
+      "8B": 0.2342857142857143
+    },
+    "bookshelf": {
+      "0.6B": 0.06640625,
+      "4B": 0.0625,
+      "8B": 0.05859375
+    },
+    "subject": {
+      "0.6B": 0.24479166666666666,
+      "4B": 0.234375,
+      "8B": 0.265625
+    }
+  }
+}

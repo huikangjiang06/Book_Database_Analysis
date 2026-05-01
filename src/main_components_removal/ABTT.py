@@ -40,19 +40,31 @@ _avg_embed_cache: dict | None = None
 _pca_cache:       dict | None = None
 
 
+class _NumpyCompatUnpickler(pickle.Unpickler):
+    """Read NumPy 2.x pickles from NumPy 1.x runtimes."""
+
+    def find_class(self, module: str, name: str):
+        if module.startswith("numpy._core"):
+            module = module.replace("numpy._core", "numpy.core", 1)
+        return super().find_class(module, name)
+
+
+def _load_pickle(path: str):
+    with open(path, "rb") as f:
+        return _NumpyCompatUnpickler(f).load()
+
+
 def _load_avg_embed() -> dict:
     global _avg_embed_cache
     if _avg_embed_cache is None:
-        with open(_AVG_EMBED_PATH, "rb") as f:
-            _avg_embed_cache = pickle.load(f)
+        _avg_embed_cache = _load_pickle(_AVG_EMBED_PATH)
     return _avg_embed_cache
 
 
 def _load_pca() -> dict:
     global _pca_cache
     if _pca_cache is None:
-        with open(_PCA_PATH, "rb") as f:
-            _pca_cache = pickle.load(f)
+        _pca_cache = _load_pickle(_PCA_PATH)
     return _pca_cache
 
 
